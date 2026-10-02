@@ -1,0 +1,1536 @@
+[
+  {
+    "character_id": "623869",
+    "name": "Eshmel",
+    "growths": {
+      "hp": 50,
+      "str": 45,
+      "mag": 45,
+      "dex": 45,
+      "spd": 45,
+      "lck": 40,
+      "def": 35,
+      "res": 35,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/eshmel_623869.html"
+  },
+  {
+    "character_id": "624012",
+    "name": "Hong Hua",
+    "growths": {
+      "hp": 40,
+      "str": 30,
+      "mag": 45,
+      "dex": 45,
+      "spd": 45,
+      "lck": 30,
+      "def": 30,
+      "res": 45,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/hong_hua_624012.html"
+  },
+  {
+    "character_id": "624013",
+    "name": "Troy",
+    "growths": {
+      "hp": 40,
+      "str": 45,
+      "mag": 45,
+      "dex": 40,
+      "spd": 50,
+      "lck": 30,
+      "def": 30,
+      "res": 30,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Gauntlet Skill",
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/troy_624013.html"
+  },
+  {
+    "character_id": "620167",
+    "name": "Cai",
+    "growths": {
+      "hp": 45,
+      "str": 45,
+      "mag": 40,
+      "dex": 45,
+      "spd": 45,
+      "lck": 40,
+      "def": 35,
+      "res": 35,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "White Magic Skill",
+      "Riding Skill",
+      "Spear Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Bow Skill",
+      "Flying Skill"
+    ],
+    "raw_source": "raw_extracts/characters/cai_620167.html"
+  },
+  {
+    "character_id": "620168",
+    "name": "Dietrich",
+    "growths": {
+      "hp": 50,
+      "str": 45,
+      "mag": 30,
+      "dex": 60,
+      "spd": 50,
+      "lck": 50,
+      "def": 40,
+      "res": 30,
+      "cha": 60
+    },
+    "preferred_skills": [
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/dietrich_620168.html"
+  },
+  {
+    "character_id": "620411",
+    "name": "Theodora",
+    "growths": {
+      "hp": 70,
+      "str": 50,
+      "mag": 30,
+      "dex": 40,
+      "spd": 40,
+      "lck": 30,
+      "def": 40,
+      "res": 30,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "White Magic Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/theodora_620411.html"
+  },
+  {
+    "character_id": "620437",
+    "name": "Leda",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 35,
+      "dex": 50,
+      "spd": 65,
+      "lck": 25,
+      "def": 30,
+      "res": 35,
+      "cha": 55
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "White Magic Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Spear Skill"
+    ],
+    "raw_source": "raw_extracts/characters/leda_620437.html"
+  },
+  {
+    "character_id": "623941",
+    "name": "Tialla",
+    "growths": {
+      "hp": 30,
+      "str": 25,
+      "mag": 45,
+      "dex": 40,
+      "spd": 35,
+      "lck": 50,
+      "def": 20,
+      "res": 40,
+      "cha": 45
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/tialla_623941.html"
+  },
+  {
+    "character_id": "624004",
+    "name": "Peter",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 20,
+      "dex": 60,
+      "spd": 45,
+      "lck": 35,
+      "def": 30,
+      "res": 25,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Infantry Skill"
+    ],
+    "non_ideal_skills": [
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/peter_624004.html"
+  },
+  {
+    "character_id": "624007",
+    "name": "Ultand",
+    "growths": {
+      "hp": 45,
+      "str": 40,
+      "mag": 40,
+      "dex": 40,
+      "spd": 35,
+      "lck": 55,
+      "def": 35,
+      "res": 45,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "White Magic Skill",
+      "Flying Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/ultand_624007.html"
+  },
+  {
+    "character_id": "623964",
+    "name": "Fabio",
+    "growths": {
+      "hp": 40,
+      "str": 25,
+      "mag": 50,
+      "dex": 40,
+      "spd": 35,
+      "lck": 35,
+      "def": 30,
+      "res": 45,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Bow Skill"
+    ],
+    "raw_source": "raw_extracts/characters/fabio_623964.html"
+  },
+  {
+    "character_id": "624005",
+    "name": "Esmeralda",
+    "growths": {
+      "hp": 55,
+      "str": 55,
+      "mag": 20,
+      "dex": 35,
+      "spd": 35,
+      "lck": 35,
+      "def": 45,
+      "res": 25,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Black Magic Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/esmeralda_624005.html"
+  },
+  {
+    "character_id": "624008",
+    "name": "Mikaela",
+    "growths": {
+      "hp": 50,
+      "str": 45,
+      "mag": 30,
+      "dex": 35,
+      "spd": 40,
+      "lck": 30,
+      "def": 40,
+      "res": 25,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Bow Skill",
+      "Infantry Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Flying Skill",
+      "Black Magic Skill",
+      "Riding Skill"
+    ],
+    "raw_source": "raw_extracts/characters/mikaela_624008.html"
+  },
+  {
+    "character_id": "623614",
+    "name": "Bonaventure",
+    "growths": {
+      "hp": 35,
+      "str": 35,
+      "mag": 45,
+      "dex": 50,
+      "spd": 40,
+      "lck": 35,
+      "def": 30,
+      "res": 40,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "White Magic Skill",
+      "Black Magic Skill",
+      "Riding Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Flying Skill",
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/bonaventure_623614.html"
+  },
+  {
+    "character_id": "623758",
+    "name": "Tobias",
+    "growths": {
+      "hp": 55,
+      "str": 60,
+      "mag": 15,
+      "dex": 30,
+      "spd": 25,
+      "lck": 40,
+      "def": 45,
+      "res": 20,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill",
+      "Riding Skill"
+    ],
+    "non_ideal_skills": [
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/tobias_623758.html"
+  },
+  {
+    "character_id": "624009",
+    "name": "Lilian",
+    "growths": {
+      "hp": 35,
+      "str": 35,
+      "mag": 30,
+      "dex": 55,
+      "spd": 40,
+      "lck": 50,
+      "def": 30,
+      "res": 35,
+      "cha": 25
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Infantry Skill"
+    ],
+    "non_ideal_skills": [
+      "Gauntlet Skill"
+    ],
+    "raw_source": "raw_extracts/characters/lilian_624009.html"
+  },
+  {
+    "character_id": "624002",
+    "name": "Lysander",
+    "growths": {
+      "hp": 45,
+      "str": 40,
+      "mag": 25,
+      "dex": 35,
+      "spd": 50,
+      "lck": 30,
+      "def": 40,
+      "res": 25,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Flying Skill",
+      "Riding Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Gauntlet Skill",
+      "Heavy Armor Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/lysander_624002.html"
+  },
+  {
+    "character_id": "624003",
+    "name": "Buccar",
+    "growths": {
+      "hp": 50,
+      "str": 50,
+      "mag": 20,
+      "dex": 40,
+      "spd": 25,
+      "lck": 30,
+      "def": 45,
+      "res": 20,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill",
+      "Riding Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/buccar_624003.html"
+  },
+  {
+    "character_id": "624006",
+    "name": "Sirocco",
+    "growths": {
+      "hp": 40,
+      "str": 40,
+      "mag": 40,
+      "dex": 50,
+      "spd": 45,
+      "lck": 50,
+      "def": 35,
+      "res": 35,
+      "cha": 45
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "White Magic Skill",
+      "Black Magic Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/sirocco_624006.html"
+  },
+  {
+    "character_id": "624011",
+    "name": "Olympia",
+    "growths": {
+      "hp": 35,
+      "str": 35,
+      "mag": 50,
+      "dex": 35,
+      "spd": 35,
+      "lck": 40,
+      "def": 30,
+      "res": 40,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "White Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Spear Skill"
+    ],
+    "raw_source": "raw_extracts/characters/olympia_624011.html"
+  },
+  {
+    "character_id": "624010",
+    "name": "Mu",
+    "growths": {
+      "hp": 50,
+      "str": 50,
+      "mag": 25,
+      "dex": 50,
+      "spd": 50,
+      "lck": 30,
+      "def": 40,
+      "res": 30,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Gauntlet Skill",
+      "White Magic Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/mu_624010.html"
+  },
+  {
+    "character_id": "624014",
+    "name": "Gaitz",
+    "growths": {
+      "hp": 50,
+      "str": 50,
+      "mag": 20,
+      "dex": 45,
+      "spd": 40,
+      "lck": 40,
+      "def": 45,
+      "res": 25,
+      "cha": 45
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Riding Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/gaitz_624014.html"
+  },
+  {
+    "character_id": "624018",
+    "name": "Dante",
+    "growths": {
+      "hp": 30,
+      "str": 30,
+      "mag": 45,
+      "dex": 40,
+      "spd": 40,
+      "lck": 45,
+      "def": 20,
+      "res": 40,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Gauntlet Skill"
+    ],
+    "raw_source": "raw_extracts/characters/dante_624018.html"
+  },
+  {
+    "character_id": "624015",
+    "name": "Ursula",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 35,
+      "dex": 50,
+      "spd": 50,
+      "lck": 40,
+      "def": 35,
+      "res": 30,
+      "cha": 45
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Gauntlet Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/ursula_624015.html"
+  },
+  {
+    "character_id": "624019",
+    "name": "Simon",
+    "growths": {
+      "hp": 50,
+      "str": 50,
+      "mag": 20,
+      "dex": 40,
+      "spd": 35,
+      "lck": 50,
+      "def": 40,
+      "res": 25,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/simon_624019.html"
+  },
+  {
+    "character_id": "624016",
+    "name": "Diego",
+    "growths": {
+      "hp": 45,
+      "str": 40,
+      "mag": 20,
+      "dex": 60,
+      "spd": 45,
+      "lck": 35,
+      "def": 35,
+      "res": 20,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/diego_624016.html"
+  },
+  {
+    "character_id": "623990",
+    "name": "Ninae",
+    "growths": {
+      "hp": 45,
+      "str": 45,
+      "mag": 35,
+      "dex": 45,
+      "spd": 35,
+      "lck": 50,
+      "def": 35,
+      "res": 45,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "White Magic Skill",
+      "Riding Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Bow Skill"
+    ],
+    "raw_source": "raw_extracts/characters/ninae_623990.html"
+  },
+  {
+    "character_id": "624017",
+    "name": "Sha Lan",
+    "growths": {
+      "hp": 35,
+      "str": 30,
+      "mag": 45,
+      "dex": 50,
+      "spd": 35,
+      "lck": 35,
+      "def": 30,
+      "res": 45,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "White Magic Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/sha_lan_624017.html"
+  },
+  {
+    "character_id": "623977",
+    "name": "Nezha",
+    "growths": {
+      "hp": 45,
+      "str": 55,
+      "mag": 25,
+      "dex": 50,
+      "spd": 45,
+      "lck": 30,
+      "def": 35,
+      "res": 25,
+      "cha": 25
+    },
+    "preferred_skills": [
+      "Gauntlet Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Spear Skill"
+    ],
+    "raw_source": "raw_extracts/characters/nezha_623977.html"
+  },
+  {
+    "character_id": "623978",
+    "name": "Guzran",
+    "growths": {
+      "hp": 45,
+      "str": 45,
+      "mag": 20,
+      "dex": 45,
+      "spd": 50,
+      "lck": 45,
+      "def": 35,
+      "res": 20,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Gauntlet Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/guzran_623978.html"
+  },
+  {
+    "character_id": "623980",
+    "name": "Io",
+    "growths": {
+      "hp": 45,
+      "str": 40,
+      "mag": 25,
+      "dex": 45,
+      "spd": 35,
+      "lck": 35,
+      "def": 40,
+      "res": 25,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Riding Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Flying Skill"
+    ],
+    "raw_source": "raw_extracts/characters/io_623980.html"
+  },
+  {
+    "character_id": "623981",
+    "name": "Catania",
+    "growths": {
+      "hp": 35,
+      "str": 35,
+      "mag": 35,
+      "dex": 50,
+      "spd": 55,
+      "lck": 40,
+      "def": 30,
+      "res": 35,
+      "cha": 45
+    },
+    "preferred_skills": [
+      "Flying Skill",
+      "Spear Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/catania_623981.html"
+  },
+  {
+    "character_id": "623979",
+    "name": "Nydine",
+    "growths": {
+      "hp": 45,
+      "str": 40,
+      "mag": 30,
+      "dex": 40,
+      "spd": 45,
+      "lck": 35,
+      "def": 30,
+      "res": 25,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Flying Skill",
+      "Riding Skill"
+    ],
+    "non_ideal_skills": [
+      "Gauntlet Skill",
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/nydine_623979.html"
+  },
+  {
+    "character_id": "623982",
+    "name": "Benditz",
+    "growths": {
+      "hp": 50,
+      "str": 35,
+      "mag": 20,
+      "dex": 50,
+      "spd": 35,
+      "lck": 30,
+      "def": 35,
+      "res": 25,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Bow Skill",
+      "Riding Skill"
+    ],
+    "non_ideal_skills": [
+      "Infantry Skill"
+    ],
+    "raw_source": "raw_extracts/characters/benditz_623982.html"
+  },
+  {
+    "character_id": "623983",
+    "name": "Alexandra",
+    "growths": {
+      "hp": 30,
+      "str": 35,
+      "mag": 35,
+      "dex": 45,
+      "spd": 55,
+      "lck": 50,
+      "def": 30,
+      "res": 40,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Flying Skill",
+      "Spear Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Axe Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/alexandra_623983.html"
+  },
+  {
+    "character_id": "623985",
+    "name": "Yang Jie",
+    "growths": {
+      "hp": 50,
+      "str": 35,
+      "mag": 40,
+      "dex": 35,
+      "spd": 35,
+      "lck": 40,
+      "def": 30,
+      "res": 40,
+      "cha": 25
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "White Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Riding Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/yang_jie_623985.html"
+  },
+  {
+    "character_id": "623984",
+    "name": "Noctula",
+    "growths": {
+      "hp": 50,
+      "str": 45,
+      "mag": 20,
+      "dex": 40,
+      "spd": 45,
+      "lck": 35,
+      "def": 40,
+      "res": 20,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Gauntlet Skill",
+      "Infantry Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/noctula_623984.html"
+  },
+  {
+    "character_id": "623986",
+    "name": "Sofia",
+    "growths": {
+      "hp": 35,
+      "str": 30,
+      "mag": 45,
+      "dex": 30,
+      "spd": 40,
+      "lck": 30,
+      "def": 25,
+      "res": 40,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "White Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Axe Skill"
+    ],
+    "raw_source": "raw_extracts/characters/sofia_623986.html"
+  },
+  {
+    "character_id": "624000",
+    "name": "Peppe",
+    "growths": {
+      "hp": 30,
+      "str": 30,
+      "mag": 25,
+      "dex": 45,
+      "spd": 60,
+      "lck": 45,
+      "def": 30,
+      "res": 30,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/peppe_624000.html"
+  },
+  {
+    "character_id": "623993",
+    "name": "Seteth",
+    "growths": {
+      "hp": 45,
+      "str": 45,
+      "mag": 30,
+      "dex": 45,
+      "spd": 40,
+      "lck": 30,
+      "def": 40,
+      "res": 35,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Axe Skill",
+      "Flying Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/seteth_623993.html"
+  },
+  {
+    "character_id": "623996",
+    "name": "Loretta",
+    "growths": {
+      "hp": 35,
+      "str": 35,
+      "mag": 35,
+      "dex": 40,
+      "spd": 55,
+      "lck": 30,
+      "def": 30,
+      "res": 40,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Flying Skill",
+      "Spear Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/loretta_623996.html"
+  },
+  {
+    "character_id": "623991",
+    "name": "Jester",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 15,
+      "dex": 45,
+      "spd": 60,
+      "lck": 40,
+      "def": 35,
+      "res": 25,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Infantry Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Axe Skill"
+    ],
+    "raw_source": "raw_extracts/characters/jester_623991.html"
+  },
+  {
+    "character_id": "623976",
+    "name": "Goliath",
+    "growths": {
+      "hp": 55,
+      "str": 60,
+      "mag": 5,
+      "dex": 30,
+      "spd": 15,
+      "lck": 35,
+      "def": 50,
+      "res": 20,
+      "cha": 20
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Flying Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/goliath_623976.html"
+  },
+  {
+    "character_id": "623992",
+    "name": "Ludia",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 20,
+      "dex": 45,
+      "spd": 55,
+      "lck": 30,
+      "def": 30,
+      "res": 20,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Infantry Skill",
+      "Spear Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Axe Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/ludia_623992.html"
+  },
+  {
+    "character_id": "623998",
+    "name": "Dadao",
+    "growths": {
+      "hp": 50,
+      "str": 55,
+      "mag": 20,
+      "dex": 35,
+      "spd": 30,
+      "lck": 25,
+      "def": 45,
+      "res": 20,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill",
+      "Spear Skill"
+    ],
+    "raw_source": "raw_extracts/characters/dadao_623998.html"
+  },
+  {
+    "character_id": "623995",
+    "name": "Fianna",
+    "growths": {
+      "hp": 30,
+      "str": 35,
+      "mag": 55,
+      "dex": 40,
+      "spd": 30,
+      "lck": 25,
+      "def": 20,
+      "res": 45,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "White Magic Skill",
+      "Black Magic Skill",
+      "Riding Skill"
+    ],
+    "non_ideal_skills": [
+      "Gauntlet Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/fianna_623995.html"
+  },
+  {
+    "character_id": "623997",
+    "name": "Halvin",
+    "growths": {
+      "hp": 35,
+      "str": 35,
+      "mag": 30,
+      "dex": 60,
+      "spd": 45,
+      "lck": 40,
+      "def": 30,
+      "res": 25,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Riding Skill"
+    ],
+    "non_ideal_skills": [
+      "Axe Skill"
+    ],
+    "raw_source": "raw_extracts/characters/halvin_623997.html"
+  },
+  {
+    "character_id": "623989",
+    "name": "Zarcone",
+    "growths": {
+      "hp": 40,
+      "str": 30,
+      "mag": 20,
+      "dex": 60,
+      "spd": 35,
+      "lck": 30,
+      "def": 30,
+      "res": 25,
+      "cha": 15
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/zarcone_623989.html"
+  },
+  {
+    "character_id": "623988",
+    "name": "Majide",
+    "growths": {
+      "hp": 65,
+      "str": 50,
+      "mag": 15,
+      "dex": 30,
+      "spd": 20,
+      "lck": 25,
+      "def": 40,
+      "res": 10,
+      "cha": 5
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Gauntlet Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Flying Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/majide_623988.html"
+  },
+  {
+    "character_id": "623994",
+    "name": "Kiroc",
+    "growths": {
+      "hp": 55,
+      "str": 40,
+      "mag": 15,
+      "dex": 50,
+      "spd": 55,
+      "lck": 30,
+      "def": 30,
+      "res": 15,
+      "cha": 25
+    },
+    "preferred_skills": [
+      "Bow Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/kiroc_623994.html"
+  },
+  {
+    "character_id": "623999",
+    "name": "Jasmine",
+    "growths": {
+      "hp": 50,
+      "str": 40,
+      "mag": 20,
+      "dex": 45,
+      "spd": 30,
+      "lck": 40,
+      "def": 45,
+      "res": 25,
+      "cha": 45
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "Flying Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/jasmine_623999.html"
+  },
+  {
+    "character_id": "623987",
+    "name": "Nuzzuo",
+    "growths": {
+      "hp": 50,
+      "str": 50,
+      "mag": 15,
+      "dex": 45,
+      "spd": 55,
+      "lck": 25,
+      "def": 20,
+      "res": 15,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Bow Skill",
+      "Gauntlet Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/nuzzuo_623987.html"
+  },
+  {
+    "character_id": "624001",
+    "name": "Inyoni",
+    "growths": {
+      "hp": 40,
+      "str": 50,
+      "mag": 20,
+      "dex": 40,
+      "spd": 35,
+      "lck": 40,
+      "def": 40,
+      "res": 30,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Bow Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/inyoni_624001.html"
+  },
+  {
+    "character_id": "624389",
+    "name": "Creek",
+    "growths": {
+      "hp": 45,
+      "str": 50,
+      "mag": 15,
+      "dex": 50,
+      "spd": 60,
+      "lck": 30,
+      "def": 35,
+      "res": 20,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "Riding Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/creek_624389.html"
+  },
+  {
+    "character_id": "624390",
+    "name": "Nathan",
+    "growths": {
+      "hp": 55,
+      "str": 60,
+      "mag": 15,
+      "dex": 60,
+      "spd": 25,
+      "lck": 25,
+      "def": 45,
+      "res": 15,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Heavy Armor Skill",
+      "Riding Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/nathan_624390.html"
+  },
+  {
+    "character_id": "624391",
+    "name": "Bertrand",
+    "growths": {
+      "hp": 50,
+      "str": 55,
+      "mag": 15,
+      "dex": 50,
+      "spd": 45,
+      "lck": 30,
+      "def": 45,
+      "res": 20,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Axe Skill",
+      "Gauntlet Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "raw_source": "raw_extracts/characters/bertrand_624391.html"
+  },
+  {
+    "character_id": "624392",
+    "name": "Talimun",
+    "growths": {
+      "hp": 45,
+      "str": 40,
+      "mag": 45,
+      "dex": 45,
+      "spd": 40,
+      "lck": 60,
+      "def": 35,
+      "res": 40,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Black Magic Skill",
+      "Sword Skill"
+    ],
+    "non_ideal_skills": [
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/talimun_624392.html"
+  },
+  {
+    "character_id": "623966",
+    "name": "Anatolia",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 50,
+      "dex": 45,
+      "spd": 50,
+      "lck": 40,
+      "def": 35,
+      "res": 40,
+      "cha": 50
+    },
+    "preferred_skills": [
+      "Gauntlet Skill",
+      "Infantry Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Heavy Armor Skill"
+    ],
+    "raw_source": "raw_extracts/characters/anatolia_623966.html"
+  },
+  {
+    "character_id": "624393",
+    "name": "Orchel",
+    "growths": {
+      "hp": 30,
+      "str": 60,
+      "mag": 45,
+      "dex": 20,
+      "spd": 10,
+      "lck": 20,
+      "def": 60,
+      "res": 60,
+      "cha": 60
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "White Magic Skill",
+      "Black Magic Skill"
+    ],
+    "non_ideal_skills": [
+      "Flying Skill",
+      "Riding Skill",
+      "Sword Skill"
+    ],
+    "raw_source": "raw_extracts/characters/orchel_624393.html"
+  },
+  {
+    "character_id": "624394",
+    "name": "Centurio",
+    "growths": {
+      "hp": 45,
+      "str": 45,
+      "mag": 25,
+      "dex": 50,
+      "spd": 40,
+      "lck": 30,
+      "def": 50,
+      "res": 30,
+      "cha": 30
+    },
+    "preferred_skills": [
+      "Axe Skill",
+      "Heavy Armor Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/centurio_624394.html"
+  },
+  {
+    "character_id": "624395",
+    "name": "Aswan",
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "mag": 10,
+      "dex": 50,
+      "spd": 40,
+      "lck": 30,
+      "def": 30,
+      "res": 15,
+      "cha": 20
+    },
+    "preferred_skills": [
+      "Authority Skill",
+      "Bow Skill",
+      "Infantry Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/aswan_624395.html"
+  },
+  {
+    "character_id": "624396",
+    "name": "Tahonia",
+    "growths": {
+      "hp": 65,
+      "str": 50,
+      "mag": 5,
+      "dex": 40,
+      "spd": 20,
+      "lck": 20,
+      "def": 45,
+      "res": 35,
+      "cha": 40
+    },
+    "preferred_skills": [
+      "Gauntlet Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/tahonia_624396.html"
+  },
+  {
+    "character_id": "625576",
+    "name": "Klapka",
+    "growths": {
+      "hp": 40,
+      "str": 40,
+      "mag": 10,
+      "dex": 45,
+      "spd": 25,
+      "lck": 25,
+      "def": 50,
+      "res": 15,
+      "cha": 35
+    },
+    "preferred_skills": [
+      "White Magic Skill",
+      "Infantry Skill",
+      "Spear Skill"
+    ],
+    "non_ideal_skills": [
+      "None"
+    ],
+    "raw_source": "raw_extracts/characters/klapka_625576.html"
+  }
+]

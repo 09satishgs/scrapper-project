@@ -1,0 +1,2071 @@
+[
+  {
+    "character_id": "623869",
+    "name": "Eshmel",
+    "overall_tier": "Lord Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Guardian",
+        "Sentinel",
+        "The Trident"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/eshmel_623869.html"
+  },
+  {
+    "character_id": "624012",
+    "name": "Hong Hua",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": {
+        "class_name": "Ovate",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +5",
+          "Bind Speed"
+        ]
+      },
+      "master": {
+        "class_name": "Druid",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +7",
+          "Bind Resistance"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/hong_hua_624012.html"
+  },
+  {
+    "character_id": "624013",
+    "name": "Troy",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": {
+        "class_name": "War Monk",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "White Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Combat Arts +3",
+          "Brawl Avo +7"
+        ]
+      },
+      "divine": {
+        "class_name": "The Godhand",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "White Magic"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Brawl Avo +10",
+          "White-Magic Zenith",
+          "Divine Adornment"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/troy_624013.html"
+  },
+  {
+    "character_id": "620167",
+    "name": "Cai",
+    "overall_tier": "Lord Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Ornius Rider",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword",
+          "Axe"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Offense Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Light Cavalry",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword",
+          "Axe"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Bolster Health"
+        ]
+      },
+      "advanced": {
+        "class_name": "Bardinger",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Mount/Dismount",
+          "Aegis"
+        ]
+      },
+      "master": {
+        "class_name": "Orichaldia",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword",
+          "Axe"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Combat Arts +3",
+          "Fierce Spear"
+        ]
+      },
+      "divine": {
+        "class_name": "The Cavalier",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword",
+          "Axe"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Combat Arts +3",
+          "Golden Ride",
+          "Divine Dexterity"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/cai_620167.html"
+  },
+  {
+    "character_id": "620168",
+    "name": "Dietrich",
+    "overall_tier": "Lord Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Gladiator",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Attack Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Myrmidon",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +1",
+          "Sword Crit +3",
+          "Ravaging Arts"
+        ]
+      },
+      "advanced": {
+        "class_name": "Shido",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Sword Crit +5",
+          "Ever Vigilant"
+        ]
+      },
+      "master": {
+        "class_name": "Swordmaster",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Sword Crit +7"
+        ]
+      },
+      "divine": {
+        "class_name": "The Blade",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Sword Crit +10",
+          "Divine Insight"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/dietrich_620168.html"
+  },
+  {
+    "character_id": "620411",
+    "name": "Theodora",
+    "overall_tier": "Lord Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Gladiator",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Attack Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Armored Ornius Rider",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Sword",
+          "Axe"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Sense Threat"
+        ]
+      },
+      "advanced": {
+        "class_name": "Guardian",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "White Magic"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Magic Heal +10",
+          "Brace"
+        ]
+      },
+      "master": {
+        "class_name": "Sentinel",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "White Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +10",
+          "Combat Arts +3",
+          "Resolute Stance"
+        ]
+      },
+      "divine": {
+        "class_name": "The Trident",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "White Magic"
+        ],
+        "abilities": [
+          "Magic Heal +10",
+          "Combat Arts +3",
+          "White-Magic Zenith",
+          "Divine Wall"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/theodora_620411.html"
+  },
+  {
+    "character_id": "620437",
+    "name": "Leda",
+    "overall_tier": "Lord Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Hunter",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Hunting Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Archer",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow"
+        ],
+        "abilities": [
+          "Combat Arts +1",
+          "Bow Hit +5",
+          "Crescendo"
+        ]
+      },
+      "advanced": {
+        "class_name": "Dancer",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Dance",
+          "Special Dance"
+        ]
+      },
+      "master": {
+        "class_name": "Shadow Seeker",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Locktouch",
+          "Combat Arts +3",
+          "Master Search",
+          "Dropshadow Blade"
+        ]
+      },
+      "divine": {
+        "class_name": "The Apsara",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Dance",
+          "Divine Dance"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/leda_620437.html"
+  },
+  {
+    "character_id": "623941",
+    "name": "Tialla",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Diviner",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Magic Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Priest",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +5",
+          "Piety"
+        ]
+      },
+      "advanced": {
+        "class_name": "Troubadour",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Magic Hit +3",
+          "Magic Heal +5",
+          "Song of Courage"
+        ]
+      },
+      "master": {
+        "class_name": "Valkyrium",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Magic Heal +10"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/tialla_623941.html"
+  },
+  {
+    "character_id": "624004",
+    "name": "Peter",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Sniper",
+        "Bow Adept",
+        "The Calamity"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/peter_624004.html"
+  },
+  {
+    "character_id": "624007",
+    "name": "Ultand",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Priest",
+        "Guardian",
+        "Sentinel"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/ultand_624007.html"
+  },
+  {
+    "character_id": "623964",
+    "name": "Fabio",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Diviner",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Magic Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Shaman",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +3",
+          "Bind Dexterity"
+        ]
+      },
+      "advanced": {
+        "class_name": "Ovate",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +5",
+          "Bind Speed"
+        ]
+      },
+      "master": {
+        "class_name": "Druid",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +7",
+          "Bind Resistance"
+        ]
+      },
+      "divine": {
+        "class_name": "The Avatar",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Magic Hit +10",
+          "Magic Heal +20",
+          "All-Magic Zenith",
+          "Divine Law"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/fabio_623964.html"
+  },
+  {
+    "character_id": "624005",
+    "name": "Esmeralda",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Armored Ornius Rider",
+        "Bardinger",
+        "Bau Lord"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/esmeralda_624005.html"
+  },
+  {
+    "character_id": "624008",
+    "name": "Mikaela",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Armored Ornius Rider",
+        "Warrior",
+        "Bau Lord"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/mikaela_624008.html"
+  },
+  {
+    "character_id": "623614",
+    "name": "Bonaventure",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Shaman",
+        "Ovate",
+        "Druid"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/bonaventure_623614.html"
+  },
+  {
+    "character_id": "623758",
+    "name": "Tobias",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Armored Ornius Rider",
+        "Cataphract",
+        "Great Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/tobias_623758.html"
+  },
+  {
+    "character_id": "624009",
+    "name": "Lilian",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Sniper",
+        "Bow Adept"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/lilian_624009.html"
+  },
+  {
+    "character_id": "624002",
+    "name": "Lysander",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Armored Ornius Rider",
+        "Dragoon",
+        "Bau Lord"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/lysander_624002.html"
+  },
+  {
+    "character_id": "624003",
+    "name": "Buccar",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Light Cavalry",
+        "Bardinger",
+        "Bau Lord",
+        "The Cavalier"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/buccar_624003.html"
+  },
+  {
+    "character_id": "624006",
+    "name": "Sirocco",
+    "overall_tier": "S Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Shaman",
+        "Troubadour",
+        "High Savant"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/sirocco_624006.html"
+  },
+  {
+    "character_id": "624011",
+    "name": "Olympia",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Shaman",
+        "Ovate",
+        "Wiseman",
+        "The Avatar"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/olympia_624011.html"
+  },
+  {
+    "character_id": "624010",
+    "name": "Mu",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Brigand",
+        "Warrior",
+        "Battlemaster",
+        "The Eternal"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/mu_624010.html"
+  },
+  {
+    "character_id": "624014",
+    "name": "Gaitz",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Bardinger",
+        "Orichaldia"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/gaitz_624014.html"
+  },
+  {
+    "character_id": "624018",
+    "name": "Dante",
+    "overall_tier": null,
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/dante_624018.html"
+  },
+  {
+    "character_id": "624015",
+    "name": "Ursula",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Sniper",
+        "Shadow Seeker",
+        "The Apsara"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/ursula_624015.html"
+  },
+  {
+    "character_id": "624019",
+    "name": "Simon",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Brigand",
+        "Warrior",
+        "Swordmaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/simon_624019.html"
+  },
+  {
+    "character_id": "624016",
+    "name": "Diego",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Myrmidon",
+        "Shido",
+        "Swordmaster",
+        "The Blade"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/diego_624016.html"
+  },
+  {
+    "character_id": "623990",
+    "name": "Ninae",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Priest",
+        "Bishop",
+        "Sentinel",
+        "The Trident"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/ninae_623990.html"
+  },
+  {
+    "character_id": "624017",
+    "name": "Sha Lan",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Priest",
+        "Bishop",
+        "The Godhand"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/sha_lan_624017.html"
+  },
+  {
+    "character_id": "623977",
+    "name": "Nezha",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Brigand",
+        "Warrior",
+        "Battlemaster",
+        "The Eternal"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/nezha_623977.html"
+  },
+  {
+    "character_id": "623978",
+    "name": "Guzran",
+    "overall_tier": "S Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Myrmidon",
+        "Shido",
+        "Swordmaster",
+        "The Blade"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/guzran_623978.html"
+  },
+  {
+    "character_id": "623980",
+    "name": "Io",
+    "overall_tier": "D Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Light Cavalry",
+        "Bardinger",
+        "Orichaldia"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/io_623980.html"
+  },
+  {
+    "character_id": "623981",
+    "name": "Catania",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Myrmidon",
+        "Shido",
+        "Swordmaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/catania_623981.html"
+  },
+  {
+    "character_id": "623979",
+    "name": "Nydine",
+    "overall_tier": "D Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Wing Soldier",
+        "Dragoon",
+        "Celestial Trooper"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/nydine_623979.html"
+  },
+  {
+    "character_id": "623982",
+    "name": "Benditz",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Charioteer",
+        "Shido",
+        "Bow Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/benditz_623982.html"
+  },
+  {
+    "character_id": "623983",
+    "name": "Alexandra",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Wing Soldier",
+        "Dragoon",
+        "Celestial Trooper"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/alexandra_623983.html"
+  },
+  {
+    "character_id": "623985",
+    "name": "Yang Jie",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Diviner",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Magic Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Priest",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +5",
+          "Piety"
+        ]
+      },
+      "advanced": {
+        "class_name": "Bishop",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +10",
+          "Barrier"
+        ]
+      },
+      "master": {
+        "class_name": "Wiseman",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +15",
+          "Dominate Magic"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/yang_jie_623985.html"
+  },
+  {
+    "character_id": "623984",
+    "name": "Noctula",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Gladiator",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Attack Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Brigand",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +1",
+          "Axe Hit +3",
+          "Regroup"
+        ]
+      },
+      "advanced": {
+        "class_name": "Warrior",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Axe Hit +5",
+          "Brawl Hit +5",
+          "Practiced Art"
+        ]
+      },
+      "master": {
+        "class_name": "Battlemaster",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Axe Hit +7",
+          "Brawl Hit +7",
+          "War Master's Strike"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/noctula_623984.html"
+  },
+  {
+    "character_id": "623986",
+    "name": "Sofia",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Diviner",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Magic Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Priest",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +5",
+          "Piety"
+        ]
+      },
+      "advanced": {
+        "class_name": "Bishop",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +10",
+          "Barrier"
+        ]
+      },
+      "master": {
+        "class_name": "Wiseman",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Gauntlet",
+          "Axe",
+          "White Magic"
+        ],
+        "abilities": [
+          "White-Magic Seeker",
+          "Magic Heal +15",
+          "Dominate Magic"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/sofia_623986.html"
+  },
+  {
+    "character_id": "624000",
+    "name": "Peppe",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Sniper",
+        "Swordmaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/peppe_624000.html"
+  },
+  {
+    "character_id": "623993",
+    "name": "Seteth",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Ornius Rider",
+        "Armored Ornius Rider",
+        "Dragoon",
+        "Bau Lord"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/seteth_623993.html"
+  },
+  {
+    "character_id": "623996",
+    "name": "Loretta",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Ornius Rider",
+        "Wing Soldier",
+        "Bardinger",
+        "Celestial Trooper"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/loretta_623996.html"
+  },
+  {
+    "character_id": "623991",
+    "name": "Jester",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Brigand",
+        "Ranger",
+        "Shadow Seeker",
+        "The Apsara"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/jester_623991.html"
+  },
+  {
+    "character_id": "623976",
+    "name": "Goliath",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Armored Knight",
+        "Dreadnought",
+        "Battlemaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/goliath_623976.html"
+  },
+  {
+    "character_id": "623992",
+    "name": "Ludia",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Myrmidon",
+        "Shido",
+        "Swordmaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/ludia_623992.html"
+  },
+  {
+    "character_id": "623998",
+    "name": "Dadao",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Armored Knight",
+        "Dreadnought",
+        "Battlemaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/dadao_623998.html"
+  },
+  {
+    "character_id": "623995",
+    "name": "Fianna",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Diviner",
+        "Priest",
+        "Bishop",
+        "Wiseman"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/fianna_623995.html"
+  },
+  {
+    "character_id": "623997",
+    "name": "Halvin",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Forest Knight",
+        "Bow Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/halvin_623997.html"
+  },
+  {
+    "character_id": "623989",
+    "name": "Zarcone",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Gladiator",
+        "Brigand",
+        "Warrior",
+        "Swordmaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/zarcone_623989.html"
+  },
+  {
+    "character_id": "623988",
+    "name": "Majide",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Gladiator",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Attack Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Brigand",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +1",
+          "Axe Hit +3",
+          "Regroup"
+        ]
+      },
+      "advanced": {
+        "class_name": "Warrior",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Axe Hit +5",
+          "Brawl Hit +5",
+          "Practiced Art"
+        ]
+      },
+      "master": {
+        "class_name": "Battlemaster",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Axe Hit +7",
+          "Brawl Hit +7",
+          "War Master's Strike"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/majide_623988.html"
+  },
+  {
+    "character_id": "623994",
+    "name": "Kiroc",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Sniper",
+        "Bow Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/kiroc_623994.html"
+  },
+  {
+    "character_id": "623999",
+    "name": "Jasmine",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Ornius Rider",
+        "Wing Soldier",
+        "Dragoon",
+        "Castle Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/jasmine_623999.html"
+  },
+  {
+    "character_id": "623987",
+    "name": "Nuzzuo",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": {
+        "class_name": "Hunter",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Hunting Basics"
+        ]
+      },
+      "specialty": {
+        "class_name": "Rogue",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +1",
+          "Locktouch",
+          "Search",
+          "In Shadow"
+        ]
+      },
+      "advanced": {
+        "class_name": "Forest Knight",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Mount/Dismount",
+          "Combat Arts +1",
+          "Bow Hit +5",
+          "Hunter's Eye"
+        ]
+      },
+      "master": {
+        "class_name": "Bow Knight",
+        "type": "Cavalry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Mount/Dismount",
+          "Bow Hit +10"
+        ]
+      },
+      "divine": {
+        "class_name": "The Calamity",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Bow",
+          "Sword"
+        ],
+        "abilities": [
+          "Locktouch",
+          "Combat Arts +3",
+          "Ultimate Search",
+          "Divine Will"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/nuzzuo_623987.html"
+  },
+  {
+    "character_id": "624001",
+    "name": "Inyoni",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Hunter",
+        "Archer",
+        "Sniper",
+        "Bow Knight",
+        "The Calamity"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/inyoni_624001.html"
+  },
+  {
+    "character_id": "624389",
+    "name": "Creek",
+    "overall_tier": "A Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Bardinger",
+        "Orichaldia",
+        "The Cavalier"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/creek_624389.html"
+  },
+  {
+    "character_id": "624390",
+    "name": "Nathan",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Bardinger",
+        "Great Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/nathan_624390.html"
+  },
+  {
+    "character_id": "624391",
+    "name": "Bertrand",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": {
+        "class_name": "Warrior",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +2",
+          "Axe Hit +5",
+          "Brawl Hit +5",
+          "Practiced Art"
+        ]
+      },
+      "master": {
+        "class_name": "Battlemaster",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Axe Hit +7",
+          "Brawl Hit +7",
+          "War Master's Strike"
+        ]
+      },
+      "divine": {
+        "class_name": "The Eternal",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Axe Hit +10",
+          "Brawl Hit +10",
+          "Divine Might"
+        ]
+      },
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/bertrand_624391.html"
+  },
+  {
+    "character_id": "624392",
+    "name": "Talimun",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": {
+        "class_name": "Ovate",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "White Magic",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +5",
+          "Bind Speed"
+        ]
+      },
+      "master": {
+        "class_name": "Druid",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Sword",
+          "Gauntlet",
+          "Black Magic"
+        ],
+        "abilities": [
+          "Black-Magic Seeker",
+          "Magic Hit +7",
+          "Bind Resistance"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/talimun_624392.html"
+  },
+  {
+    "character_id": "623966",
+    "name": "Anatolia",
+    "overall_tier": "A+ Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Ovate",
+        "Druid",
+        "The Godhand"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/anatolia_623966.html"
+  },
+  {
+    "character_id": "624393",
+    "name": "Orchel",
+    "overall_tier": "S Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "War Monk"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/orchel_624393.html"
+  },
+  {
+    "character_id": "624394",
+    "name": "Centurio",
+    "overall_tier": "B Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": {
+        "class_name": "Dreadnought",
+        "type": "Heavy",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Axe"
+        ],
+        "abilities": [
+          "Strike-Last Def +5",
+          "Combat Arts +2",
+          "Focused Counter"
+        ]
+      },
+      "master": {
+        "class_name": "Castle Knight",
+        "type": "Infantry",
+        "primary_skill": null,
+        "secondary_skill": null,
+        "usable_weapons": [
+          "Spear",
+          "Axe"
+        ],
+        "abilities": [
+          "Combat Arts +3",
+          "Strike-Last Def +7",
+          "Intercept"
+        ]
+      },
+      "divine": null,
+      "recommended": []
+    },
+    "raw_source": "raw_extracts/characters/centurio_624394.html"
+  },
+  {
+    "character_id": "624395",
+    "name": "Aswan",
+    "overall_tier": "C Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Sniper",
+        "Bow Knight"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/aswan_624395.html"
+  },
+  {
+    "character_id": "624396",
+    "name": "Tahonia",
+    "overall_tier": "D Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Battlemaster"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/tahonia_624396.html"
+  },
+  {
+    "character_id": "625576",
+    "name": "Klapka",
+    "overall_tier": "D Tier",
+    "strengths": [],
+    "best_classes": {
+      "beginner": null,
+      "specialty": null,
+      "advanced": null,
+      "master": null,
+      "divine": null,
+      "recommended": [
+        "Guardian"
+      ]
+    },
+    "raw_source": "raw_extracts/characters/klapka_625576.html"
+  }
+]

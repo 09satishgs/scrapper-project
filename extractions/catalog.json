@@ -1,0 +1,1085 @@
+{
+  "hub_source": "raw_extracts/hub.html",
+  "characters": [
+    {
+      "id": "623869",
+      "name": "Eshmel",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623869",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624012",
+      "name": "Hong Hua",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624012",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624013",
+      "name": "Troy",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624013",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "620167",
+      "name": "Cai",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620167",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "620168",
+      "name": "Dietrich",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620168",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "620411",
+      "name": "Theodora",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620411",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "620437",
+      "name": "Leda",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620437",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623941",
+      "name": "Tialla",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623941",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624004",
+      "name": "Peter",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624004",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624007",
+      "name": "Ultand",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624007",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623964",
+      "name": "Fabio",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623964",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624005",
+      "name": "Esmeralda",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624005",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624008",
+      "name": "Mikaela",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624008",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623614",
+      "name": "Bonaventure",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623614",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623758",
+      "name": "Tobias",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623758",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624009",
+      "name": "Lilian",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624009",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624002",
+      "name": "Lysander",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624002",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624003",
+      "name": "Buccar",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624003",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624006",
+      "name": "Sirocco",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624006",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624011",
+      "name": "Olympia",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624011",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624010",
+      "name": "Mu",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624010",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624014",
+      "name": "Gaitz",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624014",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624018",
+      "name": "Dante",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624018",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624015",
+      "name": "Ursula",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624015",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624019",
+      "name": "Simon",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624019",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624016",
+      "name": "Diego",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624016",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623990",
+      "name": "Ninae",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623990",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624017",
+      "name": "Sha Lan",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624017",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623977",
+      "name": "Nezha",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623977",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623978",
+      "name": "Guzran",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623978",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623980",
+      "name": "Io",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623980",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623981",
+      "name": "Catania",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623981",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623979",
+      "name": "Nydine",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623979",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623982",
+      "name": "Benditz",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623982",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623983",
+      "name": "Alexandra",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623983",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623985",
+      "name": "Yang Jie",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623985",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623984",
+      "name": "Noctula",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623984",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623986",
+      "name": "Sofia",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623986",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624000",
+      "name": "Peppe",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624000",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623993",
+      "name": "Seteth",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623993",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623996",
+      "name": "Loretta",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623996",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623991",
+      "name": "Jester",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623991",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623976",
+      "name": "Goliath",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623976",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623992",
+      "name": "Ludia",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623992",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623998",
+      "name": "Dadao",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623998",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623995",
+      "name": "Fianna",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623995",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623997",
+      "name": "Halvin",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623997",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623989",
+      "name": "Zarcone",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623989",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623988",
+      "name": "Majide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623988",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623994",
+      "name": "Kiroc",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623994",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623999",
+      "name": "Jasmine",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623999",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "623987",
+      "name": "Nuzzuo",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623987",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624001",
+      "name": "Inyoni",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624001",
+      "section": "All Playable Characters"
+    },
+    {
+      "id": "624389",
+      "name": "Creek",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624389",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624390",
+      "name": "Nathan",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624390",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624391",
+      "name": "Bertrand",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624391",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624392",
+      "name": "Talimun",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624392",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "623966",
+      "name": "Anatolia",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623966",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624393",
+      "name": "Orchel",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624393",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624394",
+      "name": "Centurio",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624394",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624395",
+      "name": "Aswan",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624395",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "624396",
+      "name": "Tahonia",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624396",
+      "section": "Timeskip Playable Characters"
+    },
+    {
+      "id": "625576",
+      "name": "Klapka",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625576",
+      "section": "Timeskip Playable Characters"
+    }
+  ],
+  "classes": [
+    {
+      "id": "620256",
+      "name": "List of Classes",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620256",
+      "section": "Fire Emblem: Fortune's Weave Classes"
+    },
+    {
+      "id": "624166",
+      "name": "Beginner",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624166",
+      "section": "All Classes By Tiers"
+    },
+    {
+      "id": "624168",
+      "name": "Specialty",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624168",
+      "section": "All Classes By Tiers"
+    },
+    {
+      "id": "624169",
+      "name": "Advanced",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624169",
+      "section": "All Classes By Tiers"
+    },
+    {
+      "id": "624171",
+      "name": "Master",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624171",
+      "section": "All Classes By Tiers"
+    },
+    {
+      "id": "624172",
+      "name": "Divine",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624172",
+      "section": "All Classes By Tiers"
+    }
+  ],
+  "weapons_spells": [
+    {
+      "id": "620255",
+      "name": "List of All Weapons and Spells",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620255",
+      "section": "Fire Emblem: Fortune's Weave Weapons and Spells"
+    },
+    {
+      "id": "621073",
+      "name": "Axes",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621073",
+      "section": "All Weapons and Spells by Type"
+    },
+    {
+      "id": "621071",
+      "name": "Swords",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621071",
+      "section": "All Weapons and Spells by Type"
+    },
+    {
+      "id": "621072",
+      "name": "Spears",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621072",
+      "section": "All Weapons and Spells by Type"
+    },
+    {
+      "id": "621074",
+      "name": "Bows",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621074",
+      "section": "All Weapons and Spells by Type"
+    },
+    {
+      "id": "621076",
+      "name": "Gauntlets",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621076",
+      "section": "All Weapons and Spells by Type"
+    },
+    {
+      "id": "621078",
+      "name": "Black Magic",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621078",
+      "section": "All Weapons and Spells by Type"
+    },
+    {
+      "id": "621077",
+      "name": "White Magic",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621077",
+      "section": "All Weapons and Spells by Type"
+    }
+  ],
+  "items": [
+    {
+      "id": "621281",
+      "name": "List of All Items",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621281",
+      "section": "Fire Emblem: Fortune's Weave Items"
+    },
+    {
+      "id": "621535",
+      "name": "Gifts",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621535",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "624948",
+      "name": "Fishes",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624948",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "621537",
+      "name": "Ores",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621537",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "624946",
+      "name": "Other Items",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624946",
+      "section": "Table of Contents"
+    }
+  ],
+  "abilities_arts": [
+    {
+      "id": "623691",
+      "name": "List of All Abilities",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623691",
+      "section": "Fire Emblem: Fortune's Weave Abilities"
+    },
+    {
+      "id": "620591",
+      "name": "Combat Arts",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620591",
+      "section": "Fire Emblem: Fortune's Weave Combat Arts"
+    }
+  ],
+  "quests_walkthrough": [
+    {
+      "id": "618786",
+      "name": "Story Walkthrough Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618786",
+      "section": "Fire Emblem: Fortune's Weave Story Walkthrough"
+    },
+    {
+      "id": "622612",
+      "name": "Prologue",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/622612",
+      "section": "List of Routes"
+    },
+    {
+      "id": "618787",
+      "name": "Cai's Path",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618787",
+      "section": "List of Routes"
+    },
+    {
+      "id": "618788",
+      "name": "Dietrich's Path",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618788",
+      "section": "List of Routes"
+    },
+    {
+      "id": "618789",
+      "name": "Theodora's Path",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618789",
+      "section": "List of Routes"
+    },
+    {
+      "id": "618790",
+      "name": "Leda's Path",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618790",
+      "section": "List of Routes"
+    },
+    {
+      "id": "624554",
+      "name": "Part 2: War",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624554",
+      "section": "List of Routes"
+    },
+    {
+      "id": "618791",
+      "name": "Part 3: Salvation",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618791",
+      "section": "List of Routes"
+    },
+    {
+      "id": "618792",
+      "name": "List of All Quests",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618792",
+      "section": "Fire Emblem: Fortune's Weave Quests"
+    }
+  ],
+  "guides": [
+    {
+      "id": "624024",
+      "name": "Best Characters Tier List",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624024",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "624373",
+      "name": "Best Characters to Recruit",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624373",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "623536",
+      "name": "Best Temple Blessings and Bonuses",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623536",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627940",
+      "name": "Best Mounts and Abilities",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627940",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "622788",
+      "name": "Best Boons of Salvation to Learn First",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/622788",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "623431",
+      "name": "Notable Deeds: List of Milestones and Rewards",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623431",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "623686",
+      "name": "How to Get Perfect Bird Time",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623686",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "623885",
+      "name": "Best Route to Do First",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623885",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "624227",
+      "name": "Is There New Game Plus?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624227",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "624310",
+      "name": "Missables and Limited-Time Events Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624310",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "620626",
+      "name": "Difficulty Settings",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620626",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "624499",
+      "name": "Game Length: How Long to Beat",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624499",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "624675",
+      "name": "Best Auto-Activities",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624675",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "625536",
+      "name": "All Post Game Content",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625536",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627434",
+      "name": "Kalla's Trial",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627434",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627956",
+      "name": "Credna's Trial",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627956",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627957",
+      "name": "Smyrnos's Trial",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627957",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627958",
+      "name": "Mars's Trial",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627958",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627959",
+      "name": "Jurah's Trial",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627959",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "627960",
+      "name": "Aurora's Trial",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627960",
+      "section": "Recommended Guides"
+    },
+    {
+      "id": "624240",
+      "name": "List of All Paralogues",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624240",
+      "section": "Quest Guides"
+    },
+    {
+      "id": "624720",
+      "name": "List of All Perform Quests",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+      "section": "Quest Guides"
+    },
+    {
+      "id": "618833",
+      "name": "Beginner's Guide: All Tips and Tricks",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618833",
+      "section": "Fire Emblem: Fortune's Weave Tips and Tricks"
+    },
+    {
+      "id": "620173",
+      "name": "Character Customization Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620173",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618795",
+      "name": "How to Switch Main Characters",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618795",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620957",
+      "name": "All Recruitment Requirements",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620957",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621075",
+      "name": "Can You Recruit a Unit on Multiple Routes?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621075",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621007",
+      "name": "How to Increase Support Level",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621007",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623690",
+      "name": "Gift Giving Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623690",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623931",
+      "name": "Can You Change Your Name?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623931",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "626047",
+      "name": "How to Merge Character Stats Between Routes",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626047",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618925",
+      "name": "How to Change Classes",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618925",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618893",
+      "name": "How to Increase Skill Level",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618893",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620517",
+      "name": "Combat Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620517",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620420",
+      "name": "Is There a Weapon Triangle?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620420",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620483",
+      "name": "List of Blaze Arts",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620483",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621427",
+      "name": "How to Get More Combat Arts",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621427",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621282",
+      "name": "How to Use Gambits and Battalions",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621282",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618974",
+      "name": "Growth Rates Explained",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618974",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618801",
+      "name": "How to Rewind Turns",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618801",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620393",
+      "name": "Effective Damage Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620393",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620479",
+      "name": "Attack Speed Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620479",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623895",
+      "name": "How to Level Up Fast",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623895",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "619784",
+      "name": "Stats Explained",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/619784",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623648",
+      "name": "Skirmish Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623648",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624022",
+      "name": "Which Insect Option Should You Choose?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624022",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624378",
+      "name": "All Bloodmarks and Effects",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624378",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624343",
+      "name": "How to Heal and Restore HP",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624343",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624754",
+      "name": "How to Use Answerer's Cry",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624754",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "619178",
+      "name": "Terrain Effects",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/619178",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618914",
+      "name": "How to Dismount",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618914",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "620477",
+      "name": "Renown Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620477",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621170",
+      "name": "Gold Farming Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621170",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618841",
+      "name": "How to Pass Time",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618841",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621160",
+      "name": "Arena Guide: How to Train Units",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621160",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623687",
+      "name": "How to Use Karma Shards",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623687",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623749",
+      "name": "All Weekly Activities",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623749",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "619054",
+      "name": "Weapon Durability Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/619054",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "619348",
+      "name": "How to Refine Weapons",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/619348",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "623861",
+      "name": "How to Claim Free Update Bonuses",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623861",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "618904",
+      "name": "Dungeons and Clashes Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618904",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624023",
+      "name": "How to Increase Motivation",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624023",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624249",
+      "name": "How to Get Through the Wandering Wood",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624249",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624288",
+      "name": "Farming Guide: How to Farm Crops",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624288",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624208",
+      "name": "How to Navigate the World Map",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624208",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624329",
+      "name": "How to Capture Animal Mounts",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624329",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624325",
+      "name": "What Happens When You Run Out of Turns?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624325",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624274",
+      "name": "Theater and Acting Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624274",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624676",
+      "name": "Should You Skip Part 2?",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624676",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624021",
+      "name": "How to Save",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624021",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624691",
+      "name": "Mentoring Guide",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624691",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624687",
+      "name": "How to Unlock Carriages and Posthouses",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624687",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624772",
+      "name": "Thermae Bath Effects",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624772",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "624943",
+      "name": "Descend Again Effects",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624943",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "625582",
+      "name": "Fortune Telling Guide: Divination Booth Effects",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625582",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "625639",
+      "name": "How to Unlock the Gate of the Gods",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625639",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "626058",
+      "name": "How to Restart a Chapter",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626058",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "626067",
+      "name": "Obelisk Chamber Features",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626067",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "627412",
+      "name": "How to Get Magic Echo Shards",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627412",
+      "section": "All Tips and Tricks"
+    },
+    {
+      "id": "621538",
+      "name": "Consumables",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621538",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "621536",
+      "name": "Vegetables",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621536",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "626105",
+      "name": "Meats",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626105",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "624947",
+      "name": "Exam Licenses",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624947",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "624944",
+      "name": "Equipment",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624944",
+      "section": "Table of Contents"
+    },
+    {
+      "id": "624945",
+      "name": "Shields",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624945",
+      "section": "Table of Contents"
+    }
+  ]
+}

@@ -1,0 +1,4975 @@
+[
+  {
+    "id": "624054",
+    "name": "Gladiator",
+    "tier": "Beginner",
+    "type": "Infantry",
+    "movement": 4,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet"
+    ],
+    "requirements": {
+      "license": "Beginner",
+      "item": null,
+      "ideal_level": 5,
+      "renown_level": 1,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Gauntlet",
+          "rank": "D"
+        },
+        {
+          "skill": "Axe",
+          "rank": "D"
+        },
+        {
+          "skill": "Sword",
+          "rank": "D"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 1,
+      "mag": 0,
+      "spd": 0,
+      "dex": 0,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 10,
+      "mag": 0,
+      "spd": 0,
+      "dex": 0,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [],
+    "master_abilities": [
+      {
+        "name": "Attack Basics",
+        "effect": "Grants Str +1."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624054",
+    "raw_source": "raw_extracts/classes/gladiator_624054.html"
+  },
+  {
+    "id": "624053",
+    "name": "Hunter",
+    "tier": "Beginner",
+    "type": "Infantry",
+    "movement": 4,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Beginner",
+      "item": null,
+      "ideal_level": 5,
+      "renown_level": 1,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "D"
+        },
+        {
+          "skill": "Sword",
+          "rank": "D"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 0,
+      "spd": 1,
+      "dex": 1,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 0,
+      "spd": 10,
+      "dex": 10,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Bow",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [],
+    "master_abilities": [
+      {
+        "name": "Hunting Basics",
+        "effect": "Grants Dex/Spd +1"
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624053",
+    "raw_source": "raw_extracts/classes/hunter_624053.html"
+  },
+  {
+    "id": "624052",
+    "name": "Soldier",
+    "tier": "Beginner",
+    "type": "Heavy Armor Infantry",
+    "movement": 4,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Beginner",
+      "item": null,
+      "ideal_level": 5,
+      "renown_level": 1,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "D"
+        },
+        {
+          "skill": "Spear",
+          "rank": "D"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 1,
+      "mag": 0,
+      "spd": 0,
+      "dex": 0,
+      "def": 1,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": 0,
+      "spd": -5,
+      "dex": 5,
+      "def": 10,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Armor",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [],
+    "master_abilities": [
+      {
+        "name": "Defense Basics",
+        "effect": "Grants Def +1."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624052",
+    "raw_source": "raw_extracts/classes/soldier_624052.html"
+  },
+  {
+    "id": "624051",
+    "name": "Ornius Rider",
+    "tier": "Beginner",
+    "type": "Cavalry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Beginner",
+      "item": null,
+      "ideal_level": 5,
+      "renown_level": 1,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "E+"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "D"
+        },
+        {
+          "skill": "Spear",
+          "rank": "D"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 0,
+      "spd": 3,
+      "dex": 2,
+      "def": 0,
+      "res": 0,
+      "lck": 1,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 0,
+      "spd": 10,
+      "dex": 5,
+      "def": 0,
+      "res": 5,
+      "lck": 5,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Riding",
+        "bonus": 1
+      },
+      {
+        "skill": "Flying",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Offense Basics",
+        "effect": "Grants Str/Mag +1."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624051",
+    "raw_source": "raw_extracts/classes/ornius_rider_624051.html"
+  },
+  {
+    "id": "624050",
+    "name": "Diviner",
+    "tier": "Beginner",
+    "type": "Infantry",
+    "movement": 4,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet",
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Beginner",
+      "item": null,
+      "ideal_level": 5,
+      "renown_level": 1,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "D"
+        },
+        {
+          "skill": "Black Magic",
+          "rank": "D"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 1,
+      "spd": 0,
+      "dex": 0,
+      "def": 0,
+      "res": 1,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 5,
+      "str": -5,
+      "mag": 15,
+      "spd": 0,
+      "dex": 5,
+      "def": -5,
+      "res": 10,
+      "lck": 0,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Black Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [],
+    "master_abilities": [
+      {
+        "name": "Magic Basics",
+        "effect": "Grants Mag/Res+1"
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624050",
+    "raw_source": "raw_extracts/classes/diviner_624050.html"
+  },
+  {
+    "id": "624044",
+    "name": "Myrmidon",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Sword",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 0,
+      "spd": 2,
+      "dex": 0,
+      "def": 0,
+      "res": -1,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 0,
+      "spd": 15,
+      "dex": 10,
+      "def": 0,
+      "res": 0,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Sword Crit +3",
+        "effect": "When equipped with a sword, grants Crit +3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Ravaging Arts",
+        "effect": "If unit makes a critical, deal +6 damage."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624044",
+    "raw_source": "raw_extracts/classes/myrmidon_624044.html"
+  },
+  {
+    "id": "624048",
+    "name": "Brigand",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "C"
+        },
+        {
+          "skill": "Sword",
+          "rank": "C"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 2,
+      "mag": 0,
+      "spd": 0,
+      "dex": 0,
+      "def": 1,
+      "res": -1,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 15,
+      "mag": -5,
+      "spd": 5,
+      "dex": 0,
+      "def": 5,
+      "res": 0,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Axe",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Axe Hit +3",
+        "effect": "When equipped with an axe, grants Hit +3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Regroup",
+        "effect": "When foe avoids an attack, grants Avo +20 to unit during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624048",
+    "raw_source": "raw_extracts/classes/brigand_624048.html"
+  },
+  {
+    "id": "624029",
+    "name": "Pugilist",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Gauntlet"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Gauntlet",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 2,
+      "str": 1,
+      "mag": 0,
+      "spd": 1,
+      "dex": 0,
+      "def": 2,
+      "res": -1,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 10,
+      "mag": -5,
+      "spd": 10,
+      "dex": 5,
+      "def": 10,
+      "res": 0,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Gauntlet",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Brawl Avo +3",
+        "effect": "When equipped with gauntlets, grants Avo +3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Attack, Get Back",
+        "effect": "When using a combat art, grants Avo +10 during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624029",
+    "raw_source": "raw_extracts/classes/pugilist_624029.html"
+  },
+  {
+    "id": "624046",
+    "name": "Archer",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 0,
+      "spd": 2,
+      "dex": 2,
+      "def": 1,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": 0,
+      "spd": 10,
+      "dex": 10,
+      "def": 5,
+      "res": 0,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Bow",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Bow Hit +5",
+        "effect": "When equipped with a bow, grants Hit +5."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Crescendo",
+        "effect": "After defeating a foe, grants Hit +3 until the end of the map. (Max +30)"
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624046",
+    "raw_source": "raw_extracts/classes/archer_624046.html"
+  },
+  {
+    "id": "624043",
+    "name": "Rogue",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "C"
+        },
+        {
+          "skill": "Sword",
+          "rank": "C"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 0,
+      "spd": 3,
+      "dex": 1,
+      "def": 0,
+      "res": 1,
+      "lck": 1,
+      "cha": -1
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 0,
+      "spd": 15,
+      "dex": 10,
+      "def": 0,
+      "res": 5,
+      "lck": 5,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Bow",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Locktouch",
+        "effect": "Allows the opening of chests even without keys."
+      },
+      {
+        "name": "Search",
+        "effect": "Search results are more likely to be perfect."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "In Shadow",
+        "effect": "After defeating a foe, grants Avo +10 through unit's next combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624043",
+    "raw_source": "raw_extracts/classes/rogue_624043.html"
+  },
+  {
+    "id": "624049",
+    "name": "Armored Knight",
+    "tier": "Specialty",
+    "type": "Heavy Armor Infantry",
+    "movement": 4,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Heavy Armor",
+          "rank": "E+"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "C"
+        },
+        {
+          "skill": "Spear",
+          "rank": "C"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 2,
+      "str": 1,
+      "mag": 0,
+      "spd": -2,
+      "dex": 0,
+      "def": 4,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 10,
+      "mag": -5,
+      "spd": -5,
+      "dex": 5,
+      "def": 25,
+      "res": -5,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Armor",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Strike-Last Def +3",
+        "effect": "If foe attacks first, grants Prt +3 to unit during combat."
+      },
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Great Counter",
+        "effect": "If foe attacks first, grants Atk +3 to unit during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624049",
+    "raw_source": "raw_extracts/classes/armored_knight_624049.html"
+  },
+  {
+    "id": "624045",
+    "name": "Light Cavalry",
+    "tier": "Specialty",
+    "type": "Cavalry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "C"
+        },
+        {
+          "skill": "Sword",
+          "rank": "C"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 1,
+      "mag": 0,
+      "spd": 1,
+      "dex": 0,
+      "def": 2,
+      "res": 0,
+      "lck": 0,
+      "cha": 1
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": -5,
+      "spd": 5,
+      "dex": 0,
+      "def": 5,
+      "res": 0,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Bolster Health",
+        "effect": "Grants max HP +3."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624045",
+    "raw_source": "raw_extracts/classes/light_cavalry_624045.html"
+  },
+  {
+    "id": "624047",
+    "name": "Charioteer",
+    "tier": "Specialty",
+    "type": "Cavalry",
+    "movement": 6,
+    "usable_weapons": [
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        },
+        {
+          "skill": "Bow",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 1,
+      "mag": 0,
+      "spd": -2,
+      "dex": 3,
+      "def": 3,
+      "res": 0,
+      "lck": 0,
+      "cha": 1
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": -5,
+      "spd": -5,
+      "dex": 15,
+      "def": 10,
+      "res": 0,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Bow",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Chariot Armor",
+        "effect": "Grants Shield +5. Unit cannot avoid attacks."
+      },
+      {
+        "name": "Charioteer Tactics",
+        "effect": "Allows use of the Mount and Dismount commands. (Cavalry) Allows use of the Charge command."
+      },
+      {
+        "name": "Charioteer's Path",
+        "effect": "Unit's growth rate increases with level."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Charger",
+        "effect": "When using Charge, grants Prt +10 until unit's next phase."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624047",
+    "raw_source": "raw_extracts/classes/charioteer_624047.html"
+  },
+  {
+    "id": "624041",
+    "name": "Armored Ornius Rider",
+    "tier": "Specialty",
+    "type": "Cavalry",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "C"
+        },
+        {
+          "skill": "Spear",
+          "rank": "C"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 0,
+      "spd": 2,
+      "dex": 0,
+      "def": 2,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": -5,
+      "spd": 10,
+      "dex": 5,
+      "def": 10,
+      "res": 0,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Gauntlet",
+        "bonus": 1
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Sense Threat",
+        "effect": "If foe is effective against unit, grants Avo +20 to unit during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624041",
+    "raw_source": "raw_extracts/classes/armored_ornius_rider_624041.html"
+  },
+  {
+    "id": "624038",
+    "name": "Wing Soldier",
+    "tier": "Specialty",
+    "type": "Flier",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Flying",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "C"
+        },
+        {
+          "skill": "Sword",
+          "rank": "C"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 0,
+      "spd": 4,
+      "dex": 1,
+      "def": 1,
+      "res": 2,
+      "lck": 0,
+      "cha": 1
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 5,
+      "spd": 0,
+      "dex": 5,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Flying",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Protecting Wings",
+        "effect": "Grants Res +3."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624038",
+    "raw_source": "raw_extracts/classes/wing_soldier_624038.html"
+  },
+  {
+    "id": "624039",
+    "name": "Priest",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Axe",
+      "Gauntlet",
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 1,
+      "spd": 0,
+      "dex": 0,
+      "def": 0,
+      "res": 3,
+      "lck": 2,
+      "cha": 1
+    },
+    "stat_growths": {
+      "hp": 5,
+      "str": -5,
+      "mag": 10,
+      "spd": 5,
+      "dex": 5,
+      "def": -10,
+      "res": 15,
+      "lck": 15,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Gauntlet",
+        "bonus": 1
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "White-Magic Seeker",
+        "effect": "Multiplies white magic uses by 2."
+      },
+      {
+        "name": "Magic Heal +5",
+        "effect": "When healing an ally with magic, restores +5 HP."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Piety",
+        "effect": "Grants Lck +3."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624039",
+    "raw_source": "raw_extracts/classes/priest_624039.html"
+  },
+  {
+    "id": "624042",
+    "name": "Shaman",
+    "tier": "Specialty",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Gauntlet",
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Specialty",
+      "item": null,
+      "ideal_level": 20,
+      "renown_level": 4,
+      "primary_skills": [
+        {
+          "skill": "Black Magic",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 2,
+      "spd": 1,
+      "dex": 1,
+      "def": 0,
+      "res": 2,
+      "lck": 0,
+      "cha": -1
+    },
+    "stat_growths": {
+      "hp": 5,
+      "str": -5,
+      "mag": 15,
+      "spd": 10,
+      "dex": 10,
+      "def": -10,
+      "res": 10,
+      "lck": 10,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Riding",
+        "bonus": 1
+      },
+      {
+        "skill": "Flying",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Black-Magic Seeker",
+        "effect": "Multiplies black magic uses by 2."
+      },
+      {
+        "name": "Magic Hit +3",
+        "effect": "When equipped with magic, grants Hit +3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Bind Dexterity",
+        "effect": "Inflicts Dex-3 on adjacent foes."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624042",
+    "raw_source": "raw_extracts/classes/shaman_624042.html"
+  },
+  {
+    "id": "624037",
+    "name": "Warrior",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Gauntlet",
+          "rank": "B"
+        },
+        {
+          "skill": "Axe",
+          "rank": "B"
+        },
+        {
+          "skill": "Sword",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 4,
+      "str": 4,
+      "mag": 0,
+      "spd": 1,
+      "dex": 0,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 20,
+      "str": 20,
+      "mag": -5,
+      "spd": 0,
+      "dex": 0,
+      "def": 5,
+      "res": -5,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 3
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Axe Hit +5",
+        "effect": "When equipped with an axe, grants Hit +5."
+      },
+      {
+        "name": "Brawl Hit +5",
+        "effect": "When equipped with gauntlets, grants Hit +5."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Practiced Art",
+        "effect": "TBD"
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624037",
+    "raw_source": "raw_extracts/classes/warrior_624037.html"
+  },
+  {
+    "id": "624030",
+    "name": "Shido",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Sword",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 0,
+      "mag": 0,
+      "spd": 7,
+      "dex": 3,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": 0,
+      "spd": 15,
+      "dex": 10,
+      "def": 0,
+      "res": -5,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 3
+      },
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Sword Crit +5",
+        "effect": "When equipped with a sword, grants Crit +5."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Ever Vigilant",
+        "effect": "After defeating a foe with a critical attack, restores a little HP to unit."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624030",
+    "raw_source": "raw_extracts/classes/shido_624030.html"
+  },
+  {
+    "id": "624375",
+    "name": "Dancer",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": null,
+      "item": null,
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [],
+      "secondary_skills": [],
+      "unlock_condition": "Automatically Unlocks With The Dancer's Necklace: There is no Certification Exam for the Dancer class. Instead, you must show the Dancer's Necklace to the Exam Proctor and she will automatically pass Leda for the Dancer class."
+    },
+    "base_stats_bonus": {
+      "hp": 4,
+      "str": 0,
+      "mag": 0,
+      "spd": 9,
+      "dex": 5,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 5
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 0,
+      "spd": 25,
+      "dex": 10,
+      "def": 0,
+      "res": 5,
+      "lck": 10,
+      "cha": 20
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 3
+      },
+      {
+        "skill": "Bow",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 4
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Dance",
+        "effect": "Allows the use of the Dance combat art."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Special Dance",
+        "effect": "When using Dance, grants Dex/Spd +3 to target ally for the current phase."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624375",
+    "raw_source": "raw_extracts/classes/dancer_624375.html"
+  },
+  {
+    "id": "624388",
+    "name": "Blacksmith",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Axe",
+      "Black Magic"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Black Magic",
+          "rank": "D"
+        },
+        {
+          "skill": "Axe",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 1,
+      "mag": 1,
+      "spd": 1,
+      "dex": 0,
+      "def": 3,
+      "res": 1,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 10,
+      "mag": 10,
+      "spd": 0,
+      "dex": 5,
+      "def": 10,
+      "res": 10,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Axe",
+        "bonus": 3
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Black-Magic Seeker",
+        "effect": "Multiplies black magic uses by 2."
+      },
+      {
+        "name": "Axe Hit +5",
+        "effect": "When equipped with an axe, grants Hit +5."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Makeshift",
+        "effect": "When using a combat art, reduces weapon durability cost to 0 during combat. Trigger % = 10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624388",
+    "raw_source": "raw_extracts/classes/blacksmith_624388.html"
+  },
+  {
+    "id": "624036",
+    "name": "Sniper",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 0,
+      "spd": 5,
+      "dex": 5,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": 0,
+      "spd": 10,
+      "dex": 20,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Bow",
+        "bonus": 3
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Bow Hit +10",
+        "effect": "When equipped with a bow, grants Hit +10."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Marksmanship",
+        "effect": "When equipped with a bow, grants Hit +15."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624036",
+    "raw_source": "raw_extracts/classes/sniper_624036.html"
+  },
+  {
+    "id": "624035",
+    "name": "Forest Knight",
+    "tier": "Advanced",
+    "type": "Cavalry",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        },
+        {
+          "skill": "Bow",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 0,
+      "spd": 5,
+      "dex": 2,
+      "def": 1,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": 0,
+      "spd": 10,
+      "dex": 10,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Bow",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Bow Hit +5",
+        "effect": "When equipped with a bow, grants Hit +5."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Hunter's Eye",
+        "effect": "When equipped with a bow, grants Atk +3 when making a follow-up."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624035",
+    "raw_source": "raw_extracts/classes/forest_knight_624035.html"
+  },
+  {
+    "id": "624384",
+    "name": "Ranger",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "B"
+        },
+        {
+          "skill": "Sword",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": "Complete Dread Warrior Challenges in Dietrich's Route at Renown Lv. 10: Ranger can be unlocked by completing Dread Warrior Challenges in Dietrich's Route. You can accept Dread Warrior Challenges from the Headhunter in Dagsion's Midtown."
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 0,
+      "spd": 7,
+      "dex": 4,
+      "def": 0,
+      "res": 1,
+      "lck": 1,
+      "cha": 1
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 5,
+      "mag": 0,
+      "spd": 15,
+      "dex": 15,
+      "def": 0,
+      "res": 10,
+      "lck": 15,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Bow",
+        "bonus": 2
+      },
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 3
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Locktouch",
+        "effect": "Allows the opening of chests even without keys."
+      },
+      {
+        "name": "Advanced Search",
+        "effect": "Search results are more likely to be perfect."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Countershot",
+        "effect": "When equipped with a bow, unit can counter adjacent foes during combat. Trigger % = 50."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624384",
+    "raw_source": "raw_extracts/classes/ranger_624384.html"
+  },
+  {
+    "id": "624275",
+    "name": "Cataphract",
+    "tier": "Advanced",
+    "type": "Cavalry Heavy Armor",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Heavy Armor",
+          "rank": "E+"
+        },
+        {
+          "skill": "Riding",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "B"
+        },
+        {
+          "skill": "Spear",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 0,
+      "spd": -1,
+      "dex": 0,
+      "def": 5,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 15,
+      "mag": -5,
+      "spd": -10,
+      "dex": 0,
+      "def": 10,
+      "res": -5,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 1
+      },
+      {
+        "skill": "Heavy Armor",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Strike-Last Def +3",
+        "effect": "If foe attacks first, grants Prt +3 to unit during combat."
+      },
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Pavise",
+        "effect": "Unit takes half damage when attacked with a physical attack. Trigger % = 20."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624275",
+    "raw_source": "raw_extracts/classes/cataphract_624275.html"
+  },
+  {
+    "id": "624254",
+    "name": "Guardian",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Spear",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Needs Special Quest to Unlock"
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 1,
+      "mag": 0,
+      "spd": 1,
+      "dex": 0,
+      "def": 3,
+      "res": 4,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 10,
+      "mag": 0,
+      "spd": 0,
+      "dex": 5,
+      "def": 10,
+      "res": 15,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 3
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Magic Heal +10",
+        "effect": "When healing an ally with magic, restores +10 HP."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Brace",
+        "effect": "After defeating a foe, grants Prt +3 until unit's next phase."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624254",
+    "raw_source": "raw_extracts/classes/guardian_624254.html"
+  },
+  {
+    "id": "621166",
+    "name": "Elephant Rider",
+    "tier": "Advanced",
+    "type": "Cavalry",
+    "movement": 5,
+    "usable_weapons": [],
+    "requirements": {
+      "license": "Elephant",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Unlock Elephant Rider Starting Part 3: Elephant Rider becomes available after reaching Part 3 of the story. You can reclass units using an Elephant License at Ideal Level 35."
+    },
+    "base_stats_bonus": {
+      "hp": 10,
+      "str": 2,
+      "mag": 0,
+      "spd": -5,
+      "dex": 3,
+      "def": 7,
+      "res": 0,
+      "lck": 0,
+      "cha": 3
+    },
+    "stat_growths": {
+      "hp": 20,
+      "str": 10,
+      "mag": -5,
+      "spd": 20,
+      "dex": -10,
+      "def": 15,
+      "res": -5,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "War-Elephant Boots",
+        "effect": "Unit takes half damage when attacked. Unit cannot avoid attacks."
+      },
+      {
+        "name": "Elephant Tactics",
+        "effect": "Allows use of the Mount and Dismount commands. Allows use of the Heavy Charge Commands."
+      },
+      {
+        "name": "Elephant Rider's Path",
+        "effect": "Unit's growth rate increases with level."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Elephant Vanguard",
+        "effect": "If unit is an elephant rider, grants Hit +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/621166",
+    "raw_source": "raw_extracts/classes/elephant_rider_621166.html"
+  },
+  {
+    "id": "624034",
+    "name": "Dreadnought",
+    "tier": "Advanced",
+    "type": "Heavy Armor Infantry",
+    "movement": 4,
+    "usable_weapons": [
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Heavy Armor",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "B"
+        },
+        {
+          "skill": "Spear",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 3,
+      "mag": 0,
+      "spd": -5,
+      "dex": 0,
+      "def": 9,
+      "res": -1,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 15,
+      "mag": -5,
+      "spd": -10,
+      "dex": 5,
+      "def": 30,
+      "res": -10,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      },
+      {
+        "skill": "Heavy Armor",
+        "bonus": 3
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Strike-Last Def +5",
+        "effect": "If foe attacks first, grants Prt +5 to unit during combat."
+      },
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Focused Counter",
+        "effect": "If foe attacks first, grants Hit +10 to unit during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624034",
+    "raw_source": "raw_extracts/classes/dreadnought_624034.html"
+  },
+  {
+    "id": "624033",
+    "name": "Bardinger",
+    "tier": "Advanced",
+    "type": "Cavalry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "C"
+        },
+        {
+          "skill": "Sword",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 0,
+      "mag": 0,
+      "spd": 1,
+      "dex": 0,
+      "def": 1,
+      "res": 0,
+      "lck": 0,
+      "cha": 3
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 10,
+      "mag": -5,
+      "spd": 0,
+      "dex": 0,
+      "def": 5,
+      "res": 10,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Riding",
+        "bonus": 3
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Aegis",
+        "effect": "Unit takes half damage when attacked with a magical attack. Trigger % = 20."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624033",
+    "raw_source": "raw_extracts/classes/bardinger_624033.html"
+  },
+  {
+    "id": "624233",
+    "name": "Dragoon",
+    "tier": "Advanced",
+    "type": "Flier",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Flying",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "B"
+        },
+        {
+          "skill": "Spear",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": "Needs Special Quest to Unlock"
+    },
+    "base_stats_bonus": {
+      "hp": 2,
+      "str": 1,
+      "mag": 0,
+      "spd": 3,
+      "dex": 1,
+      "def": 1,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 0,
+      "spd": 0,
+      "dex": 5,
+      "def": 10,
+      "res": 10,
+      "lck": 10,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Axe",
+        "bonus": 3
+      },
+      {
+        "skill": "Flying",
+        "bonus": 3
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Besieger",
+        "effect": "If foe is on favorable terrain, grants Hit +20 to unit during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624233",
+    "raw_source": "raw_extracts/classes/dragoon_624233.html"
+  },
+  {
+    "id": "624235",
+    "name": "Caladrius",
+    "tier": "Advanced",
+    "type": "Cavalry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear",
+      "Black Magic"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        },
+        {
+          "skill": "Black Magic",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Needs Special Quest to Unlock"
+    },
+    "base_stats_bonus": {
+      "hp": 2,
+      "str": 0,
+      "mag": 1,
+      "spd": 3,
+      "dex": 0,
+      "def": 1,
+      "res": 2,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 0,
+      "mag": 10,
+      "spd": 5,
+      "dex": 10,
+      "def": 10,
+      "res": 10,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 2
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 1
+      },
+      {
+        "skill": "Flying",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Black-Magic Seeker",
+        "effect": "Multiplies black magic uses by 2."
+      },
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Overtake",
+        "effect": "After defeating a foe, grant Mov +1 through the end of the next turn. (Max +3)"
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624235",
+    "raw_source": "raw_extracts/classes/caladrius_624235.html"
+  },
+  {
+    "id": "624032",
+    "name": "Ovate",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Gauntlet",
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Black Magic",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 4,
+      "spd": 3,
+      "dex": 4,
+      "def": 0,
+      "res": 4,
+      "lck": 0,
+      "cha": -1
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": -5,
+      "mag": 20,
+      "spd": 5,
+      "dex": 15,
+      "def": -10,
+      "res": 15,
+      "lck": 10,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 1
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 3
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Black-Magic Seeker",
+        "effect": "Multiplies black magic uses by 2."
+      },
+      {
+        "name": "Magic Hit +5",
+        "effect": "When equipped with magic, grants Hit +5."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Bind Speed",
+        "effect": "Inflict Spd -3 on adjacent foes."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624032",
+    "raw_source": "raw_extracts/classes/ovate_624032.html"
+  },
+  {
+    "id": "624031",
+    "name": "Bishop",
+    "tier": "Advanced",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Axe",
+      "Gauntlet",
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 1,
+      "str": 0,
+      "mag": 3,
+      "spd": 1,
+      "dex": 0,
+      "def": 0,
+      "res": 5,
+      "lck": 3,
+      "cha": 3
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": -5,
+      "mag": 15,
+      "spd": 0,
+      "dex": 0,
+      "def": -10,
+      "res": 20,
+      "lck": 20,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 2
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 1
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 3
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "White-Magic Seeker",
+        "effect": "Multiplies white magic uses by 2."
+      },
+      {
+        "name": "Magic Heal +10",
+        "effect": "When healing an ally with magic, restores +10 HP."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Barrier",
+        "effect": "Grants Res +3 to adjacent allies."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624031",
+    "raw_source": "raw_extracts/classes/bishop_624031.html"
+  },
+  {
+    "id": "624234",
+    "name": "Troubadour",
+    "tier": "Advanced",
+    "type": "Cavalry",
+    "movement": 6,
+    "usable_weapons": [
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Advanced",
+      "item": null,
+      "ideal_level": 35,
+      "renown_level": 8,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "B"
+        },
+        {
+          "skill": "Black Magic",
+          "rank": "B"
+        }
+      ],
+      "unlock_condition": "Needs Special Quest to Unlock"
+    },
+    "base_stats_bonus": {
+      "hp": 0,
+      "str": 0,
+      "mag": 1,
+      "spd": 1,
+      "dex": 1,
+      "def": 1,
+      "res": 2,
+      "lck": 0,
+      "cha": 3
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 15,
+      "spd": 5,
+      "dex": 0,
+      "def": 5,
+      "res": 15,
+      "lck": 15,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Black Magic",
+        "bonus": 2
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Magic Hit +3",
+        "effect": "When equipped with magic, grants Hit +3."
+      },
+      {
+        "name": "Magic Heal +5",
+        "effect": "When healing an ally with magic, restores +5 HP."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Song of Courage",
+        "effect": "Grants Dex/Spd +2 to allies in range until unit's next phase."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624234",
+    "raw_source": "raw_extracts/classes/troubadour_624234.html"
+  },
+  {
+    "id": "624426",
+    "name": "Swordmaster",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Sword",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Restore Mars' Temple And Complete The Subquest: After restoring Mars' Temple in Act 3, talk to Mars to receive a special request. Once you complete the request, you will unlock the Swordmaster class."
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 0,
+      "spd": 7,
+      "dex": 7,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 10,
+      "mag": 0,
+      "spd": 20,
+      "dex": 15,
+      "def": 0,
+      "res": 0,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 4
+      },
+      {
+        "skill": "Spear",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Sword Crit +7",
+        "effect": "When equipped with a sword, grants Crit +7."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Astra",
+        "effect": "Strikes 5 times at 50% damage."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624426",
+    "raw_source": "raw_extracts/classes/swordmaster_624426.html"
+  },
+  {
+    "id": "624445",
+    "name": "High Savant",
+    "tier": "Master",
+    "type": "Cavalry",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Black Magic"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        },
+        {
+          "skill": "Black Magic",
+          "rank": "D"
+        },
+        {
+          "skill": "Sword",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Restore Smyrnos' Temple And Complete The Subquest: After restoring Smyrnos' Temple in Act 3, talk to Smyrnos to receive a special request. Once you complete the request, you will unlock the High Savant class."
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 2,
+      "spd": 3,
+      "dex": 3,
+      "def": 2,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 15,
+      "mag": 15,
+      "spd": 10,
+      "dex": 5,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 3
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Black-Magic Seeker",
+        "effect": "Multiplies black magic uses by 2."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Dark Moon",
+        "effect": "Halves foe's Shld when attacking. Trigger % = 10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624445",
+    "raw_source": "raw_extracts/classes/high_savant_624445.html"
+  },
+  {
+    "id": "624357",
+    "name": "Battlemaster",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Gauntlet",
+          "rank": "A"
+        },
+        {
+          "skill": "Axe",
+          "rank": "A"
+        },
+        {
+          "skill": "Sword",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 13,
+      "str": 6,
+      "mag": 0,
+      "spd": 2,
+      "dex": 0,
+      "def": 4,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 25,
+      "str": 25,
+      "mag": -5,
+      "spd": -5,
+      "dex": 5,
+      "def": 10,
+      "res": -5,
+      "lck": -5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 4
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Axe Hit +7",
+        "effect": "When equipped with an axe, grants Hit +7."
+      },
+      {
+        "name": "Brawl Hit +7",
+        "effect": "When equipped with gauntlets, grants Hit+7."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "War Master's Strike",
+        "effect": "Multiplies damage dealt by 1.5."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624357",
+    "raw_source": "raw_extracts/classes/battlemaster_624357.html"
+  },
+  {
+    "id": "624444",
+    "name": "War Monk",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Gauntlet",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "D"
+        },
+        {
+          "skill": "Gauntlet",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Restore Aurora's Temple And Complete The Subquest: After restoring Aurora's Temple in Act 3, talk to Aurora to receive a special request. Once you complete the request, you will unlock the War Monk class."
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 0,
+      "spd": 5,
+      "dex": 2,
+      "def": 2,
+      "res": 4,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 10,
+      "mag": 0,
+      "spd": 15,
+      "dex": 0,
+      "def": 5,
+      "res": 15,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Gauntlet",
+        "bonus": 4
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "White-Magic Seeker",
+        "effect": "Multiplies white magic uses by 2."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Brawl Avo +7",
+        "effect": "When equipped with gauntlets, grants Avo +7."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Strike and Heal",
+        "effect": "After combat, unit can use assist magic."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624444",
+    "raw_source": "raw_extracts/classes/war_monk_624444.html"
+  },
+  {
+    "id": "624362",
+    "name": "Bow Adept",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 4,
+      "str": 2,
+      "mag": 0,
+      "spd": 5,
+      "dex": 9,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 0,
+      "spd": 15,
+      "dex": 20,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Bow",
+        "bonus": 4
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Bow Hit +15",
+        "effect": "When equipped with a bow, grants Hit +15."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Sky Hunter",
+        "effect": "If foe is flying, grants Hit +50."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624362",
+    "raw_source": "raw_extracts/classes/bow_adept_624362.html"
+  },
+  {
+    "id": "624449",
+    "name": "Bow Knight",
+    "tier": "Master",
+    "type": "Cavalry",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        },
+        {
+          "skill": "Bow",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Restore Kalla's Temple And Complete The Subquest: After restoring Kalla's Temple in Act 3, talk to Kalla to receive a special request. Once you complete the request, you will unlock the Bow Knight class."
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 2,
+      "mag": 0,
+      "spd": 7,
+      "dex": 5,
+      "def": 2,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 10,
+      "mag": 0,
+      "spd": 15,
+      "dex": 10,
+      "def": 5,
+      "res": 0,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Bow",
+        "bonus": 3
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Bow Hit +10",
+        "effect": "When equipped with a bow, grants Hit +10."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Hunter's Cross",
+        "effect": "High Hit/Crit"
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624449",
+    "raw_source": "raw_extracts/classes/bow_knight_624449.html"
+  },
+  {
+    "id": "624358",
+    "name": "Shadow Seeker",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "A"
+        },
+        {
+          "skill": "Sword",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 4,
+      "str": 0,
+      "mag": 0,
+      "spd": 9,
+      "dex": 7,
+      "def": 0,
+      "res": 0,
+      "lck": 2,
+      "cha": -2
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 0,
+      "spd": 15,
+      "dex": 25,
+      "def": 0,
+      "res": 10,
+      "lck": 15,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Bow",
+        "bonus": 3
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 4
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Locktouch",
+        "effect": "Allows the opening of chests even without keys."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Master Search",
+        "effect": "Search results are considerably more likely to be perfect."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Dropshadow Blade",
+        "effect": "If foe is on favorable terrain, ignores those terrain effects."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624358",
+    "raw_source": "raw_extracts/classes/shadow_seeker_624358.html"
+  },
+  {
+    "id": "624356",
+    "name": "Sentinel",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Spear",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 4,
+      "mag": 0,
+      "spd": 2,
+      "dex": 4,
+      "def": 4,
+      "res": 5,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 15,
+      "mag": 0,
+      "spd": 5,
+      "dex": 5,
+      "def": 10,
+      "res": 15,
+      "lck": 5,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 4
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "White-Magic Seeker",
+        "effect": "Multiplies white magic uses by 2."
+      },
+      {
+        "name": "Magic Heal +10",
+        "effect": "When healing an ally with magic, restores +10 HP."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Resolute Stance",
+        "effect": "If unit's HP = 100%, grants Shld +5 during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624356",
+    "raw_source": "raw_extracts/classes/sentinel_624356.html"
+  },
+  {
+    "id": "624363",
+    "name": "Castle Knight",
+    "tier": "Master",
+    "type": "Infantry Heavy Armor",
+    "movement": 4,
+    "usable_weapons": [
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Heavy Armor",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "A"
+        },
+        {
+          "skill": "Spear",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 9,
+      "str": 6,
+      "mag": 0,
+      "spd": -6,
+      "dex": 4,
+      "def": 13,
+      "res": -2,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 25,
+      "str": 20,
+      "mag": -5,
+      "spd": -15,
+      "dex": 5,
+      "def": 30,
+      "res": -10,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      },
+      {
+        "skill": "Heavy Armor",
+        "bonus": 4
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Strike-Last Def +7",
+        "effect": "If foe attacks first, grants Prt +7 to unit during combat."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Intercept",
+        "effect": "Reduces damage taken by 5 when attacked."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624363",
+    "raw_source": "raw_extracts/classes/castle_knight_624363.html"
+  },
+  {
+    "id": "624359",
+    "name": "Orichaldia",
+    "tier": "Master",
+    "type": "Cavalry",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "B"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "A"
+        },
+        {
+          "skill": "Sword",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 7,
+      "str": 3,
+      "mag": 0,
+      "spd": 2,
+      "dex": 3,
+      "def": 2,
+      "res": 0,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 15,
+      "mag": -5,
+      "spd": 0,
+      "dex": 5,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Spear",
+        "bonus": 3
+      },
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Riding",
+        "bonus": 4
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Fierce Spear",
+        "effect": "Unit cannot suffer a follow-up during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624359",
+    "raw_source": "raw_extracts/classes/orichaldia_624359.html"
+  },
+  {
+    "id": "624451",
+    "name": "Great Knight",
+    "tier": "Master",
+    "type": "Cavalry Heavy Armor",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Heavy Armor",
+          "rank": "D"
+        },
+        {
+          "skill": "Riding",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "A"
+        },
+        {
+          "skill": "Spear",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": "Restore Credna's Temple And Complete The Subquest: After restoring Credna's Temple in Act 3, talk to Credna to receive a special request. Once you complete the request, you will unlock the Great Knight class."
+    },
+    "base_stats_bonus": {
+      "hp": 12,
+      "str": 5,
+      "mag": 0,
+      "spd": -4,
+      "dex": 2,
+      "def": 5,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 20,
+      "str": 20,
+      "mag": -5,
+      "spd": -10,
+      "dex": 0,
+      "def": 15,
+      "res": -10,
+      "lck": 0,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 3
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      },
+      {
+        "skill": "Heavy Armor",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Fierce Shield",
+        "effect": "If unit attacks first, unit takes half damage during combat. Trigger % = 50."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624451",
+    "raw_source": "raw_extracts/classes/great_knight_624451.html"
+  },
+  {
+    "id": "624361",
+    "name": "Celestial Trooper",
+    "tier": "Master",
+    "type": "Flier",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Flying",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "A"
+        },
+        {
+          "skill": "Sword",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 3,
+      "str": 0,
+      "mag": 0,
+      "spd": 5,
+      "dex": 3,
+      "def": 0,
+      "res": 5,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": -5,
+      "spd": 10,
+      "dex": 5,
+      "def": 5,
+      "res": 15,
+      "lck": 15,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Spear",
+        "bonus": 3
+      },
+      {
+        "skill": "Flying",
+        "bonus": 4
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Combat Arts +1",
+        "effect": "Unit can equip +1 combat arts."
+      },
+      {
+        "name": "Flying Avo +7",
+        "effect": "Grants Avo +7."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Lightning Reflexes",
+        "effect": "If unit attacks first, and AS ≥ foe's AS +10, unit's follow-up occurs before foe's counter during combat."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624361",
+    "raw_source": "raw_extracts/classes/celestial_trooper_624361.html"
+  },
+  {
+    "id": "624364",
+    "name": "Bau Lord",
+    "tier": "Master",
+    "type": "Flier",
+    "movement": 7,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Flying",
+          "rank": "C"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "A"
+        },
+        {
+          "skill": "Spear",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 0,
+      "spd": 3,
+      "dex": 3,
+      "def": 3,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 0,
+      "spd": 5,
+      "dex": 0,
+      "def": 10,
+      "res": 10,
+      "lck": 10,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 1
+      },
+      {
+        "skill": "Spear",
+        "bonus": 2
+      },
+      {
+        "skill": "Axe",
+        "bonus": 3
+      },
+      {
+        "skill": "Flying",
+        "bonus": 4
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +2",
+        "effect": "Unit can equip +2 combat arts."
+      },
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Ambush",
+        "effect": "If unit is on inaccessible terrain, grants Atk +4."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624364",
+    "raw_source": "raw_extracts/classes/bau_lord_624364.html"
+  },
+  {
+    "id": "624360",
+    "name": "Druid",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Sword",
+      "Gauntlet",
+      "Black Magic"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Black Magic",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 4,
+      "str": 0,
+      "mag": 7,
+      "spd": 4,
+      "dex": 7,
+      "def": 0,
+      "res": 5,
+      "lck": 0,
+      "cha": -2
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": -5,
+      "mag": 30,
+      "spd": 15,
+      "dex": 10,
+      "def": -10,
+      "res": 20,
+      "lck": 10,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Sword",
+        "bonus": 2
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 1
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 4
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Black-Magic Seeker",
+        "effect": "Multiplies black magic uses by 2."
+      },
+      {
+        "name": "Magic Hit +7",
+        "effect": "When equipped with magic, grants Hit +7."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Bind Resistance",
+        "effect": "Inflict Res -3 on adjacent foes."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624360",
+    "raw_source": "raw_extracts/classes/druid_624360.html"
+  },
+  {
+    "id": "624355",
+    "name": "Wiseman",
+    "tier": "Master",
+    "type": "Infantry",
+    "movement": 5,
+    "usable_weapons": [
+      "Axe",
+      "Gauntlet",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": null
+    },
+    "base_stats_bonus": {
+      "hp": 4,
+      "str": 0,
+      "mag": 5,
+      "spd": 2,
+      "dex": 2,
+      "def": 0,
+      "res": 9,
+      "lck": 4,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": -5,
+      "mag": 20,
+      "spd": 0,
+      "dex": 5,
+      "def": -10,
+      "res": 25,
+      "lck": 20,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Axe",
+        "bonus": 1
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 2
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 4
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "White-Magic Seeker",
+        "effect": "Multiplies white magic uses by 2."
+      },
+      {
+        "name": "Magic Heal +15",
+        "effect": "When healing an ally with magic, restores +15 HP."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Dominate Magic",
+        "effect": "If foe uses magic, unit cannot be countered during combat. Trigger % = 10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624355",
+    "raw_source": "raw_extracts/classes/wiseman_624355.html"
+  },
+  {
+    "id": "624450",
+    "name": "Valkyrium",
+    "tier": "Master",
+    "type": "Cavalry",
+    "movement": 7,
+    "usable_weapons": [
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": "Master",
+      "item": null,
+      "ideal_level": 45,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "D"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "A"
+        },
+        {
+          "skill": "Black Magic",
+          "rank": "A"
+        }
+      ],
+      "unlock_condition": "Restore Jura's Temple And Complete The Subquest: After restoring Jura's Temple in Act 3, talk to Jura to receive a special request. Once you complete the request, you will unlock the Valkyrium class."
+    },
+    "base_stats_bonus": {
+      "hp": 2,
+      "str": 0,
+      "mag": 2,
+      "spd": 2,
+      "dex": 3,
+      "def": 2,
+      "res": 3,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": 0,
+      "mag": 15,
+      "spd": 5,
+      "dex": 5,
+      "def": 5,
+      "res": 10,
+      "lck": 15,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Black Magic",
+        "bonus": 3
+      },
+      {
+        "skill": "",
+        "bonus": 2
+      },
+      {
+        "skill": "Riding",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Magic Heal +10",
+        "effect": "When healing an ally with magic, restores +10 HP."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Song of Calm",
+        "effect": "Grants Res +2 to allies in range until unit's next phase."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624450",
+    "raw_source": "raw_extracts/classes/valkyrium_624450.html"
+  },
+  {
+    "id": "625255",
+    "name": "The Blade",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Spear"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Demonic Swordguard",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Sword",
+          "rank": "S"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Obtain The Demonic Swordguard"
+    },
+    "base_stats_bonus": {
+      "hp": 7,
+      "str": 4,
+      "mag": 4,
+      "spd": 7,
+      "dex": 7,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 10,
+      "mag": 10,
+      "spd": 20,
+      "dex": 20,
+      "def": 5,
+      "res": 5,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Swords",
+        "bonus": 5
+      },
+      {
+        "skill": "Spears",
+        "bonus": 1
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 2
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Sword Crit +10",
+        "effect": "When equipped with a sword, grants Crit +10."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Insight",
+        "effect": "Grants Spd +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625255",
+    "raw_source": "raw_extracts/classes/the_blade_625255.html"
+  },
+  {
+    "id": "625301",
+    "name": "The Apsara",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Muses' Necklace",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "C"
+        },
+        {
+          "skill": "Sword",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Obtain The Muses' Necklace"
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 4,
+      "spd": 7,
+      "dex": 5,
+      "def": 0,
+      "res": 0,
+      "lck": 0,
+      "cha": 9
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 10,
+      "spd": 25,
+      "dex": 15,
+      "def": 5,
+      "res": 5,
+      "lck": 10,
+      "cha": 30
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Swords",
+        "bonus": 4
+      },
+      {
+        "skill": "Bows",
+        "bonus": 2
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 5
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Dance",
+        "effect": "Allows the use of the Dance combat art."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Dance",
+        "effect": "Grants Cha +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625301",
+    "raw_source": "raw_extracts/classes/the_apsara_625301.html"
+  },
+  {
+    "id": "625305",
+    "name": "The Eternal",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Scales of Judgement",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Gauntlet",
+          "rank": "S"
+        },
+        {
+          "skill": "Axe",
+          "rank": "S"
+        },
+        {
+          "skill": "Sword",
+          "rank": "S"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Obtain The Scales of Judgement"
+    },
+    "base_stats_bonus": {
+      "hp": 12,
+      "str": 6,
+      "mag": 0,
+      "spd": 2,
+      "dex": 1,
+      "def": 5,
+      "res": 0,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 30,
+      "str": 30,
+      "mag": 0,
+      "spd": 10,
+      "dex": 0,
+      "def": 15,
+      "res": 0,
+      "lck": 0,
+      "cha": 0
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Swords",
+        "bonus": 3
+      },
+      {
+        "skill": "Axes",
+        "bonus": 5
+      },
+      {
+        "skill": "Gauntlets",
+        "bonus": 3
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Axe Hit +10",
+        "effect": "When equipped with an axe, grants Hit+10."
+      },
+      {
+        "name": "Brawl Hit +10",
+        "effect": "When equipped with gauntlets, grants Hit+10."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Might",
+        "effect": "Grants Str +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625305",
+    "raw_source": "raw_extracts/classes/the_eternal_625305.html"
+  },
+  {
+    "id": "625306",
+    "name": "The Godhand",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Gauntlet",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Emperor's Sash",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "C"
+        },
+        {
+          "skill": "Gauntlet",
+          "rank": "S"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Obtain The Emperor's Sash"
+    },
+    "base_stats_bonus": {
+      "hp": 7,
+      "str": 4,
+      "mag": 4,
+      "spd": 5,
+      "dex": 2,
+      "def": 4,
+      "res": 5,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 10,
+      "mag": 10,
+      "spd": 15,
+      "dex": 5,
+      "def": 10,
+      "res": 15,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Gauntlet",
+        "bonus": 5
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 3
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 3
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Brawl Avo +10",
+        "effect": "When equipped with gauntlets, grants Avo +10."
+      },
+      {
+        "name": "White-Magic Zenith",
+        "effect": "Multiplies white magic uses by 3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Adornment",
+        "effect": "Grants Res +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625306",
+    "raw_source": "raw_extracts/classes/the_godhand_625306.html"
+  },
+  {
+    "id": "625308",
+    "name": "The Calamity",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Bow"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Crystal of Darkness",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "Bow",
+          "rank": "S"
+        },
+        {
+          "skill": "Sword",
+          "rank": "S"
+        }
+      ],
+      "unlock_condition": "Obtain The Crystal of Darkness"
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 2,
+      "mag": 4,
+      "spd": 7,
+      "dex": 5,
+      "def": 0,
+      "res": 4,
+      "lck": 4,
+      "cha": 0
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 5,
+      "mag": 15,
+      "spd": 25,
+      "dex": 20,
+      "def": 5,
+      "res": 15,
+      "lck": 15,
+      "cha": 5
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Swords",
+        "bonus": 2
+      },
+      {
+        "skill": "Bows",
+        "bonus": 4
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 5
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Locktouch",
+        "effect": "Allows the opening of chests even without keys."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Ultimate Search",
+        "effect": "Search results are exceedingly more likely to be perfect."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Will",
+        "effect": "Grants Lck +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625308",
+    "raw_source": "raw_extracts/classes/the_calamity_625308.html"
+  },
+  {
+    "id": "625309",
+    "name": "The Trident",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Spear",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Trident",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Spear",
+          "rank": "S"
+        }
+      ],
+      "secondary_skills": [],
+      "unlock_condition": "Obtain The Trident"
+    },
+    "base_stats_bonus": {
+      "hp": 7,
+      "str": 4,
+      "mag": 4,
+      "spd": 2,
+      "dex": 4,
+      "def": 5,
+      "res": 5,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 15,
+      "str": 15,
+      "mag": 5,
+      "spd": 10,
+      "dex": 10,
+      "def": 15,
+      "res": 15,
+      "lck": 5,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Spears",
+        "bonus": 5
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 3
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Magic Heal +10",
+        "effect": "When healing an ally with magic, restores +10 HP."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "White-Magic Zenith",
+        "effect": "Multiplies white magic uses by 3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Wall",
+        "effect": "Grants Def +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625309",
+    "raw_source": "raw_extracts/classes/the_trident_625309.html"
+  },
+  {
+    "id": "625310",
+    "name": "The Cavalier",
+    "tier": "Divine",
+    "type": "Cavalry",
+    "movement": 8,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Spear"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Divinium Saddle",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [
+        {
+          "skill": "Riding",
+          "rank": "A"
+        }
+      ],
+      "secondary_skills": [
+        {
+          "skill": "Axe",
+          "rank": "S"
+        },
+        {
+          "skill": "Spear",
+          "rank": "S"
+        },
+        {
+          "skill": "Sword",
+          "rank": "S"
+        }
+      ],
+      "unlock_condition": "Obtain The Divinium Saddle"
+    },
+    "base_stats_bonus": {
+      "hp": 11,
+      "str": 3,
+      "mag": 0,
+      "spd": 4,
+      "dex": 5,
+      "def": 5,
+      "res": 1,
+      "lck": 0,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 20,
+      "str": 15,
+      "mag": 5,
+      "spd": 10,
+      "dex": 10,
+      "def": 15,
+      "res": 10,
+      "lck": 5,
+      "cha": 15
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Swords",
+        "bonus": 3
+      },
+      {
+        "skill": "Spears",
+        "bonus": 3
+      },
+      {
+        "skill": "Axes",
+        "bonus": 3
+      },
+      {
+        "skill": "Riding",
+        "bonus": 5
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Mount/Dismount",
+        "effect": "Allows use of Mount and Dismount commands."
+      },
+      {
+        "name": "Combat Arts +3",
+        "effect": "Unit can equip +3 combat arts."
+      },
+      {
+        "name": "Golden Ride",
+        "effect": "Neutralizes effective vs. cavalry."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Dexterity",
+        "effect": "Grants Dex +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625310",
+    "raw_source": "raw_extracts/classes/the_cavalier_625310.html"
+  },
+  {
+    "id": "625311",
+    "name": "The Avatar",
+    "tier": "Divine",
+    "type": "Infantry",
+    "movement": 6,
+    "usable_weapons": [
+      "Sword",
+      "Axe",
+      "Gauntlet",
+      "Black Magic",
+      "White Magic"
+    ],
+    "requirements": {
+      "license": null,
+      "item": "Lotus of Reincarnation",
+      "ideal_level": null,
+      "renown_level": null,
+      "primary_skills": [],
+      "secondary_skills": [
+        {
+          "skill": "White Magic",
+          "rank": "S"
+        },
+        {
+          "skill": "Black Magic",
+          "rank": "S"
+        }
+      ],
+      "unlock_condition": "Obtain The Lotus of Reincarnation"
+    },
+    "base_stats_bonus": {
+      "hp": 5,
+      "str": 0,
+      "mag": 9,
+      "spd": 2,
+      "dex": 2,
+      "def": 0,
+      "res": 9,
+      "lck": 5,
+      "cha": 2
+    },
+    "stat_growths": {
+      "hp": 10,
+      "str": -5,
+      "mag": 30,
+      "spd": 10,
+      "dex": 5,
+      "def": -5,
+      "res": 30,
+      "lck": 20,
+      "cha": 10
+    },
+    "skill_exp_bonuses": [
+      {
+        "skill": "Swords",
+        "bonus": 2
+      },
+      {
+        "skill": "Axes",
+        "bonus": 1
+      },
+      {
+        "skill": "Gauntlet",
+        "bonus": 2
+      },
+      {
+        "skill": "Black Magic",
+        "bonus": 5
+      },
+      {
+        "skill": "White Magic",
+        "bonus": 5
+      },
+      {
+        "skill": "Infantry",
+        "bonus": 1
+      }
+    ],
+    "class_abilities": [
+      {
+        "name": "Magic Hit +10",
+        "effect": "When equipped with magic, grants Hit +10."
+      },
+      {
+        "name": "Magic Heal +20",
+        "effect": "When healing an ally with magic, restores +20 HP."
+      },
+      {
+        "name": "All-Magic Zenith",
+        "effect": "Multiplies black magic and white magic uses by 3."
+      }
+    ],
+    "master_abilities": [
+      {
+        "name": "Divine Law",
+        "effect": "Grants Mag +10."
+      }
+    ],
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625311",
+    "raw_source": "raw_extracts/classes/the_avatar_625311.html"
+  }
+]

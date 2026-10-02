@@ -1,0 +1,3094 @@
+[
+  {
+    "title": "Welcome to the Item Shop",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625913",
+    "chapter_availability": {
+      "cai": "2",
+      "dietrich": "4",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Bulletin Board, Dagsion",
+    "objective": "Speak with the item shopkeeper.",
+    "rewards": [
+      "Vulnerary"
+    ],
+    "strategy": "Speak with the item shopkeeper.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Swing by the Armory",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625912",
+    "chapter_availability": {
+      "cai": "2",
+      "dietrich": "4",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Bulletin Board, Dagsion",
+    "objective": "Speak with the armorer.",
+    "rewards": [
+      "Wooden Sword"
+    ],
+    "strategy": "Speak with the armorer.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Lost Hair Clip",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623760",
+    "chapter_availability": {
+      "cai": "3",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Crying Girl, Niraga Mine",
+    "objective": "Find and Deliver the Girl's Hair Clip.",
+    "rewards": [
+      "550 Gold 100 Renown"
+    ],
+    "strategy": "Find and Deliver the Girl's Hair Clip.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Awaiting You at the Inn",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625911",
+    "chapter_availability": {
+      "cai": "3",
+      "dietrich": "4",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Bulletin Board, Dagsion",
+    "objective": "Speak with the innkeeper.",
+    "rewards": [
+      "Sand-Boar Meat 10 Renown"
+    ],
+    "strategy": "Speak with the innkeeper.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Gifts of the Marketplace",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625908",
+    "chapter_availability": {
+      "cai": "3",
+      "dietrich": "4",
+      "theodora": "5",
+      "leda": "4"
+    },
+    "client": "Bulletin Board, Dagsion",
+    "objective": "Speak with the market vendor.",
+    "rewards": [
+      "Southern Ghosh 10 Renown"
+    ],
+    "strategy": "Speak with the market vendor.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Fabled Sunset",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623765",
+    "chapter_availability": {
+      "cai": "3",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Old Sunset Watcher, Magnus Plateau",
+    "objective": "Defeat the pack of animals.",
+    "rewards": [
+      "550 Gold 130 Renown"
+    ],
+    "strategy": "Defeat the pack of animals.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Furious Vengeance",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623772",
+    "chapter_availability": {
+      "cai": "3",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Angry Boy, Rolling Breeze Hill",
+    "objective": "Defeat the thieves.",
+    "rewards": [
+      "550 Gold 130 Renown"
+    ],
+    "strategy": "Defeat the thieves.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Granada's Thieves",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623774",
+    "chapter_availability": {
+      "cai": "4",
+      "dietrich": "5",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Traveler with Medicine, Granada Fort Ruins",
+    "objective": "Defeat the Zaron Thieves.",
+    "rewards": [
+      "Baal Pike 600 Gold 30 Renown"
+    ],
+    "strategy": "Defeat the Zaron Thieves.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Valeri's Eight Fangs",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623930",
+    "chapter_availability": {
+      "cai": "4",
+      "dietrich": "5",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Capital Soldier, Valeri Gorge",
+    "objective": "Defeat the Eight Fangs.",
+    "rewards": [
+      "Yarc Meat 600 Gold 30 Renown"
+    ],
+    "strategy": "Defeat the Eight Fangs.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Knowing More about Him",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624027",
+    "chapter_availability": {
+      "cai": "4",
+      "dietrich": "5",
+      "theodora": "5",
+      "leda": "4"
+    },
+    "client": "Troubled Woman, Dagsion",
+    "objective": "Speak with the man the woman cares about.",
+    "rewards": [
+      "Mane Ornament 600 Gold 30 Renown"
+    ],
+    "strategy": "Speak with the man the woman cares about.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Searching for Smithing Stones",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624040",
+    "chapter_availability": {
+      "cai": "4",
+      "dietrich": "4",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Mercenary Who Needs Smithing Stones, Niraga Mine",
+    "objective": "Obtain and Deliver 3 Smithing Stones.",
+    "rewards": [
+      "600 Gold 30 Renown"
+    ],
+    "strategy": "Obtain and Deliver 3 Smithing Stones.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Find Fellowship at the Temples",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625909",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "4",
+      "theodora": "4",
+      "leda": "4"
+    },
+    "client": "Bulletin Board, Dagsion",
+    "objective": "Speak with the temple reception.",
+    "rewards": [
+      "Ginji 10 Renown"
+    ],
+    "strategy": "Speak with the temple reception.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Yaaman",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "4"
+    },
+    "client": "Yaaman Villager, Yaaman",
+    "objective": "Perform at the destination. (Requires Renown Lv. 1)",
+    "rewards": [
+      "Vegetable Crate",
+      "Gift Box 3000 Gold 200 Renown",
+      "Choking-Wind Valley"
+    ],
+    "strategy": "Perform at the destination. (Requires Renown Lv. 1)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Missing Granddaughter",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624055",
+    "chapter_availability": {
+      "cai": "4",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Worried Grandmother, Dagsion",
+    "objective": "Speak with the granddaughter.",
+    "rewards": [
+      "1500 Gold 100 Renown"
+    ],
+    "strategy": "Speak with the granddaughter.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Cleaning an Abandoned House",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623936",
+    "chapter_availability": {
+      "cai": "4",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Abandoned-Real-Estate Enthusiast, Forsaken Lakehouse",
+    "objective": "Defeat the wild beasts in the ruins.",
+    "rewards": [
+      "1500 Gold 130 Renown"
+    ],
+    "strategy": "Defeat the wild beasts in the ruins.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance at the Tavern",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "4"
+    },
+    "client": "Tavern Owner, Dagsion",
+    "objective": "Speak to the tavern owner. (Requires Renown Lv. 1)",
+    "rewards": [
+      "Song of Icewater 200 Renown"
+    ],
+    "strategy": "Speak to the tavern owner. (Requires Renown Lv. 1)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Daimon",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "4"
+    },
+    "client": "Daimon Elder, Daimon",
+    "objective": "Perform at the destination. (Requires Renown Lv. 1)",
+    "rewards": [
+      "Gift Box",
+      "Simple Weapon Crate 3000 Gold 200 Renown",
+      "Verdant Hollow"
+    ],
+    "strategy": "Perform at the destination. (Requires Renown Lv. 1)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Regia",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "4"
+    },
+    "client": "Regia Townsperson, Regia",
+    "objective": "Perform at the destination. (Requires Renown Lv. 1)",
+    "rewards": [
+      "3000 Gold 200 Renown"
+    ],
+    "strategy": "Perform at the destination. (Requires Renown Lv. 1)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Simple Drink Recipes",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624681",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "4"
+    },
+    "client": "Tavern Owner, Dagsion",
+    "objective": "Deliver Sweet Leaves x1. (Requires Renown Lv. 3)",
+    "rewards": [
+      "Song of Madness 3000 Gold 150 Renown"
+    ],
+    "strategy": "Deliver Sweet Leaves x1. (Requires Renown Lv. 3)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Stolen Viewership",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626170",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "4",
+      "leda": "-"
+    },
+    "client": "Robbed Spectator, Showdown Square",
+    "objective": "Defeat the rogues.",
+    "rewards": [
+      "Vulnerary 1000 Gold 30 Renown"
+    ],
+    "strategy": "Defeat the rogues.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Stolen Knowledge",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626172",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "4",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Kinkara, Wodan Pass",
+    "objective": "Deliver Ancient Tablet x1",
+    "rewards": [
+      "Vulnerary 500 Gold 30 Renown"
+    ],
+    "strategy": "Deliver Ancient Tablet x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Fabled Insect Pearl",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626171",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "4",
+      "leda": "-"
+    },
+    "client": "Trader of Insect Pearls, Dagsion",
+    "objective": "Deliver Insect Pearl x3",
+    "rewards": [
+      "5000 Gold 30 Renown"
+    ],
+    "strategy": "Deliver Insect Pearl x3",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Aguirre",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623740",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "5",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Rubess Forest",
+    "objective": "Defeat Aguirre. (Requires Renown Lv. 3)",
+    "rewards": [
+      "Hidden Birdbane 6000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Aguirre. (Requires Renown Lv. 3)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Monster in the Night",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623754",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "5",
+      "theodora": "5",
+      "leda": "5"
+    },
+    "client": "Shopkeeper, Dagsion",
+    "objective": "Defeat the Phantom.",
+    "rewards": [
+      "1500 Gold 100 Renown"
+    ],
+    "strategy": "Defeat the Phantom.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Request to Capture Orniuses",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625322",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Lovesick Man, Dagsion",
+    "objective": "Capture and Deliver 2 Wild Orniuses",
+    "rewards": [
+      "2000 Gold 200 Renown"
+    ],
+    "strategy": "Capture and Deliver 2 Wild Orniuses",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Hidden Memories",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623946",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Old Former Soldier, Collapsed Fort",
+    "objective": "Find and Deliver the Jurah Carving",
+    "rewards": [
+      "2000 Gold 100 Renown"
+    ],
+    "strategy": "Find and Deliver the Jurah Carving",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Peculiar Message",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623961",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Woman with Broom, Dagsion",
+    "objective": "Speak with the two women with brooms.",
+    "rewards": [
+      "2000 Gold 180 Renown"
+    ],
+    "strategy": "Speak with the two women with brooms.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Behelda Axes",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623968",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "5",
+      "theodora": "5",
+      "leda": "5"
+    },
+    "client": "Angry Vandahl Merchant, Napier Woods",
+    "objective": "Defeat the Behelda Axes.",
+    "rewards": [
+      "Desert Millet",
+      "Shem Yam 1000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat the Behelda Axes.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Petals of Encouragement",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624677",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "5",
+      "theodora": "5",
+      "leda": "5"
+    },
+    "client": "Cheering Spectator, Yaaman",
+    "objective": "Obtain and Deliver a Yaamanthemum",
+    "rewards": [
+      "Linking Rock 800 Gold 50 Renown"
+    ],
+    "strategy": "Obtain and Deliver a Yaamanthemum",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Sinister Sacrifices",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624026",
+    "chapter_availability": {
+      "cai": "5",
+      "dietrich": "5",
+      "theodora": "5",
+      "leda": "5"
+    },
+    "client": "Concerned Priest, Sunset Fortress",
+    "objective": "Defeat Sithya's Secret Seal.",
+    "rewards": [
+      "Black-Magic Manual 1000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat Sithya's Secret Seal.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Caltrop Flowers",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624683",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "5",
+      "leda": "-"
+    },
+    "client": "Kumos, Dagsion",
+    "objective": "Deliver Caltrop Flower x5",
+    "rewards": [
+      "5500 Gold 100 Renown"
+    ],
+    "strategy": "Deliver Caltrop Flower x5",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - White Trout",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625203",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "5",
+      "leda": "-"
+    },
+    "client": "Stockpile Clerk, Dagsion",
+    "objective": "Deliver White Trout x20",
+    "rewards": [
+      "5500 Gold 300 Renown"
+    ],
+    "strategy": "Deliver White Trout x20",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Borges",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625323",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "5",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Niraga Mine",
+    "objective": "Defeat Borges (Requires Renown Lv. 2)",
+    "rewards": [
+      "Hidden Soulrend 5000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Borges (Requires Renown Lv. 2)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Callianeira Port",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "5"
+    },
+    "client": "Callianeira Merchant, Callianeira Port",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Sweet Leaves",
+      "Gift Box 5000 Gold 200 Renown",
+      "Traveler's Hill"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Aguino",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "5"
+    },
+    "client": "Aguino Priest, Aguino",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Sweet Leaves",
+      "Gift Box 5000 Gold 180 Renown",
+      "Ladon Lake"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Captains' Drink Recipes",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624689",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "5"
+    },
+    "client": "Tavern Owner, Dagsion",
+    "objective": "Deliver Pepper Leaves x1 (Requires Renown Lv. 6)",
+    "rewards": [
+      "Song of Icewater+ 180 Renown"
+    ],
+    "strategy": "Deliver Pepper Leaves x1 (Requires Renown Lv. 6)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Fate of the Expedition",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626204",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "5",
+      "leda": "-"
+    },
+    "client": "Concerned Merchant, Heretics' Cave",
+    "objective": "Gather information on the cave expedition.",
+    "rewards": [
+      "Lucky Coin 30 Renown"
+    ],
+    "strategy": "Gather information on the cave expedition.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "More Fabled Insect Pearls",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626208",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "5",
+      "leda": "-"
+    },
+    "client": "Trader of Insect Pearls, Dagsion",
+    "objective": "Deliver Large Insect Pearl x2",
+    "rewards": [
+      "Wun Fruit",
+      "Pongo 8000 Gold 30 Renown"
+    ],
+    "strategy": "Deliver Large Insect Pearl x2",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Primal Crystal",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626108",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "5",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Flamma-Studying Mage, Fallen General's Barrows",
+    "objective": "Deliver Soul Crystal x1",
+    "rewards": [
+      "Order Staff 30 Renown"
+    ],
+    "strategy": "Deliver Soul Crystal x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Vegetables for Saramis Guests",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624693",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Vegetable Merchant, Dagsion",
+    "objective": "Obtain and Deliver a total of 30 Coffee Berries, Zangs, and Pongos.",
+    "rewards": [
+      "2,500 Gold 200 Renown"
+    ],
+    "strategy": "Obtain and Deliver a total of 30 Coffee Berries, Zangs, and Pongos.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Ever Employed a Blacksmith",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625907",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "-",
+      "theodora": "6",
+      "leda": "6"
+    },
+    "client": "Blacksmith, Dagsion",
+    "objective": "Speak with the blacksmith.",
+    "rewards": [
+      "Smithing Stone 10 Renown"
+    ],
+    "strategy": "Speak with the blacksmith.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Energy Nuts",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626039",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "6",
+      "theodora": "6",
+      "leda": "6"
+    },
+    "client": "Wealthy Man's Servant, Sunlit Garden",
+    "objective": "Deliver Enrietto x1",
+    "rewards": [
+      "Fodlan Tea 2000 Gold 50 Renown"
+    ],
+    "strategy": "Deliver Enrietto x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Helping a Bug Hater",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625313",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Bug-Hating Soldier, Klytius Plains",
+    "objective": "Deliver Sandbael Tails x1",
+    "rewards": [
+      "2500 Gold 100 Renown"
+    ],
+    "strategy": "Deliver Sandbael Tails x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Bouquet of Eternal Love",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625324",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Old Husband, Dagsion",
+    "objective": "Deliver Linaria x20",
+    "rewards": [
+      "2500 Gold 130 Renown"
+    ],
+    "strategy": "Deliver Linaria x20",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Lost Temple Cat",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624367",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Priest Caring for Cats, Dagsion",
+    "objective": "Find the lost cat.",
+    "rewards": [
+      "2500 Gold 130 Renown"
+    ],
+    "strategy": "Find the lost cat.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Soil Survey",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626038",
+    "chapter_availability": {
+      "cai": "6",
+      "dietrich": "6",
+      "theodora": "6",
+      "leda": "6"
+    },
+    "client": "Soil Surveyor, Ruins of Megrez",
+    "objective": "Deliver Megrez Soil x1",
+    "rewards": [
+      "2000 Gold 50 Renown"
+    ],
+    "strategy": "Deliver Megrez Soil x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Sepente",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625381",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "6",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Corroios Fort Ruins",
+    "objective": "Defeat Sepente. (Requires Renown Lv. 4)",
+    "rewards": [
+      "Hidden Flowform 7500 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Sepente. (Requires Renown Lv. 4)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Black-Sand Steel",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624685",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "6",
+      "leda": "-"
+    },
+    "client": "Border Patrolman, Dagsion",
+    "objective": "Deliver Black-Sand Steel x20",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Black-Sand Steel x20",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Melara",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625231",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "6",
+      "leda": "-"
+    },
+    "client": "Weapon Researcher, Dagsion",
+    "objective": "Deliver Melara x10",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Melara x10",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Raivo Port",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "6"
+    },
+    "client": "Raivo Gossip, Raivo Port",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Sweet Leaves",
+      "Gift Box 5000 Gold 180 Renown"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Zoste",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "6"
+    },
+    "client": "Zoste Salt Merchant, Zoste",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Sweet Leaves",
+      "Vegetable Crate 5000 Gold 180 Renown"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Defeat Aguino's Thieves",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626481",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "6",
+      "leda": "-"
+    },
+    "client": "Aguino Villager, Lyoshan Fort",
+    "objective": "Defeat the thieves.",
+    "rewards": [
+      "Jyoppa 2000 Gold 30 Renown"
+    ],
+    "strategy": "Defeat the thieves.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Taste of Nostalgia",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626114",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "6",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Man Craving a Familiar Dish, Dagsion",
+    "objective": "Deliver Sandworm Meat x5",
+    "rewards": [
+      "Sunstone 3000 Gold 80 Renown"
+    ],
+    "strategy": "Deliver Sandworm Meat x5",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Special Request from Mom",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626037",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Aurora, Fortuna's Temple",
+    "objective": "Defeat the temple soldiers. (Requires Renown Lv. 8)",
+    "rewards": [
+      "Dragoon 8000 Gold"
+    ],
+    "strategy": "Defeat the temple soldiers. (Requires Renown Lv. 8)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Special Request from Pop",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626036",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Castor, Starbirth Garden",
+    "objective": "Deliver Angelica x2 (Requires Renown Lv. 7)",
+    "rewards": [
+      "Advanced License",
+      "Caladrius"
+    ],
+    "strategy": "Deliver Angelica x2 (Requires Renown Lv. 7)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "White-Maned Demon's Request",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626035",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Bertrand, Galen Fort Ruins",
+    "objective": "Defeat the thieves. (Requires Renown Lv. 10)",
+    "rewards": [
+      "Advanced License",
+      "Troubadour"
+    ],
+    "strategy": "Defeat the thieves. (Requires Renown Lv. 10)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Sword of Deadly Renown",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625559",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "7",
+      "theodora": "7",
+      "leda": "7"
+    },
+    "client": "Waiting Gladiator, Regia",
+    "objective": "Deliver Killing Edge x1",
+    "rewards": [
+      "Iron Axe 4000 Gold 50 Renown"
+    ],
+    "strategy": "Deliver Killing Edge x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Challenge",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626157",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "7",
+      "theodora": "7",
+      "leda": "7"
+    },
+    "client": "Unerring Blades, Sonai Pass",
+    "objective": "Defeat the Unerring Blades.",
+    "rewards": [
+      "1000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat the Unerring Blades.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Catching Sweetie's Eyes",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625585",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "7",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Esmeralda, Dagsion",
+    "objective": "Deliver Mature Blush x1",
+    "rewards": [
+      "Sea-Spirit Charm 10 Renown"
+    ],
+    "strategy": "Deliver Mature Blush x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Screeching, Strange Shadow",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626165",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "7",
+      "theodora": "7",
+      "leda": "7"
+    },
+    "client": "Frightened Priest, Fallen General's Barrows",
+    "objective": "Defeat the mysterious monster.",
+    "rewards": [
+      "Black-Sand Steel 1000 Gold 80 Renown"
+    ],
+    "strategy": "Defeat the mysterious monster.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Taste from Home",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625763",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "7",
+      "theodora": "7",
+      "leda": "7"
+    },
+    "client": "Homesick Citizen, Aguino",
+    "objective": "Deliver Jyoppa x1",
+    "rewards": [
+      "Pickled Bulbs 2000 Gold 50 Renown"
+    ],
+    "strategy": "Deliver Jyoppa x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Camilo",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625541",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "7",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Fort Hayn",
+    "objective": "Defeat Camilo. (Requires Renown Lv. 5)",
+    "rewards": [
+      "Hidden Giantsbane 9000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Camilo. (Requires Renown Lv. 5)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Thry Fruit",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625238",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "7",
+      "leda": "-"
+    },
+    "client": "Rations Development Officer, Dagsion",
+    "objective": "Deliver Thry Fruit x30",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Thry Fruit x30",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Carna Bonito",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625257",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "7",
+      "leda": "-"
+    },
+    "client": "Kumos, Dagsion",
+    "objective": "Deliver Carna Bonito x30",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Carna Bonito x30",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Trouble at the Gate",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625371",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Traveler from Castalia, Hugo Stronghold",
+    "objective": "Defeat the Ainja Scoundrels.",
+    "rewards": [
+      "3000 Gold 100 Renown"
+    ],
+    "strategy": "Defeat the Ainja Scoundrels.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Artisans of Megaira",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625377",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Carriage Driver, Megaira",
+    "objective": "Deliver Custom Axle x1",
+    "rewards": [
+      "5000 Gold 130 Renown"
+    ],
+    "strategy": "Deliver Custom Axle x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Help My Feelings Take Wing",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625388",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Lovestruck Fellow, Dagsion",
+    "objective": "Speak with Alexandra.",
+    "rewards": [
+      "3000 Gold 130 Renown"
+    ],
+    "strategy": "Speak with Alexandra.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Fish Are Gross",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625396",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Child Who Wants a Fish, Fina Reef",
+    "objective": "Deliver Grady Goby x1",
+    "rewards": [
+      "3000 Gold 180 Renown"
+    ],
+    "strategy": "Deliver Grady Goby x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Learning More About Mahdel",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626182",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "7"
+    },
+    "client": "Sirocco, Dagsion",
+    "objective": "Gather intel on Mahdel.",
+    "rewards": [
+      "30 Renown"
+    ],
+    "strategy": "Gather intel on Mahdel.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Mons",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "7"
+    },
+    "client": "Mons Soldier, Mons",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Sweet Leaves",
+      "Quality Weapon Crate 5000 Gold 200 Renown",
+      "Oracle Falls"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Alecto",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "7"
+    },
+    "client": "Alecto Townsperson, Alecto",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Sweet Leaves",
+      "Quality Weapon Crate 5000 Gold 200 Renown",
+      "Myugria Great Tree"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Barsk Post Town",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "7"
+    },
+    "client": "Barsk Inn, Barsk Post Town",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate 5000 Gold 200 Renown"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Popular Drink Recipes",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625557",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "7"
+    },
+    "client": "Tavern Owner, Dagsion",
+    "objective": "Deliver Bitter Leaves x1 (Requires Renown Lv. 8)",
+    "rewards": [
+      "Song of Passion+ 200 Renown"
+    ],
+    "strategy": "Deliver Bitter Leaves x1 (Requires Renown Lv. 8)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Legacy of a Legendary Sculptor",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624414",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "7",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "General Senghor's Subordinate, Dagda",
+    "objective": "Deliver the Statue of Jurah, Statue of Kalla, Statue of Yu Phas, and Statue of Fortuna",
+    "rewards": [
+      "Riding Manual",
+      "Flying Manual",
+      "Heavy-Armor Manual 5000 Gold 100 Renown"
+    ],
+    "strategy": "Deliver the Statue of Jurah, Statue of Kalla, Statue of Yu Phas, and Statue of Fortuna",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Seteth's Request",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626094",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Seteth, Mount Ouranos",
+    "objective": "Defeat the Dusk-Damned Piccolos.",
+    "rewards": [],
+    "strategy": "Defeat the Dusk-Damned Piccolos.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Magic of Theater",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625906",
+    "chapter_availability": {
+      "cai": "7",
+      "dietrich": "9",
+      "theodora": "8",
+      "leda": "8"
+    },
+    "client": "Theater Reception, Dagsion",
+    "objective": "Speak with the theater reception. (Requires Renown Lv. 7)",
+    "rewards": [
+      "Simple Pastries 10 Renown"
+    ],
+    "strategy": "Speak with the theater reception. (Requires Renown Lv. 7)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Rare Stone Hunting",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626215",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "7",
+      "leda": "-"
+    },
+    "client": "Royu the Stone Researcher, Cougar Woodlands",
+    "objective": "Deliver Ouranotite x3",
+    "rewards": [
+      "Tempest Bow 80 Renown"
+    ],
+    "strategy": "Deliver Ouranotite x3",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Il-Lara",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625407",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "8",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Il-Lara, the Piercer, Dione Fort",
+    "objective": "Defeat Il-Lara. (Requires Renown Lv. 6)",
+    "rewards": [
+      "Hidden Windpierce",
+      "Guardian 10,000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Il-Lara. (Requires Renown Lv. 6)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Huge, Hairy Beast",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626179",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "8",
+      "theodora": "8",
+      "leda": "8"
+    },
+    "client": "Attacked Merchant, Moonwatch Pass",
+    "objective": "Defeat the ravenous beasts.",
+    "rewards": [
+      "Cadam",
+      "Dates 1500 Gold 80 Renown"
+    ],
+    "strategy": "Defeat the ravenous beasts.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Blight-Louse Extermination Request",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626186",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "8",
+      "theodora": "8",
+      "leda": "8"
+    },
+    "client": "Pest Extermination Organizer, Bugs' Burrow",
+    "objective": "Defeat swarming pests.",
+    "rewards": [
+      "2500 Gold 50 Renown"
+    ],
+    "strategy": "Defeat swarming pests.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Purloined Spellcaster's Tools",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626053",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "8",
+      "theodora": "8",
+      "leda": "8"
+    },
+    "client": "Spellcaster-Tool Merchant, Secret Altar",
+    "objective": "Deliver Spellcaster's Relics x1",
+    "rewards": [
+      "White-Magic Manual 1500 Gold 80 Renown"
+    ],
+    "strategy": "Deliver Spellcaster's Relics x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Steelfish",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625278",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "8",
+      "leda": "-"
+    },
+    "client": "Betenasch Woman, Dagsion",
+    "objective": "Deliver Steelfish x10",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Steelfish x10",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Ladon Loach",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625271",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "8",
+      "leda": "-"
+    },
+    "client": "Megaira Merchant, Dagsion",
+    "objective": "Deliver Ladon Loach x35",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Ladon Loach x35",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Letter of Some Gravity",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624465",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "8",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Suspicious Knight, Unmanned Storehouse",
+    "objective": "Deliver the Sealed Letter",
+    "rewards": [
+      "1000 Gold 30 Renown"
+    ],
+    "strategy": "Deliver the Sealed Letter",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "For the Empire's Safety",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624466",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "8",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Captain Daniel, Unmanned Storehouse",
+    "objective": "Deliver the Sealed Letter",
+    "rewards": [
+      "Specialty License 200 Renown"
+    ],
+    "strategy": "Deliver the Sealed Letter",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Beasts Blocking the Path Home",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625537",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Idyian Merchant, Libertas Stronghold",
+    "objective": "Defeat Unmoving Wings.",
+    "rewards": [
+      "4000 Gold 100 Renown"
+    ],
+    "strategy": "Defeat Unmoving Wings.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Bringing Peace",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625547",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Praying Priest, Mulciber Marshlands",
+    "objective": "Defeat the Underworld Raiders.",
+    "rewards": [
+      "7000 Gold 130 Renown"
+    ],
+    "strategy": "Defeat the Underworld Raiders.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Vegetables for Arago Guests",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625577",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "High-Quality-Food Merchant, Dagsion",
+    "objective": "Obtain and Deliver a total of 30 Melara, Shaktoh, and Usamos",
+    "rewards": [
+      "2500 Gold 200 Renown"
+    ],
+    "strategy": "Obtain and Deliver a total of 30 Melara, Shaktoh, and Usamos",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Esmeralda's Request",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626073",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "10"
+    },
+    "client": "Esmeralda, Cape Damasen",
+    "objective": "Defeat the frenzied sea beasts.",
+    "rewards": [],
+    "strategy": "Defeat the frenzied sea beasts.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Beauty and Health at the Thermae",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625818",
+    "chapter_availability": {
+      "cai": "8",
+      "dietrich": "10",
+      "theodora": "9",
+      "leda": "9"
+    },
+    "client": "Thermae Reception, Dagsion",
+    "objective": "Speak with the thermae reception. (Requires Renown Lv. 8)",
+    "rewards": [
+      "Young Ghosh 10 Renown"
+    ],
+    "strategy": "Speak with the thermae reception. (Requires Renown Lv. 8)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Garum, Garum, Garum!",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626489",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "8",
+      "leda": "-"
+    },
+    "client": "Wealthy Garum Lover, Dagsion",
+    "objective": "Deliver a total of 5 Garum, Smooth Garum, Concentrated Garum, Alecto Garum, Niiza Garum, Rancid Garum",
+    "rewards": [
+      "Concoction 8000 Gold 100 Renown"
+    ],
+    "strategy": "Deliver a total of 5 Garum, Smooth Garum, Concentrated Garum, Alecto Garum, Niiza Garum, Rancid Garum",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "My Late Sister's Accessory",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624679",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "9",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Creek, Axion Gorge",
+    "objective": "Deliver Violet Brooch x1",
+    "rewards": [
+      "3000 Gold 100 Renown"
+    ],
+    "strategy": "Deliver Violet Brooch x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Spellcasters in the Forest",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626193",
+    "chapter_availability": {
+      "cai": "9",
+      "dietrich": "9",
+      "theodora": "9",
+      "leda": "9"
+    },
+    "client": "Concerned Hunter, Faun's Forest",
+    "objective": "Defeat the veiled spellcasters.",
+    "rewards": [
+      "Melara 4000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat the veiled spellcasters.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Something a God Eats",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625785",
+    "chapter_availability": {
+      "cai": "9",
+      "dietrich": "9",
+      "theodora": "9",
+      "leda": "9"
+    },
+    "client": "Devout Follower, Port of Pandora",
+    "objective": "Deliver Rahlan x1",
+    "rewards": [
+      "Eastern Black Silk 6000 Gold 50 Renown"
+    ],
+    "strategy": "Deliver Rahlan x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Cabaye",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625552",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "9",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Stoppered Shrine",
+    "objective": "Defeat Cabaye. (Requires Renown Lv. 7)",
+    "rewards": [
+      "Hidden Twinblade 10000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat Cabaye. (Requires Renown Lv. 7)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Roca",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625298",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "9",
+      "leda": "-"
+    },
+    "client": "Concerned Sibling, Dagsion",
+    "objective": "Deliver Roca x35",
+    "rewards": [
+      "5500 Gold 320 Renown"
+    ],
+    "strategy": "Deliver Roca x35",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Kothar Gar",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625299",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "9",
+      "leda": "-"
+    },
+    "client": "Megaira Restaurateur, Dagsion",
+    "objective": "Deliver Kothar Gar x10",
+    "rewards": [
+      "5500 Gold 350 Renown"
+    ],
+    "strategy": "Deliver Kothar Gar x10",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Another Challenge",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626202",
+    "chapter_availability": {
+      "cai": "9",
+      "dietrich": "-",
+      "theodora": "9",
+      "leda": "9"
+    },
+    "client": "Unerring Blades, Cape Damasen",
+    "objective": "Defeat the Unerring Blades.",
+    "rewards": [
+      "2000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat the Unerring Blades.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Great Dancer's Successor",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625697",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Vallejo, Pride of Midea, Baina Oasis",
+    "objective": "Deliver Hingosh x1",
+    "rewards": [
+      "Dancer's Necklace",
+      "Dancer"
+    ],
+    "strategy": "Deliver Hingosh x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Orens",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Orens Townsperson, Orens",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Quality Weapon Crate",
+      "Gift Box 5000 Gold 150 Renown"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Port of Pandora",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Pandora Trader, Port of Pandora",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 150 Renown",
+      "Traveler's Garden"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Mahon Castle Town",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Mahon Unifier, Mahon Castle Town",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Quality Weapon Crate",
+      "Gift Box 5000 Gold 150 Renown",
+      "Towering Sands"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Twalinn",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Twalinn Elder, Twalinn",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Land's-Limit Tower"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Breston",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Brezarant Soldier, Breston",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Da Mina Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Ancient Tower of Ash"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Whill",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "9"
+    },
+    "client": "Whill Villager, Whill",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Forest of No Return"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Missing Master",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625607",
+    "chapter_availability": {
+      "cai": "9",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Female Servant, Dagsion",
+    "objective": "Speak with the wealthy old man.",
+    "rewards": [
+      "4000 Gold 130 Renown"
+    ],
+    "strategy": "Speak with the wealthy old man.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Missing Customer",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626089",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "9",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Worried Tavern Employee, Fina",
+    "objective": "Talk to Gaston.",
+    "rewards": [
+      "Crimson Ghosh 50 Renown"
+    ],
+    "strategy": "Talk to Gaston.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Even More Fabled Insect Pearls",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626218",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "9",
+      "leda": "-"
+    },
+    "client": "Trader of Insect Pearls, Dagsion",
+    "objective": "Deliver a total of 8 Insect Pearl, Large Insect Pearl",
+    "rewards": [
+      "Thunderstone 10000 Gold 50 Renown"
+    ],
+    "strategy": "Deliver a total of 8 Insect Pearl, Large Insect Pearl",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Elegant Drink Recipes",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625580",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "10"
+    },
+    "client": "Tavern Owner, Dagsion",
+    "objective": "Deliver Wonder Leaves x1 (Requires Renown Lv. 10)",
+    "rewards": [
+      "Song of Angels",
+      "Ranger",
+      "Troubadour 200 Renown"
+    ],
+    "strategy": "Deliver Wonder Leaves x1 (Requires Renown Lv. 10)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Desert Millet",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625315",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "10",
+      "leda": "-"
+    },
+    "client": "Parent and Child from Saramis, Dagsion",
+    "objective": "Deliver Desert Millet x35",
+    "rewards": [
+      "5500 Gold 350 Renown"
+    ],
+    "strategy": "Deliver Desert Millet x35",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Venomstone",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625314",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "10",
+      "leda": "-"
+    },
+    "client": "Forest Chieftain, Dagsion",
+    "objective": "Deliver Venomstone x35",
+    "rewards": [
+      "5500 Gold 350 Renown"
+    ],
+    "strategy": "Deliver Venomstone x35",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Attack of the Huge Birds",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626199",
+    "chapter_availability": {
+      "cai": "10",
+      "dietrich": "10",
+      "theodora": "10",
+      "leda": "10"
+    },
+    "client": "Villager from Lake Brontes, Lake Brontes",
+    "objective": "Defeat the great-winged beasts.",
+    "rewards": [
+      "Shem Yam",
+      "Redflicker 3000 Gold 80 Renown"
+    ],
+    "strategy": "Defeat the great-winged beasts.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Skeleton in the Ruins",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626210",
+    "chapter_availability": {
+      "cai": "10",
+      "dietrich": "10",
+      "theodora": "10",
+      "leda": "10"
+    },
+    "client": "Mysterious Noble, Krove Ditch",
+    "objective": "Defeat the dead in Krove Ditch.",
+    "rewards": [
+      "Elixir 2000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat the dead in Krove Ditch.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "One Last Challenge",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626211",
+    "chapter_availability": {
+      "cai": "10",
+      "dietrich": "11",
+      "theodora": "10",
+      "leda": "10"
+    },
+    "client": "Unerring Blades, Mount Ouranos",
+    "objective": "Defeat the Unerring Blades.",
+    "rewards": [
+      "Cullet 3000 Gold 80 Renown"
+    ],
+    "strategy": "Defeat the Unerring Blades.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Damien",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625561",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "10",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Aditi's Cave",
+    "objective": "Defeat Damien. (Requires Renown Lv. 8)",
+    "rewards": [
+      "Hidden Truesnipe 10000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Damien. (Requires Renown Lv. 8)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Osiris",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "10"
+    },
+    "client": "Osiris Villager, Osiris",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Bitter Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Cape Nereus"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Niiza Port",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "10"
+    },
+    "client": "Niiza Trader, Niiza Port",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Bitter Leaves",
+      "Da Mina Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Arrecif Saltmarsh"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Ultand's Request",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626096",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "10"
+    },
+    "client": "Ultand, Dagsion",
+    "objective": "Deliver Mother's Gift x1",
+    "rewards": [],
+    "strategy": "Deliver Mother's Gift x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Vegetables for the Arena Basement",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625758",
+    "chapter_availability": {
+      "cai": "10",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Fresh-Vegetable Merchant, Dagsion",
+    "objective": "Obtain and Deliver a total of 30 Cocominj, Oda Monja, and Jin Ba Jiao",
+    "rewards": [
+      "2500 Gold 200 Renown"
+    ],
+    "strategy": "Obtain and Deliver a total of 30 Cocominj, Oda Monja, and Jin Ba Jiao",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Eternal Prisoner",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625782",
+    "chapter_availability": {
+      "cai": "10",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Town Gossip, Dagsion",
+    "objective": "Speak with the prisoner.",
+    "rewards": [
+      "5000 Gold 100 Renown"
+    ],
+    "strategy": "Speak with the prisoner.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Brawlers of the Plains",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625807",
+    "chapter_availability": {
+      "cai": "10",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Vigilant Soldier, Bran Plains",
+    "objective": "Defeat the snobbish crooks.",
+    "rewards": [
+      "5000 Gold 130 Renown"
+    ],
+    "strategy": "Defeat the snobbish crooks.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Assassination (No Questions)",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626095",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "10",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Suspicious Knight, Muzura Death Cave",
+    "objective": "Defeat Inno.",
+    "rewards": [
+      "5000 Gold 30 Renown"
+    ],
+    "strategy": "Defeat Inno.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Flamma Smugglers",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626205",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "10"
+    },
+    "client": "Captain Daniel, Merak Pass",
+    "objective": "Deliver Flamma x1",
+    "rewards": [
+      "Wootz Steel 3000 Gold 30 Renown"
+    ],
+    "strategy": "Deliver Flamma x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Its Name Is Da Mina",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626501",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "10",
+      "leda": "-"
+    },
+    "client": "Weapons Dealer, Dagsion",
+    "objective": "Deliver a total of 2 Da Mina Sword, Da Mina Axe, Da Mina Spear, Da Mina Bow, Da Mina Gauntlets, Da Mina Shield",
+    "rewards": [
+      "Torment Grass 20000 Gold 100 Renown"
+    ],
+    "strategy": "Deliver a total of 2 Da Mina Sword, Da Mina Axe, Da Mina Spear, Da Mina Bow, Da Mina Gauntlets, Da Mina Shield",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Berenguela",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625581",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "11",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Nemea Cavern",
+    "objective": "Defeat Berenguela. (Requires Renown Lv. 9)",
+    "rewards": [
+      "Hidden Evilbreak 11000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Berenguela. (Requires Renown Lv. 9)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Lir Fish",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625316",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "11",
+      "leda": "-"
+    },
+    "client": "Kumos, Dagsion",
+    "objective": "Deliver Lir Fish x35",
+    "rewards": [
+      "5500 Gold 350 Renown"
+    ],
+    "strategy": "Deliver Lir Fish x35",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Send Supplies - Sea-Star Stone",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625317",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "11",
+      "leda": "-"
+    },
+    "client": "Artisan Blacksmith, Dagsion",
+    "objective": "Deliver Sea-Star Stone x35",
+    "rewards": [
+      "5500 Gold 350 Renown"
+    ],
+    "strategy": "Deliver Sea-Star Stone x35",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Secret Sparkle",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626024",
+    "chapter_availability": {
+      "cai": "11",
+      "dietrich": "11",
+      "theodora": "11",
+      "leda": "11"
+    },
+    "client": "Loving Husband, Pyroxene Cave",
+    "objective": "Deliver Aegina Crystal x1",
+    "rewards": [
+      "Dew of Protection 3000 Gold 80 Renown"
+    ],
+    "strategy": "Deliver Aegina Crystal x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Defeat the Rampaging Golems",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626113",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "11",
+      "leda": "11"
+    },
+    "client": "Golem-Hating Soldier, Kurdelind Ruins",
+    "objective": "Defeat the golems of the ruins.",
+    "rewards": [
+      "Sea-Star Stone 2000 Gold 90 Renown"
+    ],
+    "strategy": "Defeat the golems of the ruins.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Benetnasch",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "11"
+    },
+    "client": "Benetnasch Villager, Benetnasch",
+    "objective": "Perform at the destination.",
+    "rewards": [
+      "Wonder Leaves",
+      "Bitter Leaves",
+      "Da Mina Crate 5000 Gold 180 Renown"
+    ],
+    "strategy": "Perform at the destination.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Flying Steed",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625815",
+    "chapter_availability": {
+      "cai": "11",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Pegasus-Seeking Mercenary, Pegasi's Peak",
+    "objective": "Deliver Wild Pegasus x1",
+    "rewards": [
+      "4000 Gold 130 Renown"
+    ],
+    "strategy": "Deliver Wild Pegasus x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Can't Go Home",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626119",
+    "chapter_availability": {
+      "cai": "11",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Boy Freed From Painting, Benetnasch",
+    "objective": "Deliver Winged-Lion Key x1",
+    "rewards": [
+      "Dew of Peace 100 Renown"
+    ],
+    "strategy": "Deliver Winged-Lion Key x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "A Lost Object",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627947",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "11",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Suspicious Knight, Iapetus Cavern",
+    "objective": "Deliver Treasured Sword x1",
+    "rewards": [
+      "Haze Badge"
+    ],
+    "strategy": "Deliver Treasured Sword x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Gold-Coin Chase",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626029",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "12",
+      "theodora": "12",
+      "leda": "12"
+    },
+    "client": "Coin Collector, Giant's-Print Fort",
+    "objective": "Deliver Djilu Coin x1",
+    "rewards": [
+      "Luxury Weapon Crate 2000 Gold 80 Renown"
+    ],
+    "strategy": "Deliver Djilu Coin x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Stolen Star Observations",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626028",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "12",
+      "theodora": "12",
+      "leda": "12"
+    },
+    "client": "Astronomer Priest, Bau-Caller's Cape",
+    "objective": "Defeat the Star-Spurning Bows.",
+    "rewards": [
+      "White-Magic Manual 3000 Gold 50 Renown"
+    ],
+    "strategy": "Defeat the Star-Spurning Bows.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Olympia's Request: Scarlet Firedrops",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626102",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Olympia, Daybreak Plains",
+    "objective": "Deliver Scarlet Firedrops x1",
+    "rewards": [],
+    "strategy": "Deliver Scarlet Firedrops x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Olympia's Request: Aurum Rose",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626103",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Olympia, Klytius Plains",
+    "objective": "Deliver Aurum Rose x1",
+    "rewards": [],
+    "strategy": "Deliver Aurum Rose x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Olympia's Request: Azure Heart",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626104",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Olympia, Valhalla Mine",
+    "objective": "Deliver Azure Heart x1",
+    "rewards": [],
+    "strategy": "Deliver Azure Heart x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "That Dark Hero",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625821",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Passionate Woman, Dagsion",
+    "objective": "Speak with Dietrich.",
+    "rewards": [
+      "7000 Gold 130 Renown"
+    ],
+    "strategy": "Speak with Dietrich.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Mystery of Headsman's Rock",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626012",
+    "chapter_availability": {
+      "cai": "12",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Temple Soldier, Headsman's Rock",
+    "objective": "Defeat the necrodragon.",
+    "rewards": [
+      "7000 Gold 130 Renown"
+    ],
+    "strategy": "Defeat the necrodragon.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dread Warrior Challenge - Oko",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625608",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "12",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Headhunter, Iapetus Cavern",
+    "objective": "Defeat Oko. (Requires Renown Lv. 10)",
+    "rewards": [
+      "Hidden Bladerule",
+      "Ranger 12000 Gold 150 Renown"
+    ],
+    "strategy": "Defeat Oko. (Requires Renown Lv. 10)",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Can't Stay Home",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627963",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "12",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Boy Freed From Painting, Ribeira",
+    "objective": "Find a buyer for the house.",
+    "rewards": [
+      "Candy Crystals 1000 Gold 50 Renown"
+    ],
+    "strategy": "Find a buyer for the house.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Hunter for Gisco's Treasure",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627408",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "12",
+      "leda": "-"
+    },
+    "client": "Mystery Chaser, Dagsion",
+    "objective": "Deliver Gisco's Treasure x1",
+    "rewards": [
+      "Morfis Almanac 5000 Gold 80 Renown"
+    ],
+    "strategy": "Deliver Gisco's Treasure x1",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "The Divine Sovereign's Secret",
+    "category": "Standard Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627439",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "12",
+      "theodora": "-",
+      "leda": "-"
+    },
+    "client": "Solel Temple Priest, Dagsion",
+    "objective": "Gather information about the Divine Sovereign.",
+    "rewards": [
+      "Flower Painting",
+      "Saraminian Sweets 120 Renown"
+    ],
+    "strategy": "Gather information about the Divine Sovereign.",
+    "raw_source": "raw_extracts/quests_walkthrough/quests_618792.html"
+  },
+  {
+    "title": "Dance for Daimon",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Daimon on the World Map",
+    "rewards": [
+      "Gift Box",
+      "Simple Weapon Crate 3000 Gold 200 Renown",
+      "Reveals Verdant Hollow"
+    ],
+    "strategy": "Progress to Chapter 4 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Regia",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Regia on the World Map",
+    "rewards": [
+      "3000 Gold 200 Renown"
+    ],
+    "strategy": "Progress to Chapter 4 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Yaaman",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Yaaman on the World Map",
+    "rewards": [
+      "Vegetable Crate",
+      "Gift Box 3000 Gold 200 Renown",
+      "Reveals Choking-Wind Valley"
+    ],
+    "strategy": "Progress to Chapter 4 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Callianeira Port",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 5"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Callianeira Port on the World Map",
+    "rewards": [
+      "Sweet Leaves",
+      "Gift Box 5000 Gold 200 Renown",
+      "Reveals Traveler's Hill"
+    ],
+    "strategy": "Progress to Chapter 5 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Aguino",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 5"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Aguino on the World Map",
+    "rewards": [
+      "Sweet Leaves",
+      "Gift Box 5000 Gold 180 Renown",
+      "Reveals Ladon Lake"
+    ],
+    "strategy": "Progress to Chapter 5 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Raivo Port",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 6"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Raivo Port on the World Map",
+    "rewards": [
+      "Sweet Leaves",
+      "Gift Box 5000 Gold 180 Renown"
+    ],
+    "strategy": "Progress to Chapter 6 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Zoste",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 6"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Zoste on the World Map",
+    "rewards": [
+      "Sweet Leaves",
+      "Vegetable Crate 5000 Gold 180 Renown"
+    ],
+    "strategy": "Progress to Chapter 6 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Barsk Post Town",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 7"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Barsk Post Town on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate 5000 Gold 200 Renown"
+    ],
+    "strategy": "Progress to Chapter 7 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Alecto",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 7"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Alecto on the World Map",
+    "rewards": [
+      "Sweet Leaves",
+      "Quality Weapon Crate 5000 Gold 200 Renown",
+      "Reveals Myugria Great Tree"
+    ],
+    "strategy": "Progress to Chapter 7 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Mons",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 7"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Mons on the World Map",
+    "rewards": [
+      "Sweet Leaves",
+      "Quality Weapon Crate 5000 Gold 200 Renown",
+      "Reveals Oracle Falls"
+    ],
+    "strategy": "Progress to Chapter 7 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Orens",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 9"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Orens on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Quality Weapon Crate",
+      "Gift Box 5000 Gold 150 Renown"
+    ],
+    "strategy": "Progress to Chapter 9 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Port of Pandora",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 9"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Port of Pandora on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 150 Renown",
+      "Reveals Traveler's Garden"
+    ],
+    "strategy": "Progress to Chapter 9 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Mahon Castle Town",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 9"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Mahon Castle Town on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Quality Weapon Crate",
+      "Gift Box 5000 Gold 150 Renown",
+      "Reveals Towering Sands"
+    ],
+    "strategy": "Progress to Chapter 9 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Twalinn",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 9"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Twalinn on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Reveals Land's-Limit Tower"
+    ],
+    "strategy": "Progress to Chapter 9 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Breston",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 9"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Breston on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Da Mina Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Reveals Ancient Tower of Ash"
+    ],
+    "strategy": "Progress to Chapter 9 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Whill",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 9"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Whill on the World Map",
+    "rewards": [
+      "Pepper Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Reveals Forest of No Return"
+    ],
+    "strategy": "Progress to Chapter 9 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Osiris",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 10"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Osiris on the World Map",
+    "rewards": [
+      "Bitter Leaves",
+      "Luxury Vegetable Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Reveals Cape Nereus"
+    ],
+    "strategy": "Progress to Chapter 10 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Niiza Port",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 10"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Niiza Port on the World Map",
+    "rewards": [
+      "Bitter Leaves",
+      "Da Mina Crate",
+      "Gift Box 5000 Gold 200 Renown",
+      "Reveals Arrecif Saltmarsh"
+    ],
+    "strategy": "Progress to Chapter 10 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Dance for Benetnasch",
+    "category": "Perform Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 11"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at Benetnasch on the World Map",
+    "rewards": [
+      "Wonder Leaves",
+      "Bitter Leaves",
+      "Da Mina Crate 5000 Gold 180 Renown"
+    ],
+    "strategy": "Progress to Chapter 11 on Leda's Path. Accept the request from the Tavern Owner in Lowtown, then travel to the designated location on the World Map to perform.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Simple Drink Recipes",
+    "category": "Drink Recipe Tavern Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4+"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at the Lowtown Tavern to unlock new drink recipes and musical Blaze Arts.",
+    "rewards": [
+      "Blaze Art: Song of Madness",
+      "Range: 1~3 Blaze: 3 Inflicts Confusion on foes in range. (Once per map.)"
+    ],
+    "strategy": "Accept quest from Tavern Owner, gather requested ingredients, and perform dance routine at the tavern.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Captains' Drink Recipes",
+    "category": "Drink Recipe Tavern Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4+"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at the Lowtown Tavern to unlock new drink recipes and musical Blaze Arts.",
+    "rewards": [
+      "Blaze Art: Song of Protection",
+      "Grants damage mitigation to adjacent allies."
+    ],
+    "strategy": "Accept quest from Tavern Owner, gather requested ingredients, and perform dance routine at the tavern.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Popular Drink Recipes",
+    "category": "Drink Recipe Tavern Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4+"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at the Lowtown Tavern to unlock new drink recipes and musical Blaze Arts.",
+    "rewards": [
+      "Blaze Art: Song of Passion+",
+      "Range: 1~2 Blaze: 2 Grants Str/Mag+7 to allies in range until unit's next phase. Replaces Song of Passion."
+    ],
+    "strategy": "Accept quest from Tavern Owner, gather requested ingredients, and perform dance routine at the tavern.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  },
+  {
+    "title": "Elegant Drink Recipes",
+    "category": "Drink Recipe Tavern Quest",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624720",
+    "chapter_availability": {
+      "cai": "-",
+      "dietrich": "-",
+      "theodora": "-",
+      "leda": "Chapter 4+"
+    },
+    "client": "Dagsion Lowtown Tavern Owner",
+    "objective": "Perform at the Lowtown Tavern to unlock new drink recipes and musical Blaze Arts.",
+    "rewards": [
+      "Blaze Art: Song of Valor",
+      "High tier musical blaze art granting party-wide buffs."
+    ],
+    "strategy": "Accept quest from Tavern Owner, gather requested ingredients, and perform dance routine at the tavern.",
+    "raw_source": "raw_extracts/quests_walkthrough/perform_quests_624720.html"
+  }
+]

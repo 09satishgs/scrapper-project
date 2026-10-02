@@ -1,0 +1,3345 @@
+[
+  {
+    "name": "Vulnerary",
+    "category": "Consumables",
+    "effect": "Restores 20 HP.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Dew of Peace",
+    "category": "Consumables",
+    "effect": "Unit cannot suffer a critical attack until unit's next phase.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Antitoxin",
+    "category": "Consumables",
+    "effect": "Removes Poison and unit cannot be Poisoned for 3 turns. Removes Poison and unit cannort be poisoned for 3 turns.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Concoction",
+    "category": "Consumables",
+    "effect": "Restores 40 HP.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "White-Magic Manual",
+    "category": "Consumables",
+    "effect": "Use to slightly increase white-magic skill.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Black-Magic Manual",
+    "category": "Consumables",
+    "effect": "Use to slightly increase black-magic skill.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Tactics Manual",
+    "category": "Consumables",
+    "effect": "Use to slightly increase authority skill.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Pure Water",
+    "category": "Consumables",
+    "effect": "Grants Res+10. (Decreases by 2 every 1 turn.)",
+    "how_to_get": "Get Pure Water from Dagsion's Item Shop; You can get Pure Water from the Item Shop in Dagsion for 500 Gold each.; Fast travel to the Shopping Arcade in Dagsion to find the Item Shop and select Buy from the shopkeeper to see his list of wares.; Found in a Treasure Chest in Nowah's Cave Elektra; You can find Pure Water in a Treasure Chest inside Nowah's Cave Elektra. Explore the dungeon to locate the chest's whereabouts. The indicator on the top right of the screen shows if you've found all of the chests in the dungeon.",
+    "raw_source": "raw_extracts/items/item_624941.html"
+  },
+  {
+    "name": "Dew of Protection",
+    "category": "Consumables",
+    "effect": "Unit takes half damage until unit's next phase.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Heavy-Armor Manual",
+    "category": "Consumables",
+    "effect": "Use to slightly increase heavy-armor skill.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Riding Manual",
+    "category": "Consumables",
+    "effect": "Use to slightly increase riding skill.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Flying Manual",
+    "category": "Consumables",
+    "effect": "Use to slightly increase flying skill.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Elixir",
+    "category": "Consumables",
+    "effect": "Restores 100 HP.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Linking Rock",
+    "category": "Consumables",
+    "effect": "Restores 40 LP. Only usable in clashes.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/consumables_621538.html"
+  },
+  {
+    "name": "Yarc Milk",
+    "category": "Gifts",
+    "effect": "Milk from yarc. It is known for its nutritional benefits. Primarily enjoyed by children.",
+    "how_to_get": "Bought from a Shop; Yarc Milk is an Item that can be bought for 50 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Peter",
+      "Mu",
+      "Sofia",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625901.html"
+  },
+  {
+    "name": "Ginji Cervi",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Ginji Cervi is an Item that can be bought for 150 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Tialla",
+      "Peter",
+      "Sofia",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625902.html"
+  },
+  {
+    "name": "Rustic Ghosh",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Rustic Ghosh is an Item that can be bought for 100 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Buccar",
+      "Tobias",
+      "Sirocco",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Majide",
+      "Goliath",
+      "Kiroc"
+    ],
+    "raw_source": "raw_extracts/items/item_625903.html"
+  },
+  {
+    "name": "Strategy Manuscript",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Strategy Manuscript is an Item that can be bought for 500 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Bonaventure",
+      "Tobias",
+      "Lilian",
+      "Ninae",
+      "Nezha",
+      "Guzran",
+      "Nydine",
+      "Benditz",
+      "Alexandra",
+      "Noctula",
+      "Yang",
+      "Jie",
+      "Goliath",
+      "Ludia",
+      "Seteth",
+      "Dadao",
+      "Inyoni",
+      "Liked",
+      "by:",
+      "Tialla",
+      "Zarcone"
+    ],
+    "raw_source": "raw_extracts/items/item_625904.html"
+  },
+  {
+    "name": "Wing Fletching",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Wing Fletching is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Peter",
+      "Tobias",
+      "Mikaela",
+      "Lysander",
+      "Lilian",
+      "Nezha",
+      "Guzran",
+      "Nydine",
+      "Benditz",
+      "Alexandra",
+      "Noctula",
+      "Zarcone",
+      "Goliath",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625905.html"
+  },
+  {
+    "name": "Strong Cervi",
+    "category": "Gifts",
+    "effect": "Fresh, rich cervi. Its sweetness and acidity make it difficult to drink. Primarily enjoyed by children.",
+    "how_to_get": "Bought from a Shop; Strong Cervi is an Item that can be bought for 100 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Peter",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625910.html"
+  },
+  {
+    "name": "Southern Ghosh",
+    "category": "Gifts",
+    "effect": "Imported ghosh from Mosa with a very bold, rich flavor. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Southern Ghosh is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!; Reward From Gifts of the Marketplace!; Southern Ghosh can be acquired after completing the quest Gifts of the Marketplace!. Follow the quest's instructions and report back to receive the gift as a reward.",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Tobias",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Goliath"
+    ],
+    "raw_source": "raw_extracts/items/item_625914.html"
+  },
+  {
+    "name": "Home-Recipe Book",
+    "category": "Gifts",
+    "effect": "A collection of home-cooked meals from around the world. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Home-Recipe Book is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Lilian",
+      "Alexandra",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth"
+    ],
+    "raw_source": "raw_extracts/items/item_625915.html"
+  },
+  {
+    "name": "Rare Spices",
+    "category": "Gifts",
+    "effect": "Extremely rare spices packed in a luxurious presentation box. Primarily enjoyed by spicy-food lovers.",
+    "how_to_get": "Bought from a Shop; Rare Spices is an Item that can be bought for 500 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Bonaventure",
+      "Buccar",
+      "Mikaela",
+      "Fianna",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625916.html"
+  },
+  {
+    "name": "Kitten Figurine",
+    "category": "Gifts",
+    "effect": "A beautiful wooden figure carved in the likeness of Smyrnos's black cat. Primarily enjoyed by animal lovers.",
+    "how_to_get": "Bought from a Shop; Kitten Figurine is an Item that can be bought for 100 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Leda",
+      "Peter",
+      "Esmeralda",
+      "Tobias",
+      "Ursula",
+      "Nydine",
+      "Io",
+      "Catania",
+      "Alexandra",
+      "Yang",
+      "Jie",
+      "Sofia",
+      "Nuzzuo",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625917.html"
+  },
+  {
+    "name": "Flexible Fishing Rod",
+    "category": "Gifts",
+    "effect": "A strong, flexible iron fishing rod that is sure to catch even the biggest fish. Primarily enjoyed by fishing enthusiasts.",
+    "how_to_get": "Bought from a Shop; Flexible Fishing Rod is an Item that can be bought for 400 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Esmeralda",
+      "Yang",
+      "Jie",
+      "Seteth"
+    ],
+    "raw_source": "raw_extracts/items/item_625583.html"
+  },
+  {
+    "name": "Honey Milk",
+    "category": "Gifts",
+    "effect": "The perfect blend of yarc milk and honey, making it that much more enticing. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Honey Milk is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Sofia",
+      "Loretta",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625918.html"
+  },
+  {
+    "name": "Eastern Black Silk",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Eastern Black Silk is an Item that can be bought for 2700 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Leda",
+      "Catania",
+      "Benditz",
+      "Ludia",
+      "Halvin",
+      "Liked",
+      "by:",
+      "Theodora",
+      "Fabio",
+      "Bonaventure",
+      "Tobias",
+      "Ninae",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625919.html"
+  },
+  {
+    "name": "Jamel Milk",
+    "category": "Gifts",
+    "effect": "A collection of baked goods that are easy to enjoy and never get old. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Jamel Milk is an Item that can be bought for 45 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Peter",
+      "Mu",
+      "Sofia",
+      "Dadao",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625920.html"
+  },
+  {
+    "name": "Mane Ornament",
+    "category": "Gifts",
+    "effect": "An ornate accessory for a horse's mane, crafted from colorful yarn. Primarily enjoyed by those who love horses.",
+    "how_to_get": "Bought from a Shop; Mane Ornament is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!; Reward From Knowing More about Him; Mane Ornament can be acquired after completing the quest Knowing More about Him. Follow the quest's instructions and report back to receive the gift as a reward.; Knowing More about Him Quest Walkthrough",
+    "liked_by": [
+      "Lysander",
+      "Ursula",
+      "Io",
+      "Alexandra"
+    ],
+    "raw_source": "raw_extracts/items/item_625584.html"
+  },
+  {
+    "name": "Red-Rose Bouquet",
+    "category": "Gifts",
+    "effect": "A bouquet of large, blazingly red roses. Primarily enjoyed by flower lovers.",
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625921.html"
+  },
+  {
+    "name": "Potted Vegetables",
+    "category": "Gifts",
+    "effect": "Potted vegetables that can be harvested throughout the year. Primarily enjoyed by vegetable lovers.",
+    "how_to_get": "Bought from a Shop; Potted Vegetables is an Item that can be bought for 200 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Fabio",
+      "Zarcone",
+      "Halvin",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_621569.html"
+  },
+  {
+    "name": "Pastry Cookbook",
+    "category": "Gifts",
+    "effect": "A cookbook filled with recipes of nutritious sweets that children would love. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Pastry Cookbook is an Item that can be bought for 200 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Tialla",
+      "Bonaventure",
+      "Peter",
+      "Esmeralda",
+      "Tobias",
+      "Ultand",
+      "Mikaela",
+      "Lilian",
+      "Sha",
+      "Lan",
+      "Alexandra",
+      "Yang",
+      "Jie",
+      "Sofia",
+      "Ludia",
+      "Seteth",
+      "Loretta",
+      "Dadao",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625922.html"
+  },
+  {
+    "name": "Protection Figurine",
+    "category": "Gifts",
+    "effect": "A doll from Brigid. It is said that spirits protect the owner. Primarily enjoyed by those who appreciate spirituality.",
+    "how_to_get": "Bought from a Shop; Protection Figurine is an Item that can be bought for 200 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Diego",
+      "Simon",
+      "Io",
+      "Noctula",
+      "Sofia",
+      "Nuzzuo",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625923.html"
+  },
+  {
+    "name": "The Works of Dante",
+    "category": "Gifts",
+    "effect": "Volume one of the famed writer Dante's greatest plays. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; The Works of Dante is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Bonaventure",
+      "Dante",
+      "Yang",
+      "Jie",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625924.html"
+  },
+  {
+    "name": "Eastern Love Story",
+    "category": "Gifts",
+    "effect": "A tragic love story between a god and mortal from the land of Sai. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; Eastern Love Story is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Ludia",
+      "Liked",
+      "by:",
+      "Tialla",
+      "Sirocco",
+      "Ultand",
+      "Ursula",
+      "Nydine",
+      "Benditz"
+    ],
+    "raw_source": "raw_extracts/items/item_625925.html"
+  },
+  {
+    "name": "Training Weights",
+    "category": "Gifts",
+    "effect": "Bracelets and ankle bands filled with lead and used in training. Primarily enjoyed by training ehtusiasts.",
+    "how_to_get": "Bought from a Shop; Training Weights is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Gaitz",
+      "Diego",
+      "Nydine",
+      "Io",
+      "Nuzzuo",
+      "Majide",
+      "Kiroc",
+      "Loretta",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625926.html"
+  },
+  {
+    "name": "Weak Cervi",
+    "category": "Gifts",
+    "effect": "Cervi commonly diluted with water. Primarily enjoyed by children.",
+    "how_to_get": "Bought from a Shop; Weak Cervi is an Item that can be bought for 45 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Peter",
+      "Mu",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625927.html"
+  },
+  {
+    "name": "Young Ghosh",
+    "category": "Gifts",
+    "effect": "A recently brewed ghosh with a sharp, fruity flavor. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Young Ghosh is an Item that can be bought for 45 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Buccar",
+      "Tobias",
+      "Sirocco",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Majide",
+      "Goliath",
+      "Kiroc"
+    ],
+    "raw_source": "raw_extracts/items/item_625928.html"
+  },
+  {
+    "name": "Young Shosh",
+    "category": "Gifts",
+    "effect": "A recently brewed shosh known for its distinct blue color. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Young Shosh is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Buccar",
+      "Sirocco",
+      "Guzran",
+      "Majide",
+      "Kiroc"
+    ],
+    "raw_source": "raw_extracts/items/item_625929.html"
+  },
+  {
+    "name": "Mature Shosh",
+    "category": "Gifts",
+    "effect": "A well-aged shosh with a deep, mellow flavor. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Mature Shosh is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Buccar",
+      "Tobias",
+      "Sirocco",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Majide",
+      "Goliath",
+      "Kiroc"
+    ],
+    "raw_source": "raw_extracts/items/item_625930.html"
+  },
+  {
+    "name": "Village Recipes",
+    "category": "Gifts",
+    "effect": "A cookbook of recipes from eastern Dagda. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Village Recipes is an Item that can be bought for 180 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Bonaventure",
+      "Buccar",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Lilian",
+      "Alexandra",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth",
+      "Halvin"
+    ],
+    "raw_source": "raw_extracts/items/item_625931.html"
+  },
+  {
+    "name": "Sturdy Rucksack",
+    "category": "Gifts",
+    "effect": "A durable leather bag that holds far more than one would expect. Primarily enjoyed by travel enthusiasts.",
+    "how_to_get": "Bought from a Shop; Sturdy Rucksack is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tobias",
+      "Nezha",
+      "Nydine",
+      "Io",
+      "Alexandra",
+      "Noctula",
+      "Nuzzuo",
+      "Goliath",
+      "Ludia",
+      "Seteth",
+      "Jasmine",
+      "Peppe",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625932.html"
+  },
+  {
+    "name": "Trader's Handbook",
+    "category": "Gifts",
+    "effect": "A book on good business practices, from negotiation to cautionary tales. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; Trader's Handbook is an Item that can be bought for 270 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Lilian",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth"
+    ],
+    "raw_source": "raw_extracts/items/item_625933.html"
+  },
+  {
+    "name": "Full Sewing Kit",
+    "category": "Gifts",
+    "effect": "A complete set of sewing essentials that are incredibly easy to use. Primarily enjoyed by fashion lovers.",
+    "how_to_get": "Bought from a Shop; Full Sewing Kit is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625934.html"
+  },
+  {
+    "name": "Gaudy Bangle",
+    "category": "Gifts",
+    "effect": "A sparkling bracelet inlaid with gemstones and decoative carvings. Primarily enjoyed by fashion lovers.",
+    "how_to_get": "Bought from a Shop; Gaudy Bangle is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Esmeralda",
+      "Lilian",
+      "Olympia",
+      "Catania",
+      "Benditz",
+      "Alexandra",
+      "Zarcone",
+      "Ludia",
+      "Halvin"
+    ],
+    "raw_source": "raw_extracts/items/item_625935.html"
+  },
+  {
+    "name": "Pack of Pastels",
+    "category": "Gifts",
+    "effect": "Made with delicate pigments, these art supplies produce beautiful, soft colors. Pirmarily enjoyed by crafting enthusiasts.",
+    "how_to_get": "Bought from a Shop; Pack of Pastels is an Item that can be bought for 300 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Sirocco",
+      "Ursula",
+      "Dante",
+      "Catania",
+      "Sofia",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625936.html"
+  },
+  {
+    "name": "Fodlan Tea",
+    "category": "Gifts",
+    "effect": "Black tea imported from Fodlan and scented with rose petals. Primarily enjoyed by those who love beverages.",
+    "how_to_get": "Bought from a Shop; Fodlan Tea is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!; Reward From Energy Nuts; Fodlan Tea can be acquired after completing the quest Energy Nuts. Follow the quest's instructions and report back to receive the gift as a reward.; Energy Nuts Quest Walkthrough",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625937.html"
+  },
+  {
+    "name": "Dual Fish Knives",
+    "category": "Gifts",
+    "effect": "Two knives of varied shape, able to slice through any fish. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Found In A Treasure Chest in Dione Fort Dungeon; Dual Fish Knives can be acquired by opening a Treasure Chest in Dione Fort Dungeon. Inside the dungeon, use the indicator on the top right to see how many chests you still haven't found!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Buccar",
+      "Sofia",
+      "Nuzzuo",
+      "Majide",
+      "Liked",
+      "by:",
+      "Simon",
+      "Majide",
+      "Jester",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625389.html"
+  },
+  {
+    "name": "Skin Balm",
+    "category": "Gifts",
+    "effect": "This premium lotion from Caelus is rumored to be used by goddesses. Primarily enjoyed by fashion lovers.",
+    "how_to_get": "Bought from a Shop; Skin Balm is an Item that can be bought for 500 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Sirocco",
+      "Olympia",
+      "Ludia",
+      "Fianna",
+      "Halvin"
+    ],
+    "raw_source": "raw_extracts/items/item_625938.html"
+  },
+  {
+    "name": "Exquisite Ring",
+    "category": "Gifts",
+    "effect": "A beautiful ring with a large gemstone and strikingly decorated pieces. Primarily enjoyed by fashion lovers.",
+    "how_to_get": "Bought from a Shop; Exquisite Ring is an Item that can be bought for 1500 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Halvin"
+    ],
+    "raw_source": "raw_extracts/items/item_625939.html"
+  },
+  {
+    "name": "Simple Pastries",
+    "category": "Gifts",
+    "effect": "A collection of baked goods that are easy to enjoy and never get old. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Simple Pastries is an Item that can be bought for 27 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Peter",
+      "Esmeralda",
+      "Halvin",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625940.html"
+  },
+  {
+    "name": "Mellow Pastries",
+    "category": "Gifts",
+    "effect": "Baked treats with a slightly sweet taste, made with juice from desert millet. Primarily enjoyed bythose who love sweets.",
+    "how_to_get": "Bought from a Shop; Mellow Pastries is an Item that can be bought for 27 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Peter",
+      "Esmeralda",
+      "Loretta",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625941.html"
+  },
+  {
+    "name": "Coffee Pastries",
+    "category": "Gifts",
+    "effect": "Sweet and sour baked goods made with coffee beans. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Coffee Pastries is an Item that can be bought for 27 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Fabio",
+      "Peter",
+      "Esmeralda",
+      "Olympia",
+      "Catania",
+      "Benditz",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625942.html"
+  },
+  {
+    "name": "Saraminian Sweets",
+    "category": "Gifts",
+    "effect": "Simple baked goods from Saramis. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Saraminian Sweets is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Peter",
+      "Esmeralda",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625943.html"
+  },
+  {
+    "name": "Garum",
+    "category": "Gifts",
+    "effect": "A salty, umamu-flavored fish sauce typically made in waterside towns. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Garum is an Item that can be bought for 45 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Esmeralda",
+      "Tobias",
+      "Ultand",
+      "Mikaela",
+      "Alexandra",
+      "Halvin"
+    ],
+    "raw_source": "raw_extracts/items/item_625944.html"
+  },
+  {
+    "name": "Alecto Garum",
+    "category": "Gifts",
+    "effect": "A luxurious garum from Alecto with a distinct, rich flavor. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Alecto Garum is an Item that can be bought for 270 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Alexandra"
+    ],
+    "raw_source": "raw_extracts/items/item_625945.html"
+  },
+  {
+    "name": "Sun Ghosh",
+    "category": "Gifts",
+    "effect": "Ghosh with a strong, bright flavor. It is often produced in dry regions. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Sun Ghosh is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Bonaventure",
+      "Tobias",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Goliath"
+    ],
+    "raw_source": "raw_extracts/items/item_625946.html"
+  },
+  {
+    "name": "Energizing Ghosh",
+    "category": "Gifts",
+    "effect": "Ghosh from Saramis with a strong, spicy flavor. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Energizing Ghosh is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Sha",
+      "Lan"
+    ],
+    "raw_source": "raw_extracts/items/item_625947.html"
+  },
+  {
+    "name": "Secret Ghosh",
+    "category": "Gifts",
+    "effect": "Ghosh made from a recipe so delicious that is kept secret. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Secret Ghosh is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Bonaventure",
+      "Tobias",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Goliath"
+    ],
+    "raw_source": "raw_extracts/items/item_625948.html"
+  },
+  {
+    "name": "Aromatic Shosh",
+    "category": "Gifts",
+    "effect": "A rare shosh with a rare flavor, brewed with a secret technique. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Aromatic Shosh is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Goliath"
+    ],
+    "raw_source": "raw_extracts/items/item_625949.html"
+  },
+  {
+    "name": "Common Coffee",
+    "category": "Gifts",
+    "effect": "An unremarkable coffee made form roasted low-quality beans. Primarily enjoyed by those who love coffee.",
+    "how_to_get": "Bought from a Shop; Common Coffee is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Fabio",
+      "Mikaela",
+      "Olympia",
+      "Gaitz",
+      "Ursula",
+      "Sha",
+      "Lan",
+      "Dante",
+      "Guzran",
+      "Io",
+      "Catania",
+      "Benditz",
+      "Yang",
+      "Jie",
+      "Sofia",
+      "Nuzzuo",
+      "Ludia",
+      "Seteth",
+      "Kiroc",
+      "Fianna",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625950.html"
+  },
+  {
+    "name": "Select Coffee",
+    "category": "Gifts",
+    "effect": "Coffee made from large, carefully selected beans. Primarily enjoyed by those who love coffee.",
+    "how_to_get": "Bought from a Shop; Select Coffee is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Fabio",
+      "Mikaela",
+      "Olympia",
+      "Sha",
+      "Lan",
+      "Dante",
+      "Guzran",
+      "Catania",
+      "Benditz",
+      "Yang",
+      "Jie",
+      "Nuzzuo",
+      "Ludia",
+      "Seteth",
+      "Kiroc",
+      "Fianna"
+    ],
+    "raw_source": "raw_extracts/items/item_625951.html"
+  },
+  {
+    "name": "Southern Coffee",
+    "category": "Gifts",
+    "effect": "A fragrant, high-quality coffee made from southern beans. Primarily enjoyed by those who love coffee.",
+    "how_to_get": "Bought from a Shop; Southern Coffee is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Fabio",
+      "Mikaela",
+      "Olympia",
+      "Guzran",
+      "Catania",
+      "Benditz",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth",
+      "Kiroc",
+      "Fianna"
+    ],
+    "raw_source": "raw_extracts/items/item_625952.html"
+  },
+  {
+    "name": "Huge Fish Eyeball",
+    "category": "Gifts",
+    "effect": "The salted eye of a giant southern fish caughtin the port of Alecto. Primarily enjoyed by fish lovers.",
+    "how_to_get": "Bought from a Shop; Huge Fish Eyeball is an Item that can be bought for 360 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Seteth",
+      "Dadao",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625953.html"
+  },
+  {
+    "name": "Shield Portrait",
+    "category": "Gifts",
+    "effect": "A painting of the War of Grania, origin of Sarami's reputation as the Shield of Dagda. Primarily enjoyed by painting lovers.",
+    "how_to_get": "Bought from a Shop; Shield Portrait is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625954.html"
+  },
+  {
+    "name": "Tales of Adventure",
+    "category": "Gifts",
+    "effect": "A book summarizing the exploits of a sailor during his time in Southern Dagda. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; Tales of Adventure is an Item that can be bought for 270 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Leda",
+      "Fabio",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Lilian",
+      "Olympia",
+      "Ninae",
+      "Nezha",
+      "Guzran",
+      "Nydine",
+      "Catania",
+      "Benditz",
+      "Alexandra",
+      "Noctula",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth",
+      "Dadao",
+      "Inyoni",
+      "Liked",
+      "by:",
+      "Tialla",
+      "Zarcone"
+    ],
+    "raw_source": "raw_extracts/items/item_625955.html"
+  },
+  {
+    "name": "Herbal Recipe Guide",
+    "category": "Gifts",
+    "effect": "A specialized book on medicinal cuisine and recipes. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Herbal Recipe Guide is an Item that can be bought for 270 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Lilian",
+      "Alexandra",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth"
+    ],
+    "raw_source": "raw_extracts/items/item_625956.html"
+  },
+  {
+    "name": "Sharp Fishhook",
+    "category": "Gifts",
+    "effect": "A piercing, high-quality fishhook carved form thick seashell. Primarily enkjoyed by fishing enthusiasts.",
+    "how_to_get": "Bought from a Shop; Sharp Fishhook is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Cai",
+      "Esmeralda",
+      "Tobias",
+      "Yang",
+      "Jie",
+      "Sofia",
+      "Ludia",
+      "Seteth",
+      "Kiroc",
+      "Peppe",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625957.html"
+  },
+  {
+    "name": "Mature Ghosh",
+    "category": "Gifts",
+    "effect": "A well-aged ghosh with a deep aroma and flavor. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Mature Ghosh is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Buccar",
+      "Tobias",
+      "Sirocco",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Majide",
+      "Goliath",
+      "Kiroc"
+    ],
+    "raw_source": "raw_extracts/items/item_625958.html"
+  },
+  {
+    "name": "Light Shosh",
+    "category": "Gifts",
+    "effect": "A light-textured shosh only made in a certain village. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Light Shosh is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Buccar",
+      "Sirocco",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Majide",
+      "Goliath",
+      "Kiroc"
+    ],
+    "raw_source": "raw_extracts/items/item_625959.html"
+  },
+  {
+    "name": "Jade Ghosh",
+    "category": "Gifts",
+    "effect": "A rare jade-colored ghosh only produced in certain regions. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Jade Ghosh is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio",
+      "Bonaventure",
+      "Tobias",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Goliath"
+    ],
+    "raw_source": "raw_extracts/items/item_625960.html"
+  },
+  {
+    "name": "Pickled Vegetables",
+    "category": "Gifts",
+    "effect": "Vegetables fermented in brine for several months. Primarily enjoyed by vegetable lovers.",
+    "how_to_get": "Bought from a Shop; Pickled Vegetables is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Mu",
+      "Sofia",
+      "Nuzzuo"
+    ],
+    "raw_source": "raw_extracts/items/item_625961.html"
+  },
+  {
+    "name": "Strong Seasonings",
+    "category": "Gifts",
+    "effect": "A condiment with a strong unusual flavor. Made by mixing spices and seafood. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Strong Seasonings is an Item that can be bought for 180 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Bonaventure",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Lilian",
+      "Guzran",
+      "Alexandra"
+    ],
+    "raw_source": "raw_extracts/items/item_625963.html"
+  },
+  {
+    "name": "Dagda Beard Grass",
+    "category": "Gifts",
+    "effect": "An herb with an odd fragrance known to soothe horses. Primarily enjoyed by those who love horses.",
+    "how_to_get": "Bought from a Shop; Dagda Beard Grass is an Item that can be bought for 180 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Theodora",
+      "Leda",
+      "Fabio",
+      "Peter",
+      "Esmeralda",
+      "Tobias",
+      "Lysander",
+      "Catania",
+      "Alexandra"
+    ],
+    "raw_source": "raw_extracts/items/item_625964.html"
+  },
+  {
+    "name": "Training Bracelet",
+    "category": "Gifts",
+    "effect": "A hefty but beautiful training accessory. Primarily enjoyed by training enthusiasts.",
+    "how_to_get": "Bought from a Shop; Training Bracelet is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Esmeralda",
+      "Tobias",
+      "Lilian",
+      "Nezha",
+      "Nydine",
+      "Alexandra",
+      "Noctula",
+      "Nuzzuo",
+      "Goliath",
+      "Ludia",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625965.html"
+  },
+  {
+    "name": "Mature Dried Cervi",
+    "category": "Gifts",
+    "effect": "Dried sediment from cevi. A light, nutritious preserve. Primarily enjoyed by children.",
+    "how_to_get": "Bought from a Shop; Mature Dried Cervi is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Peter",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625966.html"
+  },
+  {
+    "name": "Volcano Ghosh",
+    "category": "Gifts",
+    "effect": "Brewed near a volcano, this is a common ceremonial ghosh. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Volcano Ghosh is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Leda",
+      "Fabio",
+      "Bonaventure",
+      "Tobias",
+      "Sirocco",
+      "Mikaela",
+      "Guzran",
+      "Yang",
+      "Jie",
+      "Sofia",
+      "Goliath",
+      "Kiroc",
+      "Fianna",
+      "Liked",
+      "by:",
+      "Buccar",
+      "Majide"
+    ],
+    "raw_source": "raw_extracts/items/item_625391.html"
+  },
+  {
+    "name": "Orgus Coffee",
+    "category": "Gifts",
+    "effect": "A rare, strong coffee from Mount Orgus. Primarily enjoyed by those who love coffee.",
+    "how_to_get": "Bought from a Shop; Orgus Coffee is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Olympia",
+      "Liked",
+      "by:",
+      "Fabio",
+      "Mikaela",
+      "Gaitz",
+      "Guzran",
+      "Catania",
+      "Benditz",
+      "Yang",
+      "Jie",
+      "Ludia",
+      "Seteth"
+    ],
+    "raw_source": "raw_extracts/items/item_625967.html"
+  },
+  {
+    "name": "Fragrant Pastries",
+    "category": "Gifts",
+    "effect": "Fragrant sweets often baked in a high-temperature oven. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Fragrant Pastries is an Item that can be bought for 27 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Peter",
+      "Esmeralda",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625968.html"
+  },
+  {
+    "name": "Candy Crystals",
+    "category": "Gifts",
+    "effect": "High-quality candy made from crystallizing desert millet into sugar. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Candy Crystals is an Item that can be bought for 900 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Mu"
+    ],
+    "raw_source": "raw_extracts/items/item_625969.html"
+  },
+  {
+    "name": "Rancid Garum",
+    "category": "Gifts",
+    "effect": "A terrible-smelling garum specially crafted by a certain nobleman. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Rancid Garum is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625970.html"
+  },
+  {
+    "name": "Blue Shosh",
+    "category": "Gifts",
+    "effect": "A refreshing, light shosh known for its unique, sky-blue color. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625971.html"
+  },
+  {
+    "name": "Solomon Coffee",
+    "category": "Gifts",
+    "effect": "The legendary coffee of Solomon, unique in aroma and flavor. Primarily enjoyed by those who love coffee.",
+    "how_to_get": "Bought from a Shop; Solomon Coffee is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625972.html"
+  },
+  {
+    "name": "Brined Fish Guts",
+    "category": "Gifts",
+    "effect": "A savory, preserved food made of fermented fish innards, yeast, and salt. Primarily enjoyed by fish lovers.",
+    "how_to_get": "Bought from a Shop; Brined Fish Guts is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Fabio"
+    ],
+    "raw_source": "raw_extracts/items/item_625973.html"
+  },
+  {
+    "name": "Rare Southern Seeds",
+    "category": "Gifts",
+    "effect": "A rare plant species said to be found only in Southern Dagda. Primarily enjoyed by agriculture enthusiasts.",
+    "how_to_get": "Bought from a Shop; Rare Southern Seeds is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625974.html"
+  },
+  {
+    "name": "Outdoor Cooking Set",
+    "category": "Gifts",
+    "effect": "A complete set of cooking utensils designed for outodoor use. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Outdoor Cooking Set is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Buccar",
+      "Ultand",
+      "Mu",
+      "Sha",
+      "Lan",
+      "Sofia",
+      "Nuzzuo",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625975.html"
+  },
+  {
+    "name": "Morfis Tea",
+    "category": "Gifts",
+    "effect": "Black tea from Morfis, aged to a deeper flavor through a special process. Primarily enjoyed by those who love beverages.",
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625976.html"
+  },
+  {
+    "name": "Horse-Grooming Kit",
+    "category": "Gifts",
+    "effect": "A collection of horse-care tools. Primarily enjoyed by those who love horses.",
+    "how_to_get": "Bought from a Shop; Horse-Grooming Kit is an Item that can be bought for 360 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Theodora",
+      "Leda",
+      "Esmeralda",
+      "Tobias",
+      "Lysander",
+      "Gaitz",
+      "Io",
+      "Catania",
+      "Alexandra"
+    ],
+    "raw_source": "raw_extracts/items/item_625977.html"
+  },
+  {
+    "name": "Crafting Knives",
+    "category": "Gifts",
+    "effect": "A set of easy-to-use carving knives from Da Mina. Primarily enjoyed by crafting enthusiasts.",
+    "how_to_get": "Bought from a Shop; Crafting Knives is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625978.html"
+  },
+  {
+    "name": "Joint-Relief Gloves",
+    "category": "Gifts",
+    "effect": "Luxurious leather gloves that protects the arm when firing a bow. Primarily enjoyed by archers.",
+    "how_to_get": "Bought from a Shop; Joint-Relief Gloves is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Sirocco",
+      "Gaitz",
+      "Diego",
+      "Io",
+      "Nuzzuo",
+      "Majide",
+      "Jester",
+      "Kiroc",
+      "Fianna",
+      "Loretta",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625979.html"
+  },
+  {
+    "name": "Decorative Arrows",
+    "category": "Gifts",
+    "effect": "A set of three decorative arrows beautiful enough to even impress nobility. Primarily enjoyed by archers.",
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625980.html"
+  },
+  {
+    "name": "Eastern Board Games",
+    "category": "Gifts",
+    "effect": "A beautiful display piece brought from the far east. Primarily enjoyed by board-game enthusiasts.",
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625981.html"
+  },
+  {
+    "name": "Blue-Rose Bouquet",
+    "category": "Gifts",
+    "effect": "A bouquet of beautiful roses rarely found in markets. Primarily enjoyed by flower lovers.",
+    "how_to_get": "Bought from a Shop; Blue-Rose Bouquet is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Sofia",
+      "Fianna",
+      "Liked",
+      "by:",
+      "Ultand"
+    ],
+    "raw_source": "raw_extracts/items/item_625982.html"
+  },
+  {
+    "name": "Portrait of Yu Phas",
+    "category": "Gifts",
+    "effect": "An extremely rare painting depiciting the goddess Yu Phas. Primarily enjoyed by those who appreciate beauty.",
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625983.html"
+  },
+  {
+    "name": "Everyday Scenes",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Currently Under Investigation; Specific methods for getting this gift are under investigation. Please return to this page later for updates!",
+    "liked_by": [
+      "Ludia"
+    ],
+    "raw_source": "raw_extracts/items/item_625984.html"
+  },
+  {
+    "name": "Magic-Trick Set",
+    "category": "Gifts",
+    "effect": "A collection of items children often use to perform simple magic tricks. Primarily enjoyed by those who appreciate spirituality.",
+    "how_to_get": "Bought from a Shop; Magic-Trick Set is an Item that can be bought for 180 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Leda",
+      "Dante",
+      "Catania",
+      "Sofia",
+      "Ludia",
+      "Halvin",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625985.html"
+  },
+  {
+    "name": "Honey Pastries",
+    "category": "Gifts",
+    "effect": "Baked sweets made with a sizable amount of honey. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Honey Pastries is an Item that can be bought for 27 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Mu",
+      "Sofia",
+      "Loretta",
+      "Dadao",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625986.html"
+  },
+  {
+    "name": "Smooth Garum",
+    "category": "Gifts",
+    "effect": "A garum strained multiple times, creating a noticeably clean flavor. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Smooth Garum is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Tialla",
+      "Esmeralda",
+      "Tobias",
+      "Alexandra"
+    ],
+    "raw_source": "raw_extracts/items/item_625987.html"
+  },
+  {
+    "name": "Eastern Tea Leaves",
+    "category": "Gifts",
+    "effect": "Tea leaves from the land of Sai. It is a rare, high-quality, and limited product. Primarily enjoyed by those who love beverages.",
+    "how_to_get": "Bought from a Shop; Eastern Tea Leaves is an Item that can be bought for 1800 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Lilian",
+      "Olympia",
+      "Catania",
+      "Benditz",
+      "Yang",
+      "Jie",
+      "Zarcone",
+      "Ludia",
+      "Liked",
+      "by:",
+      "Theodora",
+      "Leda",
+      "Tialla",
+      "Fabio",
+      "Peter",
+      "Esmeralda",
+      "Tobias",
+      "Mikaela",
+      "Lysander",
+      "Ninae",
+      "Nezha",
+      "Guzran",
+      "Nydine",
+      "Noctula",
+      "Goliath",
+      "Seteth",
+      "Halvin",
+      "Inyoni"
+    ],
+    "raw_source": "raw_extracts/items/item_625988.html"
+  },
+  {
+    "name": "Eastern Earrings",
+    "category": "Gifts",
+    "effect": "Beautiful gold earrings from the east with deep-green beads. Primarily enjoyed by fashion lovers.",
+    "how_to_get": "Bought from a Shop; Eastern Earrings is an Item that can be bought for 720 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Leda",
+      "Esmeralda",
+      "Lilian",
+      "Olympia",
+      "Catania",
+      "Benditz",
+      "Alexandra",
+      "Ludia",
+      "Halvin",
+      "Liked",
+      "by:",
+      "Zarcone"
+    ],
+    "raw_source": "raw_extracts/items/item_625989.html"
+  },
+  {
+    "name": "Pickled Bulbs",
+    "category": "Gifts",
+    "effect": "A sour, preserved food made by pickling vegetable bulbs in vinegar. Primarily enjoyed by vegetable lovers.",
+    "how_to_get": "Bought from a Shop; Pickled Bulbs is an Item that can be bought for 90 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!; Reward From A Taste from Home; Pickled Bulbs can be acquired after completing the quest A Taste from Home. Follow the quest's instructions and report back to receive the gift as a reward.; A Taste from Home Quest Walkthrough",
+    "liked_by": [
+      "Tialla",
+      "Nezha",
+      "Zarcone"
+    ],
+    "raw_source": "raw_extracts/items/item_625990.html"
+  },
+  {
+    "name": "Poems of the Greats",
+    "category": "Gifts",
+    "effect": "A colleciton of poems from across the sea, capturing the art of other cultures. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; Poems of the Greats is an Item that can be bought for 270 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Lilian",
+      "Yang",
+      "Jie",
+      "Seteth",
+      "Dadao"
+    ],
+    "raw_source": "raw_extracts/items/item_625991.html"
+  },
+  {
+    "name": "Crimson Ghosh",
+    "category": "Gifts",
+    "effect": "A stunningly red ghosh known as a votive offering to temples. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Crimson Ghosh is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Bonaventure",
+      "Buccar",
+      "Sirocco",
+      "Majide",
+      "Kiroc",
+      "Liked",
+      "by:",
+      "Cai",
+      "Dietrich",
+      "Ultand",
+      "Gaitz",
+      "Ursula",
+      "Diego",
+      "Dante",
+      "Simon",
+      "Ninae",
+      "Io",
+      "Sofia",
+      "Nuzzuo",
+      "Majide",
+      "Jester",
+      "Fianna",
+      "Loretta",
+      "Halvin",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625992.html"
+  },
+  {
+    "name": "Niiza Garum",
+    "category": "Gifts",
+    "effect": "Garum from Niiza Port. Commonly used in trade with Fodlan. Primarily enjoyed by those who love to cook.",
+    "how_to_get": "Bought from a Shop; Niiza Garum is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Buccar",
+      "Sha",
+      "Lan",
+      "Sofia",
+      "Nuzzuo",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625993.html"
+  },
+  {
+    "name": "Spirit Board Game",
+    "category": "Gifts",
+    "effect": "Board game from Brigid with spirit-themed pieces. Primarily enjoyed by board-game enthusiasts.",
+    "how_to_get": "Bought from a Shop; Spirit Board Game is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Io",
+      "Jester",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_625994.html"
+  },
+  {
+    "name": "Thick Foreign Tome",
+    "category": "Gifts",
+    "effect": "A book from Fodlan about spirit magic. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; Thick Foreign Tome is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Bonaventure"
+    ],
+    "raw_source": "raw_extracts/items/item_625995.html"
+  },
+  {
+    "name": "Pure-White Cervi",
+    "category": "Gifts",
+    "effect": "A refreshing cervi with very few impurities. Primarily enjoyed by those who love sweets.",
+    "how_to_get": "Bought from a Shop; Pure-White Cervi is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Mu",
+      "Sofia",
+      "Loretta",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625996.html"
+  },
+  {
+    "name": "Divination Bagua",
+    "category": "Gifts",
+    "effect": "A tool from Sai that uses the Bagua system to tell fortunes. Primarily enjoyed by fortune tellers.",
+    "how_to_get": "Bought from a Shop; Divination Bagua is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_625997.html"
+  },
+  {
+    "name": "Special “Medicine”",
+    "category": "Gifts",
+    "effect": "It's said a single cup of ghosh can cure any mild illness. Primarily enjoyed by lovers of fermented drinks.",
+    "how_to_get": "Bought from a Shop; Special “Medicine” is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Sha",
+      "Lan"
+    ],
+    "raw_source": "raw_extracts/items/item_625998.html"
+  },
+  {
+    "name": "Arrowhead Gem",
+    "category": "Gifts",
+    "effect": "A large, beautiful gemstone shaped like an arrowhead. Primarily enjoyed by fashion lovers.",
+    "how_to_get": "Bought from a Shop; Arrowhead Gem is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Loved",
+      "by:",
+      "Sirocco",
+      "Diego",
+      "Nuzzuo",
+      "Majide",
+      "Jester",
+      "Kiroc",
+      "Fianna",
+      "Peppe",
+      "Liked",
+      "by:",
+      "Cai",
+      "Dietrich",
+      "Buccar",
+      "Mu",
+      "Gaitz",
+      "Ursula",
+      "Dante",
+      "Ninae",
+      "Io",
+      "Sofia",
+      "Kiroc",
+      "Loretta",
+      "Jasmine"
+    ],
+    "raw_source": "raw_extracts/items/item_625999.html"
+  },
+  {
+    "name": "Board-Game Tactics",
+    "category": "Gifts",
+    "effect": "A book of techniques for various board games, devised by masters. Primarily enjoyed by board-game enthusiasts.",
+    "how_to_get": "Bought from a Shop; Board-Game Tactics is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Io",
+      "Jester",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_626000.html"
+  },
+  {
+    "name": "Tales of the Arena",
+    "category": "Gifts",
+    "effect": "A collection of stories about the exploits of various gladiators. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; Tales of the Arena is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Bonaventure"
+    ],
+    "raw_source": "raw_extracts/items/item_626001.html"
+  },
+  {
+    "name": "Ceremonial Spear",
+    "category": "Gifts",
+    "effect": "A beautifully decorated spear. It is not durable enough for practical use. Primarily enjoyed by weapon lovers.",
+    "how_to_get": "Bought from a Shop; Ceremonial Spear is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Bonaventure"
+    ],
+    "raw_source": "raw_extracts/items/item_626002.html"
+  },
+  {
+    "name": "Jade Panther Figure",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Jade Panther Figure is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Halvin"
+    ],
+    "raw_source": "raw_extracts/items/item_626003.html"
+  },
+  {
+    "name": "Training Pillar",
+    "category": "Gifts",
+    "effect": "A small, stone pillar found in an ancient ruin. Primarily enjoyed by training enthusiasts.",
+    "how_to_get": "Bought from a Shop; Training Pillar is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "Dietrich",
+      "Gaitz",
+      "Diego",
+      "Io",
+      "Nuzzuo",
+      "Majide",
+      "Kiroc",
+      "Loretta",
+      "Jasmine",
+      "Peppe"
+    ],
+    "raw_source": "raw_extracts/items/item_626004.html"
+  },
+  {
+    "name": "Concentrated Garum",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Concentrated Garum is an Item that can be bought for 135 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_626005.html"
+  },
+  {
+    "name": "Tome from Away",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Tome from Away is an Item that can be bought for 450 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_626006.html"
+  },
+  {
+    "name": "Morfis Almanac",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Morfis Almanac is an Item that can be bought for 1350 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_626007.html"
+  },
+  {
+    "name": "Ebony Game Board",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": "Bought from a Shop; Ebony Game Board is an Item that can be bought for 720 Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_626008.html"
+  },
+  {
+    "name": "Imitation Medal",
+    "category": "Gifts",
+    "effect": "A cheap replica of a military medal from ancient times. Primarily enjoyed by those who revere martial achievements.",
+    "how_to_get": "Bought from a Shop; Imitation Medal is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_626009.html"
+  },
+  {
+    "name": "History of a Master",
+    "category": "Gifts",
+    "effect": "Proverbs of a mysterious old man, noted by a king during his travels. Primarily enjoyed by book lovers.",
+    "how_to_get": "Bought from a Shop; History of a Master is an Item that can be bought for Gold. You can find them in the locations above. Usually, you can only buy these gifts once before they need to be restocked. Make sure to use them wisely!",
+    "liked_by": [
+      "TBA"
+    ],
+    "raw_source": "raw_extracts/items/item_626010.html"
+  },
+  {
+    "name": "Adamantine",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Currently Unknown; We're currently investigating the sources of Adamantine. We will update this page as soon as possible, but you can also help via the comments section!",
+    "raw_source": "raw_extracts/items/item_628093.html"
+  },
+  {
+    "name": "Warrior's Soulstone",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Warrior's Soulstone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628094.html"
+  },
+  {
+    "name": "Nemearite",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Nemearite by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628095.html"
+  },
+  {
+    "name": "Agarthium",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Agarthium by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628083.html"
+  },
+  {
+    "name": "Black-Sand Steel",
+    "category": "Ores",
+    "effect": "A high-quality ore, often found in iron mines. Known for its low rate of carbon and other impurities.",
+    "how_to_get": "Found in Dungeons; You can acquire Black-Sand Steel by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Black-Sand Steel by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Black-Sand Steel.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628102.html"
+  },
+  {
+    "name": "Blue Snoll",
+    "category": "Ores",
+    "effect": "A rare ore that occasionally forms in dark, cold places. It glows with a plae-blue light.",
+    "how_to_get": "Found in Dungeons; You can acquire Blue Snoll by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628099.html"
+  },
+  {
+    "name": "Cullet",
+    "category": "Ores",
+    "effect": "A sturdy crystal shard, found in caves throughout the land. Often used in smithing to sharpen blades.",
+    "how_to_get": "Found in Dungeons; You can acquire Cullet by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Obtained as a Quest Reward; You can obtain Cullet, 3000 Gold, and 80 Renown Points as a reward for completing the One Last Challenge quest. See the table above for details and complete it to receive Cullet.; One Last Challenge Quest Walkthrough",
+    "raw_source": "raw_extracts/items/item_626508.html"
+  },
+  {
+    "name": "Lunar Stone",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Lunar Stone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628092.html"
+  },
+  {
+    "name": "Orichalcum",
+    "category": "Ores",
+    "effect": "A rare mineral with a gold sparkle. It can store magic within itself and is strictly regulated by the temples.",
+    "how_to_get": "Currently Unknown; We're currently investigating the sources of Orichalcum. We will update this page as soon as possible, but you can also help via the comments section!",
+    "raw_source": "raw_extracts/items/item_628096.html"
+  },
+  {
+    "name": "Phlogiston",
+    "category": "Ores",
+    "effect": "A very durable mineral, only found in specific places. It creates sparks when struck with the right metal.",
+    "how_to_get": "Found in Dungeons; You can acquire Phlogiston by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628097.html"
+  },
+  {
+    "name": "Sea-Star Stone",
+    "category": "Ores",
+    "effect": "A rare ore that forms in caves near the ocean. It contains the power of the sea.",
+    "how_to_get": "Currently Unknown; We're currently investigating the sources of Sea-Star Stone. We will update this page as soon as possible, but you can also help via the comments section!",
+    "raw_source": "raw_extracts/items/item_628101.html"
+  },
+  {
+    "name": "Smithing Stone",
+    "category": "Ores",
+    "effect": "A common ore found throughout the land. Known as a cornerstone in smithing materials.",
+    "how_to_get": "Found in Dungeons; You can acquire Smithing Stone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Smithing Stone by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Smithing Stone.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628090.html"
+  },
+  {
+    "name": "Spellshard",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Spellshard by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628100.html"
+  },
+  {
+    "name": "Sunstone",
+    "category": "Ores",
+    "effect": "A rare ore that forms in areas that are frequently bathed in sunlight. It contains the brilliance of the sun.",
+    "how_to_get": "Found in Dungeons; You can acquire Sunstone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Sunstone by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Sunstone.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628098.html"
+  },
+  {
+    "name": "Thunderstone",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Thunderstone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Thunderstone by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Thunderstone.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628106.html"
+  },
+  {
+    "name": "Umbral Steel",
+    "category": "Ores",
+    "effect": "An extremely rare, mystical metal. Some theorize it originally fell to this world on an ancient meteorite.",
+    "how_to_get": "Found in Dungeons; You can acquire Umbral Steel by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.",
+    "raw_source": "raw_extracts/items/item_628105.html"
+  },
+  {
+    "name": "Venomstone",
+    "category": "Ores",
+    "effect": "An ore that absorbs airborne toxins and stores them inside. It can be dangerous unless mined carefully.",
+    "how_to_get": "Found in Dungeons; You can acquire Venomstone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Venomstone by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Venomstone.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628103.html"
+  },
+  {
+    "name": "Windstone",
+    "category": "Ores",
+    "effect": "A rare ore that forms in caves with relentless air currents. It contains the power of the wind.",
+    "how_to_get": "Found in Dungeons; You can acquire Windstone by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Windstone by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Windstone.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628104.html"
+  },
+  {
+    "name": "Wootz Steel",
+    "category": "Ores",
+    "effect": null,
+    "how_to_get": "Found in Dungeons; You can acquire Wootz Steel by destroying crystals in dungeons. The ore you get upon destroying a crystal is random, and you can enter and exit the dungeon until you get the necessary amount of ore.; Search in an Area on the World Map; You can acquire Wootz Steel by gathering them in Search areas on the World Map. The Item you get upon searching is random, so keep searching the area until you get the necessary amount of Wootz Steel.; You can also hover an area in the World Map to see which Item you can get from searching it.",
+    "raw_source": "raw_extracts/items/item_628088.html"
+  },
+  {
+    "name": "Oda Monja",
+    "category": "Vegetables",
+    "effect": "A specialty in Saramis. It is bitter, but satisfying, and requires many steps before it is actually edible.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Angelica",
+    "category": "Vegetables",
+    "effect": "A rare herb cultivated for its stems and leaves. It has a sweet, rich flavor, and high medecinal benefits.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Usamos",
+    "category": "Vegetables",
+    "effect": "A fragrant and popular wild herb that is rarely farmed. Only the root stem is edible.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Roca",
+    "category": "Vegetables",
+    "effect": "A vegetable found in northern areas. Known for its spherical red root, it loses spiciness when heated.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Jin Ba Jiao",
+    "category": "Vegetables",
+    "effect": "A fruit that grows wildly in forests. It is sweet and highly nutritious. Its leaf fiber can also be harvested.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Liganet",
+    "category": "Vegetables",
+    "effect": "An unusual fruit that grows mainly in central Dagda. Its flavor is known to deepen as it grows in size.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Dates",
+    "category": "Vegetables",
+    "effect": "A sweet, drought-resistant fruit that thrives in the desert. It preserves excellently when dried.",
+    "how_to_get": "Search for Dates in Nysiades Desert; You can farm Dates in areas around Nysiades Desert by Searching in certain settlements there such as in Tarvos. You can head to one of these settlements, then press the Search command to have your characters use a turn to find them.; The Nysiades Desert is inaccessible to Cai in Part I and will only unlock later in his story route, which means Cai will have a slightly difficult time finding Dates than other characters.; Buy Dates at Baina Oasis; Still in Nysiades Desert, you can buy Dates for 30 Gold each in Baina Oasis. Do note however that this may require a Renown check, so you can't get this early on.; Buy in Other Outpost Shops; You can buy some Dates in Map Shops around the continent. Look for vendors such as Vandahl Trading Co. as they may have stocks of Dates.; Complete Huge, Hairy Beasts Subquest; Completing the Huge, Hairy Beasts subquest will allow you to get 2 Dates as a reward for completion.; List of All Quests; If you're playing as Cai, you can plant any Dates you've obtained to get more of this material. This is the best way to obtain more Dates in this route, since Cai does not have access to the Nysiades Desert in Part I.; It's recommended to plant the Dates you obtain from the Huge, Hairy Beasts quest, since this is the only reliable source of Dates you can get on this route.; Cai's Path and Route Walkthrough",
+    "raw_source": "raw_extracts/items/item_624312.html"
+  },
+  {
+    "name": "Cadam",
+    "category": "Vegetables",
+    "effect": "A southern plant with shelled fruit containing oil. The shells are used to make containers for small items.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Redflicker",
+    "category": "Vegetables",
+    "effect": "A pungent vegetable that grows in mountainous areas. Its fruit is often dried and used in cooking.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Ninokka",
+    "category": "Vegetables",
+    "effect": "A popular, luxurious plant. The bark is boiled to produce a high-quality sweetener.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Red Kimbai",
+    "category": "Vegetables",
+    "effect": "A mutant species of the kimbai with vivid red flowers. Its seeds are prized for their potent flavor.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Pyrethrum",
+    "category": "Vegetables",
+    "effect": "A wild herb of the Castalia region. It works well as an ornament or as insect repellent.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Oda Moja",
+    "category": "Vegetables",
+    "effect": "A specialty in Saramis. It is bitter, but satisfying, and requires many steps before it is actually edible.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Crestor",
+    "category": "Vegetables",
+    "effect": "A rare desert plant. Its versatile leaves can be used as spices or as medicinal ingredients.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Miranilla",
+    "category": "Vegetables",
+    "effect": "A fragrant herb from Castalia. It is delicious, but consuming it in excess can cause the body to smell.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Yukito",
+    "category": "Vegetables",
+    "effect": "A popular vegetable. While it is rarely farmed, its buds are harvested for food.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Tea Tree",
+    "category": "Vegetables",
+    "effect": "A Lambath-region plant. Its tender new shoots are dried and steeped to bring out their deep fragrance.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Tenebato",
+    "category": "Vegetables",
+    "effect": "A bean that thrives in mountainous areas. Fermented in some regions, it is highly nutritious.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Yaamanthemum",
+    "category": "Vegetables",
+    "effect": "A rare flower that only blooms in a certain area. Famous as a specialty product of Yaaman Vilage.",
+    "how_to_get": "Buy from the Shop in Yaaman Village; Yaamanthemum can be bought from the Item Shop in Yaaman Village for 50 Gold. Head to the area and buy from the shopkeeper to see their list of wares.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_624326.html"
+  },
+  {
+    "name": "Bitter Leaves",
+    "category": "Vegetables",
+    "effect": "Used to mix drinks. An herb that adds a light, bitter zip to mixed drinks. It is a favored ingredient of tavern patrons.",
+    "how_to_get": "Perform a Dance in Osiris as Leda; Bitter Leaves are obtained by following the Dance for Osiris quest in Leda's Path and performing in Osiris. This settlement is found along the shorelines of Solidus, located northwest of the map.; Found from Search Nodes; After completing Dance for Osiris, some search nodes uncovered by completing Perform Quests will have Bitter Leaves in their reward tables. These include:; ・Traveler's Garden (unlocked by Dance for Pandora Port) ・Cape Nereus (unlocked by Dance for Osiris) ・Maharipa Garden (unlocked by Dance for Benetnasch); List of All Perform Quests and Rewards",
+    "raw_source": "raw_extracts/items/item_624272.html"
+  },
+  {
+    "name": "Cinnamos",
+    "category": "Vegetables",
+    "effect": "An herb from the Pasithea region with similar fragrances to cinnamon. Typically, only its leaves are used.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Wonder Leaves",
+    "category": "Vegetables",
+    "effect": "Used to mix drinks.",
+    "how_to_get": "Obtained from Dance for Benetnasch; Wonder Leaves can be earned as a reward from completing the Perform Quest Dance for Benetnasch on Leda's Path, Chapter 11.; These leaves can be used to complete the Elegant Drink Recipes quest, which unlocks the Ranger and Troubador Advanced Classes on Leda's Path. The quest also unlocks Leda's Song of Angels Blaze Art.; Elegant Drink Recipes Guide; Found from Maharipa Garden; After completing Dance for Benetnasch, a hidden Search node called Maharipa Garden will be revealed on the World Map. Searching there will have a chance to award Wonder Leaves as well as Bitter Leaves.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_626040.html"
+  },
+  {
+    "name": "Sweet Leaves",
+    "category": "Vegetables",
+    "effect": "Used to mix drinks. A sweet herb that grows mainly in forests. Often used to make mixed drinks, it is favored by tavern regulars.",
+    "how_to_get": "Received from Dance for Callianeira Port; Sweet Leaves are an item required to complete the Simple Drink Recipes quest on Leda's Path. They appear as a reward for completing the Dance for Callianeira Port Perform Quest.; Simple Drink Recipes Quest Walkthrough; Obtained from Search; After completing Simple Drink Recipes, Sweet Leaves appear in Search Nodes that unlock after completing more Perform Quests, including:; ・Verdant Hollow (unlocked by Dance for Daimon) ・Traveler's Hill (unlocked by Dance for Callianeira Port) ・Myuguria Great Tree (unlocked by Dance for Alecto); List of All Perform Quests and Rewards",
+    "raw_source": "raw_extracts/items/item_626016.html"
+  },
+  {
+    "name": "Hingosh",
+    "category": "Vegetables",
+    "effect": "Used to repair the Dancer's Necklace",
+    "how_to_get": "Obtained from Baina Oasis Market; Hingosh can be purchased for 1,500 Gold at the Market Vendor in the Baina Oasis Settlement in the middle of the Nysaides Desert. Reaching there is a complex process and is part of the exploration portion of the Great Dancer's Successor subquest on Leda's Path, Part 1, Chapter 9.; Great Dancer's Successor Quest Walkthrough; Found via Search; Hingosh can also be found in the Ere Mountains Search Node in the Thaleia Region. However, it is a rare drop, and may not always appear from a search action.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_625820.html"
+  },
+  {
+    "name": "Noa Fruit",
+    "category": "Vegetables",
+    "effect": "A mutant species of the wun fruit, only found north of Nowah's Cave. Its exquisite fragrance is legendary.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Ginji",
+    "category": "Vegetables",
+    "effect": "A fruit that grows wildly on tree trunks throughout Dagda. It is typically used to make ghosh.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Linaria",
+    "category": "Vegetables",
+    "effect": "A common plant in Dagda, known for its wide array of colored flowers. It is sturdy and resilient.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Caltrop Flower",
+    "category": "Vegetables",
+    "effect": "A plant that grows in relatively mild climates. The edible part is its distinct, square-shaped flower.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Coffee Berries",
+    "category": "Vegetables",
+    "effect": "Berries widely cultivated in the south. The seeds can be removed and roasted then traded as coffee in various regions.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Obroma",
+    "category": "Vegetables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Pepper Leaves",
+    "category": "Vegetables",
+    "effect": "Used to mix drinks. An herb known to add a sharp zing to mixed drinks. It is a favored ingredient of tavern patrons.",
+    "how_to_get": "Received from Dance for Barsk Post Town; Pepper Leaves are an item required to complete the Captains' Drink Recipes quest on Leda's Path. They appear as a reward for completing the Dance for Barsk Post Town Perform Quest.; Captains' Drink Recipes Quest Walkthrough; Received from Search; More Pepper Leaves can be acquired via the World Map Search function after completing Dance for Barsk Post Town.; Pepper Leaves typically drop from the hidden nodes that are uncovered after completing a Local Performance quest on Leda's Path in Part 1. These include:; ・Myugria Great Tree (unlocked by Dance for Alecto) ・Cape Nereus (unlocked by Dance for Osiris) ・Forest of No Return (unlocked by Dance for Whill) ・Traveler's Garden (Unlocked by Dance for Pandora Port); List of All Perform Quests and Rewards",
+    "raw_source": "raw_extracts/items/item_625828.html"
+  },
+  {
+    "name": "Pongo",
+    "category": "Vegetables",
+    "effect": "A distinct vegetable that grows mainly in the Melias-region plains, Known for its mild, slightly bitter taste.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Glirmosa",
+    "category": "Vegetables",
+    "effect": "A beautiful plant but highly poisonous. Must be properly prepared before consumption. Useful as an insect repellant.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Blue Ginji",
+    "category": "Vegetables",
+    "effect": "A rare, mutant species of ginji. this variant is bright blue and is used as an ingredient for shosh.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Thry Fruit",
+    "category": "Vegetables",
+    "effect": "A plant that can grow almost anywhere. Its fruit is often crushed and used as accent flavoring.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Wun Fruit",
+    "category": "Vegetables",
+    "effect": "A pleasantly bitter plant that thrives in high altitude. It is often mistaken for the toxic tew fruiit.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Zang",
+    "category": "Vegetables",
+    "effect": "A bitter vegetable that thrives in low altitudes. It is known to soothe the mind when ingested.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Jyoppa",
+    "category": "Vegetables",
+    "effect": "A massive fruit. It is exceptionally fragrant with a slightly bitter taste. It is often preserved in honey.",
+    "how_to_get": "Buy Jyoppa in Aguino Market; To acquire Jyoppa, you can head to the Aguino settlement and purchase the item from the Aguino Market for 500 Gold. Once you reach the settlement, select Use Facilities to locate the market.",
+    "raw_source": "raw_extracts/items/item_624348.html"
+  },
+  {
+    "name": "Hakseng",
+    "category": "Vegetables",
+    "effect": "A leafy fruit commonly found in the east. It has a refined flavor but spoils quickly, turning bitter.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Oliva",
+    "category": "Vegetables",
+    "effect": "A widespread, drought-resistant plant. Its edible fruit is often squeezed and processed into oil.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Shem Yam",
+    "category": "Vegetables",
+    "effect": "A plant that thrives in humid habitats. Its rhizomes store well and are a great source of nutrients.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Bakul",
+    "category": "Vegetables",
+    "effect": "A widely used grain. It requires ample water to grow, so it is farmed in areas with large rivers.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Desert Millet",
+    "category": "Vegetables",
+    "effect": "A plant that thrives in dry regions. With edible kernels, it has a strong flavor and earthy aroma.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Enrietto",
+    "category": "Vegetables",
+    "effect": "A rare nut that can grow in windy hill-lands. It is highly valued as a nutritional tonic.",
+    "how_to_get": "Search Sunlit Garden for Enrietto; To acquire Enrietto, you can head to Sunlit Garden near Feronia Posthouse and Search the area. Enrietto appears as a rare drop, so may have to spend a couple turn searching before you get it.",
+    "raw_source": "raw_extracts/items/item_624324.html"
+  },
+  {
+    "name": "Melara",
+    "category": "Vegetables",
+    "effect": "A fungus of Northern Dagda with a flame-like appearance, Eating too much can lead to fainting.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Fyujo",
+    "category": "Vegetables",
+    "effect": "A vivid-blue fruit that thrives in hot, humid climates. It is popular as preserved food.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Torment Grass",
+    "category": "Vegetables",
+    "effect": "A plant with leaves so spiecy they are often described as fiery. Highly prized as rare spice.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Lightstar",
+    "category": "Vegetables",
+    "effect": "A rare plant that grows in specific areas. It produces large fruit at the end of its vines.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/vegetables_621536.html"
+  },
+  {
+    "name": "Paradise Fish",
+    "category": "Fishes",
+    "effect": "A legendary fish, also known as the divine trout. It is said to strengthen the body when consumed.",
+    "how_to_get": "Search in Lake Brontes; Paradise Fish can be found in Lake Brontes, Saveillon, south of Dagda. Upon reaching it, interact with the landmark and hit Search to get loot.; Note that the fish itself may take several tries until it appears, so keep on hitting Search as long as you have a decent amount of turns left. If you're playing on Theodora's route, you may want to deploy a battalion to search this node.",
+    "raw_source": "raw_extracts/items/item_624317.html"
+  },
+  {
+    "name": "Rahlan",
+    "category": "Fishes",
+    "effect": "A fish found in the Lir Sea. Known for its distinct flavor, it can only be prepared by expert chefs.",
+    "how_to_get": "Buy from the Shop in Port of Pandora; Rahlan can be bought from the Item Shop in Port of Pandora for 3000 Gold. You can get to Port Pandora by traveling through Alma Greatplains then Utuna Pass.; After Utuna Pass, you will have a clear, straight path to Port of Pandora so you can buy the item from there.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_624345.html"
+  },
+  {
+    "name": "Skolai",
+    "category": "Fishes",
+    "effect": "An octopus that lives on the seabed and has a sturdy shell protecting its head. It is delicious when boiled.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Bedfish",
+    "category": "Fishes",
+    "effect": "A rare fish found in both seas and lakes. Because it lives in extremely deep waters, it is rarely caught.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Steelfish",
+    "category": "Fishes",
+    "effect": "A rugged fish known for its thick exterior. Its flesh has a light, elegant flavor.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Sugar Marlin",
+    "category": "Fishes",
+    "effect": "A migratory fish with a short beak. Its meat is thick and sweet. It pairs well with many dishes.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Baal Pike",
+    "category": "Fishes",
+    "effect": "A common freshwater fish of Lake Baal known for its notable lifespan and size. Its meat is pleasantly sweet.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Golden Trout",
+    "category": "Fishes",
+    "effect": "A sweet fish with beautiful, golden scales. It can survive in both freshwater and saltwater habitats.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Bazari Shark",
+    "category": "Fishes",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Carna Bonito",
+    "category": "Fishes",
+    "effect": "A large, carnivorous open-sea fish. Its meat is thick and rich, and can be prepared in many ways.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Ladon Loach",
+    "category": "Fishes",
+    "effect": "A resilient freshwater fish that can thrive in polluted habitats. Best purged of muc before cooking.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Ladon Pike",
+    "category": "Fishes",
+    "effect": "A freshwater fish found in large lakes. It has a powerful odor and requires expert preparation.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Moonfish",
+    "category": "Fishes",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Kothar Gar",
+    "category": "Fishes",
+    "effect": "A freshwater fish known for its incredibly thick scales. It hides in areas with relatively low currents.",
+    "how_to_get": "Get Kothar Gar from Alcineus Span; Kothar Gar can be acquired in Alcineus Span, immediately to the left of Dagsion in the World Map. Head to the area and use Search to gather fish, and you'll acquire Kothar Gar at random.",
+    "raw_source": "raw_extracts/items/item_624842.html"
+  },
+  {
+    "name": "Talto Goby",
+    "category": "Fishes",
+    "effect": "A common Dagdan freshwater fish. It is small and flat with bones that can be removed or eaten whole.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "White Trout",
+    "category": "Fishes",
+    "effect": "A salty fish with silver-white scales. It can survive in both freshwater and saltwater habitats.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Grady Goby",
+    "category": "Fishes",
+    "effect": "A common fish found in the Lir Sea. It is often spotted beneath the seabed, peeking out curiously.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Queen Loach",
+    "category": "Fishes",
+    "effect": "A freshwater fish commonly found in lakes. With its elegance, it is often called the Queen of the Lake.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Lir Fish",
+    "category": "Fishes",
+    "effect": "A fish found widely in the Lir Sea. It is small but fiercely aggressive, often tearing through fishing nets.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Meltfish",
+    "category": "Fishes",
+    "effect": "A deep-sea fish found in the Pasha Currents. Incredibly fatty and delicious, but fills the stomach quickly.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Dagdandi",
+    "category": "Fishes",
+    "effect": "An ancient freshwater-lake fish with a striking appearance. Drying it brings forth a deep flavor.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/fishes_624948.html"
+  },
+  {
+    "name": "Sand-Boar Meat",
+    "category": "Meats",
+    "effect": "A rich, flavorful meat, known for its succulence. It is widely agreed that females produce the best cuts.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Wolf Meat",
+    "category": "Meats",
+    "effect": "A tough, sinewy meat that is often seasoned and sun-dried into jerky.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Yarc Meat",
+    "category": "Meats",
+    "effect": "A tender, gamy meat known for its unique aroma. It is commonly prepared with fresh herbs.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Kusarik Meat",
+    "category": "Meats",
+    "effect": "A richly flavored meat with no defining odor. It has a slightly sour and spicy aftertaste.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Sandbael Meat",
+    "category": "Meats",
+    "effect": "A pale, fibrous meat with a similar flavor to crustaceans. Surprisingly few parts of this animal are edible.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Sandworm Meat",
+    "category": "Meats",
+    "effect": "A firm, chewy meat with a deep flavor. Desert dwellers see it as a valuable source of protein.",
+    "how_to_get": "Bought From Kira Market; Sandworm Meat can be bought at Kira, located south of the continent. If you've reached Chapter 6 in Cai's Path and unlocked the Gate of the Gods in his route, you can fast travel from Dagsion to Aurora's Temple to save turns.; Get Sandworm Meat from Exploring Aditi's Cave; You can get Sandworm Meat by defeating the Sandworm enemies in Aditi's Cave dungeon, which is found in the desert areas.; Get Sandworm Meat from Luxury Meat Crates or Worms; You can also get Sandworm Meat from Luxury Meat Crates. You can head to Secret Altar and use Search to gather the crates. However, Sandworm Meat will appear at random from this crates, so gather several crates in case you don't get the required amount of meat after opening the crates.; Alternatively, you can find Worms that spawn in the World Map. Engage them in combat and there's a chance for them to drop Sandworm Meat upon defeat.",
+    "raw_source": "raw_extracts/items/item_624304.html"
+  },
+  {
+    "name": "Louse Meat",
+    "category": "Meats",
+    "effect": "A white, translucent meat housed in a thick shell. It's springy to the touch with a hearty flavor.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Sanbael Meat",
+    "category": "Meats",
+    "effect": "A pale, fibrous meart with a similar flavor to crustaceans. Surprisingly few parts of this animal are edible.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Bear Meat",
+    "category": "Meats",
+    "effect": "A sweet, gamy meat. Simmering it well brings forth a surprisingly refined flavor.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Sea-Beast Meat",
+    "category": "Meats",
+    "effect": "A dark meat with the potent scent of blood. It is firm yet surprisingly easy to bite through.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Rukh Meat",
+    "category": "Meats",
+    "effect": "A nutrient-rich meat, known for its bright-red color. Many agree it pairs excellently with most dishes.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Flying-Lizard Meat",
+    "category": "Meats",
+    "effect": "A lean meat with a fresh, airy flavor. Overcooking it will likely drain it of its flavor.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/meats_626105.html"
+  },
+  {
+    "name": "Giants' Meat",
+    "category": "Meats",
+    "effect": "A bone-in meat preferred by Giants. It is fermented, bringing forth a peculiar and distinctive flavor.",
+    "how_to_get": "Take Out Giants in Skirmishes Around Pasithea; You can eliminate Giants in Skirmish Battles around Pasithea to get Giants' Meat. Do note that you will have to find these skirmishes for them trigger, unless you're in Dietrich's Route, where he can use Answerer's Call to force Skirmish spawns around the map.; How to Navigate the World Map; Get from Luxury Meat Crates; You can get Giants' Meat from Luxury Meat Crates. You can head to Secret Altar and use Search to gather the crates.; However, Giants' Meat will appear at random, so gather several crates in case you don't get the required amount of meat after opening the crates.",
+    "raw_source": "raw_extracts/items/item_624738.html"
+  },
+  {
+    "name": "Beginner License",
+    "category": "Exam Licenses",
+    "effect": "A temple-issued license, required to take the certification exam for beginner classes.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/licenses_624947.html"
+  },
+  {
+    "name": "Specialty License",
+    "category": "Exam Licenses",
+    "effect": "A temple-issued license, required to take the certification exam for mid-level, specialty classes.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/licenses_624947.html"
+  },
+  {
+    "name": "Advanced License",
+    "category": "Exam Licenses",
+    "effect": "A temple-issued license, required to take the certification exam for high-level advanced classes.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/licenses_624947.html"
+  },
+  {
+    "name": "Phantom Ginji",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": "Found in Mount Aegina During Peter's Request; Phantom Ginji is a quest-exclusive item that only appears after accepting Peter's request in Dietrich, Theodora, or Leda’s Path. This item will allow you to recruit Peter as a playable character.; The Phantom Ginji can be obtained by using the Search function on Mount Aegina, located on the east side of the map.; How to Recruit Peter",
+    "raw_source": "raw_extracts/items/item_624840.html"
+  },
+  {
+    "name": "Mother's Gift",
+    "category": "Other Items",
+    "effect": "An item Ultand's mother prepared for her family. Return it to Ultand right away.",
+    "how_to_get": "Found in Corroios Fort During Ultand's Request; Mother's Gift can be acquired by going through Ultand's Request, a recruitment quest where you have to find the item in Corroios Fort in Thaleia.; Upon entering the Dungeon, you can either avoid the spawned Bandits or fight them, then find the item in the dungeon with a glowing yellow marker.; How to Recruit Ultand",
+    "raw_source": "raw_extracts/items/item_625208.html"
+  },
+  {
+    "name": "Castalia Map",
+    "category": "Other Items",
+    "effect": "A map noting major locations in Castalia, the vibrant trading region to the northeast of the capital.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Melias Map",
+    "category": "Other Items",
+    "effect": "A map noting major locations in Melias, the region south of Dagsion where gentle breezes flow.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Luxury Meat Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random high-quality meat.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Fish Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random fish.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Luxury Fish Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random high-quality fish.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Mature Blush",
+    "category": "Other Items",
+    "effect": "Makeup perfect for capturing that unique, mature look. Get this over to Esmeralda.",
+    "how_to_get": "Buy from the Gift Merchant in Dagsion; Mature Blush can be bought from the Gift Shop in Dagsion for 2000 Gold. Head to the area and buy from the shopkeeper to see their list of wares.",
+    "raw_source": "raw_extracts/items/item_624335.html"
+  },
+  {
+    "name": "Spellcaster's Relics",
+    "category": "Other Items",
+    "effect": "A box of stolen goods. Just holding it makes one feel like they're being watched. You should deliver it soon.",
+    "how_to_get": "Defeat the Enemies at Secret Altar in Saveilon; Triggering the subquest Purloined Spellcaster's Tools will allow you to battle Har Hali enemies in Saveilon's Secret Altar. Defeating the enemies here will reward you with the Spellcaster's Relics that you must deliver to the Tool Merchant in the Arena Plaza in Dagsion.; This quest is time-limited, so make sure to finish it in time to avoid missing the rewards and failing!; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_624338.html"
+  },
+  {
+    "name": "Violet Brooch",
+    "category": "Other Items",
+    "effect": "A delicate brooch belonging to Creek's sister. Deliver it to him when you can.",
+    "how_to_get": "Defeat the Bandits at Axion Forge in Saveilon; Triggering the subquest My Late Sister's Accessory will allow you to battle Bandits in Saveilon's Axion Forge. Defeating the enemies here will reward you with the Violet Brooch that you must deliver to Creek in Dagsion.; This quest is time-limited, so make sure to finish it in time to avoid missing the rewards and failing!; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_624347.html"
+  },
+  {
+    "name": "Monument Verse",
+    "category": "Other Items",
+    "effect": "A verse from the monument of a legendary poet. Return it to Sirocco right away.",
+    "how_to_get": "Found in Atla Peak During Sirocco's Request; Monument Verse is a quest-exclusive item that can only be obtained after accepting Sirocco's recruitment request on Cai, Dietrich, and Theodora Paths.; The copy of the Monument Verse is obtained by using the Search function on Atla Peak in the Solidus Province.; How to Recruit Sirocco; Iapetus Cavern is the only accessible point which will get you to Atla Peak. You cannot get to Atla Peak from Da Mina until after you reach it from the other side.; The Iapetus Cavern is filled with a lot of high level enemies, so if your party is too low leveled, we recommend avoiding clashes and running directly to the dungeon's exit.; If you are under Renown Level 6, you will not be able to enter the Solidus region through the border points. However, you can still access Solidus by going West from the Gorbea Stronghold Ruins.; However, keep in mind that this is a longer route, and may take more turns to reach Atla Peak. Make sure to plot ahead of time if you plan on taking this route.",
+    "raw_source": "raw_extracts/items/item_625206.html"
+  },
+  {
+    "name": "Elektra Map",
+    "category": "Other Items",
+    "effect": "A map noting major locations in Elektra, the bustling region to the southeast of the capital.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Ink-Black Wen",
+    "category": "Other Items",
+    "effect": "A cloak blacker than darkness itself. It allows the wearer to stride between shadows. Grants Dex +5.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Pasithea Map",
+    "category": "Other Items",
+    "effect": "A map noting major locations in Pasithea, the largely uncharted region to the far west of Dagsion.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Archive Zeta (Z)",
+    "category": "Other Items",
+    "effect": "Used to learn Swarm Z, dark magic that drains a foe of Spd when it hits.",
+    "how_to_get": "Find Archive Z in Southern Passage Dungeon; The Archive Z scroll can be found in a treasure chest in Southern Passage, a futuristic-looking dungeon in the deserts of Nysiades.; All Flame Lords can also go here during Part I of their routes except for Cai, who cannot access Nysiades Desert until Part 3.; 100% Walkthrough Guide",
+    "raw_source": "raw_extracts/items/item_625787.html"
+  },
+  {
+    "name": "Archive Gamma (Γ)",
+    "category": "Other Items",
+    "effect": "Used to learn Death Γ, devastating dark magic that boasts a high Crit.",
+    "how_to_get": "Find Archive Γ in Aditi's Cave; The Archive Γ scroll found in a treasure chest in Aditi's Cave, a dungeon in the deserts of Nysiades north of Baina Oasis.; All Flame Lords can also go here during Part I of their routes except for Cai, who cannot access Nysiades Desert until Part 3.; 100% Walkthrough Guide; Exchange in Dagsion Port; Around Part 1, you can go to Dagsion Port and exchange with the Vandahl Trading Company there with 10 Pongo and 1 Glirmosa to get Archive Γ.",
+    "raw_source": "raw_extracts/items/item_625788.html"
+  },
+  {
+    "name": "Archive Beta (B)",
+    "category": "Other Items",
+    "effect": "Used to learn Mire B, a common long-ranged spell among practitioners of magic.",
+    "how_to_get": "Find Archive B in Cave Behind the Falls; The Archive B scroll can be found in a treasure chest in Cave Behind the Falls, a futuristic-looking dungeon in northeastern Dagsion. All Flame Lords can also go here during Part I of their routes.; 100% Walkthrough Guide; Exchange in Dagsion Port; Around Part 1, you can go to Dagsion Port and exchange with the Vandahl Trading Company there with 3 Torment Grass to get Archive B.",
+    "raw_source": "raw_extracts/items/item_625789.html"
+  },
+  {
+    "name": "Archive Theta (θ)",
+    "category": "Other Items",
+    "effect": "Used to learn Banshee θ, dark magic that inflicts Immobilize on a foe when it hits.",
+    "how_to_get": "The Archive θ scroll can be found in Iapetus Cavern, a dungeon located in Solidus, northern Dagsion. The item itself is in a Treasure Chest that you can find by exploring the area.; All Flame Lords can also go here during Part I of their routes except for Cai, as his route makes exploring the northern desert range of the map difficult until Part 3.; 100% Walkthrough Guide",
+    "raw_source": "raw_extracts/items/item_625790.html"
+  },
+  {
+    "name": "Archive Tau (T)",
+    "category": "Other Items",
+    "effect": "Used to learn Dark Spikes T, dark magic with tremendous efficacy against cavalry.",
+    "how_to_get": "The Archive θ scroll can be found in Iapetus Cavern, a dungeon located in Solidus, northern Dagsion. The item itself is in a Treasure Chest that you can find by exploring the area.; All Flame Lords can also go here during Part I of their routes except for Cai, as his route makes exploring the northern desert range of the map difficult until Part 3.; 100% Walkthrough Guide",
+    "raw_source": "raw_extracts/items/item_625790.html"
+  },
+  {
+    "name": "Scarlet Firedrops",
+    "category": "Other Items",
+    "effect": "Part of Olympia's Recruitment Quests, completing will proceed with the next recruitment quest.",
+    "how_to_get": "Find and Search in Daybreak Plains; Go to Daybreak Plains by traveling from East Amalthea Station to Feronia Station, which takes about 5 turns from Dagsion. If you haven't unlocked the stations yet, you'll need more turns to reach your destination. From there, you can Search the area and hopefully find the Scarlet Firedrops required.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_626117.html"
+  },
+  {
+    "name": "Aurum Rose",
+    "category": "Other Items",
+    "effect": "Part of Olympia's Recruitment Quests, completing will proceed with the next recruitment quest.",
+    "how_to_get": "Search in Klytius Plains or Baina Oasis; Head to Baina Oasis or Klytius Plains to find Aurum Rose. Baina Oasis can be found in Nysiades desert and is accessible to all Flame Lords except Cai until Part 3. Cai can instead find the item in Klytius Plains, which, for the fastest route, requires using at least the Callisto Porthouse in Saveilon.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_626122.html"
+  },
+  {
+    "name": "Azure Heart",
+    "category": "Other Items",
+    "effect": "Part of Olympia's Recruitment Quests, completing will finish the quest line.",
+    "how_to_get": "Found in Valhalla Mine Dungeon; Azure Heart can be found in the Valhalla Mine dungeon in Saveilon, as a visible pick-up on the ground. You can go through this area quicker via Salacia Porthouse through Tritopater Corridor.; How to Navigate the World Map",
+    "raw_source": "raw_extracts/items/item_626123.html"
+  },
+  {
+    "name": "Mahadu's Arm",
+    "category": "Other Items",
+    "effect": "An arm of the legendary Mahadu, now fused to a new hero, Theodora of Saramis. Grants Str+6.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Gift Box",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Coin",
+    "category": "Other Items",
+    "effect": "Can be sold at a shop.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Large Coin",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Vegetable Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random vegetable.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Meat Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random meat.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Simple Weapon Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random weapon or piece of equipment.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Quality Weapon Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random weapon or piece of equipment.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Luxury Weapon Crate",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Ornius Manure",
+    "category": "Other Items",
+    "effect": "Manure with little useful bacteria. It can help slightly in farming. Can be found in ornius habitats.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Red Jewel",
+    "category": "Other Items",
+    "effect": "The gem embedded in Cai's left hand, surging with the power of the black flames. Grants Mag+3.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Luxury Veg. Crate",
+    "category": "Other Items",
+    "effect": "Use to obtain one random high-quality vegetable.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Pegasus Manure",
+    "category": "Other Items",
+    "effect": "Magical manure, rich with useful bacteria and excellent for farming. Can be found in pegasus habitats.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Megrez Soil",
+    "category": "Other Items",
+    "effect": "Soil from the Ruins of Megrez. It doesn't seem out of the ordinary. Deliver it right away.",
+    "how_to_get": "Search Ruins of Megrez for Megrez Soil; To acquire Megrez Soil, you can head to Ruins of Megrez near the Rubess Forest dungeon and Search the area. Megrez Soil can only be acquired once while the quest is active and will no longer appear after clearing the quest.",
+    "raw_source": "raw_extracts/items/item_624332.html"
+  },
+  {
+    "name": "Sandbael Tails",
+    "category": "Other Items",
+    "effect": "A bundle of desert scorpion tails. You should get this to the client as soon as you can.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Horse Manure",
+    "category": "Other Items",
+    "effect": "Manure, rich with useful bacteria that is great for farming. Can be found in horse habitats.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Lucky Coin",
+    "category": "Other Items",
+    "effect": "Can be sold at a shop for a high price.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Large Bullion",
+    "category": "Other Items",
+    "effect": "Can be sold at a shop for a high price.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Bullion",
+    "category": "Other Items",
+    "effect": "Can be sold at a shop.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Obsidian",
+    "category": "Other Items",
+    "effect": "A legendary vihuela with the power to shake the every earth with its notes. Grants Res+5.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Saveilon Map",
+    "category": "Other Items",
+    "effect": "A map noting major locations in Saveilon to the far south of the capital, known for its tragic history.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Bau Manure",
+    "category": "Other Items",
+    "effect": "With extraordinary bacteria, it is the ultimate manure for farming. Can be found in bau habitats.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/other_items_624946.html"
+  },
+  {
+    "name": "Miracle Gem",
+    "category": "Equipment",
+    "effect": "Unit takes no damage when attacked. Trigger % = 3.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Lashing Rapture",
+    "category": "Equipment",
+    "effect": "After defeating a foe, restores some HP to unit. A tongue imbed with dark power.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "8"
+    ]
+  },
+  {
+    "name": "Healing Staff",
+    "category": "Equipment",
+    "effect": "When healing an ally with magic, restores +10 HP.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Turmoil Mask",
+    "category": "Equipment",
+    "effect": "A mask imbued with dark power. If foe is confused, multiplies unit's damage by 1.5 when attacking.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Hunter's Ring",
+    "category": "Equipment",
+    "effect": "Grants Crit +3.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Sacred Gem",
+    "category": "Equipment",
+    "effect": "If unit makes a critical, unit recovers HP equal to a third of damage they deal.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Archer's Ring",
+    "category": "Equipment",
+    "effect": "Grants Hit +5.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "3"
+    ]
+  },
+  {
+    "name": "Bolt Gem",
+    "category": "Equipment",
+    "effect": "Multipies damage by 1.5 when attacking with a combat art. Trigger % = 10.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "5"
+    ]
+  },
+  {
+    "name": "Bowbreak Amulet",
+    "category": "Equipment",
+    "effect": "If foe uses a bow, grants Hit/Avo+15 to unit during combat.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Aaron's Rod",
+    "category": "Equipment",
+    "effect": "A rod imbued with dark power. Grants Mag/Dex+4.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/weapons_spells/equipment_624944.html",
+    "liked_by": [
+      "TBD"
+    ]
+  },
+  {
+    "name": "Ore Crate",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Bombae Panacea",
+    "category": "Consumables",
+    "effect": "Restores 100 HP.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Gem Box",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Bakul Juice",
+    "category": "Consumables",
+    "effect": "Removes Silence and unit cannot be Silenced until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Bitter-Leaf Juice",
+    "category": "Consumables",
+    "effect": "Unit cannot counter until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Building Materials",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Coffee",
+    "category": "Consumables",
+    "effect": "Removes Poison and unit cannot be Poisoned until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Craft Smithy Box",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Date Juice",
+    "category": "Consumables",
+    "effect": "Grants AS+3 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Energy Drop",
+    "category": "Consumables",
+    "effect": "Use to permanently grant Str+2.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Ginji Juice",
+    "category": "Consumables",
+    "effect": "Grants Bld+4 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Goddess Icon",
+    "category": "Consumables",
+    "effect": "Use to permanently grant Lck+2.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Iron Smithy Box",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Linaria Juice",
+    "category": "Consumables",
+    "effect": "Grants Hit+10 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Manual Crate",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Miranilla Juice",
+    "category": "Consumables",
+    "effect": "Grants Shld+3, Ddg+5 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Paya Juice",
+    "category": "Consumables",
+    "effect": "Grants Atk+2, Crit+3 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Pepper-Leaf Juice",
+    "category": "Consumables",
+    "effect": "Restores a little HP at the start of unit's phase until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Pongo Juice",
+    "category": "Consumables",
+    "effect": "Grants Cha+10 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Ring Crate",
+    "category": "Consumables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Roca Juice",
+    "category": "Consumables",
+    "effect": "Grants Hit+20 to unit when attacking with a combat art until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Secret Book",
+    "category": "Consumables",
+    "effect": "Use to permanently grant Dex+2.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Seraph Robe",
+    "category": "Consumables",
+    "effect": "Use to permanently grant max HP+4.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Speedwing",
+    "category": "Consumables",
+    "effect": "Use to permanently grant Spd+2.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Spirit Dust",
+    "category": "Consumables",
+    "effect": "Use to permanently grant Mag+2.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Sweet-Leaf Juice",
+    "category": "Consumables",
+    "effect": "Grants Rsl+5 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Wun Juice",
+    "category": "Consumables",
+    "effect": "Grants Lck+10 until the end of the map.",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Zang Juice",
+    "category": "Consumables",
+    "effect": "Applies -1 to movement cost for terrain until the end of the map. (Cannot be reduced below 1.)",
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Red Hair Clip",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Rugged Blade",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Sharp Dagger",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "The Knight's Suitors",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "School Scandal",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Pegasus Panorama",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Antique Medal",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Bow Repair Kit",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Crimson Bull",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Meaty Delicacy",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Odd Vegetable Seeds",
+    "category": "Gifts",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Twalinnara",
+    "category": "Vegetables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Agave",
+    "category": "Vegetables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Apatta",
+    "category": "Vegetables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Shaktoh",
+    "category": "Vegetables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Solgi",
+    "category": "Vegetables",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Victory Gem",
+    "category": "Equipment",
+    "effect": "After defeating a foe, restores a little HP to unit.",
+    "how_to_get": null,
+    "liked_by": [
+      "TBD"
+    ],
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Bronze Smithy Box",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Braxithea Map",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Lambath Map",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Master License",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  },
+  {
+    "name": "Thaleia Map",
+    "category": "Other Items",
+    "effect": null,
+    "how_to_get": null,
+    "raw_source": "raw_extracts/items/hub_621281.html"
+  }
+]

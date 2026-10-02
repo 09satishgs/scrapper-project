@@ -1,0 +1,1414 @@
+{
+  "notable_deeds_milestones": [
+    {
+      "milestone": "Obtained 10 pieces of ore.",
+      "category": "Items",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Obtained 50 pieces of ore.",
+      "category": "Items",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Completed 1 paralogue.",
+      "category": "Other",
+      "karma_shards": 25,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Watched 5 C-Support conversations.",
+      "category": "Allies",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Watched 5 B-Support conversations.",
+      "category": "Allies",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Watched 5 A-Support conversations.",
+      "category": "Allies",
+      "karma_shards": 100,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Played for more than 10 hours.",
+      "category": "Other",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Reached Skill Level C 3 times.",
+      "category": "Other",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Reached Skill Level B 3 times.",
+      "category": "Other",
+      "karma_shards": 20,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Reached Skill Level A 3 times.",
+      "category": "Other",
+      "karma_shards": 30,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Reached Skill Level S 3 times.",
+      "category": "Other",
+      "karma_shards": 40,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Maximized a skill 3 times.",
+      "category": "Other",
+      "karma_shards": 50,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Completed Cai's Path in Part I.",
+      "category": "Other",
+      "karma_shards": 5000,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Completed Dietrich's Path in Part I.",
+      "category": "Other",
+      "karma_shards": 5000,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Completed Theodora's Path in Part I.",
+      "category": "Other",
+      "karma_shards": 5000,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Completed Leda's Path in Part I.",
+      "category": "Other",
+      "karma_shards": 5000,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Rented a room at an inn 10 times.",
+      "category": "TBD",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Spent 10 turns performing individual actions.",
+      "category": "Bases",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Dined at an inn 10 times.",
+      "category": "TBD",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Gave 10 gifts.",
+      "category": "Bases",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Had 10 perfect interactions at the perch.",
+      "category": "TBD",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Deepened bond with the Pale Raven 10 times.",
+      "category": "TBD",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Spent a total of 10,000G at shops in bases.",
+      "category": "Bases",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 10 foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 20 foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 30 foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 40 foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 50 foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 75 foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 10 undead foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 20 undead foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 30 undead foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 10 large foes in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 10 beasts in battle.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 10 livestock in battle",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Defeated 10 golden or silver mummies.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Avoided 10 attacks.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Avoided 20 attacks.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Avoided 30 attacks.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Performed 10 critical attacks.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Performed 10 assists.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Used Blaze Arts 10 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Used a gambit 10 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Triggered support salvation 10 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Won 5 skirmishes.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Won 10 clashes.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Won 20 clashes.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Perform an Attack Link 10 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Performed an Attack Link 20 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Performed a Recovery Link 10 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Perform a Mixed Link 10 times.",
+      "category": "Battle",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Paid 10,000G to wandering merchants.",
+      "category": "The World Map",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    },
+    {
+      "milestone": "Had 5 feasts.",
+      "category": "TBD",
+      "karma_shards": 10,
+      "raw_source": "raw_extracts/guides/notable_deeds_623431.html"
+    }
+  ],
+  "temple_blessings": {
+    "blessings": [
+      {
+        "god": "Aurora",
+        "name": "Aurora's Blessing",
+        "cost": {
+          "normal": 15,
+          "hard": 20
+        },
+        "levels": {
+          "level_1": "Halves Physical Damage from attacks for 1 turn.",
+          "level_2": "Halves damage from magical attacks for 1 turn.",
+          "level_3": "Neutralizes Underworld Boon on foe for 1 turn."
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Mars",
+        "name": "Mars's Blessing",
+        "cost": {
+          "normal": 20,
+          "hard": 30
+        },
+        "levels": {
+          "level_1": "Grants Hit +50 to Physical Attacks for 1 turn.",
+          "level_2": "Restore some HP when defeating a foe for 1 turn.",
+          "level_3": "Grants Str +5 for 1 turn."
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Smyrnos",
+        "name": "Smyrnos's Blessing",
+        "cost": {
+          "normal": 20,
+          "hard": 30
+        },
+        "levels": {
+          "level_1": "Grants Hit +50 Magical Attacks for 1 turn.",
+          "level_2": "Grants Rng +1 to Magic for 1 turn.",
+          "level_3": "Grants Mag +5 for 1 turn."
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Jurah",
+        "name": "Jurah's Blessing",
+        "cost": {
+          "normal": 10,
+          "hard": 15
+        },
+        "levels": {
+          "level_1": "Neutralizes foe's effective damage.",
+          "level_2": "Protection against follow-up attacks for 1 turn.",
+          "level_3": "Protection against critical hits for 1 turn."
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Kalla",
+        "name": "Kalla's Blessing",
+        "cost": {
+          "normal": 20,
+          "hard": 40
+        },
+        "levels": {
+          "level_1": "Grants Avoid +50 for 1 turn .",
+          "level_2": "Grants Speed +5 for 1 turn.",
+          "level_3": "Grants Mov +2 for 1 turn."
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Credna",
+        "name": "Credna's Blessing",
+        "cost": {
+          "normal": 10,
+          "hard": 20
+        },
+        "levels": {
+          "level_1": "Grants Vis +5 for 1 turn.",
+          "level_2": "Reduces weapon durability costs to 0 for 1 turn.",
+          "level_3": "Attack first during combat in enemy's phase for 1 turn."
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Fortuna",
+        "name": "Fortuna's Blessing",
+        "cost": {
+          "normal": 0,
+          "hard": 5
+        },
+        "levels": {
+          "level_1": "",
+          "level_2": "",
+          "level_3": ""
+        },
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      }
+    ],
+    "holy_days": [
+      {
+        "god": "Aurora",
+        "holy_days": [
+          "Monday",
+          "Sunday"
+        ],
+        "perks": [
+          "Increased Temple Service effects"
+        ],
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Mars",
+        "holy_days": [
+          "Tuesday",
+          "Sunday"
+        ],
+        "perks": [
+          "Increased Temple Service effects",
+          "Audience Reception"
+        ],
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Smyrnos",
+        "holy_days": [
+          "Wednesday",
+          "Sunday"
+        ],
+        "perks": [
+          "Increased Temple Service effects",
+          "Audience Reception"
+        ],
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Jurah",
+        "holy_days": [
+          "Thursday",
+          "Sunday"
+        ],
+        "perks": [
+          "Increased Temple Service effects",
+          "Audience Reception"
+        ],
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Kalla",
+        "holy_days": [
+          "Friday",
+          "Sunday"
+        ],
+        "perks": [
+          "Increased Temple Service effects",
+          "Audience Reception*"
+        ],
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      },
+      {
+        "god": "Credna",
+        "holy_days": [
+          "Saturday",
+          "Sunday"
+        ],
+        "perks": [
+          "Increased Temple Service effects"
+        ],
+        "raw_source": "raw_extracts/guides/temple_guide_618887.html"
+      }
+    ]
+  },
+  "mounts": [
+    {
+      "name": "Black Magonius",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "0 (-)",
+        "mag": "2 (+10%)",
+        "spd": "2 (+10%)",
+        "dex": "1 (+5%)",
+        "def": "0 (-)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Magic-",
+        "Sight: [Cavalry] When equipped with magic, grants Crit+5/Crit+10.",
+        "Canto: [Cavalry] After combat, unit can move up to 1 space/2 spaces."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Bucephalus",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "1 (+5%)",
+        "mag": "0 (-)",
+        "spd": "1 (+15%)",
+        "dex": "0 (-)",
+        "def": "0 (-)",
+        "res": "0 (+10%)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Streak: [Flying] Grants Mov +1/+2 Exclusive to: Alexandra"
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Dark Pegasus",
+      "stat_modifiers": {
+        "hp": "0 (-)",
+        "str": "0 (-)",
+        "mag": "3 (+15%)",
+        "spd": "2 (+10%)",
+        "dex": "0 (-)",
+        "def": "0 (-)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Streak: [Flying] Grants Mov +1/+2. Paired Magic",
+        "Speed: [Flying] When in combat, grants Avo+10/Avo+20. Trigger % = Mag."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Falicorn",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "0 (+5%)",
+        "mag": "0 (-)",
+        "spd": "1 (+15%)",
+        "dex": "0 (+5%)",
+        "def": "0 (-)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Tempest: [Flying] If foe uses a bow, grants Avo+10/Avo+15 during combat. Paired",
+        "Streak: [Flying] Grants Mov +1/+2",
+        "Canto: [Cavalry] After combat, unit can move up to 1 space/2 spaces."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Ferghanan Horse",
+      "stat_modifiers": {
+        "hp": "- (+5%)",
+        "str": "0 (+5%)",
+        "mag": "0 (-)",
+        "spd": "0 (-)",
+        "dex": "1 (+5%)",
+        "def": "0 (+10%)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Canto: [Cavalry] After combat, unit can move up to 1 space/2 spaces. Paired",
+        "Arts-",
+        "Focus: [Cavalry] Grants Hit+10/Hit+15 when attacking with a Combat Art. Paired Fierce",
+        "Arts: [Cavalry] Grants Atk+2/Atk+4 when attacking with a Combat Art."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Magonius",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "0 (-)",
+        "mag": "3 (+15%)",
+        "spd": "0 (-)",
+        "dex": "2 (+10%)",
+        "def": "0 (-)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Run: [Cavalry] Grants Mov +1/+2."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Meganius",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "0 (+5%)",
+        "mag": "0 (-)",
+        "spd": "0 (-)",
+        "dex": "1 (+5%)",
+        "def": "0 (+15%)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Run: [Cavalry] Grants Mov +1/+2. Paired",
+        "Bulk: [Cavalry] Grants Bld+2/Bld+4."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Monoceros",
+      "stat_modifiers": {
+        "hp": "- (+5%)",
+        "str": "0 (-)",
+        "mag": "0 (-)",
+        "spd": "0 (+5%)",
+        "dex": "1 (+5%)",
+        "def": "0 (-)",
+        "res": "0 (+10%)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Miracle: [Cavalry] Grants Lck+3/Lck+5. Paired",
+        "Healing: [Cavalry] After combat, restores a little/some HP to unit."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Red Maganius",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "0 (+15%)",
+        "mag": "0 (-)",
+        "spd": "0 (-)",
+        "dex": "1 (+5%)",
+        "def": "0 (+5%)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Run: [Cavalry] Grants Mov +1/+2. Paired",
+        "Protection: [Cavalry] Reduces damage to 70%/50% when attacked with a critical."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Rocinan",
+      "stat_modifiers": {
+        "hp": "- (+5%)",
+        "str": "0 (-)",
+        "mag": "0 (-)",
+        "spd": "0 (+5%)",
+        "dex": "1 (+5%)",
+        "def": "1 (+10%)",
+        "res": "0 (+5%)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Run: [Cavalry] Grants Mov +1/+2. Exclusive to: Io"
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "White Ornius",
+      "stat_modifiers": {
+        "hp": "0 (-)",
+        "str": "0 (-)",
+        "mag": "0 (-)",
+        "spd": "1 (+5%)",
+        "dex": "1 (+5%)",
+        "def": "0 (-)",
+        "res": "3 (+15%)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Healing: [Cavalry] After combat, restores a little/some HP to unit. Paired",
+        "Purify: [Cavalry] At start of unit's phase, removes Poison from unit. Trigger % = 50/100."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Wild Bau",
+      "stat_modifiers": {
+        "hp": "- (-)",
+        "str": "1 (+10%)",
+        "mag": "0 (-)",
+        "spd": "0 (+5%)",
+        "dex": "0 (+10%)",
+        "def": "0 (-)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Streak: [Flying] Grants Mov +1/+2. Paired Fierce",
+        "Arts: [Flying] Grants Atk+2/Atk+4 when attacking with a Combat Art."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Wild Ornius",
+      "stat_modifiers": {
+        "hp": "0 (-)",
+        "str": "0 (-)",
+        "mag": "0 (-)",
+        "spd": "0 (+10%)",
+        "dex": "1 (+15%)",
+        "def": "0 (-)",
+        "res": "0 (-)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Run: [Cavalry] Grants Mov +1/+2. Paired",
+        "Stealth: [Cavalry] If unit is on favorable terrain, grants Avo+10/Avo+10, Shld+3 during combat."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    },
+    {
+      "name": "Wild Pegasus",
+      "stat_modifiers": {
+        "hp": "0 (-)",
+        "str": "0 (-)",
+        "mag": "0 (-)",
+        "spd": "3 (+15%)",
+        "dex": "0 (-)",
+        "def": "0 (-)",
+        "res": "2 (+15%)",
+        "lck": "0 (-)",
+        "cha": "0 (-)"
+      },
+      "abilities": [
+        "Paired",
+        "Streak: [Flying] Grants Mov +1/+2. Paired",
+        "Mage-",
+        "Kill: [Flying] If foe uses magic, grants Atk+3/Atk+5 during combat."
+      ],
+      "raw_source": "raw_extracts/guides/mounts_abilities_627940.html"
+    }
+  ],
+  "thermae_baths": {
+    "unlock_requirement": "Reach Renown Level 8",
+    "baths": [
+      {
+        "bath_name": "Giants' Bath (Special)",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Crit Effect",
+          "Crit Effect+",
+          "Vis Effect",
+          "Str Effect",
+          "Str Effect+",
+          "Absorption+",
+          "Arts Effect+",
+          "Poison Resist"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Unicorns' Bath (Special)",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Spd Effect+",
+          "Avo Effect+",
+          "Hit Effect+",
+          "Mov Effect+"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Sea-Tyrant's Bath (Special)",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "HP Effect+",
+          "Def Effect+",
+          "Lck Effect+",
+          "Revitalize+",
+          "Fury"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Harpyrian Bath (Special)",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Heal Effect+",
+          "Mag Effect+",
+          "Recovery Effect+",
+          "Max Healing",
+          "Fast Magic"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Ruby Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Def Effect",
+          "Arts Effect",
+          "Dex Effect",
+          "Res Effect",
+          "Lck Effect",
+          "Bld Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Gold Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Follow-Up Effect",
+          "Recovery Effect",
+          "Heal Effect",
+          "HP Effect",
+          "Revitalize",
+          "Avo Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Jade Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Magic Seal Resist",
+          "Fury",
+          "Calm",
+          "Hit Effect",
+          "Mag Effect",
+          "Fast Magic",
+          "Absorption"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Swift-Wind Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Spd Effect",
+          "Avo Effect",
+          "Resist Immobilize",
+          "Vis Effect",
+          "Mov Effect",
+          "Bld Effect",
+          "Lck Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Tree of Life Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Revitalize",
+          "Follow-Up Effect",
+          "Poison Resist",
+          "Recovery Effect",
+          "HP Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Volcanic Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Crit Effect",
+          "Daring",
+          "Arts Effect",
+          "Revitalize",
+          "Fury",
+          "Follow-Up Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Hot Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Str Effect",
+          "Crit Effect",
+          "Vis Effect",
+          "Follow-Up Effect",
+          "Absorption",
+          "Daring",
+          "Arts Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Medicinal Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Fury",
+          "Bld Effect",
+          "Revitalize",
+          "HP Effect",
+          "Def Effect",
+          "Lck Effect",
+          "Cha Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Floral Bath",
+        "renown_level_required": 8,
+        "possible_abilities": [
+          "Heal Effect",
+          "Mag Effect",
+          "Calm",
+          "Fast Magic",
+          "Magic Seal Resist",
+          "Res Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Adamant Bath",
+        "renown_level_required": 9,
+        "possible_abilities": [
+          "Crit Effect",
+          "Daring",
+          "Spd Effect",
+          "Mov Effect",
+          "Arts Durability"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Full-Moon Bath",
+        "renown_level_required": 9,
+        "possible_abilities": [
+          "Str Effect",
+          "Str Effect+",
+          "Dex Effect",
+          "Hit Effect",
+          "Cha Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      },
+      {
+        "bath_name": "Refreshing Bath",
+        "renown_level_required": 9,
+        "possible_abilities": [
+          "Spd Effect",
+          "Avo Effect",
+          "Arts Durability",
+          "Hit Effect",
+          "Resist Immobilize",
+          "Mov Effect"
+        ],
+        "raw_source": "raw_extracts/guides/thermae_baths_624772.html"
+      }
+    ]
+  },
+  "terrain_effects": [
+    {
+      "category": "Terrain That Increases Avo",
+      "terrain": "Dense Brush",
+      "effect": "Avoid +40%",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Increases Avo",
+      "terrain": "Forest, Brush",
+      "effect": "Avoid +30%",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Increases Avo",
+      "terrain": "Thicket",
+      "effect": "Avoid +20%",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Decreases Avo",
+      "terrain": "Wasteland",
+      "effect": "Avoid -40%",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Decreases Avo",
+      "terrain": "Desert",
+      "effect": "Avoid -20%",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Decreases Mov",
+      "terrain": "Terrain Type",
+      "effect": "Unaffected Classes",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Decreases Mov",
+      "terrain": "Desert Sand",
+      "effect": "Mage Category Classes",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Decreases Mov",
+      "terrain": "Forests / Shrubbery",
+      "effect": "Hunter Category Classes, Pugilists",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain That Decreases Mov",
+      "terrain": "Thick Forests / Shrubbery",
+      "effect": "Hunter Category Classes, Pugilists",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Artillery Tiles",
+      "terrain": "Ballista",
+      "effect": "Bow-wielding classes",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Artillery Tiles",
+      "terrain": "Fire Orbs",
+      "effect": "Magic-wielding classes",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Artillery Tiles",
+      "terrain": "Onagers",
+      "effect": "Any class",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Special Terrain",
+      "terrain": "Warp Tile",
+      "effect": "Transports a unit to another Warp Tile when used. Once warped, a unit can use up their remaining Movement.",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Special Terrain",
+      "terrain": "Explosive",
+      "effect": "Damages and Immobilizes foes in its range when attacked.",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "River",
+      "effect": "Rubble",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Waterfall",
+      "effect": "Sea",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Mountain",
+      "effect": "Pond",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Rock",
+      "effect": "Lava",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Edifice",
+      "effect": "Cliff",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Trench",
+      "effect": "Channel",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "House",
+      "effect": "Grave",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Wall",
+      "effect": "Fence",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Bulwark",
+      "effect": "Forest",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Low Wall",
+      "effect": "Moat",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Open Water",
+      "effect": "Sandbags",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "Terrain Restricted to Flying Units",
+      "terrain": "Low Obstacle",
+      "effect": "-",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Character Customization Guide",
+      "effect": "How to Switch Main Characters",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "All Recruitment Requirements",
+      "effect": "Can You Recruit a Unit on Multiple Routes?",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Increase Support Level",
+      "effect": "Gift Giving Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Can You Change Your Name?",
+      "effect": "How to Merge Character Stats Between Routes",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Change Classes",
+      "effect": "How to Increase Skill Level",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Combat Guide",
+      "effect": "Is There a Weapon Triangle?",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "List of Blaze Arts",
+      "effect": "How to Get More Combat Arts",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Use Gambits and Battalions",
+      "effect": "Growth Rates Explained",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Rewind Turns",
+      "effect": "Effective Damage Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Attack Speed Guide",
+      "effect": "How to Level Up Fast",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Stats Explained",
+      "effect": "Skirmish Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Which Insect Option Should You Choose?",
+      "effect": "All Bloodmarks and Effects",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Heal and Restore HP",
+      "effect": "How to Use Answerer's Cry",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Terrain Effects",
+      "effect": "How to Dismount",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Renown Guide",
+      "effect": "Gold Farming Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Pass Time",
+      "effect": "Arena Guide: How to Train Units",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Use Karma Shards",
+      "effect": "All Weekly Activities",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Weapon Durability Guide",
+      "effect": "How to Refine Weapons",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Claim Free Update Bonuses",
+      "effect": "Dungeons and Clashes Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Increase Motivation",
+      "effect": "How to Get Through the Wandering Wood",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Farming Guide: How to Farm Crops",
+      "effect": "How to Navigate the World Map",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Capture Animal Mounts",
+      "effect": "What Happens When You Run Out of Turns?",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Theater and Acting Guide",
+      "effect": "Should You Skip Part 2?",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Save",
+      "effect": "Mentoring Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Unlock Carriages and Posthouses",
+      "effect": "Performance Guide",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Thermae Bath Effects",
+      "effect": "Descend Again Effects",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "Fortune Telling Guide: Divination Booth Effects",
+      "effect": "How to Unlock the Gate of the Gods",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Restart a Chapter",
+      "effect": "Obelisk Chamber Features",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    },
+    {
+      "category": "All Tips and Tricks",
+      "terrain": "How to Get Magic Echo Shards",
+      "effect": "-",
+      "raw_source": "raw_extracts/guides/terrain_effects_619178.html"
+    }
+  ],
+  "god_trials": [
+    {
+      "trial_name": "Kalla's Trial",
+      "god": "Kalla",
+      "unlock_condition": "Complete Kalla's Request in Part 3.",
+      "enemy_buffs": [
+        "Any Master Class",
+        "Any Divine Class Hong Hua Troy Guzran"
+      ],
+      "rewards": [
+        "Kalla's Needle"
+      ],
+      "strategy": "Kalla's Trial is arguably the hardest one of the six since you have to deal with enemy units that have increased Avoid and Speed. Check your available units and bring ones that have high Hit chance, or a way to buff their Hit, so you're not constantly missing attacks. As with all the trials, you'll also want to bring at least one magic user to deal with the heavily armoured units that show up. Just make sure to check the combat predictions whenever you attack with them since they can take a ton of damage from physical counter-attacks. God Trials are essentially two back-to-back clashes against enemies buffed by the god's blessing. After you beat both waves of enemies, you'll be rewarded with the god's Supreme Arc, which are some of the strongest items and equipment in the game.",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627434",
+      "raw_source": "raw_extracts/guides/kallas_trial_627434.html"
+    },
+    {
+      "trial_name": "Credna's Trial",
+      "god": "Credna",
+      "unlock_condition": "Complete Credna's Request in Part 3.",
+      "enemy_buffs": [
+        "Any Master Class",
+        "Any Divine Class",
+        "Any Character"
+      ],
+      "rewards": [],
+      "strategy": "Credna's Trial is arguably the easiest one, since you'll only need to worry about enemies always attacking first. You can pretty much use any character that you want for this fight, but you could also consider bringing units with high Avoid or defensive stats so you can dodge or tank all of the enemies' attacks. As with all the trials, you'll also want to bring at least one magic user to deal with the heavily armoured units that show up. Just make sure to check the combat predictions whenever you attack with them since they can take a ton of damage from physical counter-attacks. God Trials are essentially two back-to-back clashes against enemies buffed by the god's blessing. After you beat both waves of enemies, you'll be rewarded with the god's Supreme Arc, which are some of the strongest items and equipment in the game.",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627956",
+      "raw_source": "raw_extracts/guides/crednas_trial_627956.html"
+    },
+    {
+      "trial_name": "Smyrnos's Trial",
+      "god": "Smyrnos",
+      "unlock_condition": "Complete Smyrnos's Request in Part 3.",
+      "enemy_buffs": [
+        "Wiseman The Avatar Olympia Ninae"
+      ],
+      "rewards": [
+        "Smyrnos's Channels",
+        "Agena Tome"
+      ],
+      "strategy": "God Trials are essentially two back-to-back clashes against enemies buffed by the god's blessing. After you beat both waves of enemies, you'll be rewarded with the god's Supreme Arc, which are some of the strongest items and equipment in the game.",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627957",
+      "raw_source": "raw_extracts/guides/smyrnoss_trial_627957.html"
+    },
+    {
+      "trial_name": "Mars's Trial",
+      "god": "Mars",
+      "unlock_condition": "Complete Mars's Request in Part 3.",
+      "enemy_buffs": [
+        "Castle Knight Great Knight Buccar Esmeralda Tobias Orchel"
+      ],
+      "rewards": [
+        "Mars's Kneepads"
+      ],
+      "strategy": "As with all the trials, you'll also want to bring at least one magic user to deal with the heavily armoured units that show up. Just make sure to check the combat predictions whenever you attack with them since they can take a ton of damage from physical counter-attacks. God Trials are essentially two back-to-back clashes against enemies buffed by the god's blessing. After you beat both waves of enemies, you'll be rewarded with the god's Supreme Arc, which are some of the strongest items and equipment in the game.",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627958",
+      "raw_source": "raw_extracts/guides/marss_trial_627958.html"
+    },
+    {
+      "trial_name": "Jurah's Trial",
+      "god": "Jurah",
+      "unlock_condition": "Complete Jurah's Request in Part 3.",
+      "enemy_buffs": [
+        "Druid The Avatar Tialla Fabio Bonaventure"
+      ],
+      "rewards": [
+        "Jurah's Ice Mirror",
+        "Shield of Zephyrus"
+      ],
+      "strategy": "Jurah's Trial is pretty easy as long as you're using magic attacks against the enemy armored units. Just make sure you avoid using high crit characters, like Olympia, and use your more generally strong casters instead. God Trials are essentially two back-to-back clashes against enemies buffed by the god's blessing. After you beat both waves of enemies, you'll be rewarded with the god's Supreme Arc, which are some of the strongest items and equipment in the game.",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627959",
+      "raw_source": "raw_extracts/guides/jurahs_trial_627959.html"
+    },
+    {
+      "trial_name": "Aurora's Trial",
+      "god": "Aurora",
+      "unlock_condition": "Complete Aurora's Request in Part 3.",
+      "enemy_buffs": [
+        "Any Master Class",
+        "Any Divine Class",
+        "Any Character"
+      ],
+      "rewards": [
+        "Cloth of Aurora"
+      ],
+      "strategy": "Aurora's Trial is somewhere in the middle in terms of difficulty since it's not hard, but can be a bit of a grind. As long as you have a balanced team that has defensive units and a healer, you should be able to slowly break through the enemies' halved damage buff. As with all the trials, you'll also want to bring at least one magic user to deal with the heavily armoured units that show up. Just make sure to check the combat predictions whenever you attack with them since they can take a ton of damage from physical counter-attacks. God Trials are essentially two back-to-back clashes against enemies buffed by the god's blessing. After you beat both waves of enemies, you'll be rewarded with the god's Supreme Arc, which are some of the strongest items and equipment in the game.",
+      "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/627960",
+      "raw_source": "raw_extracts/guides/auroras_trial_627960.html"
+    }
+  ]
+}

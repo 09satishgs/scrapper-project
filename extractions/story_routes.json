@@ -1,0 +1,1482 @@
+[
+  {
+    "route": "Prologue: Descent",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/622612",
+    "summary": "The introduction of Eshmel, Hong Hua, and Troy descending into the ruined land of Dagda.",
+    "conditions": "Start a New Game",
+    "route_exclusives": [],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Chapter 2",
+        "turns": null,
+        "url": "#hm_102",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 1,
+        "title": "Chapter 2",
+        "turns": null,
+        "url": "#hm_101",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [],
+    "raw_source": "raw_extracts/quests_walkthrough/prologue_622612.html"
+  },
+  {
+    "route": "Cai's Path",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618787",
+    "summary": "Cai is a young boy striving to clear his imprisoned father's name through kindness, renown, and farming.",
+    "conditions": "Interact with the Fox Obelisk at Pale Raven's Perch and choose Cai's Path, or select after Prologue.",
+    "route_exclusives": [
+      "Plant and Harvest Crops",
+      "Capture Animals as Mounts",
+      "Manage Mounts in the Stable Keeper Facility",
+      "Complete Kindness Quests to Gain Renown",
+      "Learn From Mentors to Receive Benefits",
+      "Caladrius Advanced Class"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Uproar in Ribeira",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/622679",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "Road to the Capital",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623229",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 3,
+        "title": "Partings and Hopes",
+        "turns": "32",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623318",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 4,
+        "title": "Festival of the Strong",
+        "turns": "24",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623319",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "Cai's Battle",
+        "turns": "104",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623328",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 6,
+        "title": "To the Land of Cybele",
+        "turns": "120",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623753",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 7,
+        "title": "Opposed Agendas",
+        "turns": "120",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624353",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 8,
+        "title": "Unyielding Feelings",
+        "turns": "172",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624627",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 9,
+        "title": "Mystery at Aurora's Temple",
+        "turns": "32",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624694",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 10,
+        "title": "Precious Time",
+        "turns": "120",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624733",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 11,
+        "title": "Dagda's Cauldron",
+        "turns": "28",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624942",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 12,
+        "title": "Just One Wish",
+        "turns": "92",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625188",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [
+      {
+        "character": "1",
+        "condition": ""
+      },
+      {
+        "character": "Cai",
+        "condition": "Automatically Recruited During Story Cannot be recruited on this route. Cannot be recruited on this route. Cannot be recruited on this route."
+      },
+      {
+        "character": "Tialla",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 10 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 8 Clear Cai's Paralogue then give 3000 gold."
+      },
+      {
+        "character": "Peter",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 7 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 10 Give Peter 1 Phantom Ginji"
+      },
+      {
+        "character": "3",
+        "condition": ""
+      },
+      {
+        "character": "Diego",
+        "condition": "Support Lv. 3 Renown Lv. 10 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 9 Clear Orchel's Regret Paralogue Support Lv. 2 Renown Lv. 8 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 8 Clear Orchel's Regret Paralogue"
+      },
+      {
+        "character": "Ninae",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae."
+      },
+      {
+        "character": "Guzran",
+        "condition": "Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 8 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 3"
+      },
+      {
+        "character": "Nydine",
+        "condition": "Support Lv. 1 Renown Lv. 6 Give 2 Bronze Axes to Nydine. Support Lv. 2 Renown Lv. 5 Give 2 Bronze Axes to Nydine. Support Lv. 3 Renown Lv. 5 Give 3 Iron Axes to Nydine. Support Lv. 3 Renown Lv. 10 Give 3 Iron Axes to Nydine."
+      },
+      {
+        "character": "Io",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 2 Renown Lv. 3 Give 800 Gold to Io. Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 1 Renown Lv. 6 Give 1500 Gold to Io."
+      },
+      {
+        "character": "Catania",
+        "condition": "Support Lv. 3 Renown Lv. 10 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7 Support Lv. 1 Renown Lv. 2"
+      },
+      {
+        "character": "Noctula",
+        "condition": "Support Lv. 1 Renown Lv. 4 Support Lv. 1 Renown Lv. 6 Support Lv. 1 Renown Lv. 3 Support Lv. 3 Renown Lv. 8"
+      },
+      {
+        "character": "Yang",
+        "condition": "Jie Support Lv. 2 Renown Lv. 3 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 9 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 3 Renown Lv. 8 Answer Yang Jie’s 3 Questions Correctly."
+      },
+      {
+        "character": "Sofia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 3 Renown Lv. 9 Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "Seteth",
+        "condition": "Support Lv. 3 Renown Lv. 6 Complete Seteth's Request. Cannot be recruited on this route. Support Lv. 3 Renown Lv. 6 Complete Seteth's Request. Support Lv. 3 Renown Lv. 10 Complete Seteth's Request."
+      },
+      {
+        "character": "Loretta",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 9 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta."
+      },
+      {
+        "character": "Peppe",
+        "condition": "Support Lv. 1 Renown Lv. 9 Clear Bertrand's Paralogue. Support Lv. 3 Renown Lv. 8 Clear Bertrand's Paralogue. Support Lv. 2 Renown Lv. 7 Clear Bertrand's Paralogue. Cannot be recruited on this route."
+      },
+      {
+        "character": "4",
+        "condition": ""
+      },
+      {
+        "character": "Sirocco",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 1 Renown Lv. 5 Give Sirocco a copy of the Monument Verse Automatically Recruited During Story"
+      },
+      {
+        "character": "Lysander",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 5 Iron Spears to Lysander. Support Lv. 3 Renown Lv. 6 Give 5 Iron Spears to Lysander. Automatically Recruited During Story Support Lv. 3 Renown Lv. 7 Give 5 Iron Spears to Lysander."
+      },
+      {
+        "character": "Lilian",
+        "condition": "Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Automatically Recruited During Story Support Lv. 2 Renown Lv. 7 Give 5000 Gold to Lilian."
+      },
+      {
+        "character": "Mu",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 7 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Automatically Recruited During Story"
+      },
+      {
+        "character": "Olympia",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 6 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 9 Give Olympia Scarlet Drops Automatically Recruited During Story"
+      },
+      {
+        "character": "Ursula",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Talimun's Paralogue then select Agree 3 times Support Lv. 3 Renown Lv. 7 Complete Talimun's Paralogue then select Agree 3 times Support Lv. 3 Renown Lv. 9 Complete Talimun's Paralogue then select Agree 3 times Cannot be recruited on this route."
+      },
+      {
+        "character": "Goliath",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 6 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 9 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 10 Give 3 Giants' Meat to Goliath."
+      },
+      {
+        "character": "Jester",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 6 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 9 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests."
+      },
+      {
+        "character": "Ludia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia"
+      },
+      {
+        "character": "Fianna",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 7 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 9 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Fianna."
+      },
+      {
+        "character": "5",
+        "condition": ""
+      },
+      {
+        "character": "Esmeralda",
+        "condition": "Support Lv. 2 Renown Lv. 7 Complete Esmeralda's Request Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Complete Esmeralda's Request Support Lv. 3 Renown Lv. 6 Complete Esmeralda's Request"
+      },
+      {
+        "character": "Mikaela",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Mikaela. Automatically Recruited During Story Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Mikaela. Support Lv. 3 Renown Lv. 6 Give 3000 Gold to Mikaela."
+      },
+      {
+        "character": "Dante",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante. Support Lv. 2 Renown Lv. 8 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 6 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante."
+      },
+      {
+        "character": "Simon",
+        "condition": "Support Lv. 3 Renown Lv. 8 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 6 Pay 500 Gold and pick tails on coin toss."
+      },
+      {
+        "character": "Nezha",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 10 Give 3 Sandworm Meat to Nezha. Support Lv. 2 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 9 Give 3 Sandworm Meat to Nezha."
+      },
+      {
+        "character": "Majide",
+        "condition": "Support Lv. 2 Renown Lv. 5 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 9 Admit That You Need Majide Three Times."
+      },
+      {
+        "character": "Zarcone",
+        "condition": "Support Lv. 3 Renown Lv. 8 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 3 Renown Lv. 7 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 1 Renown Lv. 4 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 2 Renown Lv. 5 Refuse to pay thrice then pay Zarcone 10 Gold."
+      },
+      {
+        "character": "Halvin",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 9 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin."
+      },
+      {
+        "character": "Dadao",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 2 Kothar Gar to Dadao. Support Lv. 3 Renown Lv. 10 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao."
+      },
+      {
+        "character": "6",
+        "condition": ""
+      },
+      {
+        "character": "Ultand",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 5 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 6 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 8 Give Ultand Her Mother's Gift"
+      },
+      {
+        "character": "Benditz",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 2 Renown Lv. 7 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "Nuzzuo",
+        "condition": "Support Lv. 2 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 9 Give 2 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 3 Renown Lv. 9 Give 3 Iron Bows to Nuzzuo."
+      },
+      {
+        "character": "Kiroc",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc. Support Lv. 3 Renown Lv. 10 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc."
+      },
+      {
+        "character": "Jasmine",
+        "condition": "Support Lv. 1 Renown Lv. 8 Give 2000 Gold to Jasmine. Support Lv. 3 Renown Lv. 9 Give 5000 Gold to Jasmine. Support Lv. 3 Renown Lv. 8 Give 5000 Gold to Jasmine. Support Lv. 2 Renown Lv. 4 Give 500 Gold to Jasmine."
+      },
+      {
+        "character": "7",
+        "condition": ""
+      },
+      {
+        "character": "Alexandra",
+        "condition": "Support Lv. 2 Renown Lv. 7 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 6 Support Lv. 3 Renown Lv. 10"
+      },
+      {
+        "character": "8",
+        "condition": ""
+      },
+      {
+        "character": "Inyoni",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 1 Renown Lv. 9 Give 4000 Gold to Inyoni. Support Lv. 1 Renown Lv. 7 Give 3000 Gold to Inyoni."
+      }
+    ],
+    "raw_source": "raw_extracts/quests_walkthrough/cais_path_618787.html"
+  },
+  {
+    "route": "Dietrich's Path",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618788",
+    "summary": "Dietrich's journey as a seasoned warrior facing martial trials and honor in battle.",
+    "conditions": "Interact with the Obelisk at Pale Raven's Perch and select Dietrich's Path, or select after Prologue.",
+    "route_exclusives": [
+      "Answerer's Cry",
+      "Dread Warrior Challenges",
+      "Teach Combat Arts",
+      "Boost Combat Arts",
+      "Blacksmith Advanced Class"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "A Stranger Comes to Dagda",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623771",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "Sacrifice and Strife",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623862",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 3,
+        "title": "The Grand Megalith",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623888",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 4,
+        "title": "Brute Force",
+        "turns": "56",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623933",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "The Essence of a Warrior",
+        "turns": "76",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624085",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 6,
+        "title": "Instinct and Reason",
+        "turns": "96",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624232",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 7,
+        "title": "Gazing at the Rose Moon",
+        "turns": "64",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624271",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 8,
+        "title": "Cetus, the Sea Tyrant",
+        "turns": "120",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624303",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 9,
+        "title": "The Legend of the White Egg",
+        "turns": "160",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624350",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 10,
+        "title": "The Mediator of Nuwa",
+        "turns": "20",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624397",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 11,
+        "title": "Twisted Love",
+        "turns": "116",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624568",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 12,
+        "title": "Mars, Bringer of War",
+        "turns": "92",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625187",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [
+      {
+        "character": "1",
+        "condition": ""
+      },
+      {
+        "character": "Dietrich",
+        "condition": "Cannot be recruited on this route. Automatically Recruited During Story Cannot be recruited on this route. Cannot be recruited on this route."
+      },
+      {
+        "character": "Fabio",
+        "condition": "Cannot be recruited on this route. Automatically Recruited During Story Cannot be recruited on this route. Support Lv. 3 Renown Lv. 9 Clear Dietrich's Paralogue and complete Fabio's request."
+      },
+      {
+        "character": "2",
+        "condition": ""
+      },
+      {
+        "character": "Esmeralda",
+        "condition": "Support Lv. 2 Renown Lv. 7 Complete Esmeralda's Request Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Complete Esmeralda's Request Support Lv. 3 Renown Lv. 6 Complete Esmeralda's Request"
+      },
+      {
+        "character": "4",
+        "condition": ""
+      },
+      {
+        "character": "Tialla",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 10 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 8 Clear Cai's Paralogue then give 3000 gold."
+      },
+      {
+        "character": "Buccar",
+        "condition": "Cannot be recruited on this route. Support Lv. 3 Renown Lv. 8 Clear Leda's Paralogue Support Lv. 3 Renown Lv. 8 Clear Leda's Paralogue Automatically Recruited During Story"
+      },
+      {
+        "character": "Peter",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 7 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 10 Give Peter 1 Phantom Ginji"
+      },
+      {
+        "character": "Ultand",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 5 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 6 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 8 Give Ultand Her Mother's Gift"
+      },
+      {
+        "character": "Mikaela",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Mikaela. Automatically Recruited During Story Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Mikaela. Support Lv. 3 Renown Lv. 6 Give 3000 Gold to Mikaela."
+      },
+      {
+        "character": "Lysander",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 5 Iron Spears to Lysander. Support Lv. 3 Renown Lv. 6 Give 5 Iron Spears to Lysander. Automatically Recruited During Story Support Lv. 3 Renown Lv. 7 Give 5 Iron Spears to Lysander."
+      },
+      {
+        "character": "Lilian",
+        "condition": "Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Automatically Recruited During Story Support Lv. 2 Renown Lv. 7 Give 5000 Gold to Lilian."
+      },
+      {
+        "character": "Gaitz",
+        "condition": "Cannot be recruited on this route. Support Lv. 3 Renown Lv. 10 Clear Bertrand's Paralogue and reach Chapter 12. Cannot be recruited on this route. Cannot be recruited on this route."
+      },
+      {
+        "character": "Ursula",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Talimun's Paralogue then select Agree 3 times Support Lv. 3 Renown Lv. 7 Complete Talimun's Paralogue then select Agree 3 times Support Lv. 3 Renown Lv. 9 Complete Talimun's Paralogue then select Agree 3 times Cannot be recruited on this route."
+      },
+      {
+        "character": "Diego",
+        "condition": "Support Lv. 3 Renown Lv. 10 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 9 Clear Orchel's Regret Paralogue Support Lv. 2 Renown Lv. 8 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 8 Clear Orchel's Regret Paralogue"
+      },
+      {
+        "character": "Sha",
+        "condition": "Lan Cannot be recruited on this route. Support Lv. 3 Renown Lv. 10 Clear Anatolia's Paralogue and answer questions correctly. Cannot be recruited on this route. Support Lv. 3 Renown Lv. 8 Clear Anatolia's Paralogue and answer questions correctly."
+      },
+      {
+        "character": "Dante",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante. Support Lv. 2 Renown Lv. 8 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 6 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante."
+      },
+      {
+        "character": "Simon",
+        "condition": "Support Lv. 3 Renown Lv. 8 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 6 Pay 500 Gold and pick tails on coin toss."
+      },
+      {
+        "character": "Ninae",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae."
+      },
+      {
+        "character": "Nezha",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 10 Give 3 Sandworm Meat to Nezha. Support Lv. 2 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 9 Give 3 Sandworm Meat to Nezha."
+      },
+      {
+        "character": "Guzran",
+        "condition": "Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 8 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 3"
+      },
+      {
+        "character": "Nydine",
+        "condition": "Support Lv. 1 Renown Lv. 6 Give 2 Bronze Axes to Nydine. Support Lv. 2 Renown Lv. 5 Give 2 Bronze Axes to Nydine. Support Lv. 3 Renown Lv. 5 Give 3 Iron Axes to Nydine. Support Lv. 3 Renown Lv. 10 Give 3 Iron Axes to Nydine."
+      },
+      {
+        "character": "Io",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 2 Renown Lv. 3 Give 800 Gold to Io. Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 1 Renown Lv. 6 Give 1500 Gold to Io."
+      },
+      {
+        "character": "Catania",
+        "condition": "Support Lv. 3 Renown Lv. 10 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7 Support Lv. 1 Renown Lv. 2"
+      },
+      {
+        "character": "Noctula",
+        "condition": "Support Lv. 1 Renown Lv. 4 Support Lv. 1 Renown Lv. 6 Support Lv. 1 Renown Lv. 3 Support Lv. 3 Renown Lv. 8"
+      },
+      {
+        "character": "Yang",
+        "condition": "Jie Support Lv. 2 Renown Lv. 3 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 9 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 3 Renown Lv. 8 Answer Yang Jie’s 3 Questions Correctly."
+      },
+      {
+        "character": "Sofia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 3 Renown Lv. 9 Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "Majide",
+        "condition": "Support Lv. 2 Renown Lv. 5 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 9 Admit That You Need Majide Three Times."
+      },
+      {
+        "character": "Zarcone",
+        "condition": "Support Lv. 3 Renown Lv. 8 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 3 Renown Lv. 7 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 1 Renown Lv. 4 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 2 Renown Lv. 5 Refuse to pay thrice then pay Zarcone 10 Gold."
+      },
+      {
+        "character": "Goliath",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 6 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 9 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 10 Give 3 Giants' Meat to Goliath."
+      },
+      {
+        "character": "Jester",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 6 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 9 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests."
+      },
+      {
+        "character": "Ludia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia"
+      },
+      {
+        "character": "Fianna",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 7 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 9 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Fianna."
+      },
+      {
+        "character": "Loretta",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 9 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta."
+      },
+      {
+        "character": "Halvin",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 9 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin."
+      },
+      {
+        "character": "Dadao",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 2 Kothar Gar to Dadao. Support Lv. 3 Renown Lv. 10 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao."
+      },
+      {
+        "character": "Peppe",
+        "condition": "Support Lv. 1 Renown Lv. 9 Clear Bertrand's Paralogue. Support Lv. 3 Renown Lv. 8 Clear Bertrand's Paralogue. Support Lv. 2 Renown Lv. 7 Clear Bertrand's Paralogue. Cannot be recruited on this route."
+      },
+      {
+        "character": "5",
+        "condition": ""
+      },
+      {
+        "character": "Sirocco",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 1 Renown Lv. 5 Give Sirocco a copy of the Monument Verse Automatically Recruited During Story"
+      },
+      {
+        "character": "Mu",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 7 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Automatically Recruited During Story"
+      },
+      {
+        "character": "Olympia",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 6 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 9 Give Olympia Scarlet Drops Automatically Recruited During Story"
+      },
+      {
+        "character": "Benditz",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 2 Renown Lv. 7 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "6",
+        "condition": ""
+      },
+      {
+        "character": "Kiroc",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc. Support Lv. 3 Renown Lv. 10 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc."
+      },
+      {
+        "character": "Jasmine",
+        "condition": "Support Lv. 1 Renown Lv. 8 Give 2000 Gold to Jasmine. Support Lv. 3 Renown Lv. 9 Give 5000 Gold to Jasmine. Support Lv. 3 Renown Lv. 8 Give 5000 Gold to Jasmine. Support Lv. 2 Renown Lv. 4 Give 500 Gold to Jasmine."
+      },
+      {
+        "character": "7",
+        "condition": ""
+      },
+      {
+        "character": "Alexandra",
+        "condition": "Support Lv. 2 Renown Lv. 7 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 6 Support Lv. 3 Renown Lv. 10"
+      },
+      {
+        "character": "8",
+        "condition": ""
+      },
+      {
+        "character": "Nuzzuo",
+        "condition": "Support Lv. 2 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 9 Give 2 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 3 Renown Lv. 9 Give 3 Iron Bows to Nuzzuo."
+      },
+      {
+        "character": "Inyoni",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 1 Renown Lv. 9 Give 4000 Gold to Inyoni. Support Lv. 1 Renown Lv. 7 Give 3000 Gold to Inyoni."
+      }
+    ],
+    "raw_source": "raw_extracts/quests_walkthrough/dietrichs_path_618788.html"
+  },
+  {
+    "route": "Theodora's Path",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618789",
+    "summary": "Theodora, the Iron Bastion, navigates imperial court politics, uprisings, and tactical warfare.",
+    "conditions": "Interact with the Obelisk at Pale Raven's Perch and select Theodora's Path, or select after Prologue.",
+    "route_exclusives": [
+      "Recruit Battalions in the Overworld",
+      "Use Battalions and Gambits in Combat",
+      "Can Access the Saramis Guesthouse",
+      "Can do Send Supplies Quests",
+      "Has a Boat to Travel by Sea",
+      "Cataphract Advanced Class"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Theodora, The Iron Bastion",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623773",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "Dyan's Uprising",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623818",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 3,
+        "title": "Tumult at the Imperial Capital",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623896",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 4,
+        "title": "Unlikely Allegiances",
+        "turns": "24",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623947",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "An Ominous Clash",
+        "turns": "52",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624078",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 6,
+        "title": "The Treasure Hunter",
+        "turns": "114",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624243",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 7,
+        "title": "A Voice From the Darkness",
+        "turns": "148",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624301",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 8,
+        "title": "Rendezvous With Troy",
+        "turns": "116",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624320",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 9,
+        "title": "To The Forbidden Land",
+        "turns": "119",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624365",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 10,
+        "title": "The Queen and the Merchant",
+        "turns": "88",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624385",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 11,
+        "title": "A Sudden Turn",
+        "turns": "112",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624500",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 12,
+        "title": "The War of Zanbar",
+        "turns": "32",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624686",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [
+      {
+        "character": "1",
+        "condition": ""
+      },
+      {
+        "character": "Theodora",
+        "condition": "Cannot be recruited on this route. Cannot be recruited on this route. Automatically Recruited During Story Cannot be recruited on this route."
+      },
+      {
+        "character": "Bonaventure",
+        "condition": "Cannot be recruited on this route. Cannot be recruited on this route. Automatically Recruited During Story Cannot be recruited on this route."
+      },
+      {
+        "character": "Tobias",
+        "condition": "Cannot be recruited on this route. Cannot be recruited on this route. Automatically Recruited During Story Cannot be recruited on this route."
+      },
+      {
+        "character": "4",
+        "condition": ""
+      },
+      {
+        "character": "Lysander",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 5 Iron Spears to Lysander. Support Lv. 3 Renown Lv. 6 Give 5 Iron Spears to Lysander. Automatically Recruited During Story Support Lv. 3 Renown Lv. 7 Give 5 Iron Spears to Lysander."
+      },
+      {
+        "character": "Lilian",
+        "condition": "Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Automatically Recruited During Story Support Lv. 2 Renown Lv. 7 Give 5000 Gold to Lilian."
+      },
+      {
+        "character": "5",
+        "condition": ""
+      },
+      {
+        "character": "Tialla",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 10 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 8 Clear Cai's Paralogue then give 3000 gold."
+      },
+      {
+        "character": "Buccar",
+        "condition": "Cannot be recruited on this route. Support Lv. 3 Renown Lv. 8 Clear Leda's Paralogue Support Lv. 3 Renown Lv. 8 Clear Leda's Paralogue Automatically Recruited During Story"
+      },
+      {
+        "character": "Peter",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 7 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 10 Give Peter 1 Phantom Ginji"
+      },
+      {
+        "character": "Esmeralda",
+        "condition": "Support Lv. 2 Renown Lv. 7 Complete Esmeralda's Request Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Complete Esmeralda's Request Support Lv. 3 Renown Lv. 6 Complete Esmeralda's Request"
+      },
+      {
+        "character": "Sirocco",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 1 Renown Lv. 5 Give Sirocco a copy of the Monument Verse Automatically Recruited During Story"
+      },
+      {
+        "character": "Ultand",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 5 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 6 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 8 Give Ultand Her Mother's Gift"
+      },
+      {
+        "character": "Mikaela",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Mikaela. Automatically Recruited During Story Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Mikaela. Support Lv. 3 Renown Lv. 6 Give 3000 Gold to Mikaela."
+      },
+      {
+        "character": "Mu",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 7 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Automatically Recruited During Story"
+      },
+      {
+        "character": "Olympia",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 6 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 9 Give Olympia Scarlet Drops Automatically Recruited During Story"
+      },
+      {
+        "character": "Ursula",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Talimun's Paralogue then select Agree 3 times Support Lv. 3 Renown Lv. 7 Complete Talimun's Paralogue then select Agree 3 times Support Lv. 3 Renown Lv. 9 Complete Talimun's Paralogue then select Agree 3 times Cannot be recruited on this route."
+      },
+      {
+        "character": "Diego",
+        "condition": "Support Lv. 3 Renown Lv. 10 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 9 Clear Orchel's Regret Paralogue Support Lv. 2 Renown Lv. 8 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 8 Clear Orchel's Regret Paralogue"
+      },
+      {
+        "character": "Dante",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante. Support Lv. 2 Renown Lv. 8 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 6 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante."
+      },
+      {
+        "character": "Simon",
+        "condition": "Support Lv. 3 Renown Lv. 8 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 6 Pay 500 Gold and pick tails on coin toss."
+      },
+      {
+        "character": "Ninae",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae."
+      },
+      {
+        "character": "Nezha",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 10 Give 3 Sandworm Meat to Nezha. Support Lv. 2 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 9 Give 3 Sandworm Meat to Nezha."
+      },
+      {
+        "character": "Guzran",
+        "condition": "Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 8 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 3"
+      },
+      {
+        "character": "Nydine",
+        "condition": "Support Lv. 1 Renown Lv. 6 Give 2 Bronze Axes to Nydine. Support Lv. 2 Renown Lv. 5 Give 2 Bronze Axes to Nydine. Support Lv. 3 Renown Lv. 5 Give 3 Iron Axes to Nydine. Support Lv. 3 Renown Lv. 10 Give 3 Iron Axes to Nydine."
+      },
+      {
+        "character": "Io",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 2 Renown Lv. 3 Give 800 Gold to Io. Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 1 Renown Lv. 6 Give 1500 Gold to Io."
+      },
+      {
+        "character": "Catania",
+        "condition": "Support Lv. 3 Renown Lv. 10 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7 Support Lv. 1 Renown Lv. 2"
+      },
+      {
+        "character": "Noctula",
+        "condition": "Support Lv. 1 Renown Lv. 4 Support Lv. 1 Renown Lv. 6 Support Lv. 1 Renown Lv. 3 Support Lv. 3 Renown Lv. 8"
+      },
+      {
+        "character": "Yang",
+        "condition": "Jie Support Lv. 2 Renown Lv. 3 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 9 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 3 Renown Lv. 8 Answer Yang Jie’s 3 Questions Correctly."
+      },
+      {
+        "character": "Sofia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 3 Renown Lv. 9 Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "Majide",
+        "condition": "Support Lv. 2 Renown Lv. 5 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 9 Admit That You Need Majide Three Times."
+      },
+      {
+        "character": "Zarcone",
+        "condition": "Support Lv. 3 Renown Lv. 8 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 3 Renown Lv. 7 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 1 Renown Lv. 4 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 2 Renown Lv. 5 Refuse to pay thrice then pay Zarcone 10 Gold."
+      },
+      {
+        "character": "Goliath",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 6 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 9 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 10 Give 3 Giants' Meat to Goliath."
+      },
+      {
+        "character": "Jester",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 6 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 9 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests."
+      },
+      {
+        "character": "Ludia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia"
+      },
+      {
+        "character": "Seteth",
+        "condition": "Support Lv. 3 Renown Lv. 6 Complete Seteth's Request. Cannot be recruited on this route. Support Lv. 3 Renown Lv. 6 Complete Seteth's Request. Support Lv. 3 Renown Lv. 10 Complete Seteth's Request."
+      },
+      {
+        "character": "Fianna",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 7 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 9 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Fianna."
+      },
+      {
+        "character": "Loretta",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 9 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta."
+      },
+      {
+        "character": "Halvin",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 9 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin."
+      },
+      {
+        "character": "Dadao",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 2 Kothar Gar to Dadao. Support Lv. 3 Renown Lv. 10 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao."
+      },
+      {
+        "character": "Peppe",
+        "condition": "Support Lv. 1 Renown Lv. 9 Clear Bertrand's Paralogue. Support Lv. 3 Renown Lv. 8 Clear Bertrand's Paralogue. Support Lv. 2 Renown Lv. 7 Clear Bertrand's Paralogue. Cannot be recruited on this route."
+      },
+      {
+        "character": "6",
+        "condition": ""
+      },
+      {
+        "character": "Benditz",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 2 Renown Lv. 7 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "7",
+        "condition": ""
+      },
+      {
+        "character": "Kiroc",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc. Support Lv. 3 Renown Lv. 10 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc."
+      },
+      {
+        "character": "Jasmine",
+        "condition": "Support Lv. 1 Renown Lv. 8 Give 2000 Gold to Jasmine. Support Lv. 3 Renown Lv. 9 Give 5000 Gold to Jasmine. Support Lv. 3 Renown Lv. 8 Give 5000 Gold to Jasmine. Support Lv. 2 Renown Lv. 4 Give 500 Gold to Jasmine."
+      },
+      {
+        "character": "8",
+        "condition": ""
+      },
+      {
+        "character": "Alexandra",
+        "condition": "Support Lv. 2 Renown Lv. 7 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 6 Support Lv. 3 Renown Lv. 10"
+      },
+      {
+        "character": "9",
+        "condition": ""
+      },
+      {
+        "character": "Nuzzuo",
+        "condition": "Support Lv. 2 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 9 Give 2 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 3 Renown Lv. 9 Give 3 Iron Bows to Nuzzuo."
+      },
+      {
+        "character": "Inyoni",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 1 Renown Lv. 9 Give 4000 Gold to Inyoni. Support Lv. 1 Renown Lv. 7 Give 3000 Gold to Inyoni."
+      }
+    ],
+    "raw_source": "raw_extracts/quests_walkthrough/theodoras_path_618789.html"
+  },
+  {
+    "route": "Leda's Path",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618790",
+    "summary": "Leda, the Vengeful Dancer, utilizes performances, espionage, and agile strikes to seek vengeance.",
+    "conditions": "Interact with the Obelisk at Pale Raven's Perch and select Leda's Path, or select after Prologue.",
+    "route_exclusives": [
+      "Complete Perform Quests for Rewards",
+      "Purchase Special Beverages",
+      "Dancer Advanced Class"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "The Vengeful Dancer",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623775",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "Battle at Coris Mine",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623870",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 3,
+        "title": "The Rose of Caelus",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623905",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 4,
+        "title": "The Indelible Past",
+        "turns": "58",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624028",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "Women at Battle",
+        "turns": "120",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624253",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 6,
+        "title": "The Soaring Maiden",
+        "turns": "76",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624336",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 7,
+        "title": "Rose of Retribution",
+        "turns": "120",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624382",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 8,
+        "title": "Shape of the Conspiracy",
+        "turns": "36",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624442",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 9,
+        "title": "Discordance",
+        "turns": "204",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624544",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 10,
+        "title": "A Father's Request and a Daughter's Wish",
+        "turns": "68",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624690",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 11,
+        "title": "Banquet of the Risen Dead",
+        "turns": "85",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625185",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 12,
+        "title": "Revenge's End",
+        "turns": "80",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625226",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [
+      {
+        "character": "1",
+        "condition": ""
+      },
+      {
+        "character": "Leda",
+        "condition": "Cannot be recruited on this route. Cannot be recruited on this route. Cannot be recruited on this route. Automatically Recruited During Story"
+      },
+      {
+        "character": "Buccar",
+        "condition": "Cannot be recruited on this route. Support Lv. 3 Renown Lv. 8 Clear Leda's Paralogue Support Lv. 3 Renown Lv. 8 Clear Leda's Paralogue Automatically Recruited During Story"
+      },
+      {
+        "character": "Sirocco",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 3 Renown Lv. 9 Give Sirocco a copy of the Monument Verse Support Lv. 1 Renown Lv. 5 Give Sirocco a copy of the Monument Verse Automatically Recruited During Story"
+      },
+      {
+        "character": "Mu",
+        "condition": "Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 7 Give Mu 3 Glirmosa Support Lv. 3 Renown Lv. 9 Give Mu 3 Glirmosa Automatically Recruited During Story"
+      },
+      {
+        "character": "3",
+        "condition": ""
+      },
+      {
+        "character": "Olympia",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 6 Give Olympia Scarlet Drops Support Lv. 3 Renown Lv. 9 Give Olympia Scarlet Drops Automatically Recruited During Story"
+      },
+      {
+        "character": "4",
+        "condition": ""
+      },
+      {
+        "character": "Tialla",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 10 Clear Cai's Paralogue then give 3000 gold. Support Lv. 3 Renown Lv. 8 Clear Cai's Paralogue then give 3000 gold."
+      },
+      {
+        "character": "Fabio",
+        "condition": "Cannot be recruited on this route. Automatically Recruited During Story Cannot be recruited on this route. Support Lv. 3 Renown Lv. 9 Clear Dietrich's Paralogue and complete Fabio's request."
+      },
+      {
+        "character": "Peter",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 7 Give Peter 1 Phantom Ginji Support Lv. 3 Renown Lv. 10 Give Peter 1 Phantom Ginji"
+      },
+      {
+        "character": "Esmeralda",
+        "condition": "Support Lv. 2 Renown Lv. 7 Complete Esmeralda's Request Automatically Recruited During Story Support Lv. 3 Renown Lv. 9 Complete Esmeralda's Request Support Lv. 3 Renown Lv. 6 Complete Esmeralda's Request"
+      },
+      {
+        "character": "Ultand",
+        "condition": "Automatically Recruited During Story Support Lv. 3 Renown Lv. 5 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 6 Give Ultand Her Mother's Gift Support Lv. 3 Renown Lv. 8 Give Ultand Her Mother's Gift"
+      },
+      {
+        "character": "Mikaela",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Mikaela. Automatically Recruited During Story Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Mikaela. Support Lv. 3 Renown Lv. 6 Give 3000 Gold to Mikaela."
+      },
+      {
+        "character": "Lysander",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 5 Iron Spears to Lysander. Support Lv. 3 Renown Lv. 6 Give 5 Iron Spears to Lysander. Automatically Recruited During Story Support Lv. 3 Renown Lv. 7 Give 5 Iron Spears to Lysander."
+      },
+      {
+        "character": "Lilian",
+        "condition": "Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Support Lv. 2 Renown Lv. 8 Give 5000 Gold to Lilian. Automatically Recruited During Story Support Lv. 2 Renown Lv. 7 Give 5000 Gold to Lilian."
+      },
+      {
+        "character": "Diego",
+        "condition": "Support Lv. 3 Renown Lv. 10 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 9 Clear Orchel's Regret Paralogue Support Lv. 2 Renown Lv. 8 Clear Orchel's Regret Paralogue Support Lv. 3 Renown Lv. 8 Clear Orchel's Regret Paralogue"
+      },
+      {
+        "character": "Sha",
+        "condition": "Lan Cannot be recruited on this route. Support Lv. 3 Renown Lv. 10 Clear Anatolia's Paralogue and answer questions correctly. Cannot be recruited on this route. Support Lv. 3 Renown Lv. 8 Clear Anatolia's Paralogue and answer questions correctly."
+      },
+      {
+        "character": "Dante",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante. Support Lv. 2 Renown Lv. 8 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 6 Give 8000 Gold to Dante. Support Lv. 3 Renown Lv. 10 Give 8000 Gold to Dante."
+      },
+      {
+        "character": "Simon",
+        "condition": "Support Lv. 3 Renown Lv. 8 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 7 Pay 500 Gold and pick tails on coin toss. Support Lv. 3 Renown Lv. 6 Pay 500 Gold and pick tails on coin toss."
+      },
+      {
+        "character": "Ninae",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 6 Give 1 Paradise Fish to Ninae. Support Lv. 3 Renown Lv. 8 Give 1 Paradise Fish to Ninae."
+      },
+      {
+        "character": "Nezha",
+        "condition": "Support Lv. 3 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 10 Give 3 Sandworm Meat to Nezha. Support Lv. 2 Renown Lv. 6 Give 3 Sandworm Meat to Nezha. Support Lv. 3 Renown Lv. 9 Give 3 Sandworm Meat to Nezha."
+      },
+      {
+        "character": "Guzran",
+        "condition": "Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 8 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 3"
+      },
+      {
+        "character": "Nydine",
+        "condition": "Support Lv. 1 Renown Lv. 6 Give 2 Bronze Axes to Nydine. Support Lv. 2 Renown Lv. 5 Give 2 Bronze Axes to Nydine. Support Lv. 3 Renown Lv. 5 Give 3 Iron Axes to Nydine. Support Lv. 3 Renown Lv. 10 Give 3 Iron Axes to Nydine."
+      },
+      {
+        "character": "Io",
+        "condition": "Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 2 Renown Lv. 3 Give 800 Gold to Io. Support Lv. 3 Renown Lv. 10 Give 4000 Gold to Io. Support Lv. 1 Renown Lv. 6 Give 1500 Gold to Io."
+      },
+      {
+        "character": "Catania",
+        "condition": "Support Lv. 3 Renown Lv. 10 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7 Support Lv. 1 Renown Lv. 2"
+      },
+      {
+        "character": "Noctula",
+        "condition": "Support Lv. 1 Renown Lv. 4 Support Lv. 1 Renown Lv. 6 Support Lv. 1 Renown Lv. 3 Support Lv. 3 Renown Lv. 8"
+      },
+      {
+        "character": "Yang",
+        "condition": "Jie Support Lv. 2 Renown Lv. 3 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 9 Answer Yang Jie’s 3 Questions Correctly. Support Lv. 3 Renown Lv. 8 Answer Yang Jie’s 3 Questions Correctly."
+      },
+      {
+        "character": "Sofia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 3 Renown Lv. 9 Support Lv. 1 Renown Lv. 2 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "Majide",
+        "condition": "Support Lv. 2 Renown Lv. 5 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 8 Admit That You Need Majide Three Times. Support Lv. 3 Renown Lv. 9 Admit That You Need Majide Three Times."
+      },
+      {
+        "character": "Zarcone",
+        "condition": "Support Lv. 3 Renown Lv. 8 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 3 Renown Lv. 7 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 1 Renown Lv. 4 Refuse to pay thrice then pay Zarcone 10 Gold. Support Lv. 2 Renown Lv. 5 Refuse to pay thrice then pay Zarcone 10 Gold."
+      },
+      {
+        "character": "Goliath",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 6 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 9 Give 3 Giants' Meat to Goliath. Support Lv. 3 Renown Lv. 10 Give 3 Giants' Meat to Goliath."
+      },
+      {
+        "character": "Jester",
+        "condition": "Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 6 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 9 Complete Jester's Three Combat Quests. Support Lv. 3 Renown Lv. 10 Complete Jester's Three Combat Quests."
+      },
+      {
+        "character": "Ludia",
+        "condition": "Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 9 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia Support Lv. 3 Renown Lv. 7 Gather information at Callianeira Port and report back to Ludia"
+      },
+      {
+        "character": "Seteth",
+        "condition": "Support Lv. 3 Renown Lv. 6 Complete Seteth's Request. Cannot be recruited on this route. Support Lv. 3 Renown Lv. 6 Complete Seteth's Request. Support Lv. 3 Renown Lv. 10 Complete Seteth's Request."
+      },
+      {
+        "character": "Loretta",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 9 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta. Support Lv. 3 Renown Lv. 5 Give 3 Iron Swords to Loretta."
+      },
+      {
+        "character": "Halvin",
+        "condition": "Support Lv. 3 Renown Lv. 5 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 9 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin. Support Lv. 3 Renown Lv. 7 Give 10 Dates (Material) to Halvin."
+      },
+      {
+        "character": "Dadao",
+        "condition": "Support Lv. 3 Renown Lv. 7 Give 2 Kothar Gar to Dadao. Support Lv. 3 Renown Lv. 10 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao. Support Lv. 2 Renown Lv. 5 Give 2 Kothar Gar to Dadao."
+      },
+      {
+        "character": "5",
+        "condition": ""
+      },
+      {
+        "character": "Benditz",
+        "condition": "Support Lv. 3 Renown Lv. 9 Support Lv. 2 Renown Lv. 7 Support Lv. 1 Renown Lv. 8 Support Lv. 3 Renown Lv. 7"
+      },
+      {
+        "character": "Kiroc",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc. Support Lv. 3 Renown Lv. 10 Give 8 Pure Water to Kiroc. Support Lv. 1 Renown Lv. 4 Give 3 Pure Water to Kiroc."
+      },
+      {
+        "character": "Fianna",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 7 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 9 Give 3000 Gold to Fianna. Support Lv. 3 Renown Lv. 5 Give 3000 Gold to Fianna."
+      },
+      {
+        "character": "6",
+        "condition": ""
+      },
+      {
+        "character": "Jasmine",
+        "condition": "Support Lv. 1 Renown Lv. 8 Give 2000 Gold to Jasmine. Support Lv. 3 Renown Lv. 9 Give 5000 Gold to Jasmine. Support Lv. 3 Renown Lv. 8 Give 5000 Gold to Jasmine. Support Lv. 2 Renown Lv. 4 Give 500 Gold to Jasmine."
+      },
+      {
+        "character": "7",
+        "condition": ""
+      },
+      {
+        "character": "Alexandra",
+        "condition": "Support Lv. 2 Renown Lv. 7 Support Lv. 3 Renown Lv. 8 Support Lv. 1 Renown Lv. 6 Support Lv. 3 Renown Lv. 10"
+      },
+      {
+        "character": "8",
+        "condition": ""
+      },
+      {
+        "character": "Nuzzuo",
+        "condition": "Support Lv. 2 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 9 Give 2 Iron Bows to Nuzzuo. Support Lv. 1 Renown Lv. 6 Give 3 Iron Bows to Nuzzuo. Support Lv. 3 Renown Lv. 9 Give 3 Iron Bows to Nuzzuo."
+      },
+      {
+        "character": "9",
+        "condition": ""
+      },
+      {
+        "character": "Inyoni",
+        "condition": "Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 3 Renown Lv. 8 Give 6000 Gold to Inyoni. Support Lv. 1 Renown Lv. 9 Give 4000 Gold to Inyoni. Support Lv. 1 Renown Lv. 7 Give 3000 Gold to Inyoni."
+      }
+    ],
+    "raw_source": "raw_extracts/quests_walkthrough/ledas_path_618790.html"
+  },
+  {
+    "route": "Part 2: War Arc",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624554",
+    "summary": "The outbreak of continental war where paths converge across the Klytius Plains and Agris Stronghold.",
+    "conditions": "Complete the four Flame Lord paths (Cai, Dietrich, Theodora, Leda).",
+    "route_exclusives": [
+      "Simplified Preparation System",
+      "Drifting Reliquary"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "The Battle of Klytius Plains",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624575",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "Showdown at Agris Stronghold",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624684",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 3,
+        "title": "Beyond the Salt Road",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624688",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 4,
+        "title": "The Storming of Dagsion",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624705",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "Divine Emperor Dagda",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624718",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 6,
+        "title": "The Underworld Incarnate",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624743",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [],
+    "raw_source": "raw_extracts/quests_walkthrough/part2_war_624554.html"
+  },
+  {
+    "route": "Part 3: Salvation Arc",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/618791",
+    "summary": "The final confrontation united against the Underworld and Divine Emperor Dagda to liberate the realm.",
+    "conditions": "Complete Part 2: War Arc.",
+    "route_exclusives": [
+      "All Paths United",
+      "Repairing Facilities and Locations",
+      "Deploy Squads on the Map",
+      "Combining Character Stats",
+      "New Master and Divine Classes",
+      "Destroying Underworld Gates"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "title": "The Liberation of Dagsion",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625204",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "True Strength",
+        "turns": "36",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625318",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 3,
+        "title": "The Inheritors",
+        "turns": "36",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625535",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 4,
+        "title": "The Hopes of Monarchs and the People",
+        "turns": "56",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625606",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "Song of the Living",
+        "turns": "76",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/625819",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 6,
+        "title": "To the Edge of Twilight",
+        "turns": "84",
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/626050",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 1,
+        "title": "How to Recruit Bertrand Clear Bertrand's Paralogue How to Recruit Talimun Clear Talimun's Paralogue How to Recruit Orchel Clear Orchel's Paralogue How to Recruit Anatolia Clear Anatolia's Paralogue",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624391",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 2,
+        "title": "How to Recruit Centurio Clear Rescue Centurio, then talk to Centurio in Dagsion",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624394",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      },
+      {
+        "number": 5,
+        "title": "How to Recruit Aswan Joins automatically if she survived in Part II How to Recruit Tahonia Joins automatically if she survived in Part II How to Recruit Klapka Joins automatically during the Fifth Section if he survives the Battle vs. Mahadu. Theodora's Path must be cleared, and you'll need to return to Dagsion after the battle.",
+        "turns": null,
+        "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624395",
+        "objectives": "Complete chapter battle conditions and story milestones.",
+        "conditions": "Clear previous chapter"
+      }
+    ],
+    "recruitable_characters": [
+      {
+        "character": "1st",
+        "condition": ""
+      },
+      {
+        "character": "Bertrand",
+        "condition": "Clear Bertrand's Paralogue"
+      },
+      {
+        "character": "Talimun",
+        "condition": "Clear Talimun's Paralogue"
+      },
+      {
+        "character": "Orchel",
+        "condition": "Clear Orchel's Paralogue"
+      },
+      {
+        "character": "Anatolia",
+        "condition": "Clear Anatolia's Paralogue"
+      },
+      {
+        "character": "2nd",
+        "condition": ""
+      },
+      {
+        "character": "Centurio",
+        "condition": "Clear Rescue Centurio, then talk to Centurio in Dagsion"
+      },
+      {
+        "character": "5th",
+        "condition": ""
+      },
+      {
+        "character": "Aswan",
+        "condition": "Joins automatically if she survived in Part II"
+      },
+      {
+        "character": "Tahonia",
+        "condition": "Joins automatically if she survived in Part II"
+      },
+      {
+        "character": "Klapka",
+        "condition": "Joins automatically during the Fifth Section if he survives the Battle vs. Mahadu. Theodora's Path must be cleared, and you'll need to return to Dagsion after the battle."
+      }
+    ],
+    "raw_source": "raw_extracts/quests_walkthrough/part3_salvation_618791.html"
+  }
+]

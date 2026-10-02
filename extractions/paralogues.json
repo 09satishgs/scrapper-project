@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Diversionary Tactics",
+    "full_title": "Leda's Paralogue: Diversionary Tactics Walkthrough",
+    "character_associated": "Leda",
+    "recruitable_character": "Buccar",
+    "requirements": {
+      "routes": [
+        "Dietrich's Path Ch. 9 (9/2 - 9/8)",
+        "Theodora's Path Ch. 10 (9/2 - 9/8)"
+      ],
+      "summary": "Dietrich's Path Ch. 9 (9/2 - 9/8); Theodora's Path Ch. 10 (9/2 - 9/8)"
+    },
+    "rewards": [
+      "Silver Shield",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Dagsion",
+      "victory_condition": "Defeat all of the enemy units.",
+      "defeat_condition": "Dietrich or Leda falls in battle."
+    },
+    "objective": "Speak to Leda to begin the paralogue.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624286",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624286.html"
+  },
+  {
+    "title": "Missing Brave-Warrior Statue",
+    "full_title": "Theodora's Paralogue: Missing Brave-Warrior Statue Walkthrough",
+    "character_associated": "Theodora",
+    "recruitable_character": null,
+    "requirements": {
+      "routes": [
+        "Dietrich's Path Ch. 9 (9/3 - 9/15)"
+      ],
+      "summary": "Dietrich's Path Ch. 9 (9/3 - 9/15)"
+    },
+    "rewards": [
+      "Pilum",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Purification Temple",
+      "victory_condition": "Activate all of the mechanisms.",
+      "defeat_condition": "Dietrich or Theodora falls in battle."
+    },
+    "objective": "Begin the paralogue at the destination.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624273",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624273.html"
+  },
+  {
+    "title": "Secret of the Vanished Carriage",
+    "full_title": "Talimun's Paralogue: Secret of the Vanished Carriage Walkthrough",
+    "character_associated": "Talimun",
+    "recruitable_character": "Ursula",
+    "requirements": {
+      "routes": [
+        "Cai's Path Ch. 10 (9/17 - 9/2210/1 - 10/12)",
+        "Dietrich's Path Ch. 9 (9/17 - 9/1910/1 - 10/12)",
+        "Theodora's Path Ch. 11 (9/17 - 9/2210/1 - 10/12)"
+      ],
+      "summary": "Cai's Path Ch. 10 (9/17 - 9/2210/1 - 10/12); Dietrich's Path Ch. 9 (9/17 - 9/1910/1 - 10/12); Theodora's Path Ch. 11 (9/17 - 9/2210/1 - 10/12)"
+    },
+    "rewards": [
+      "Cleansing Blade",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Dragdon Pass",
+      "victory_condition": "Recover all of the Vandahl cargo or defeat all of the enemy units.",
+      "defeat_condition": "A thief with cargo reaches the target destination, or Dietrich or Talimun falls in battle."
+    },
+    "objective": "Begin the paralogue at the destination.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624309",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624309.html"
+  },
+  {
+    "title": "Friendly Match with Brigid's King",
+    "full_title": "Bertrand's Paralogue: Friendly Match with Brigid's King Walkthrough",
+    "character_associated": "Bertrand",
+    "recruitable_character": "Gaitz, Peppe",
+    "requirements": {
+      "routes": [
+        "Cai's Path Ch. 10 (9/17 - 9/25)",
+        "Dietrich's Path Ch. 9 (9/17)",
+        "Theodora's Path Ch. 11 (9/17 - 9/25)"
+      ],
+      "summary": "Cai's Path Ch. 10 (9/17 - 9/25); Dietrich's Path Ch. 9 (9/17); Theodora's Path Ch. 11 (9/17 - 9/25)"
+    },
+    "rewards": [
+      "Extra Large Bullion",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Dagsion",
+      "victory_condition": "Defeat a majority of the giants.",
+      "defeat_condition": "The enemy defeats a majority of the giants."
+    },
+    "objective": "Speak to Gabriel to begin the paralogue.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624297",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624297.html"
+  },
+  {
+    "title": "Golden Secret",
+    "full_title": "Anna's Paralogue: Golden Secret Walkthrough",
+    "character_associated": "Anna",
+    "recruitable_character": null,
+    "requirements": {
+      "routes": [
+        "Cai's Path Ch. 10 (9/24 - 10/5)",
+        "Dietrich's Path Ch. 10 (9/29 - 10/5)",
+        "Theodora's Path Ch. 11 (9/24 - 10/5)"
+      ],
+      "summary": "Cai's Path Ch. 10 (9/24 - 10/5); Dietrich's Path Ch. 10 (9/29 - 10/5); Theodora's Path Ch. 11 (9/24 - 10/5)"
+    },
+    "rewards": [
+      "Orichalcum",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Dagsion",
+      "victory_condition": "Defeat all of the enemy units.・Defeat Abnormal Giant.",
+      "defeat_condition": "Dietrich or Solel falls in battle."
+    },
+    "objective": "Speak to Anna to begin the paralogue.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624319",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624319.html"
+  },
+  {
+    "title": "Queen of the Erased",
+    "full_title": "Anatolia's Paralogue: Queen of the Erased Walkthrough",
+    "character_associated": "Anatolia",
+    "recruitable_character": "Sha Lan",
+    "requirements": {
+      "routes": [
+        "Dietrich's Path Ch. 11 (10/5 - 10/17)",
+        "Leda's Path Ch. 10 (10/5 - 10/17)"
+      ],
+      "summary": "Dietrich's Path Ch. 11 (10/5 - 10/17); Leda's Path Ch. 10 (10/5 - 10/17)"
+    },
+    "rewards": [
+      "Electron Agitator",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Pale Raven's Perch",
+      "victory_condition": "Get all of the remaining people of Kunlun to the target destination or defeat the pentkehydra.",
+      "defeat_condition": "Three of the people of Kunlun are defeated, or Chosen Flame Lord or Anatolia falls in battle."
+    },
+    "objective": "Begin the paralogue at the destination.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624226",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624226.html"
+  },
+  {
+    "title": "Sealed-Off Past",
+    "full_title": "Dietrich's Paralogue: Sealed-Off Past Walkthrough",
+    "character_associated": "Dietrich",
+    "recruitable_character": "Fabio",
+    "requirements": {
+      "routes": [
+        "Theodora's Path Ch. 12 (10/16 - 10/24)",
+        "Leda's Path Ch. 11 (10/16 - 11/1)"
+      ],
+      "summary": "Theodora's Path Ch. 12 (10/16 - 10/24); Leda's Path Ch. 11 (10/16 - 11/1)"
+    },
+    "rewards": [
+      "Salamander",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Shadowy Cave",
+      "victory_condition": "10 turns pass.",
+      "defeat_condition": "An enemy unit reaches the target destination, or Leda or Dietrich falls in battle."
+    },
+    "objective": "Begin the paralogue at the destination.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624228",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624228.html"
+  },
+  {
+    "title": "Great Escape",
+    "full_title": "Cai's Paralogue: Great Escape Walkthrough",
+    "character_associated": "Cai",
+    "recruitable_character": "Tialla",
+    "requirements": {
+      "routes": [
+        "Dietrich's Path Ch. 11 (10/16 - 10/22)",
+        "Theodora's Path Ch. 12 (10/16 - 10/22)",
+        "Leda's Path Ch. 11 (10/16 - 10/22)"
+      ],
+      "summary": "Dietrich's Path Ch. 11 (10/16 - 10/22); Theodora's Path Ch. 12 (10/16 - 10/22); Leda's Path Ch. 11 (10/16 - 10/22)"
+    },
+    "rewards": [
+      "Gem Box",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Dagsion",
+      "victory_condition": "Defeat Centurio.",
+      "defeat_condition": "An enemy unit reaches the target destination, or Dietrich or Cai falls in battle."
+    },
+    "objective": "Speak to Cai to begin the paralogue.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624349",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624349.html"
+  },
+  {
+    "title": "Orchel's Regret",
+    "full_title": "Orchel's Paralogue: Orchel's Regret Walkthrough",
+    "character_associated": "Orchel",
+    "recruitable_character": "Diego",
+    "requirements": {
+      "routes": [
+        "Cai's Path Ch. 11 (10/18 - 10/21)",
+        "Dietrich's Path Ch. 11 (10/18 - 10/27)",
+        "Theodora's Path Ch. 12 (10/18 - 10/24)",
+        "Leda's Path Ch. 11 (10/18 - 10/27)"
+      ],
+      "summary": "Cai's Path Ch. 11 (10/18 - 10/21); Dietrich's Path Ch. 11 (10/18 - 10/27); Theodora's Path Ch. 12 (10/18 - 10/24); Leda's Path Ch. 11 (10/18 - 10/27)"
+    },
+    "rewards": [
+      "Healing Staff",
+      "20000 Gold",
+      "150 Renown"
+    ],
+    "map_info": {
+      "location": "Fort Galcar",
+      "victory_condition": "Defeat all of the enemy units.",
+      "defeat_condition": "Chosen Flame Lord or Orchel falls in battle."
+    },
+    "objective": "Begin the paralogue at the destination.",
+    "strategy": "Deploy strong frontline units, protect key characters, and focus down dangerous commanders.",
+    "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624224",
+    "raw_source": "raw_extracts/quests_walkthrough/paralogue_624224.html"
+  }
+]

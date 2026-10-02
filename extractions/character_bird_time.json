@@ -1,0 +1,2414 @@
+[
+  {
+    "character_id": "623869",
+    "name": "Eshmel",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/eshmel_623869.html"
+  },
+  {
+    "character_id": "624012",
+    "name": "Hong Hua",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/hong_hua_624012.html"
+  },
+  {
+    "character_id": "624013",
+    "name": "Troy",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/troy_624013.html"
+  },
+  {
+    "character_id": "620167",
+    "name": "Cai",
+    "bird_time_answers": [
+      {
+        "topic": "Do you think I'll ever be better with a spear than my dad?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "How do you become an adult, anyway? It seems like everyone has to overcome a challenge to do it.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I bet it'd be fun to play hide-and-seek with you!",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "I can't stand cowardice. But I guess maybe that's better than getting used to it.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I hear pretty birdsong sometimes. Is that you?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I wonder what the world looks like through your eyes.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "It's neat how quick birds can move. You look like you could dodge any attack!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "It's nice to unwind a little sometimes, huh?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Sometimes, it's like people can guess what's on my mind. Am I that easy to read?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Today's a perfect day for fishing! You wanna come along with me sometime?",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/cai_620167.html"
+  },
+  {
+    "character_id": "620168",
+    "name": "Dietrich",
+    "bird_time_answers": [
+      {
+        "topic": "A sea beast diverted me to this land. Perhaps it was the hand of fate.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I cannot find a fitting opponent for a duel. I am parched. Not my throat, but my soul.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I detest restraints. And you?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I dislike those who fetter me... They constrain joy and supply boredom.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I have slain giant birds. Yet I feel I would enjoy battling you even more.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I like your eyes. They are as bright as sunlight.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I sense in you someting profound and menacing. Perhaps Answerer can expose it.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Still your mind. Let it be a secluded pond. Give yourself to slience. It is good to meditate.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You do not mind if I touch you?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "You show no signs of fear. That is unusual. You are unusual.",
+        "best_answer": "Gaze intently."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/dietrich_620168.html"
+  },
+  {
+    "character_id": "620411",
+    "name": "Theodora",
+    "bird_time_answers": [
+      {
+        "topic": "As a child of Damascar, I cannot be expected to place my trust in the temples.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "As a child, I used to fall asleep listening to bedtime stories and lullabies.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I find myself somewhat weary of late...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I have considered training my spear technique against you. Surely you can avoid my blows.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I yearn to be a queen that Yu Phas and the people of Saramis can take pride in.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "If I can make this world a place where my people can thrive, I will consider myself satisfied.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "In truth, I have no fondness for insects. Do you eat them often?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "My retainer winces at the sight of the sketches I enjoy drawing. I blame this new arm of mine.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "There is a firm resolve in your eyes not often seen in birds.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "We see ourselves as indebted to Yu Phas, so we cannot help but afford her the proper reverence.",
+        "best_answer": "Nod."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/theodora_620411.html"
+  },
+  {
+    "character_id": "620437",
+    "name": "Leda",
+    "bird_time_answers": [
+      {
+        "topic": "Birds are good at singing, aren't they? So how about I play my vihuela and you sing for me?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I can't stand snakes. If there was a snake here, you would chase it away, right?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I often wonder if there's any point in praying to the gods.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I'm willing to use any means—make any sacrifice—to achieve my goal. Is that wrong?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I've been having trouble sleeping. I wonder if hearing a lullaby would help.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "If you see me on a horse ride, you'd better swoop down and say hello.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "In the middle of playing, I often find I'm returning to songs from back home. I guess I'm nostalgic.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "It's nice being showered in applause. If you want to experience it, come fly to me when I'm performing.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "The key to dancing is posture. Slouch, and you'll only give a pitiful performance.",
+        "best_answer": "Dance."
+      },
+      {
+        "topic": "The next time I make food, will you try it? Humans don't seem to like my cooking, but maybe a bird...",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/leda_620437.html"
+  },
+  {
+    "character_id": "623941",
+    "name": "Tialla",
+    "bird_time_answers": [
+      {
+        "topic": "I can see such intelligence in your eyes. I think we could get along!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I like to lie in the warm sun. Do you like it too?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I might be inexperienced, but I've studied hard and learned more than most people!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I'd love to be a bird. I'd fly through the open windows and right into the temple library.",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "I'll always remember being with Grandpa when I was little. We heard a bard sing the prettiest song.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "If something bad is going to happen no matter what, is there any point in fighting it?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "It's bad to overthink things, isn't it? It makes your head go all fuzzy.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Technique is important, yes. But without knowledge of why it works, it won't be of much use.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "These glasses are pretty nice, don't you think? They're a hand-me-down from my grandfather.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You have such beautiful plumage. Do you mind if I take a closer look?",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/tialla_623941.html"
+  },
+  {
+    "character_id": "624004",
+    "name": "Peter",
+    "bird_time_answers": [
+      {
+        "topic": "Everyone's fighting. It's scary, but I'm doing my best!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I had a dream about a beautiful bird ... I wonder if it was a friend of yours.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I just don't know what to do about these feelings I have for Tialla.",
+        "best_answer": "Sing a beatiful tune."
+      },
+      {
+        "topic": "I like clouds. They're so big, and it's neat to see all the shapes they can take.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I look at you and ... You make me feel like I can face even the most difficult things in life.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "It's nice to walk around the forest and listen to all the sounds the animals make, huh?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Some animals make all kinds of racket. But you don't do that, do you?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "What should I do when I get so scared my legs start shaking and I can't move?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Taking it easy makes me sleepy ... Hey, if I fall asleep, will you wake me up?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "There's a ginji tree not far from here. We should go together and pick some of the fruit!",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/peter_624004.html"
+  },
+  {
+    "character_id": "624007",
+    "name": "Ultand",
+    "bird_time_answers": [
+      {
+        "topic": "Do you think I'll have a happy family in the future?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I can save money, yes, but I feel like the odds are low that it'll start increasing on its own.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I could listen to bards sing all day. Their songs are so lovely.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I enjoy a good fish dinner, but you can't eat nothing but fish every day, can you?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I feel like sometimes there's just no avoiding snapping at your superiors.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I think this hairstyle is quite lovely. What do you think?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I've been so exhausted lately. I could really do with some pampering ...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I've noticed something interesting. I find just looking at you to be unusually soothing.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "What do you do when there's someone you like and you want them to notice you?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "You're so cute! Can I take you home with me?",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/ultand_624007.html"
+  },
+  {
+    "character_id": "623964",
+    "name": "Fabio",
+    "bird_time_answers": [
+      {
+        "topic": "How beautiful you are. A fine specimen for my scalpel, hmm?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I am ill-suited to physical labor. Those who are should be the ones to do it. Obvious, isn't it?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I have feigned the role of a missionary for years, yet these simple beasts do not question it. Amazing.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I have spent some time with this guise by now. I have, hmm, acclimated to it.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "In this land, the sun's rays are relentless. I wish for something to block them.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Is this land strange, or have I become strange? I fine I cannot say.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Simply catching sight of a thing of beauty is enough to lift the spirits.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "The plants of Dagda are of much interest to me. I would observe and sketch many more.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "What, then is the purpose of celebrating the day of one's birth? It escapes me.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "You are the best kind of beast - no foolish words or wasted actions.",
+        "best_answer": "Gaze intently."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/fabio_623964.html"
+  },
+  {
+    "character_id": "624005",
+    "name": "Esmeralda",
+    "bird_time_answers": [
+      {
+        "topic": "All the nobles like to throw flashy parties, or so I hear. What's so great about parties?",
+        "best_answer": "Dance."
+      },
+      {
+        "topic": "I hate being looked down on. But I guess a refined lady can't wallop her foes...can she?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I hope my mom's doing OK. If I could fly like you, I'd go see her.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "If you're hungry, come find me! I'll slip you some tasty fish!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "My dad taught me everything I know about the sea. I wonder if I'm shaping up to be like him.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "My mom and dad always said I have pretty eyes. What do you think?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Sometimes the guys in Dagsion turn my head, but...No! Sweetie's the one for me!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "What I hate most are liars. It's not good to deceive people and then laught about it yourself.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "When I'm all by myself fishing, I like to sing. Just me, the waves, the wind, and my voice.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "You know, you don't smell like other birds. Hold still. Let me check!",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/esmeralda_624005.html"
+  },
+  {
+    "character_id": "624008",
+    "name": "Mikaela",
+    "bird_time_answers": [
+      {
+        "topic": "Be careful out there. If you see someone suspicious, just fly off, quick as you can!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Do you have someone dear to you? I hope so. Do whatever you can to protect them",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I wonder how much strength is in that body. Maybe I should just give you a little squeeze.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I'm not the best singer. I enjoy it, but I can't carry a tune.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "It's good to get strong. That way you're ready when it's time to kick out your good-for-nothing husband!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Just because a mom's marriage failed doesn't mean her daughter will make the same mistake. Right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Money is the root of hardship. Not that you need to worry about that!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "My sister taught me how to cook. She's incredible. One taste and your heart just soars.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Owing debts is no good. As long as they're hanging over you, you can't think straight.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Say there's a guy in the tavern causing a fuss and I need to punch him out. Should I avoid the face?",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/mikaela_624008.html"
+  },
+  {
+    "character_id": "623614",
+    "name": "Bonaventure",
+    "bird_time_answers": [
+      {
+        "topic": "As they listened, the lovely maidens were enchanted by the bard's voice.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Do you believe a bright future awaits Saramis?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Future generations will surely surpass us. Hm! I look forward to it.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I would say I remain sharp despite my age. Wouldn't you agree?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Is it obvious that I take painstaking care of my beard?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Looking at you gives me a sense of déjà vu. Why do you suppose that is?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Of late, I find myself mired in dismal thoughts...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "One's duties must take precedence over all else. Even if the end result is divorce.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Surely I do not lecture as much as they say. Do I?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Would a wild and unfettered bird consider it cruel to be captured as a gift for my queen?",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/bonaventure_623614.html"
+  },
+  {
+    "character_id": "623758",
+    "name": "Tobias",
+    "bird_time_answers": [
+      {
+        "topic": "(yawn) I'm in the mood for some shuteye.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Gettin' old doesn't stop a guy from dominating on the battlefield. You know what I'm saying?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Hey, is it a problem to go a few glasses past your limit?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I can still hold my own against anyone half my age!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I like to sing when I work. Puts me in a good mood.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "It happened again! Some folks saw me and crossed the street. Am I really that scary-lookin'?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "It's not a bad thing to drink until you fall asleep, is it?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Love a good party! I wish we could have one every day.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Wine, mead, meat, and fish! That's what I call a full meal!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "You look like you wouldn't taste so good.",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/tobias_623758.html"
+  },
+  {
+    "character_id": "624009",
+    "name": "Lilian",
+    "bird_time_answers": [
+      {
+        "topic": "Do you like sparkly things? Wanna see my gems?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I like counting my savings over and over. Makes me feel like I'm getting closer to my dream.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I'll have to be careful not to shoot you by mistake when I go hunting.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Next time I go hunting, I'll bring back some for you.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Urgh... I wish the day would come that my whole family could live together like we used to.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "When I think about what I'll do with all this money I've saved ... that's gonna be a great day.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "When I've been working nonstop, sometimes a breather does me a world of good.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Working for someone who doesn't trust you isn't too bad. The money's nice, at least.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Would it be coldhearted of me to say that money's more important to me than trust?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Your wings are so pretty. Let me get a better look.",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/lilian_624009.html"
+  },
+  {
+    "character_id": "624002",
+    "name": "Lysander",
+    "bird_time_answers": [
+      {
+        "topic": "Am I too serious? Sometimes people react to me as if I was nagging them.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Being with you puts me at such ease that I wish I could cage you to take you wherever I go.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Despite the complaints, I have every right to refuse a night's drinking. I don't tolerate alcohol well.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I bet it would feel incredible to fly alongside you in the clouds.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I like gazing at the sky. There's nothing silly about that... right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I must strive to surpass my father, so I can stand shoulder to shoulder with the brave veterans!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I sometimes find my own inexperience frustrating...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I'm considering if I should force myself to visit home. My stepfather and I don't get along very well.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "To look at you gives me the same feeling as when I gaze up at the sky.",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "Turning down the advances of passionate women wears on me, mentally and physically...",
+        "best_answer": "Sing a beautiful tune."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/lysander_624002.html"
+  },
+  {
+    "character_id": "624003",
+    "name": "Buccar",
+    "bird_time_answers": [
+      {
+        "topic": "Any scar you get in your lord's service is a badge of honor. Mine is handsome, don't you think?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I know well the sound of the vihuela. I'm sure it would go beautifully with birdsong.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "It's strange to see a bird with such conviction in its eyes.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Let's say an enemy attacked while your charge stood behind you. What would you do?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Milady's heart is consumed with a desire for revenge. What I would do to free her from it...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Most my age have had romantic relationships—I've only had loyalty to my lord. But that's fine, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "The older I get, the more I find to grumble about. Perhaps I should work on that.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "When I lived in Cydonia, I tutored youths in combat. Would you like to me to teach you some martial arts?",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "When we were in hiding, I did all the cooking. Would you like me to make you something?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You're tenacious. If you were a human, I'd want to train you as a knight.",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/buccar_624003.html"
+  },
+  {
+    "character_id": "624006",
+    "name": "Sirocco",
+    "bird_time_answers": [
+      {
+        "topic": "A bird's instrument is its chirp, but I'm no less skilled with my own. Would you like to hear?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Considering my own skill in music, I thought we might enjoy playing a song together. What say you?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I am confident in my memory. No doubt I could recognize you amidst a flock of winged creatures.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I detest shabby men. The sight of them sours my spirits. Is there something you similarly loathe?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I'm envied by most men. Not that it's any wonder why. I mean, have you looked at me?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Kalla is too resplendent for words. You ought to admire for yourself what a marvel she is.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "One must see the world in all its contours to melt others' hearts as I do.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "The name given to me by my lady Kalla is so excellent. Do you like your own name?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "The women of Kalla's temple are no longer seduced by my poetry. What else could I do to woo them?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "It was during a hailstorm that I was left at Kalla's temple. So when you see hail, think of me.",
+        "best_answer": "Nod."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/sirocco_624006.html"
+  },
+  {
+    "character_id": "624011",
+    "name": "Olympia",
+    "bird_time_answers": [
+      {
+        "topic": "Flowering trees bloom even as they get old. It proves that age should not impede one's pursuits! Agreed?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I have the greatest confidence in my singing. And yourself?",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I was recognized as the Blue Rose of Caelus. Would you like to hear me play?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I will best Leilidahna one day, I swear it! And I hope you'll cheer me on!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "In either music or dance, one missed day of practice costs you some skill. Never neglect your studies!",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Kalla is so lovely! I imagine you'd fall in love with her at first sight.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Listening to music played by another, I can sometimes feel their emotions. Do you share this?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Oh dear, my handicraft turned out poorly again. I understand not why my artistic talent is failing me.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Shall I compose a poem about you? If so, I'll do all I can to make sure it pleases you...",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "What must motherhood be like? I can't help but find the prospect terrifying.",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/olympia_624011.html"
+  },
+  {
+    "character_id": "624010",
+    "name": "Mu",
+    "bird_time_answers": [
+      {
+        "topic": "Back when Mom still lived at home, she'd train me! Wanna give that a shot?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Everyone treats me like a kid. I wonder if that'll ever change.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I didn't think I had much in common with my mom, but maybe she's where I got my pushiness.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I don't know where my dad is now. Hope he's eating and stuff.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I want to help people when they're in trouble. But I gotta get way stronger to do that!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I'm pretty knowledgeable about medicinal herbs. If you ever get injured, I'll fix you up!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "My mom loves singing, and she's AWFUL at it. You seem like a good singer, though, right?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Sirocco's so great - I just really wish he didn't spend all his time womanizing.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Wanna try my cooking sometime? No one else will eat it.",
+        "best_answer": "Nod timidly."
+      },
+      {
+        "topic": "You have kind eyes. Looking at them really makes me feel better.",
+        "best_answer": "Gaze intently."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/mu_624010.html"
+  },
+  {
+    "character_id": "624014",
+    "name": "Gaitz",
+    "bird_time_answers": [
+      {
+        "topic": "Ahaha... Do you think my behavior helps me blend in at the colosseum?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I doze off after a little drink. Of course, I'd do it even more easily if you sang for me too...",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I have a talent for estimating the number of soldiers the enemy has. Useful, don't you think?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I like taking time to maintain my weapons. It's soothing, and it has practical value, of course.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I trained as a warrior in the land of Sai. Would you consider going there? You might like it.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I'm proud of how well I've trained my body. Watch me in the colosseum and you'll see.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "No matter their hardships, those with true power will soar in time. Do you know what I mean by \"soar\"?",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "One has to be ruthless on the battlefiled...but it's never easy ending a young soldier's life.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "There's a tea in the eastern lands said to only get better as it ages. Would you want to try it?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Your feathers have such a nice sheen to them. I wonder if they'd make for good writing tools.",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/gaitz_624014.html"
+  },
+  {
+    "character_id": "624018",
+    "name": "Dante",
+    "bird_time_answers": [
+      {
+        "topic": "Ahh, how I adore the city. You can sit back and witness the bustle, the confusion - the ecstasy!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Had I wings like yours, I could fly at once to any research subject I wanted. Imagine it!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I grew up in a home surrounded by natural beauty, where I awoke each morning to birdsong.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I will read you the masterpiece by my father Aeneus. It's powerful enough to move even your avian heart!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I'm partial to bird's faces - not like fishes', with those soulless eyes. Mirrors reflection nothing. Gah!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "In moments of reflection, a demon taunts me, telling me I have no talent. Have you heard its voice too?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Intoxicants add color to one's experiences - bring out a new side to any conversation! Don't you agree?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "It's too bad you don't speak any human languages. I'm sure you'd have tales to tell.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "My last work was a masterpiece - but my next will be even better. Yes! For I am always improving.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Through the temples, I've been give so many story ideas! In that way the temples are a generous patron.",
+        "best_answer": "Nod."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/dante_624018.html"
+  },
+  {
+    "character_id": "624015",
+    "name": "Ursula",
+    "bird_time_answers": [
+      {
+        "topic": "Back then, when I was being hunted for my crest, I thought if I was a bird, maybe I could just fly away.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Hey... If you ever see me become a beast, remember that you mustn't approach me, alright?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I can't read your thoughts like other animals... Are you really a bird?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I can't stand a messy desk. If it's just a little bit out of sorts, I get an overwhelming urge to clean it.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I know I can't return home... But...sometimes I can't help but pine for what's gone...",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "In my homeland, I lived a life of hiding... But in Dagda, I'm free to be myself. Do you like it here?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Talimun has saved me in far more ways than one. Attending his misadventures is a small price to pay.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "To be honest, sometimes I get so annoyed at my own jealous feelings. I wish I could control them better...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "You seem far sharper than the average bird. How would you like to be a pet at the company?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Your feathers are simply gorgeous. Perhaps, one day, I can draw your portrait.",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/ursula_624015.html"
+  },
+  {
+    "character_id": "624019",
+    "name": "Simon",
+    "bird_time_answers": [
+      {
+        "topic": "In the field, nice guys always die fast. One minute, they're cracking jokes, and the next ... they're gone.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "It's not too hard to be a merc, really. Fly over a battlefield, and maybe you'll see some in action!",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "Just because my ancestors were from Damascar doesn't mean I pray to Yu Phas too.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Launching a surprise attack is probably easier if you can fly, huh? As long as no archers are around.",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "Nosy people drive me up the wall. You know what I mean?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Now, if I could fly from battlefield to battlefield? Man, that would be the life.",
+        "best_answer": "Sing with vigor."
+      },
+      {
+        "topic": "Sometimes, even when I'm not on the battlefield, I feel this ... tension in me, you know?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "You know, I've always liked carving little wooden statues. Maybe, one day, I'll carve you.",
+        "best_answer": "Sit still."
+      },
+      {
+        "topic": "You're a strange one, aren't you? An animal that cares about living longer is usually more careful.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "You're in the pink of health. Like you could survive anywhere.",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/simon_624019.html"
+  },
+  {
+    "character_id": "624016",
+    "name": "Diego",
+    "bird_time_answers": [
+      {
+        "topic": "Do you worship Balor? I used to long ago, but I don't these days.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I don't need to sleep on a bed. I can rest anywhere. Is it the same for you?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I know how to preserve meat by applying an herbal rub and smoking it. Do you like fragrant food?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I'm happy with my life now. There's no reason to worry about me.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I've been all over, doing work as a messenger for a temple. But I've never seen a bird like you until now.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "My tattoos mark me as a member of the Har Hali clan. I left them years ago, but they're still part of me.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Orchel once saved my life. It's only natural that I want to return the favor, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Poisonous plants will harm people, but they can be made into medicine. As always, knowledge is key.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You have a strangely penetrating gaze. Your eyes would be an advantage in battle.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "You need agility to survive in forests. I wonder, are you agile when you're in trees?",
+        "best_answer": "Do a somersault."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/diego_624016.html"
+  },
+  {
+    "character_id": "623990",
+    "name": "Ninae",
+    "bird_time_answers": [
+      {
+        "topic": "Death haunts me. Are you haunted by death?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I fear that my words enter the ear in strange ways. I am misunderstood...and avoided.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I have a strong dislike for insects. Could you chase off any who draw too close to me?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I like being alone in my solitude. Do you too?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I would be grateful if you would pray with me, that wayward souls may move on to the next world.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Looking at the clouds always is a balm for my hurt and heart. Would you join me, looking?",
+        "best_answer": "Look at the sky."
+      },
+      {
+        "topic": "The spirits want to talk to you. They're...curious about you.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "When I look at someone, they in turn look away. It seems that I am forever feared.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Yes, truly... It is wonderful fun, isn't it... What, can't you see who I'm speaking with?",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/ninae_623990.html"
+  },
+  {
+    "character_id": "624017",
+    "name": "Sha Lan",
+    "bird_time_answers": [
+      {
+        "topic": "I have no idea what birds eat. Maybe you could let me try one of your meals sometime?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I love taking care of others. Do you think I could preen your feathers sometime?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I'm always a little wary of talking to people from the temple. What about you?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I've always drawn to people older than me. My first love was like that. Is that why I can't forget them?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "If I'd remained in the village, I could be holding a baby in my arms.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "It can be wonderful traveling the outside world. But it does get scary sometimes.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "Our mission, the hopes of the villagers... It's all important, but so is protecting family, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You're quite calm around humans. Aren't you afraid of creatures bigger than you?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "You've seen the world from up in the sky. I wish I spoke bird language. I bet you have a lot of stories.",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "Your eyes are so charming. I wonder how mine look to you?",
+        "best_answer": "Gaze intently."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/sha_lan_624017.html"
+  },
+  {
+    "character_id": "623977",
+    "name": "Nezha",
+    "bird_time_answers": [
+      {
+        "topic": "Everybody treats me like a kid just 'cause I'm short. It's no good to judge folks on appearances, ya know?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Everybody's always yelling at me to be quiet. Am I really that loud?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I can't keep calm when someone picks a fight with me! Is it like that for birds too?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "If you see someone in trouble, you should help them. It's that simple!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Martial arts tightens my mind and strengthens my body! You should give it a try too!",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "Maybe I got a little too into my training? I'm sleepy now...",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "The people of the village were real nice to me, so I wanna try and make them happy.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Training's fun, but I get bored in a classroom. Who needs books to be strong, anyway?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "We ate what we could get in the village. Even bugs. Back there, you woulda been a delicacy.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "You've got weird eyes. Ya know, they kinda remind me of Anatolia's.",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/nezha_623977.html"
+  },
+  {
+    "character_id": "623978",
+    "name": "Guzran",
+    "bird_time_answers": [
+      {
+        "topic": "All this peace and quiet is making me sleepy. How about you do something to wake me up?",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "Are you living your life to the fullest? If not, why bother being alive at all!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Ha! A lady socked me real hard a little earlier. That just means she was shy, yeah?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I earned my nickname, Unkillable Guzran, one scar at a time. Pretty cool, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I like your determined look. Hey, you know you can count on the Unkillable Guzran, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I'm one of the most seasoned mercenaries here! Do I have the look of a battle survivor?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Lots of people got to where they are today because of me. One merc is now imperial inspector!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "My advice—make certain you're the one to make the calls in battle. Otherwise, it's a sure way to die.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "The truth is—my true form is that of a bird. So I wonder, are you really a person?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "There are only so many meals we can eat in our lifetimes. Best to eat what you want, yeah?",
+        "best_answer": "Nod."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/guzran_623978.html"
+  },
+  {
+    "character_id": "623980",
+    "name": "Io",
+    "bird_time_answers": [
+      {
+        "topic": "Do you think it wrong to accept payment from a lord you're drawn to serve?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Do you think we need someone to lead us? I believe in such an ideal, and I welcome your thoughts on it.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Ha, you have an interesting face. I never get tired of seeing it.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I end up saying too much when talk turns to lords and their duties. Should I say less about it all?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I'm a bit tired. Forgive me if I fall asleep.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I'm not all that ill-tempered, really. I wonder if you'd like to be more sociable too.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "It's natural to help one's friends and also the weak. But it sometimes takes courage to do what's right.",
+        "best_answer": "Sing boldly."
+      },
+      {
+        "topic": "My beloved steed, Rocinan, is aging very well. Do you think that when you see him?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "What would you do if I sad there's a venomous spider behind you? Let's practice. Drive it off...now!",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "You bring a sort of calm atmosphere to a place. Mind if I linger here a little longer?",
+        "best_answer": "Nod."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/io_623980.html"
+  },
+  {
+    "character_id": "623981",
+    "name": "Catania",
+    "bird_time_answers": [
+      {
+        "topic": "Always conduct yourself well, or it reflects badly on your lord. Keep that in mind if you serve someone.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Caring for one's personal appearance is crucial. Are you taking good care of yourself?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I can tell if a bird's singing voice is truly beautiful or not. Is your song of sterling quality?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I have a terrible scar that's hidden by my outfit. It's proof that I fight bravely. Impressive, yes?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I keep hearing about people getting married. Where is my ideal partner? I've been searching!",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I used to serve a noble. But a terrible incident led to his downfall. Very regrettable...",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I've traveled for years, so I learned how to amuse myself. Care to learn how to while away the time?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "If you value top quality, you develop an eye for it. And I am a sterling knight, you know.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "My pegasus has a refined palate and kicks away any food that's not up to par. It's bad behavior.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "My pockets are getting emptier, and so is my stomach. Maybe I'll just eat some bird food here...",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/catania_623981.html"
+  },
+  {
+    "character_id": "623979",
+    "name": "Nydine",
+    "bird_time_answers": [
+      {
+        "topic": "After I left my kingdom, I broke one of its laws by learning to write. Yu Phas will surely punish me.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Don't worry. I have no interest in hunting you. I don't even like meat.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I left my kingdom behind, but there are still many in Saramis who look up to me. I'm grateful.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I like eating sweet things. That surprises people. But is that really so unexpected?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I studied hard to learn how to read and write. Do you think you could do that too?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I've roved widely and welcome such long journeys. Do you migrate much?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Mercenaries are more selective about work than you'd think. People don't understand that.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "People rely on me a lot, but I have to admit it'd be nice if I could rely on others more.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You have to learn a little bit about everything to grow. What can I learn from your movements?",
+        "best_answer": "Do a somersault."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/nydine_623979.html"
+  },
+  {
+    "character_id": "623982",
+    "name": "Benditz",
+    "bird_time_answers": [
+      {
+        "topic": "I was a fine specimen of a man in my youth. No matter where I went, people sang my praises!",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Rarities fetch a high price, which is why I like them. Not that you'd know about such things.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I despise a bland meal. I want a life of luxury. You must want that too, yes?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Have you read the War Chronicle of Hasdrubal? I assure you, its scenes will thrill you to the core!",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "No matter how many times you fail, your dream doesn't die until you do. Good advice, right?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I've got a secret under my eye patch that relates to my past. I won't tell you about it though. HA!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Words like \"repent,\" \"regret,\" and \"reform\" are all strange to me. But I suspect you do all of that.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I am brilliant, amazing, dashing, and more! And I'm a perfect general! You agree fully, correct?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "It's only a matter of time before you realize that I was the best leader of this whole era!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "It's harder to get a good night's sleep as I get older. I envy you juveniles and your deep sleep.",
+        "best_answer": "Sing softly."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/benditz_623982.html"
+  },
+  {
+    "character_id": "623983",
+    "name": "Alexandra",
+    "bird_time_answers": [
+      {
+        "topic": "Have you ever been to my home in Tellus? It's a wealthy county and has an easiness to it.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "How do you take care of your feathers? They're so pretty.",
+        "best_answer": "Preen."
+      },
+      {
+        "topic": "I heard someone talking about me behind my back earlier. What should I do about that?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "It must be scary to live out in the wild. Please call for me if you're ever gong somewhere dangerous!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Would you like to meet Bucephalus? It'd be fun if you two were friends!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "It feels great to soar in the sky, doesn't it? How high can you fly?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I'm confident in my abilities in battle. I should show you what I can do sometime!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I'm trying to live up to the name of \"Silver Maiden,\" and with Bucephalus, I'm sure that I will!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I go on long rides every now and then. Would you like to come along sometime?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I have nothing but happy memories of my parents. But I do get sad, knowing they live only in memory.",
+        "best_answer": "Sing a beautiful tune."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/alexandra_623983.html"
+  },
+  {
+    "character_id": "623985",
+    "name": "Yang Jie",
+    "bird_time_answers": [
+      {
+        "topic": "Birdsong makes everything better. It pairs especially well with a fine drink. Wouldn't you say?",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I have the odor of hitting the bottles too heavily. Yet you don't mind. Do you enjoy a tipsy drink?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I've heard of a monstrous bird who turned perfectly good wine into poison. I trust that's not you?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "If birds have hearts, I wonder what kind beats under those feathers of yours.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Practicing silence was part of my training. How about you give it a try?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Some say that belief is the same as not thinking. I disagree. Not thinking is entirely different.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "There is a saying that a bird flown from the coop is truly still close to home. Does that sound right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "To live or die... To be tipsy or sober... These are similar states in a fleeting world. Don't you agree?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "To think that I've put myself in the care of such a group of people. Fate is strange, isn't it?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "When my body has perished, and I float as a soul, let's frolic in the sky. What do you say?",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/yang_jie_623985.html"
+  },
+  {
+    "character_id": "623984",
+    "name": "Noctula",
+    "bird_time_answers": [
+      {
+        "topic": "Back home, I don't rank that high in importance, but as the chief's daughter, I'm singled out for marital challenges. Can you see why I hate it back there?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I grew up thinking you had to marry the person who can defeat you in a fair fight. It's a dumb tradition, right? I'm tougher than the guys back home anyway.",
+        "best_answer": "Sing boldly."
+      },
+      {
+        "topic": "I learned a lot living on a mountain, like hunting and blacksmithing. Good to have skills, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I like fighting with my fists. Keeps me feeling free and nimble in battle. Get what I mean?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I trained most days of my life, going up and down Mount Orgus. Want me to kick your perch in half?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I want to add a new move to my wrestle-dancing. Have any great ideas?",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "I'd like to call you something more than \"bird.\" How's Birdlee? Nah, that's not right. Any advice?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "My third eldest brother is traveling the world like I am. Say hello if you see him. He loves animals.",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "Something good is coming up soon. My gut is always right, you know!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "You're always here alone. Did you leave your flock? I did something like that too. Let's be friends!",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/noctula_623984.html"
+  },
+  {
+    "character_id": "623986",
+    "name": "Sofia",
+    "bird_time_answers": [
+      {
+        "topic": "Be careful not to get too near me when I'm really hungry. You do look delicious, I'm sorry to say.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Don't you think Lord Solel is wonderful? He's so kind, amazing, and just plain great!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I grew up enjoying food at my dad's feasts with his friends. If I have a big party like that, want to come?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I have a VERY healthy appetite. The pay I get from the temple can't cover my meals. Tragic, right?",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I like to give everyone cute little names. I hope it's cute anyway. Maybe it's kind of weird?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I love spicy food more than anything. Too bad it always gets eaten up quick. Why is that, I wonder?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I never get tipsy, no matter how many mugs of suds I drink. How about you?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I was born and raised at Lyoshan Fort. If you ever go there, watch out for all the ruffians!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "If I think someone's cute, I can't help calling them a fun name. I'm going to call you Li'l Birdie!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Mmm, roasted? Braised? Oh! Sorry, I didn't mean anything by it. You don't look tasty at all!",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/sofia_623986.html"
+  },
+  {
+    "character_id": "624000",
+    "name": "Peppe",
+    "bird_time_answers": [
+      {
+        "topic": "More of the people here grow to love us by the day. Is this the effect kings have on others?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "To learn the ways of a foreign land, there's no better way than to mingle with its people, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "We are from Brigid, which is a kingdom that loves nature. So we enjoy our time with you.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "We are very fond of the people of Brigid. So if you see any, please tell us, alright?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "We deem you worthy of our protection, so if you're ever in trouble, please let us handle it!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "We find ourselves bored at the moment. Can you perform any tricks?",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "We have enjoyed seafood since our earliest days and would like to savor Dagdan specialties with you.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "You must visit our kingdom. We would feed and entertain you magnificently!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You remind us of the spirits of our homeland. Perhaps we are connected somehow.",
+        "best_answer": "Gaze intently."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/peppe_624000.html"
+  },
+  {
+    "character_id": "623993",
+    "name": "Seteth",
+    "bird_time_answers": [
+      {
+        "topic": "Care to join me fishing? It's nice to spend time idly, casting a fishing line.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Despite appearances, I carry more concerns than most people. Could I rest at your side awhile?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Do you detect anything ... strange about how I look? I don't want to stand out.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I enjoy writing fables. Are there any tales shared among birds? I'd love to hear them.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I like lending a hand to those already trying to help themselves. Does that make me a meddler?",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "I'm documenting all in this land to share with future generations. I'd like to look at you, please.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "My daughter is currently in a long slumber. I hope to be at her side by the time she awakens.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "People tell me I have a stern look much of the time. Do I really seem so harsh?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "The land of Dagda is full of interesting things. It'd be fascinating to explore it with you.",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "Your white appearance reminds me of someone very close to me. I'd like a closer look.",
+        "best_answer": "Spread your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/seteth_623993.html"
+  },
+  {
+    "character_id": "623996",
+    "name": "Loretta",
+    "bird_time_answers": [
+      {
+        "topic": "Birds eat fish, right? I'll catch a big one for you sometime!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Even if it gets kinda boring, I can't complain if I've got a place to sleep and enough to eat.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I don't know who my parents are, but I don't really care. Things are good now. That's what matters.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I love sweets. How about I bring you my favorites sometime?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I stole things before I worked for the temple. I'd get punished if caught and still have a scar. Wanna see?",
+        "best_answer": "Avert your eyes."
+      },
+      {
+        "topic": "I'm pretty happy with my life now. But my heart goes out to my ol' street-orphan friends...",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "It's better to learn how to use a blade than sit around in a classroom learning stuff. I'm right ... right?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Ozin taught me how to defend myself. Now I want to be strong enough, so he doesn't have to worry!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "There's a horrible guy who I know from my temple. I'm going to punch him if he treats me badly again.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "You live in the forest, right? So tell me ... how do you feel about ghosts?",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/loretta_623996.html"
+  },
+  {
+    "character_id": "623991",
+    "name": "Jester",
+    "bird_time_answers": [
+      {
+        "topic": "Ahh, I'm feeling great since I got to let my freak loose! How 'bout you?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Bertrand's so serious! The guy hardly ever takes a joke. Y'know how hard that is for me?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Birds, you're so lucky. In a flash, you can fly out to murder scenes! Heh heh heh!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Guh, there's nothing I hate more than people who act high and mighty. I wanna yank out their guts!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Guuuh. Too many nasty stories. I'm gonna sleep—keep an eye out.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I can't arouse suspicion. Will I look more like a clown if you're perched on my wrist?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I'm tired—almost like I'm sick. I'm at such a low point... I can't take it!",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "Lookin' for a new look? How about a little birdie-blood dye job? Heh heh heh!",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Made this costume myself. Pretty good uniform for the Infernal Clown, don't ya think?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Makeup's great. It hides your blood, your tears... your crimes. You wanna get made up?",
+        "best_answer": "Nod."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/jester_623991.html"
+  },
+  {
+    "character_id": "623976",
+    "name": "Goliath",
+    "bird_time_answers": [
+      {
+        "topic": "Don't sit on my hand. I'm worried I might squish you.",
+        "best_answer": "Tremble."
+      },
+      {
+        "topic": "Hey, if some bully ever comes at you, you talk to me. I'll twist 'em in knots!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I never forget to train. If your body's in shape, there's nothing you can't do!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "My head's spinning... When people talk about stuff that's complicated, I get dizzy.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "No matter how hard he gets knocked down, my brother keeps gettin' up. He's got spirit, that guy!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "People like having me around in battles, but other than that, usually not.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "The chief of my old tribe was a jerk. If you ever see him, let me know, and I'll knock him out.",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "They say I got giant's blood. Bwahaha. It's funny!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Ugh, busywork makes me so mad! Is there some way for me to feel better?",
+        "best_answer": "Sing a beautiful tune."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/goliath_623976.html"
+  },
+  {
+    "character_id": "623992",
+    "name": "Ludia",
+    "bird_time_answers": [
+      {
+        "topic": "Dante's work is amazing! Here, let me read you something!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Father always said I was a fantastic swordsman. Couldn't ever impress him with axes, though...",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I saw this couple the other day, and they had so much passion! Kinda made me jealous...",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I've been working so hard at the company. Whew! I think I need a vacation.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "If I had wings? I'd travel the world and see everything this life has to offer.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "One day, I'd love to be the main character of some grand adventure. Would you want to come with me?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Ugggh. Turns out, the person I like already has a partner... How will I ever recover...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Ugh! Gummy, sticky, greasy... I just hate dirty things.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You know, I do a little bit of writing myself. I should write something with you as the main character.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "You're pretty smart for a bird. Are you one of those spirits in disguise like in the stories?!",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/ludia_623992.html"
+  },
+  {
+    "character_id": "623998",
+    "name": "Dadao",
+    "bird_time_answers": [
+      {
+        "topic": "Anatolia's always so hard on me. You think it's her way of flirting with me?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Back in the village, we hunted and ate sandworms. I'll bring you some sometime!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Being hungry can make ya sad. You ever need food, you let me know.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Everyone in the village is always hungry. I wanna make it so they can all eat whenever they want.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I can tell how a building is put together with just a glance. What about you?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I can tell you're interested in me. I'm a good-lookin' guy, so I can't blame ya!",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Know what? I like you. How about if you join the Dadao Gang? I'm strong, and I'll take care of you!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "My parents are gone, but I don't really feel lonely. I'm stronger than anyone, ya know!",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Nothing personal, but you don't really look that tasty. You're all bones for one thing. I'll save you for last.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "Ya know, Anatolia was doing fortune-telling to earn money. I oughta teach you some tricks!",
+        "best_answer": "Do a somersault."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/dadao_623998.html"
+  },
+  {
+    "character_id": "623995",
+    "name": "Fianna",
+    "bird_time_answers": [
+      {
+        "topic": "If you're ever hurt, come find me, and I'll heal you.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Love is a strange thing... Have you ever had feelings for someone?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Maybe the reason I'm drawn to you is because, like that person, you're hard to grasp...",
+        "best_answer": "Cling to your perch."
+      },
+      {
+        "topic": "Oh... I'm sorry... I suddenly feel like crying...",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Romance has always been a bit tough for me to grasp. Maybe a friend like you is all I need.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Sometimes when I read poetry, I swear it's almost like I'm listening to music.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "There are times when I can't take my mind off of the one I adore... That's normal, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Um... Doesn't being with me... bore you?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "War and pain, fighting and hate... All of it just makes me sad... I'd like to avoid those things if I can.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Your eyes are so kind. They make me feel safe...",
+        "best_answer": "Gaze intently."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/fianna_623995.html"
+  },
+  {
+    "character_id": "623997",
+    "name": "Halvin",
+    "bird_time_answers": [
+      {
+        "topic": "I bought a cute accessory case the other day! But it was cheap, and it broke the next day.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I can't fight as well as everybody else, but I can maybe be useful in other ways, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I like making sweets. Maybe I could make something sweet for you sometime.",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "I saw a magician make a bird appear in their hand from nowhere! I want to try it. Can you shrink?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I think taste is more important than looks when it comes to vegetables, don't you?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I'm good at crafts. I ought to try making something with bird feathers, maybe.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I've been thinking about my next performance, and I think people would love it if we did a trick together!",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "It doesn't matter how long I'm gone, thinking of my family and my hometown makes me feel so lonely.",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "Nasshim used to take care of me. He was so nice. I still think about him sometimes ...",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "When I think about the future, I always end up worrying about stuff I can't do anything about.",
+        "best_answer": "Flap your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/halvin_623997.html"
+  },
+  {
+    "character_id": "623989",
+    "name": "Zarcone",
+    "bird_time_answers": [
+      {
+        "topic": "Good idea not fighting anyone who looks too dangerous. Whoever lasts longest... wins, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Got parents? If you don't, you'd fit in with me and my pals just fine. You could join our bandit crew!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I thought I could get anything I want through plunder and fighting. But how can I get myself a family...",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "If anyone gets robbed or snuffed out ... they shouldn't be so weak! Fight harder, that's what I say!",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "It's common sense to pick off the weaklings in battle. You look like easy prey to me!",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "People think bandits eat nothin' but meat. It's vegetables all the way with me. Keep that in mind.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "The guys in the Gaia Brigade left me for dead as soon as we lost our battle in the games. Cruel, huh?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "The mountains are like home to me. I should build me and my pals a castle up there, right?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "There's no way I can give up on pillaging now! You know how many years I've been at it?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Weaklings like you end up as dinner. So try to fly extra-high so the arrows don't get you.",
+        "best_answer": "Flap your wings."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/zarcone_623989.html"
+  },
+  {
+    "character_id": "623988",
+    "name": "Majide",
+    "bird_time_answers": [
+      {
+        "topic": "Doesn't matter who comes at me—they're no match for the great Majide, right?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "Everyone knows the great Majide has the strength of 10 men. How about I smash some rocks for you?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I shoved a mouthy drunk real hard. Felt pretty good, I gotta admit. But now it's time I catch some z's.",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "I'm bored as hell. Got a good move to show me?",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "If my Southern Cross Brigade crew had battled in the games, we would have won, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "None of these grunts around here have a chance of beating me. Why do they even try?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "Nothin' better than smacking around nobodies when I'm annoyed. What do you do when you are?",
+        "best_answer": "Sing with vigor."
+      },
+      {
+        "topic": "Prison cells are my home away from home. Next time I'm locked up, find me and we'll play a game!",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "That damned Order of Mithras left me for dead. They can't abandon the great Majide!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You're not scared of me, which means you don't get how great I am. How about I show you?",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/majide_623988.html"
+  },
+  {
+    "character_id": "623994",
+    "name": "Kiroc",
+    "bird_time_answers": [
+      {
+        "topic": "I'm the Rukh, and you're a little bird. So you'll help a friend out if I'm chased down, right?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I've been praying a lot ever since I've been seeing ghosts of those I killed. You pray too if you see 'em.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "My old crew used to love me. I hope they're doing alright. You think they'll join up with me again?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "That fool sank my ship, but I still see it sailing right and fine in my dreams. A beautiful vessel!",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "The Order of Mithras is rotten to the core. They're far more dangerous than pirates!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "They say I'm the successor to the legendary pirate Drake. His hideout was all mine. Incredible, right?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "What would you do if you saw a ghost? Truth be told, I just faint dead away. Pathetic, I know...",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "When I get my crew together, I swear I'll do no harm, only look for treasure. Would you come with me?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "You know a royal jerk who goes by Talimun? Peck his eyes if you see him, alright?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "You should join my Black-Swan Pirates. I tell you, there's nothing more fun than life as a pirate!",
+        "best_answer": "Nod timidly."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/kiroc_623994.html"
+  },
+  {
+    "character_id": "623999",
+    "name": "Jasmine",
+    "bird_time_answers": [
+      {
+        "topic": "I don't value money over other things. But aren't there things you can't protect without money?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I had a husband, you know. He died some time ago, but I wonder if he watches over me.",
+        "best_answer": "Look at the sky."
+      },
+      {
+        "topic": "I have things I want to protect. Is there something that you want to protect?",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "I've traveled all over the land. Have you visited lots of places too?",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "If someone settles down somewhere, a big home is best to house a big family, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Sometimes you've got to get sneaky if you want to survive. I mean, when you really have to!",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "What's it like if you get hit by heavy rain while you're flying?",
+        "best_answer": "Do a somersault."
+      },
+      {
+        "topic": "When you do nothing but battle, you can end up feeling pretty frazzled...",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "When you love your family and it all falls apart, that's about as bad as it gets, right?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "You always seem to be alone. Don't you get lonely out there in the world, all by yourself?",
+        "best_answer": "Tilt your head."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/jasmine_623999.html"
+  },
+  {
+    "character_id": "623987",
+    "name": "Nuzzuo",
+    "bird_time_answers": [
+      {
+        "topic": "My people use the behavior of animals as an omen for battle. A bold attitude is a good omen.",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "City life is still strange to a forest-dweller like me. If I get lost in Dagsion, would you show me the way?",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "Birds have many meals each day, yes? I hope you eat well and fly vigorously.",
+        "best_answer": "Flap your wings."
+      },
+      {
+        "topic": "We must not isolate ourselves out of pride. That way is death. Do not forget this.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Rule based on strength only chokes the people. I'm sure you would also feel suffocated under oppression.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "I suspect no one could tarnish your wings. Keep true to your way of life. Let no one take you captive.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "My skills did not live up to those of previous chiefs. Have I been of use to my people at all?",
+        "best_answer": "Sing softly."
+      },
+      {
+        "topic": "Hm. These disheveled feathers must make it hard to fly. I'll straighten them for you.",
+        "best_answer": "Sit still."
+      },
+      {
+        "topic": "We of the Har Hali live in harmony with nature. You are not the first bird I would befriend.",
+        "best_answer": "Spread your wings."
+      },
+      {
+        "topic": "A mere graze from our poison arrows can fell a bird instantly. Stay well away during our hunts.",
+        "best_answer": "Be intimidating."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/nuzzuo_623987.html"
+  },
+  {
+    "character_id": "624001",
+    "name": "Inyoni",
+    "bird_time_answers": [
+      {
+        "topic": "A brown cow with a crowned brow! Ach, say that three times fast, why don't ya?",
+        "best_answer": "Gaze intently."
+      },
+      {
+        "topic": "Do you know the Order of Mithras? I'd suggest that you steer clear of them.",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "Everyone back at my village speaks in a very unique way. Do birds have accents or dialects?",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I don't leave much of an impression on people. But you're so beautiful I bet you do ...",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I lose all track of time when I'm practicing with my bow. So if you see me at night, give a holler!",
+        "best_answer": "Sing a beautiful tune."
+      },
+      {
+        "topic": "I used to hunt birds with my bow. Ha! Want to see if you can outfly one of my arrows?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "I wonder how I would have fared in the Heroic Games if I didn't have Ugo's Bow...",
+        "best_answer": "Tilt your head."
+      },
+      {
+        "topic": "I'm not very skilled at dealing with men. Could you help me out if one harasses me?",
+        "best_answer": "Be intimidating."
+      },
+      {
+        "topic": "It's nice having family and friends to help when you're in trouble. Always treasure your friends, OK?",
+        "best_answer": "Nod."
+      },
+      {
+        "topic": "When I'm fighting, I'll say some horrifying things. Like I did when I possessed those awful remains.",
+        "best_answer": "Sing a beautiful tune."
+      }
+    ],
+    "raw_source": "raw_extracts/characters/inyoni_624001.html"
+  },
+  {
+    "character_id": "624389",
+    "name": "Creek",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/creek_624389.html"
+  },
+  {
+    "character_id": "624390",
+    "name": "Nathan",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/nathan_624390.html"
+  },
+  {
+    "character_id": "624391",
+    "name": "Bertrand",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/bertrand_624391.html"
+  },
+  {
+    "character_id": "624392",
+    "name": "Talimun",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/talimun_624392.html"
+  },
+  {
+    "character_id": "623966",
+    "name": "Anatolia",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/anatolia_623966.html"
+  },
+  {
+    "character_id": "624393",
+    "name": "Orchel",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/orchel_624393.html"
+  },
+  {
+    "character_id": "624394",
+    "name": "Centurio",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/centurio_624394.html"
+  },
+  {
+    "character_id": "624395",
+    "name": "Aswan",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/aswan_624395.html"
+  },
+  {
+    "character_id": "624396",
+    "name": "Tahonia",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/tahonia_624396.html"
+  },
+  {
+    "character_id": "625576",
+    "name": "Klapka",
+    "bird_time_answers": [],
+    "raw_source": "raw_extracts/characters/klapka_625576.html"
+  }
+]
