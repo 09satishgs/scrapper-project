@@ -1,0 +1,1072 @@
+[
+  {
+    "character_id": "623614",
+    "slug": "bonaventure",
+    "name": "Bonaventure",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 12,
+      "spd": 9,
+      "dex": 10,
+      "def": 7,
+      "res": 10,
+      "lck": 6,
+      "cha": 9,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624003",
+    "slug": "buccar",
+    "name": "Buccar",
+    "base_stats": {
+      "hp": 29,
+      "str": 12,
+      "mag": 4,
+      "dex": 6,
+      "spd": 5,
+      "lck": 6,
+      "def": 8,
+      "res": 3,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "620167",
+    "slug": "cai",
+    "name": "Cai",
+    "base_stats": {
+      "hp": 27,
+      "str": 10,
+      "mag": 7,
+      "spd": 8,
+      "dex": 8,
+      "def": 6,
+      "res": 5,
+      "lck": 6,
+      "cha": 5,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623869",
+    "slug": "eshmel",
+    "name": "Eshmel",
+    "base_stats": {
+      "movement": 4,
+      "hp": 50,
+      "str": 33,
+      "mag": 24,
+      "spd": 26,
+      "dex": 28,
+      "def": 23,
+      "res": 19,
+      "lck": 25,
+      "cha": 29
+    }
+  },
+  {
+    "character_id": "624005",
+    "slug": "esmeralda",
+    "name": "Esmeralda",
+    "base_stats": {
+      "hp": 28,
+      "str": 12,
+      "mag": 4,
+      "dex": 5,
+      "spd": 6,
+      "lck": 7,
+      "def": 7,
+      "res": 3,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623964",
+    "slug": "fabio",
+    "name": "Fabio",
+    "base_stats": {
+      "hp": 25,
+      "str": 6,
+      "mag": 10,
+      "dex": 6,
+      "spd": 7,
+      "lck": 6,
+      "def": 4,
+      "res": 8,
+      "cha": 5,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624012",
+    "slug": "hong_hua",
+    "name": "Hong Hua",
+    "base_stats": {
+      "movement": 4,
+      "hp": 45,
+      "str": 15,
+      "mag": 34,
+      "spd": 26,
+      "dex": 30,
+      "def": 21,
+      "res": 30,
+      "lck": 18,
+      "cha": 23
+    }
+  },
+  {
+    "character_id": "624004",
+    "slug": "peter",
+    "name": "Peter",
+    "base_stats": {
+      "hp": 25,
+      "str": 9,
+      "mag": 3,
+      "spd": 6,
+      "dex": 10,
+      "def": 5,
+      "res": 4,
+      "lck": 5,
+      "cha": 4,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624006",
+    "slug": "sirocco",
+    "name": "Sirocco",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 8,
+      "dex": 8,
+      "spd": 9,
+      "lck": 8,
+      "def": 6,
+      "res": 7,
+      "cha": 8,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623941",
+    "slug": "tialla",
+    "name": "Tialla",
+    "base_stats": {
+      "hp": 24,
+      "str": 5,
+      "mag": 8,
+      "spd": 6,
+      "dex": 6,
+      "def": 4,
+      "res": 6,
+      "lck": 7,
+      "cha": 5,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624013",
+    "slug": "troy",
+    "name": "Troy",
+    "base_stats": {
+      "movement": 4,
+      "hp": 52,
+      "str": 31,
+      "mag": 32,
+      "spd": 33,
+      "dex": 28,
+      "def": 23,
+      "res": 28,
+      "lck": 24,
+      "cha": 21
+    }
+  },
+  {
+    "character_id": "624007",
+    "slug": "ultand",
+    "name": "Ultand",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 11,
+      "spd": 7,
+      "dex": 7,
+      "def": 7,
+      "res": 7,
+      "lck": 10,
+      "cha": 11,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624016",
+    "slug": "diego",
+    "name": "Diego",
+    "base_stats": {
+      "hp": 27,
+      "str": 11,
+      "mag": 5,
+      "spd": 10,
+      "dex": 12,
+      "def": 6,
+      "res": 4,
+      "lck": 8,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623978",
+    "slug": "guzran",
+    "name": "Guzran",
+    "base_stats": {
+      "hp": 28,
+      "str": 12,
+      "mag": 4,
+      "spd": 11,
+      "dex": 8,
+      "def": 7,
+      "res": 3,
+      "lck": 10,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624010",
+    "slug": "mu",
+    "name": "Mu",
+    "base_stats": {
+      "hp": 23,
+      "str": 7,
+      "mag": 3,
+      "dex": 8,
+      "spd": 7,
+      "lck": 4,
+      "def": 5,
+      "res": 5,
+      "cha": 4,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623993",
+    "slug": "seteth",
+    "name": "Seteth",
+    "base_stats": {
+      "hp": 47,
+      "str": 24,
+      "mag": 15,
+      "dex": 19,
+      "spd": 16,
+      "def": 19,
+      "res": 8,
+      "cha": 20,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624393",
+    "slug": "orchel",
+    "name": "Orchel",
+    "base_stats": {
+      "hp": 23,
+      "str": 17,
+      "mag": 11,
+      "spd": 4,
+      "dex": 4,
+      "def": 14,
+      "res": 15,
+      "lck": 6,
+      "cha": 13,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624395",
+    "slug": "aswan",
+    "name": "Aswan",
+    "base_stats": {
+      "hp": 40,
+      "str": 21,
+      "mag": 11,
+      "dex": 29,
+      "spd": 23,
+      "lck": 20,
+      "def": 20,
+      "res": 13,
+      "cha": 8,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "625576",
+    "slug": "klapka",
+    "name": "Klapka",
+    "base_stats": {
+      "movement": 5,
+      "hp": 60,
+      "str": 38,
+      "mag": 6,
+      "spd": 19,
+      "dex": 35,
+      "def": 50,
+      "res": 20,
+      "lck": 19,
+      "cha": 25
+    }
+  },
+  {
+    "character_id": "620168",
+    "slug": "dietrich",
+    "name": "Dietrich",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "620411",
+    "slug": "theodora",
+    "name": "Theodora",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "620437",
+    "slug": "leda",
+    "name": "Leda",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624008",
+    "slug": "mikaela",
+    "name": "Mikaela",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623758",
+    "slug": "tobias",
+    "name": "Tobias",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624009",
+    "slug": "lilian",
+    "name": "Lilian",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624002",
+    "slug": "lysander",
+    "name": "Lysander",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624011",
+    "slug": "olympia",
+    "name": "Olympia",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624014",
+    "slug": "gaitz",
+    "name": "Gaitz",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624018",
+    "slug": "dante",
+    "name": "Dante",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624015",
+    "slug": "ursula",
+    "name": "Ursula",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624019",
+    "slug": "simon",
+    "name": "Simon",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623990",
+    "slug": "ninae",
+    "name": "Ninae",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624017",
+    "slug": "sha_lan",
+    "name": "Sha Lan",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623977",
+    "slug": "nezha",
+    "name": "Nezha",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623980",
+    "slug": "io",
+    "name": "Io",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623981",
+    "slug": "catania",
+    "name": "Catania",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623979",
+    "slug": "nydine",
+    "name": "Nydine",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623982",
+    "slug": "benditz",
+    "name": "Benditz",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623983",
+    "slug": "alexandra",
+    "name": "Alexandra",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623985",
+    "slug": "yang_jie",
+    "name": "Yang Jie",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623984",
+    "slug": "noctula",
+    "name": "Noctula",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623986",
+    "slug": "sofia",
+    "name": "Sofia",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624000",
+    "slug": "peppe",
+    "name": "Peppe",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623996",
+    "slug": "loretta",
+    "name": "Loretta",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623991",
+    "slug": "jester",
+    "name": "Jester",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623976",
+    "slug": "goliath",
+    "name": "Goliath",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623992",
+    "slug": "ludia",
+    "name": "Ludia",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623998",
+    "slug": "dadao",
+    "name": "Dadao",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623995",
+    "slug": "fianna",
+    "name": "Fianna",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623997",
+    "slug": "halvin",
+    "name": "Halvin",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623989",
+    "slug": "zarcone",
+    "name": "Zarcone",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623988",
+    "slug": "majide",
+    "name": "Majide",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623994",
+    "slug": "kiroc",
+    "name": "Kiroc",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623999",
+    "slug": "jasmine",
+    "name": "Jasmine",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623987",
+    "slug": "nuzzuo",
+    "name": "Nuzzuo",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624001",
+    "slug": "inyoni",
+    "name": "Inyoni",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624389",
+    "slug": "creek",
+    "name": "Creek",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624390",
+    "slug": "nathan",
+    "name": "Nathan",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624391",
+    "slug": "bertrand",
+    "name": "Bertrand",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624392",
+    "slug": "talimun",
+    "name": "Talimun",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "623966",
+    "slug": "anatolia",
+    "name": "Anatolia",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624394",
+    "slug": "centurio",
+    "name": "Centurio",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  },
+  {
+    "character_id": "624396",
+    "slug": "tahonia",
+    "name": "Tahonia",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
+  }
+]

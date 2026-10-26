@@ -13,6 +13,7 @@ A production-ready, 3NF-normalized relational database architecture designed to 
 | **Character Learned Arts & Spells** | Characters learn specific combat arts and spells across skill ranks (D, C, B, A). | Stored as indexed JSON arrays (`combat_art_ids`, `spell_ids`) directly inside `characters` table for lightweight, zero-overhead relational lookups. |
 | **Gift Preferences & Item Catalog Linkage** | Gift names were previously loose strings unlinked from the master `items` catalog. | `character_gift_preferences` strictly references `item_id REFERENCES items(id)` without redundant text columns, enforcing referential integrity. |
 | **Class Recommendations Referential Integrity** | Class recommendations used loose strings (`beginner_class`, `master_class`). | Uses foreign keys `beginner_class_id`, `specialty_class_id`, `advanced_class_id`, `master_class_id`, `divine_class_id` referencing `classes(id) ON DELETE SET NULL`. |
+| **Character Base Starting Stats** | Characters possess starting base stats (HP, Str, Mag, Dex, Spd, Lck, Def, Res, Cha, Mov) at initial recruitment / Level 1. | Modeled as a 1-to-1 table `character_base_stats` referencing `characters(id) ON DELETE CASCADE`. |
 | **Quest Rewards 1NF Normalization** | Quests previously collapsed rewards into freeform text strings (`Vulnerary, 500 Gold`). | Created a dedicated `quest_rewards` table (`quest_id`, `reward_type`, `reward_name`, `amount`, `item_id REFERENCES items(id)`), enabling exact inventory queries. |
 
 ---
@@ -25,6 +26,7 @@ A production-ready, 3NF-normalized relational database architecture designed to 
 erDiagram
     characters ||--o{ character_recruitment : "recruited via"
     characters ||--|| character_growths : "has stats"
+    characters ||--|| character_base_stats : "has base stats"
     characters ||--o{ character_gift_preferences : "prefers"
     characters ||--o{ character_bird_time_dialogues : "participates in"
     characters ||--|| character_class_recommendations : "recommended"
@@ -70,13 +72,12 @@ CREATE TABLE characters (
     interests TEXT,
     unique_talent TEXT,                                 -- Exploration talent description
     combat_art_ids TEXT,                                -- JSON array of learned combat art IDs
-    spell_ids TEXT,                                     -- JSON array of learned spell IDs
-    raw_source VARCHAR(255) NOT NULL
+    spell_ids TEXT                                      -- JSON array of learned spell IDs
 );
 
 -- 2. Structured Multi-Route Recruitment
 CREATE TABLE character_recruitment (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(100) PRIMARY KEY,                        -- e.g., 'esmeralda_route_cai'
     character_id VARCHAR(50) NOT NULL REFERENCES characters(id) ON DELETE CASCADE,
     route VARCHAR(20) NOT NULL,                         -- 'cai', 'dietrich', 'theodora', 'leda'
     chapter VARCHAR(100),                               -- e.g., 'Part I Chapter 5'
@@ -99,8 +100,7 @@ CREATE TABLE character_growths (
     res INTEGER NOT NULL,
     cha INTEGER NOT NULL,
     preferred_skills TEXT,                              -- Comma-separated or JSON array of proficiencies
-    non_ideal_skills TEXT,                              -- Weaknesses
-    raw_source VARCHAR(255) NOT NULL
+    non_ideal_skills TEXT                               -- Weaknesses
 );
 
 -- 4. Recommended Class Progressions & Tier Rankings
@@ -112,13 +112,12 @@ CREATE TABLE character_class_recommendations (
     specialty_class_id VARCHAR(50) REFERENCES classes(id) ON DELETE SET NULL,
     advanced_class_id VARCHAR(50) REFERENCES classes(id) ON DELETE SET NULL,
     master_class_id VARCHAR(50) REFERENCES classes(id) ON DELETE SET NULL,
-    divine_class_id VARCHAR(50) REFERENCES classes(id) ON DELETE SET NULL,
-    raw_source VARCHAR(255) NOT NULL
+    divine_class_id VARCHAR(50) REFERENCES classes(id) ON DELETE SET NULL
 );
 
 -- 5. Character Gift Preferences (Direct Item FK)
 CREATE TABLE character_gift_preferences (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'theodora_gift_eastern_tea_leaves'
     character_id VARCHAR(50) NOT NULL REFERENCES characters(id) ON DELETE CASCADE,
     item_id VARCHAR(100) NOT NULL REFERENCES items(id) ON DELETE CASCADE,
     preference_tier VARCHAR(30) NOT NULL,               -- 'Really Liked', 'Liked', 'Disliked'
@@ -127,32 +126,47 @@ CREATE TABLE character_gift_preferences (
 
 -- 6. Bird Time Dialogue QA Database
 CREATE TABLE character_bird_time_dialogues (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'theodora_qa_1'
     character_id VARCHAR(50) NOT NULL REFERENCES characters(id) ON DELETE CASCADE,
     topic TEXT NOT NULL,
-    best_answer TEXT NOT NULL,
-    raw_source VARCHAR(255) NOT NULL
+    best_answer TEXT NOT NULL
 );
 
 -- 7. Character Support Relationships
 CREATE TABLE character_supports (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'theodora_support_cai'
     character_id VARCHAR(50) NOT NULL REFERENCES characters(id) ON DELETE CASCADE,
     partner_character_id VARCHAR(50) NOT NULL REFERENCES characters(id) ON DELETE CASCADE,
     max_support_rank VARCHAR(5) NOT NULL,               -- 'C', 'B', 'A', 'S'
     UNIQUE(character_id, partner_character_id)
 );
 
+-- 8. Character Base Starting Stats (Recruitment / Level 1)
+CREATE TABLE character_base_stats (
+    character_id VARCHAR(50) PRIMARY KEY REFERENCES characters(id) ON DELETE CASCADE,
+    hp INTEGER NOT NULL,
+    str INTEGER NOT NULL,
+    mag INTEGER NOT NULL,
+    dex INTEGER NOT NULL,
+    spd INTEGER NOT NULL,
+    lck INTEGER NOT NULL,
+    def INTEGER NOT NULL,
+    res INTEGER NOT NULL,
+    cha INTEGER NOT NULL,
+    movement INTEGER DEFAULT 4
+);
+
 -- ============================================================================
 -- 2. CLASSES, ABILITIES & COMBAT ARTS
 -- ============================================================================
 
--- 8. Classes & Licenses
+-- 9. Classes & Licenses
 CREATE TABLE classes (
-    id VARCHAR(50) PRIMARY KEY,                         -- Archive ID (e.g., '624054') or slug
+    id VARCHAR(50) PRIMARY KEY,                         -- Slug identifier (e.g., 'archer', 'gladiator')
     name VARCHAR(100) NOT NULL UNIQUE,
     tier VARCHAR(50) NOT NULL,                          -- 'Beginner', 'Specialty', 'Advanced', 'Master', 'Divine'
     type VARCHAR(50),                                   -- 'Infantry', 'Cavalry', 'Flying', 'Armored'
+    mount_type VARCHAR(50),                             -- 'Ornius', 'Horse', 'Pegasus', 'Bau', 'Elephant' or NULL
     movement INTEGER DEFAULT 4,
     usable_weapons TEXT,                                -- JSON array: ["Sword", "Axe", "Spear"]
     license_required VARCHAR(50),                       -- 'Beginner', 'Specialty', 'Advanced', etc.
@@ -178,44 +192,42 @@ CREATE TABLE classes (
     def_growth INTEGER DEFAULT 0,
     res_growth INTEGER DEFAULT 0,
     lck_growth INTEGER DEFAULT 0,
-    cha_growth INTEGER DEFAULT 0,
-    raw_source VARCHAR(255) NOT NULL
+    cha_growth INTEGER DEFAULT 0
 );
 
--- 9. Unified Master Abilities
+-- 10. Unified Master Abilities
 CREATE TABLE abilities (
     id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'royal_resolve', 'canto')
     name VARCHAR(150) NOT NULL,
     category VARCHAR(50) NOT NULL,                      -- 'Personal', 'Class', 'Master', 'Skill', 'Mount', 'Level', 'Bloodmark'
     crest VARCHAR(100),                                 -- Associated crest name (if Bloodmark)
     trigger_rate INTEGER,                              -- Trigger percentage number (e.g., 30)
-    effect TEXT NOT NULL,
-    raw_source VARCHAR(255) NOT NULL
+    effect TEXT NOT NULL
 );
 
--- 10. Character Abilities Junction Table
+-- 11. Character Abilities Junction Table
 CREATE TABLE character_abilities (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'theodora_ability_royal_resolve_personal'
     character_id VARCHAR(50) NOT NULL REFERENCES characters(id) ON DELETE CASCADE,
     ability_id VARCHAR(100) NOT NULL REFERENCES abilities(id) ON DELETE CASCADE,
-    unlock_type VARCHAR(30) NOT NULL,                   -- 'personal', 'level', 'bloodmark'
-    unlock_level INTEGER,                               -- Level required (e.g., 5, 20; NULL if personal/bloodmark)
+    unlock_type VARCHAR(30) NOT NULL,                   -- 'personal', 'level', 'skill', 'bloodmark'
+    unlock_level INTEGER,                               -- Level required (e.g., 5, 20; NULL if personal/bloodmark/skill)
     trigger_rate INTEGER,                              -- Effective trigger rate for this character
     UNIQUE(character_id, ability_id, unlock_type)
 );
 
--- 11. Class Abilities Junction Table
+-- 12. Class Abilities Junction Table
 CREATE TABLE class_abilities (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'archer_ability_bow_range_plus_1_class'
     class_id VARCHAR(50) NOT NULL REFERENCES classes(id) ON DELETE CASCADE,
     ability_id VARCHAR(100) NOT NULL REFERENCES abilities(id) ON DELETE CASCADE,
     ability_type VARCHAR(30) NOT NULL,                  -- 'class' (innate while in class) vs 'mastery' (learned upon maxing class)
     UNIQUE(class_id, ability_id, ability_type)
 );
 
--- 12. Combat Arts & Blaze Arts
+-- 13. Combat Arts & Blaze Arts
 CREATE TABLE combat_arts (
-    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'helm_splitter')
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'helm_splitter', 'grounder')
     name VARCHAR(150) NOT NULL,
     art_type VARCHAR(50) NOT NULL,                      -- 'Combat Art' or 'Blaze Art'
     weapon_type VARCHAR(50),                            -- 'Sword', 'Spear', 'Axe', 'Bow', 'Gauntlet', or NULL
@@ -228,15 +240,14 @@ CREATE TABLE combat_arts (
     blaze_gain INTEGER,
     req_blaze_gauge INTEGER,
     effect TEXT,
-    learned_from TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    learned_from TEXT
 );
 
 -- ============================================================================
 -- 3. EQUIPMENT, SPELLS & ITEMS
 -- ============================================================================
 
--- 13. Weapons (Physical Weapons & Shields)
+-- 14. Weapons (Physical Weapons & Shields)
 CREATE TABLE weapons (
     id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'iron_sword')
     name VARCHAR(150) NOT NULL,
@@ -248,11 +259,10 @@ CREATE TABLE weapons (
     weight INTEGER,
     durability INTEGER,
     range VARCHAR(20),
-    special_effects TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    special_effects TEXT
 );
 
--- 14. Spells (Black & White Magic)
+-- 15. Spells (Black & White Magic)
 CREATE TABLE spells (
     id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'fire', 'seraphim')
     name VARCHAR(150) NOT NULL,
@@ -264,25 +274,23 @@ CREATE TABLE spells (
     crit INTEGER,
     range VARCHAR(20),
     weight INTEGER,
-    effects TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    effects TEXT
 );
 
--- 15. Master Items & Collectibles Catalog
+-- 16. Master Items & Collectibles Catalog
 CREATE TABLE items (
     id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'pure_water', 'kothar_gar')
     name VARCHAR(150) NOT NULL,
     category VARCHAR(50) NOT NULL,                      -- 'Consumables', 'Gifts', 'Ores', 'Vegetables', 'Fishes', 'Meats', 'Exam Licenses', 'Other Items', 'Equipment'
     effect TEXT,
-    how_to_get TEXT,                                    -- Detailed vendor location, drops, or gathering nodes
-    raw_source VARCHAR(255) NOT NULL
+    how_to_get TEXT                                     -- Detailed vendor location, drops, or gathering nodes
 );
 
 -- ============================================================================
 -- 4. QUESTS, WALKTHROUGHS & ROUTES
 -- ============================================================================
 
--- 16. Quests (Main, Town, Perform, and Drink Recipes)
+-- 17. Quests (Main, Town, Perform, and Drink Recipes)
 CREATE TABLE quests (
     id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'welcome_to_the_item_shop')
     title VARCHAR(200) NOT NULL,
@@ -293,13 +301,12 @@ CREATE TABLE quests (
     leda_chapter VARCHAR(50),
     client VARCHAR(150),
     objective TEXT,
-    strategy TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    strategy TEXT
 );
 
--- 17. Normalized Quest Rewards
+-- 18. Normalized Quest Rewards
 CREATE TABLE quest_rewards (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'welcome_to_the_item_shop_reward_1'
     quest_id VARCHAR(100) NOT NULL REFERENCES quests(id) ON DELETE CASCADE,
     reward_type VARCHAR(30) NOT NULL,                   -- 'Item', 'Gold', 'Renown', 'Unlock'
     reward_name VARCHAR(150) NOT NULL,
@@ -307,9 +314,9 @@ CREATE TABLE quest_rewards (
     item_id VARCHAR(100) REFERENCES items(id) ON DELETE SET NULL
 );
 
--- 18. Paralogues
+-- 19. Paralogues
 CREATE TABLE paralogues (
-    id VARCHAR(50) PRIMARY KEY,                         -- Archive ID (e.g., '624273')
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'diversionary_tactics')
     title VARCHAR(200) NOT NULL,
     character_associated VARCHAR(100) NOT NULL,         -- Primary character featured
     recruitable_character VARCHAR(100),                 -- Unit unlocked upon completion
@@ -317,45 +324,43 @@ CREATE TABLE paralogues (
     map_location VARCHAR(100),
     victory_condition TEXT,
     defeat_condition TEXT,
-    strategy TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    strategy TEXT
 );
 
--- 19. Story Routes & Campaigns
+-- 20. Story Routes & Campaigns
 CREATE TABLE story_routes (
-    route_name VARCHAR(100) PRIMARY KEY,                -- e.g., 'Cai''s Path', 'Dietrich''s Path', 'Part 2: War Arc'
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'cais_path', 'prologue_descent')
+    route_name VARCHAR(100) NOT NULL,                   -- e.g., 'Cai''s Path', 'Dietrich''s Path'
     summary TEXT,
-    unlock_conditions TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    unlock_conditions TEXT
 );
 
--- 20. Story Chapters
+-- 21. Story Chapters
 CREATE TABLE story_chapters (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    route_name VARCHAR(100) NOT NULL REFERENCES story_routes(route_name) ON DELETE CASCADE,
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'cais_path_part_1_uproar_in_ribeira'
+    route_id VARCHAR(100) NOT NULL REFERENCES story_routes(id) ON DELETE CASCADE,
     chapter_number INTEGER NOT NULL,
     chapter_title VARCHAR(200) NOT NULL,
     turn_limit INTEGER,
     objectives TEXT,
-    clear_conditions TEXT,
-    raw_source VARCHAR(255) NOT NULL
+    clear_conditions TEXT
 );
 
 -- ============================================================================
 -- 5. GAMEPLAY MECHANICS & REFERENCE TABLES
 -- ============================================================================
 
--- 21. Milestones & Notable Deeds
+-- 22. Milestones & Notable Deeds
 CREATE TABLE mechanics_milestones (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(150) PRIMARY KEY,                        -- Slug identifier (e.g., 'obtained_10_pieces_of_ore')
     milestone_name TEXT NOT NULL,
     category VARCHAR(50),                               -- 'Battle', 'Items', 'Allies', 'Bases', 'The World Map'
     karma_shards_reward INTEGER
 );
 
--- 22. Temple Blessings & Divine Sand Costs
+-- 23. Temple Blessings & Divine Sand Costs
 CREATE TABLE mechanics_temple_blessings (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'aurora', 'mars')
     god_name VARCHAR(100) NOT NULL,                     -- 'Aurora', 'Mars', 'Smyrnos', 'Credna', 'Kalla', 'Jurah', 'Fortuna'
     cost_normal INTEGER,
     cost_hard INTEGER,
@@ -366,43 +371,55 @@ CREATE TABLE mechanics_temple_blessings (
     perks TEXT
 );
 
--- 23. Mounts & Animal Companions
-CREATE TABLE mechanics_mounts (
-    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'black_magonius', 'bucephalus')
+-- 24. Mounts & Animal Companions
+CREATE TABLE mounts (
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'wild_ornius', 'ferghanan_horse')
     name VARCHAR(100) NOT NULL,
-    type VARCHAR(50),                                   -- 'Horse', 'Ornius', 'Pegasus', 'Bau', 'Elephant'
-    hp_mod INTEGER DEFAULT 0,
-    str_mod INTEGER DEFAULT 0,
-    mag_mod INTEGER DEFAULT 0,
-    spd_mod INTEGER DEFAULT 0,
-    dex_mod INTEGER DEFAULT 0,
-    def_mod INTEGER DEFAULT 0,
-    res_mod INTEGER DEFAULT 0,
-    lck_mod INTEGER DEFAULT 0,
-    cha_mod INTEGER DEFAULT 0,
-    abilities TEXT                                      -- Passives: 'Canto', 'Paired Magic-Sight', etc.
+    type VARCHAR(50) NOT NULL,                          -- 'Ornius', 'Horse', 'Pegasus', 'Bau', 'Elephant'
+    stat_hp INTEGER,
+    stat_str INTEGER,
+    stat_def INTEGER,
+    stat_mag INTEGER,
+    stat_res INTEGER,
+    stat_dex INTEGER,
+    stat_spd INTEGER,
+    stat_lck INTEGER,
+    stat_bld INTEGER,
+    growth_hp INTEGER,
+    growth_str INTEGER,
+    growth_def INTEGER,
+    growth_mag INTEGER,
+    growth_res INTEGER,
+    growth_dex INTEGER,
+    growth_spd INTEGER,
+    growth_lck INTEGER,
+    growth_bld INTEGER,
+    abilities TEXT,                                     -- JSON array of structured ability objects
+    obtain TEXT,                                        -- Locations / requirements
+    notes TEXT
 );
 
--- 24. Thermae Baths
+-- 25. Thermae Baths
 CREATE TABLE mechanics_thermae_baths (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'giants_bath_special')
     bath_name VARCHAR(100) NOT NULL,
     renown_level_required INTEGER DEFAULT 8,
     possible_abilities TEXT                             -- Random temporary abilities conferred
 );
 
--- 25. Terrain Modifiers
+-- 26. Terrain Modifiers
 CREATE TABLE mechanics_terrain (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'dense_brush')
     terrain_name VARCHAR(100) NOT NULL,
     category VARCHAR(50),                               -- 'Avo Boost', 'Avo Penalty', 'Mov Penalty', 'Special'
     effect TEXT NOT NULL,
     unaffected_classes TEXT
 );
 
--- 26. God Trials
+-- 27. God Trials
 CREATE TABLE mechanics_god_trials (
-    god_name VARCHAR(100) PRIMARY KEY,                  -- 'Kalla', 'Credna', 'Smyrnos', 'Mars', 'Jurah', 'Aurora'
+    id VARCHAR(100) PRIMARY KEY,                        -- Slug identifier (e.g., 'kalla', 'credna')
+    god_name VARCHAR(100) NOT NULL,                     -- 'Kalla', 'Credna', 'Smyrnos', 'Mars', 'Jurah', 'Aurora'
     trial_name VARCHAR(150) NOT NULL,
     divine_buffs TEXT,
     equipment_rewards TEXT,
@@ -415,6 +432,7 @@ CREATE TABLE mechanics_god_trials (
 
 CREATE INDEX idx_recruitment_route ON character_recruitment(route, chapter);
 CREATE INDEX idx_growths_char ON character_growths(character_id);
+CREATE INDEX idx_base_stats_char ON character_base_stats(character_id);
 CREATE INDEX idx_char_abilities_lookup ON character_abilities(character_id, unlock_type);
 CREATE INDEX idx_class_abilities_lookup ON class_abilities(class_id, ability_type);
 CREATE INDEX idx_classes_tier ON classes(tier);
@@ -424,6 +442,8 @@ CREATE INDEX idx_abilities_category ON abilities(category);
 CREATE INDEX idx_quest_rewards_quest ON quest_rewards(quest_id);
 CREATE INDEX idx_paralogues_char ON paralogues(character_associated);
 CREATE INDEX idx_supports_lookup ON character_supports(character_id, partner_character_id);
+CREATE INDEX idx_mounts_type ON mounts(type);
+CREATE INDEX idx_classes_mount_type ON classes(mount_type);
 ```
 
 ---

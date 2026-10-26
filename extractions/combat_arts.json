@@ -1391,7 +1391,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "grounder",
+    "id": "grounder_plus",
     "name": "Grounder+",
     "art_type": "Combat Art",
     "weapon_type": "Sword",
@@ -1404,7 +1404,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "hidden_birdbane",
+    "id": "hidden_birdbane_plus",
     "name": "Hidden Birdbane+",
     "art_type": "Combat Art",
     "weapon_type": "Sword",
@@ -1768,7 +1768,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "lend_luck",
+    "id": "lend_luck_plus",
     "name": "Lend Luck+",
     "art_type": "Combat Art",
     "weapon_type": "Utility",
@@ -1781,7 +1781,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "lend_dexterity",
+    "id": "lend_dexterity_plus",
     "name": "Lend Dexterity+",
     "art_type": "Combat Art",
     "weapon_type": "Utility",
@@ -1807,7 +1807,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "lend_magic",
+    "id": "lend_magic_plus",
     "name": "Lend Magic+",
     "art_type": "Combat Art",
     "weapon_type": "Utility",
@@ -1820,7 +1820,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "lend_defense",
+    "id": "lend_defense_plus",
     "name": "Lend Defense+",
     "art_type": "Combat Art",
     "weapon_type": "Utility",
@@ -1924,7 +1924,7 @@
     "raw_source": "raw_extracts/abilities_arts/combat_arts_620961.html"
   },
   {
-    "id": "lend_strength",
+    "id": "lend_strength_plus",
     "name": "Lend Strength+",
     "art_type": "Combat Art",
     "weapon_type": "Utility",
@@ -2006,7 +2006,7 @@
     "raw_source": "raw_extracts/abilities_arts/blaze_arts_620483.html"
   },
   {
-    "id": "purifying_flash",
+    "id": "purifying_flash_plus",
     "name": "Purifying Flash+",
     "art_type": "Blaze Art",
     "weapon_type": null,
@@ -2040,7 +2040,7 @@
     "raw_source": "raw_extracts/abilities_arts/blaze_arts_620483.html"
   },
   {
-    "id": "nine_sky_strike",
+    "id": "nine_sky_strike_plus",
     "name": "Nine-Sky Strike+",
     "art_type": "Blaze Art",
     "weapon_type": null,
@@ -2244,7 +2244,7 @@
     "raw_source": "raw_extracts/abilities_arts/blaze_arts_620483.html"
   },
   {
-    "id": "song_of_passion",
+    "id": "song_of_passion_plus",
     "name": "Song of Passion+",
     "art_type": "Blaze Art",
     "weapon_type": null,
@@ -2278,7 +2278,7 @@
     "raw_source": "raw_extracts/abilities_arts/blaze_arts_620483.html"
   },
   {
-    "id": "song_of_icewater",
+    "id": "song_of_icewater_plus",
     "name": "Song of Icewater+",
     "art_type": "Blaze Art",
     "weapon_type": null,

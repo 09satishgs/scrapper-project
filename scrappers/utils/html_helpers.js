@@ -21,6 +21,7 @@ export function parseNumber(val) {
 
 export function slugify(str) {
   return String(str)
+    .replace(/\+/g, '_plus')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '_')
     .replace(/^_+|_+$/g, '');

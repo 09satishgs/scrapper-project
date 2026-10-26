@@ -1,0 +1,607 @@
+[
+  {
+    "id": "wild_ornius",
+    "name": "Wild Ornius",
+    "type": "Ornius",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 3,
+    "stat_spd": 2,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": 15,
+    "growth_spd": 10,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Run",
+        "bond_3": "Movement +1",
+        "bond_5": "Movement +2",
+        "full_text": "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
+      },
+      {
+        "name": "Paired Stealth",
+        "bond_3": "Favourable terrain: Avoid +10",
+        "bond_5": "Favourable terrain: Avoid +10, Shield +3",
+        "full_text": "Paired Stealth\nBond 3: Favourable terrain: Avoid +10\nBond 5: Favourable terrain: Avoid +10, Shield +3"
+      }
+    ],
+    "obtain": "Elissa Pass; Sparrow’s Thoroughfare; Mount Ouranos; Faro Forest",
+    "notes": null
+  },
+  {
+    "id": "white_ornius",
+    "name": "White Ornius",
+    "type": "Ornius",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": null,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": 15,
+    "growth_dex": 5,
+    "growth_spd": 5,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Purify",
+        "bond_3": "Player-phase start: 50% poison removal",
+        "bond_5": "Player-phase start: remove poison",
+        "full_text": "Paired Purify\nBond 3: Player-phase start: 50% poison removal\nBond 5: Player-phase start: remove poison"
+      }
+    ],
+    "obtain": "Faro Forest (rare)",
+    "notes": "Growths supplied by the player report; the compiled guide leaves them undocumented."
+  },
+  {
+    "id": "meganius",
+    "name": "Meganius",
+    "type": "Ornius",
+    "stat_hp": null,
+    "stat_str": 1,
+    "stat_def": 3,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 1,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": 5,
+    "growth_def": 15,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": 5,
+    "growth_spd": null,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Run",
+        "bond_3": "Movement +1",
+        "bond_5": "Movement +2",
+        "full_text": "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
+      },
+      {
+        "name": "Paired Bulk",
+        "bond_3": "Build +2",
+        "bond_5": "Build +4",
+        "full_text": "Paired Bulk\nBond 3: Build +2\nBond 5: Build +4"
+      }
+    ],
+    "obtain": "Sparrow’s Thoroughfare; Mount Ouranos; Axion Gorge",
+    "notes": null
+  },
+  {
+    "id": "red_meganius",
+    "name": "Red Meganius",
+    "type": "Ornius",
+    "stat_hp": null,
+    "stat_str": 3,
+    "stat_def": 1,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 1,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": 15,
+    "growth_def": 5,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": 5,
+    "growth_spd": null,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Run",
+        "bond_3": "Movement +1",
+        "bond_5": "Movement +2",
+        "full_text": "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
+      },
+      {
+        "name": "Paired Protection",
+        "bond_3": "Receive 70% of critical-hit damage",
+        "bond_5": "Receive 50% of critical-hit damage",
+        "full_text": "Paired Protection\nBond 3: Receive 70% of critical-hit damage\nBond 5: Receive 50% of critical-hit damage"
+      }
+    ],
+    "obtain": "Axion Gorge (rare)",
+    "notes": null
+  },
+  {
+    "id": "magonius",
+    "name": "Magonius",
+    "type": "Ornius",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": 3,
+    "stat_res": null,
+    "stat_dex": 2,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": 15,
+    "growth_res": null,
+    "growth_dex": 10,
+    "growth_spd": null,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Run",
+        "bond_3": "Movement +1",
+        "bond_5": "Movement +2",
+        "full_text": "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
+      },
+      {
+        "name": "Paired Magic-Focus",
+        "bond_3": "Unknown",
+        "bond_5": "Unknown",
+        "full_text": "Paired Magic-Focus\nBond 3: Unknown\nBond 5: Unknown"
+      }
+    ],
+    "obtain": "Headsman’s Rock",
+    "notes": null
+  },
+  {
+    "id": "black_magonius",
+    "name": "Black Magonius",
+    "type": "Ornius",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": 2,
+    "stat_res": null,
+    "stat_dex": 1,
+    "stat_spd": 2,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": 10,
+    "growth_res": null,
+    "growth_dex": 5,
+    "growth_spd": 10,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Magic-Sight",
+        "bond_3": "Magic equipped: Critical +5",
+        "bond_5": "Magic equipped: Critical +10",
+        "full_text": "Paired Magic-Sight\nBond 3: Magic equipped: Critical +5\nBond 5: Magic equipped: Critical +10"
+      },
+      {
+        "name": "Canto",
+        "bond_3": "After combat: move 1 space",
+        "bond_5": "After combat: move 2 spaces",
+        "full_text": "Canto\nBond 3: After combat: move 1 space\nBond 5: After combat: move 2 spaces"
+      }
+    ],
+    "obtain": "Headsman’s Rock (rare)",
+    "notes": null
+  },
+  {
+    "id": "wild_horse",
+    "name": "Wild Horse",
+    "type": "Horse",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": 1,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 3,
+    "stat_spd": 1,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": 5,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": 5,
+    "growth_dex": null,
+    "growth_spd": 5,
+    "growth_lck": 5,
+    "growth_bld": 5,
+    "abilities": [
+      {
+        "name": "Paired Run",
+        "bond_3": "Movement +1",
+        "bond_5": "Movement +2",
+        "full_text": "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
+      },
+      {
+        "name": "Paired Alertness",
+        "bond_3": "Dodge +5",
+        "bond_5": "Dodge +10",
+        "full_text": "Paired Alertness\nBond 3: Dodge +5\nBond 5: Dodge +10"
+      }
+    ],
+    "obtain": "Sunlit Pass; Oleance Plains; Daimos Plateau; Sunfall Path",
+    "notes": null
+  },
+  {
+    "id": "monoceros",
+    "name": "Monoceros",
+    "type": "Horse",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 1,
+    "stat_spd": 1,
+    "stat_lck": 3,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": 5,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": null,
+    "growth_spd": 5,
+    "growth_lck": 5,
+    "growth_bld": 10,
+    "abilities": [
+      {
+        "name": "Paired Healing",
+        "bond_3": "Post-combat healing; amount Unknown",
+        "bond_5": "Post-combat healing; amount Unknown",
+        "full_text": "Paired Healing\nBond 3: Post-combat healing; amount Unknown\nBond 5: Post-combat healing; amount Unknown"
+      },
+      {
+        "name": "Paired Miracle",
+        "bond_3": "Luck +3",
+        "bond_5": "Luck +5",
+        "full_text": "Paired Miracle\nBond 3: Luck +3\nBond 5: Luck +5"
+      }
+    ],
+    "obtain": "Oleance Plains (rare)",
+    "notes": null
+  },
+  {
+    "id": "ferghanan_horse",
+    "name": "Ferghanan Horse",
+    "type": "Horse",
+    "stat_hp": null,
+    "stat_str": 2,
+    "stat_def": 2,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 1,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": 5,
+    "growth_def": null,
+    "growth_mag": 5,
+    "growth_res": 10,
+    "growth_dex": null,
+    "growth_spd": 5,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Arts-Focus",
+        "bond_3": "Combat Art Hit +10",
+        "bond_5": "Combat Art Hit +15",
+        "full_text": "Paired Arts-Focus\nBond 3: Combat Art Hit +10\nBond 5: Combat Art Hit +15"
+      },
+      {
+        "name": "Canto",
+        "bond_3": "After combat: move 1 space",
+        "bond_5": "After combat: move 2 spaces",
+        "full_text": "Canto\nBond 3: After combat: move 1 space\nBond 5: After combat: move 2 spaces"
+      },
+      {
+        "name": "Paired Fierce-Arts",
+        "bond_3": "Combat Art Attack +2",
+        "bond_5": "Combat Art Attack +4",
+        "full_text": "Paired Fierce-Arts\nBond 3: Combat Art Attack +2\nBond 5: Combat Art Attack +4"
+      }
+    ],
+    "obtain": "Sunfall Path (rare)",
+    "notes": null
+  },
+  {
+    "id": "rocinan",
+    "name": "Rocinan",
+    "type": "Horse",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": 2,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 3,
+    "stat_spd": 1,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": 5,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": 10,
+    "growth_dex": null,
+    "growth_spd": 5,
+    "growth_lck": 5,
+    "growth_bld": 5,
+    "abilities": [
+      {
+        "name": "Paired Run",
+        "bond_3": "Movement +1",
+        "bond_5": "Movement +2",
+        "full_text": "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
+      }
+    ],
+    "obtain": "Io’s unique mount; acquisition requirements Unknown",
+    "notes": "Unique · six reported reward points"
+  },
+  {
+    "id": "wild_pegasus",
+    "name": "Wild Pegasus",
+    "type": "Pegasus",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": null,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": null,
+    "growth_spd": null,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Streak",
+        "bond_3": "Flying movement +1",
+        "bond_5": "Flying movement +2",
+        "full_text": "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2"
+      },
+      {
+        "name": "Paired Mage-Kill",
+        "bond_3": "Against a magic user: Attack +3",
+        "bond_5": "Against a magic user: Attack +5",
+        "full_text": "Paired Mage-Kill\nBond 3: Against a magic user: Attack +3\nBond 5: Against a magic user: Attack +5"
+      }
+    ],
+    "obtain": "Valley of Black Wings; Raptor’s Throat; Pegasi’s Peak",
+    "notes": null
+  },
+  {
+    "id": "falicorn",
+    "name": "Falicorn",
+    "type": "Pegasus",
+    "stat_hp": null,
+    "stat_str": 1,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 1,
+    "stat_spd": 3,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": 5,
+    "growth_res": null,
+    "growth_dex": null,
+    "growth_spd": 5,
+    "growth_lck": 15,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Streak",
+        "bond_3": "Flying movement +1",
+        "bond_5": "Flying movement +2",
+        "full_text": "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2"
+      },
+      {
+        "name": "Paired Tempest",
+        "bond_3": "Against bows: Avoid +10",
+        "bond_5": "Against bows: Avoid +15",
+        "full_text": "Paired Tempest\nBond 3: Against bows: Avoid +10\nBond 5: Against bows: Avoid +15"
+      },
+      {
+        "name": "Canto",
+        "bond_3": "After combat: move 1 space",
+        "bond_5": "After combat: move 2 spaces",
+        "full_text": "Canto\nBond 3: After combat: move 1 space\nBond 5: After combat: move 2 spaces"
+      }
+    ],
+    "obtain": "Raptor’s Throat; Pegasi’s Peak (rare)",
+    "notes": "Discrepancy: another report adds Build +1; not included in the totals above."
+  },
+  {
+    "id": "dark_pegasus",
+    "name": "Dark Pegasus",
+    "type": "Pegasus",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": 3,
+    "stat_res": null,
+    "stat_dex": null,
+    "stat_spd": 2,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": 15,
+    "growth_spd": null,
+    "growth_lck": 10,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Streak",
+        "bond_3": "Flying movement +1",
+        "bond_5": "Flying movement +2",
+        "full_text": "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2"
+      },
+      {
+        "name": "Paired Magic Speed",
+        "bond_3": "Magic-based activation chance: Avoid +10",
+        "bond_5": "Magic-based activation chance: Avoid +20",
+        "full_text": "Paired Magic Speed\nBond 3: Magic-based activation chance: Avoid +10\nBond 5: Magic-based activation chance: Avoid +20"
+      }
+    ],
+    "obtain": "Valley of Black Wings (rare)",
+    "notes": null
+  },
+  {
+    "id": "bucephalus",
+    "name": "Bucephalus",
+    "type": "Pegasus",
+    "stat_hp": null,
+    "stat_str": 1,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": 2,
+    "stat_dex": null,
+    "stat_spd": 3,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": 5,
+    "growth_res": null,
+    "growth_dex": null,
+    "growth_spd": null,
+    "growth_lck": 15,
+    "growth_bld": 10,
+    "abilities": [
+      {
+        "name": "Paired Streak",
+        "bond_3": "Flying movement +1",
+        "bond_5": "Flying movement +2",
+        "full_text": "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2"
+      }
+    ],
+    "obtain": "Alexandra’s unique mount; acquisition requirements Unknown",
+    "notes": "Unique · six reported reward points"
+  },
+  {
+    "id": "wild_bau",
+    "name": "Wild Bau",
+    "type": "Bau",
+    "stat_hp": null,
+    "stat_str": 2,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": 2,
+    "stat_spd": 1,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": 10,
+    "growth_res": null,
+    "growth_dex": null,
+    "growth_spd": 10,
+    "growth_lck": 5,
+    "growth_bld": null,
+    "abilities": [
+      {
+        "name": "Paired Streak",
+        "bond_3": "Flying movement +1",
+        "bond_5": "Flying movement +2",
+        "full_text": "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2"
+      },
+      {
+        "name": "Paired Fierce-Arts",
+        "bond_3": "Combat Art Attack +2",
+        "bond_5": "Combat Art Attack +4",
+        "full_text": "Paired Fierce-Arts\nBond 3: Combat Art Attack +2\nBond 5: Combat Art Attack +4"
+      }
+    ],
+    "obtain": "Bau-Caller’s Cape; Warrior’s Road; Valley of Sedden; Velatori Valley; Yashiro Fort",
+    "notes": "Growth bonuses · Estimated"
+  },
+  {
+    "id": "elephant",
+    "name": "Elephant",
+    "type": "Elephant",
+    "stat_hp": null,
+    "stat_str": null,
+    "stat_def": null,
+    "stat_mag": null,
+    "stat_res": null,
+    "stat_dex": null,
+    "stat_spd": null,
+    "stat_lck": null,
+    "stat_bld": null,
+    "growth_hp": null,
+    "growth_str": null,
+    "growth_def": null,
+    "growth_mag": null,
+    "growth_res": null,
+    "growth_dex": null,
+    "growth_spd": null,
+    "growth_lck": null,
+    "growth_bld": null,
+    "abilities": [],
+    "obtain": null,
+    "notes": "Coverage is incomplete, especially Elephant."
+  }
+]

@@ -804,7 +804,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "axe_hit_10",
+    "id": "axe_hit_plus10",
     "name": "Axe Hit +10",
     "category": "Class",
     "crest": null,
@@ -816,7 +816,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "axe_hit_3",
+    "id": "axe_hit_plus3",
     "name": "Axe Hit +3",
     "category": "Class",
     "crest": null,
@@ -828,7 +828,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "axe_hit_5",
+    "id": "axe_hit_plus5",
     "name": "Axe Hit +5",
     "category": "Class",
     "crest": null,
@@ -840,7 +840,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "axe_hit_7",
+    "id": "axe_hit_plus7",
     "name": "Axe Hit +7",
     "category": "Class",
     "crest": null,
@@ -864,7 +864,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "bow_hit_10",
+    "id": "bow_hit_plus10",
     "name": "Bow Hit +10",
     "category": "Class",
     "crest": null,
@@ -876,7 +876,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "bow_hit_15",
+    "id": "bow_hit_plus15",
     "name": "Bow Hit +15",
     "category": "Class",
     "crest": null,
@@ -888,7 +888,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "bow_hit_5",
+    "id": "bow_hit_plus5",
     "name": "Bow Hit +5",
     "category": "Class",
     "crest": null,
@@ -900,7 +900,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "brawl_avo_10",
+    "id": "brawl_avo_plus10",
     "name": "Brawl Avo +10",
     "category": "Class",
     "crest": null,
@@ -912,7 +912,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "brawl_avo_3",
+    "id": "brawl_avo_plus3",
     "name": "Brawl Avo +3",
     "category": "Class",
     "crest": null,
@@ -924,7 +924,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "brawl_avo_7",
+    "id": "brawl_avo_plus7",
     "name": "Brawl Avo +7",
     "category": "Class",
     "crest": null,
@@ -936,7 +936,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "brawl_hit_10",
+    "id": "brawl_hit_plus10",
     "name": "Brawl Hit +10",
     "category": "Class",
     "crest": null,
@@ -948,7 +948,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "brawl_hit_5",
+    "id": "brawl_hit_plus5",
     "name": "Brawl Hit +5",
     "category": "Class",
     "crest": null,
@@ -960,7 +960,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "brawl_hit_7",
+    "id": "brawl_hit_plus7",
     "name": "Brawl Hit +7",
     "category": "Class",
     "crest": null,
@@ -1008,7 +1008,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "combat_arts_1",
+    "id": "combat_arts_plus1",
     "name": "Combat Arts +1",
     "category": "Class",
     "crest": null,
@@ -1020,7 +1020,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "combat_arts_2",
+    "id": "combat_arts_plus2",
     "name": "Combat Arts +2",
     "category": "Class",
     "crest": null,
@@ -1032,7 +1032,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "combat_arts_3",
+    "id": "combat_arts_plus3",
     "name": "Combat Arts +3",
     "category": "Class",
     "crest": null,
@@ -1080,7 +1080,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "flying_avo_7",
+    "id": "flying_avo_plus7",
     "name": "Flying Avo +7",
     "category": "Class",
     "crest": null,
@@ -1116,7 +1116,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_heal_10",
+    "id": "magic_heal_plus10",
     "name": "Magic Heal +10",
     "category": "Class",
     "crest": null,
@@ -1128,7 +1128,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_heal_15",
+    "id": "magic_heal_plus15",
     "name": "Magic Heal +15",
     "category": "Class",
     "crest": null,
@@ -1140,7 +1140,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_heal_20",
+    "id": "magic_heal_plus20",
     "name": "Magic Heal +20",
     "category": "Class",
     "crest": null,
@@ -1152,7 +1152,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_heal_5",
+    "id": "magic_heal_plus5",
     "name": "Magic Heal +5",
     "category": "Class",
     "crest": null,
@@ -1164,7 +1164,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_hit_10",
+    "id": "magic_hit_plus10",
     "name": "Magic Hit +10",
     "category": "Class",
     "crest": null,
@@ -1176,7 +1176,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_hit_3",
+    "id": "magic_hit_plus3",
     "name": "Magic Hit +3",
     "category": "Class",
     "crest": null,
@@ -1188,7 +1188,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_hit_5",
+    "id": "magic_hit_plus5",
     "name": "Magic Hit +5",
     "category": "Class",
     "crest": null,
@@ -1200,7 +1200,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "magic_hit_7",
+    "id": "magic_hit_plus7",
     "name": "Magic Hit +7",
     "category": "Class",
     "crest": null,
@@ -1248,7 +1248,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "strike_last_def_3",
+    "id": "strike_last_def_plus3",
     "name": "Strike-Last Def +3",
     "category": "Class",
     "crest": null,
@@ -1260,7 +1260,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "strike_last_def_5",
+    "id": "strike_last_def_plus5",
     "name": "Strike-Last Def +5",
     "category": "Class",
     "crest": null,
@@ -1272,7 +1272,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "strike_last_def_7",
+    "id": "strike_last_def_plus7",
     "name": "Strike-Last Def +7",
     "category": "Class",
     "crest": null,
@@ -1284,7 +1284,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "sword_crit_10",
+    "id": "sword_crit_plus10",
     "name": "Sword Crit +10",
     "category": "Class",
     "crest": null,
@@ -1296,7 +1296,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "sword_crit_3",
+    "id": "sword_crit_plus3",
     "name": "Sword Crit +3",
     "category": "Class",
     "crest": null,
@@ -1308,7 +1308,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "sword_crit_5",
+    "id": "sword_crit_plus5",
     "name": "Sword Crit +5",
     "category": "Class",
     "crest": null,
@@ -1320,7 +1320,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "sword_crit_7",
+    "id": "sword_crit_plus7",
     "name": "Sword Crit +7",
     "category": "Class",
     "crest": null,
@@ -2064,7 +2064,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "absolute_defense",
+    "id": "absolute_defense_plus",
     "name": "Absolute Defense+",
     "category": "Skill",
     "crest": null,
@@ -2088,7 +2088,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "airfighter",
+    "id": "airfighter_plus",
     "name": "Airfighter+",
     "category": "Skill",
     "crest": null,
@@ -2124,7 +2124,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "armored_move",
+    "id": "armored_move_plus",
     "name": "Armored Move+",
     "category": "Skill",
     "crest": null,
@@ -2148,7 +2148,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "attack_formation",
+    "id": "attack_formation_plus",
     "name": "Attack Formation+",
     "category": "Skill",
     "crest": null,
@@ -2172,7 +2172,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "avoid_fatality",
+    "id": "avoid_fatality_plus",
     "name": "Avoid Fatality+",
     "category": "Skill",
     "crest": null,
@@ -2424,7 +2424,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "close_quarters",
+    "id": "close_quarters_plus",
     "name": "Close Quarters+",
     "category": "Skill",
     "crest": null,
@@ -2496,7 +2496,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "defense_formation",
+    "id": "defense_formation_plus",
     "name": "Defense Formation+",
     "category": "Skill",
     "crest": null,
@@ -2520,7 +2520,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "distraction",
+    "id": "distraction_plus",
     "name": "Distraction+",
     "category": "Skill",
     "crest": null,
@@ -2544,7 +2544,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "dodge",
+    "id": "dodge_plus",
     "name": "Dodge+",
     "category": "Skill",
     "crest": null,
@@ -2568,7 +2568,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "evasion",
+    "id": "evasion_plus",
     "name": "Evasion+",
     "category": "Skill",
     "crest": null,
@@ -2640,7 +2640,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "flitting_flier",
+    "id": "flitting_flier_plus",
     "name": "Flitting Flier+",
     "category": "Skill",
     "crest": null,
@@ -2676,7 +2676,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "heavy_break",
+    "id": "heavy_break_plus",
     "name": "Heavy Break+",
     "category": "Skill",
     "crest": null,
@@ -2700,7 +2700,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "infantry_move",
+    "id": "infantry_move_plus",
     "name": "Infantry Move+",
     "category": "Skill",
     "crest": null,
@@ -2808,7 +2808,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "rein",
+    "id": "rein_plus",
     "name": "Rein+",
     "category": "Skill",
     "crest": null,
@@ -2928,7 +2928,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "steady_shot",
+    "id": "steady_shot_plus",
     "name": "Steady Shot+",
     "category": "Skill",
     "crest": null,
@@ -3012,7 +3012,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "threaten",
+    "id": "threaten_plus",
     "name": "Threaten+",
     "category": "Skill",
     "crest": null,
@@ -3036,7 +3036,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "vanguard",
+    "id": "vanguard_plus",
     "name": "Vanguard+",
     "category": "Skill",
     "crest": null,
@@ -3120,7 +3120,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "paired_alertness",
+    "id": "paired_alertness_plus",
     "name": "Paired Alertness+",
     "category": "Mount",
     "crest": null,
@@ -3144,7 +3144,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "paired_bulk",
+    "id": "paired_bulk_plus",
     "name": "Paired Bulk+",
     "category": "Mount",
     "crest": null,
@@ -3168,7 +3168,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "paired_run",
+    "id": "paired_run_plus",
     "name": "Paired Run+",
     "category": "Mount",
     "crest": null,
@@ -3180,7 +3180,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "paired_stealth",
+    "id": "paired_stealth_plus",
     "name": "Paired Stealth+",
     "category": "Mount",
     "crest": null,
@@ -3204,7 +3204,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "paired_streak",
+    "id": "paired_streak_plus",
     "name": "Paired Streak+",
     "category": "Mount",
     "crest": null,
@@ -3228,7 +3228,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "accelerate",
+    "id": "accelerate_plus",
     "name": "Accelerate+",
     "category": "Level",
     "crest": null,
@@ -3252,7 +3252,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "additional_intel",
+    "id": "additional_intel_plus",
     "name": "Additional Intel+",
     "category": "Level",
     "crest": null,
@@ -3276,7 +3276,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "all_out_attack",
+    "id": "all_out_attack_plus",
     "name": "All-Out Attack+",
     "category": "Level",
     "crest": null,
@@ -3300,7 +3300,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "ardent_nosferatu",
+    "id": "ardent_nosferatu_plus",
     "name": "Ardent Nosferatu+",
     "category": "Level",
     "crest": null,
@@ -3324,7 +3324,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "at_a_gallop",
+    "id": "at_a_gallop_plus",
     "name": "At a Gallop+",
     "category": "Level",
     "crest": null,
@@ -3348,7 +3348,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "attuned",
+    "id": "attuned_plus",
     "name": "Attuned+",
     "category": "Level",
     "crest": null,
@@ -3396,7 +3396,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "chariot_stagger",
+    "id": "chariot_stagger_plus",
     "name": "Chariot Stagger+",
     "category": "Level",
     "crest": null,
@@ -3420,7 +3420,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "continuum",
+    "id": "continuum_plus",
     "name": "Continuum+",
     "category": "Level",
     "crest": null,
@@ -3444,7 +3444,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "correct_for_drift",
+    "id": "correct_for_drift_plus",
     "name": "Correct for Drift+",
     "category": "Level",
     "crest": null,
@@ -3468,7 +3468,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "dark_secrets",
+    "id": "dark_secrets_plus",
     "name": "Dark Secrets+",
     "category": "Level",
     "crest": null,
@@ -3492,7 +3492,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "devil_s_luck",
+    "id": "devil_s_luck_plus",
     "name": "Devil's Luck+",
     "category": "Level",
     "crest": null,
@@ -3528,7 +3528,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "distant_healing",
+    "id": "distant_healing_plus",
     "name": "Distant Healing+",
     "category": "Level",
     "crest": null,
@@ -3552,7 +3552,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "dramatic_effect",
+    "id": "dramatic_effect_plus",
     "name": "Dramatic Effect+",
     "category": "Level",
     "crest": null,
@@ -3576,7 +3576,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "fear_nothing",
+    "id": "fear_nothing_plus",
     "name": "Fear Nothing+",
     "category": "Level",
     "crest": null,
@@ -3612,7 +3612,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "flashing_fang",
+    "id": "flashing_fang_plus",
     "name": "Flashing Fang+",
     "category": "Level",
     "crest": null,
@@ -3636,7 +3636,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "flickering_edge",
+    "id": "flickering_edge_plus",
     "name": "Flickering Edge+",
     "category": "Level",
     "crest": null,
@@ -3660,7 +3660,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "full_strength",
+    "id": "full_strength_plus",
     "name": "Full Strength+",
     "category": "Level",
     "crest": null,
@@ -3684,7 +3684,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "gift_of_faith",
+    "id": "gift_of_faith_plus",
     "name": "Gift of Faith+",
     "category": "Level",
     "crest": null,
@@ -3720,7 +3720,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "halt_advance",
+    "id": "halt_advance_plus",
     "name": "Halt Advance+",
     "category": "Level",
     "crest": null,
@@ -3744,7 +3744,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "harmonic_soul",
+    "id": "harmonic_soul_plus",
     "name": "Harmonic Soul+",
     "category": "Level",
     "crest": null,
@@ -3780,7 +3780,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "king_s_majesty",
+    "id": "king_s_majesty_plus",
     "name": "King's Majesty+",
     "category": "Level",
     "crest": null,
@@ -3804,7 +3804,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "menace",
+    "id": "menace_plus",
     "name": "Menace+",
     "category": "Level",
     "crest": null,
@@ -3828,7 +3828,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "mounted_push",
+    "id": "mounted_push_plus",
     "name": "Mounted Push+",
     "category": "Level",
     "crest": null,
@@ -3852,7 +3852,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "never_stop",
+    "id": "never_stop_plus",
     "name": "Never Stop+",
     "category": "Level",
     "crest": null,
@@ -3876,7 +3876,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "no_mercy",
+    "id": "no_mercy_plus",
     "name": "No Mercy+",
     "category": "Level",
     "crest": null,
@@ -3900,7 +3900,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "pass_judgment",
+    "id": "pass_judgment_plus",
     "name": "Pass Judgment+",
     "category": "Level",
     "crest": null,
@@ -3924,7 +3924,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "peak_form",
+    "id": "peak_form_plus",
     "name": "Peak Form+",
     "category": "Level",
     "crest": null,
@@ -3948,7 +3948,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "perception",
+    "id": "perception_plus",
     "name": "Perception+",
     "category": "Level",
     "crest": null,
@@ -3972,7 +3972,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "pierce",
+    "id": "pierce_plus",
     "name": "Pierce+",
     "category": "Level",
     "crest": null,
@@ -3996,7 +3996,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "pin_down",
+    "id": "pin_down_plus",
     "name": "Pin Down+",
     "category": "Level",
     "crest": null,
@@ -4020,7 +4020,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "pray_for_safety",
+    "id": "pray_for_safety_plus",
     "name": "Pray for Safety+",
     "category": "Level",
     "crest": null,
@@ -4044,7 +4044,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "precision_strike",
+    "id": "precision_strike_plus",
     "name": "Precision Strike+",
     "category": "Level",
     "crest": null,
@@ -4080,7 +4080,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "raging_counter",
+    "id": "raging_counter_plus",
     "name": "Raging Counter+",
     "category": "Level",
     "crest": null,
@@ -4104,7 +4104,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "redblade_s_will",
+    "id": "redblade_s_will_plus",
     "name": "Redblade's Will+",
     "category": "Level",
     "crest": null,
@@ -4128,7 +4128,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "retaliatory_blow",
+    "id": "retaliatory_blow_plus",
     "name": "Retaliatory Blow+",
     "category": "Level",
     "crest": null,
@@ -4152,7 +4152,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "robust_health",
+    "id": "robust_health_plus",
     "name": "Robust Health+",
     "category": "Level",
     "crest": null,
@@ -4176,7 +4176,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "scorching_sun",
+    "id": "scorching_sun_plus",
     "name": "Scorching Sun+",
     "category": "Level",
     "crest": null,
@@ -4200,7 +4200,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "seize_the_chance",
+    "id": "seize_the_chance_plus",
     "name": "Seize the Chance+",
     "category": "Level",
     "crest": null,
@@ -4236,7 +4236,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "soar",
+    "id": "soar_plus",
     "name": "Soar+",
     "category": "Level",
     "crest": null,
@@ -4260,7 +4260,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "spirits_guidance",
+    "id": "spirits_guidance_plus",
     "name": "Spirits' Guidance+",
     "category": "Level",
     "crest": null,
@@ -4284,7 +4284,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "tactician_s_insight",
+    "id": "tactician_s_insight_plus",
     "name": "Tactician's Insight+",
     "category": "Level",
     "crest": null,
@@ -4308,7 +4308,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "throwing_arm",
+    "id": "throwing_arm_plus",
     "name": "Throwing Arm+",
     "category": "Level",
     "crest": null,
@@ -4332,7 +4332,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "top_form",
+    "id": "top_form_plus",
     "name": "Top Form+",
     "category": "Level",
     "crest": null,
@@ -4368,7 +4368,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "upper_hand",
+    "id": "upper_hand_plus",
     "name": "Upper Hand+",
     "category": "Level",
     "crest": null,
@@ -4392,7 +4392,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "vulgar_conduct",
+    "id": "vulgar_conduct_plus",
     "name": "Vulgar Conduct+",
     "category": "Level",
     "crest": null,
@@ -4416,7 +4416,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "warrior_s_blood",
+    "id": "warrior_s_blood_plus",
     "name": "Warrior's Blood+",
     "category": "Level",
     "crest": null,
@@ -4440,7 +4440,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "watchfulness",
+    "id": "watchfulness_plus",
     "name": "Watchfulness+",
     "category": "Level",
     "crest": null,
@@ -4464,7 +4464,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "wind_my_friend",
+    "id": "wind_my_friend_plus",
     "name": "Wind My Friend+",
     "category": "Level",
     "crest": null,
@@ -4488,7 +4488,7 @@
     "raw_source": "raw_extracts/abilities_arts/abilities_623691.html"
   },
   {
-    "id": "wind_s_caprice",
+    "id": "wind_s_caprice_plus",
     "name": "Wind's Caprice+",
     "category": "Level",
     "crest": null,

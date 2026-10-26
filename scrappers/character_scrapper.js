@@ -240,8 +240,11 @@ export function parseCharacter(html, rawSource, meta = {}) {
           const imgAlt = td.find('img').attr('alt');
           overall_tier = cleanText(td.text()) || (imgAlt ? cleanText(imgAlt) : null);
         } else if (th.includes('Strengths')) {
-          const txt = cleanText(td.text());
-          strengths = txt.split('・').map(cleanText).filter(Boolean);
+          const nextTr = $(tr).next('tr');
+          const txt = cleanText(nextTr.text()) || cleanText(td.text());
+          if (txt) {
+            strengths = txt.split(/[・•\n]+/).map(cleanText).filter(Boolean);
+          }
         }
       });
     }

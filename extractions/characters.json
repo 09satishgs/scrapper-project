@@ -5,10 +5,12 @@
     "slug": "eshmel",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623869",
     "faction": "The Savior's Army",
-    "crest_bloodmark": ["Diadem of the Auger"],
+    "crest_bloodmark": [
+      "Diadem of the Auger"
+    ],
     "voice_actors": {
       "en": "Virginia Lee / Joshua Waters",
-      "jp": "松岡禎丞／井上麻里奈"
+      "jp": "\u677e\u5ca1\u798e\u4e1e\uff0f\u4e95\u4e0a\u9ebb\u91cc\u5948"
     },
     "birthday": null,
     "likes": [
@@ -17,10 +19,17 @@
       "small and unnamed flowers"
     ],
     "dislikes": [],
-    "interests": ["Playing board games"],
+    "interests": [
+      "Playing board games"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
-      "cai": null,
+      "cai": {
+        "chapter": "Prologue: Descent Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins Automatically"
+      },
       "dietrich": null,
       "theodora": null,
       "leda": null
@@ -83,18 +92,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         }
       ],
       "combat_arts": [
@@ -159,7 +180,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex ÷ 2"
+          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex \u00f7 2"
         },
         {
           "name": "Wrath Strike",
@@ -177,11 +198,23 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Dex ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Dex \u00f7 2."
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/eshmel_623869.html"
+    "raw_source": "raw_extracts/characters/eshmel_623869.html",
+    "base_stats": {
+      "movement": 4,
+      "hp": 50,
+      "str": 33,
+      "mag": 24,
+      "spd": 26,
+      "dex": 28,
+      "def": 23,
+      "res": 19,
+      "lck": 25,
+      "cha": 29
+    }
   },
   {
     "id": "624012",
@@ -192,15 +225,22 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jennifer Sun Bell",
-      "jp": "大津愛理"
+      "jp": "\u5927\u6d25\u611b\u7406"
     },
     "birthday": null,
-    "likes": ["Memories of happier times"],
+    "likes": [
+      "Memories of happier times"
+    ],
     "dislikes": [],
     "interests": [],
     "unique_exploration_talent": null,
     "recruitment": {
-      "cai": null,
+      "cai": {
+        "chapter": "Prologue: Descent Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins Automatically"
+      },
       "dietrich": null,
       "theodora": null,
       "leda": null
@@ -216,23 +256,39 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Wandering Wall"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Wandering Wall"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Glass Wheel"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Glass Wheel"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Thoron"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Thoron"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -274,7 +330,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/hong_hua_624012.html"
+    "raw_source": "raw_extracts/characters/hong_hua_624012.html",
+    "base_stats": {
+      "movement": 4,
+      "hp": 45,
+      "str": 15,
+      "mag": 34,
+      "spd": 26,
+      "dex": 30,
+      "def": 21,
+      "res": 30,
+      "lck": 18,
+      "cha": 23
+    }
   },
   {
     "id": "624013",
@@ -285,15 +353,25 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Monique Burias Shi",
-      "jp": "仲村かおり"
+      "jp": "\u4ef2\u6751\u304b\u304a\u308a"
     },
     "birthday": null,
-    "likes": ["Her kin", "natural scenes"],
+    "likes": [
+      "Her kin",
+      "natural scenes"
+    ],
     "dislikes": [],
-    "interests": ["Maintaining her weapons"],
+    "interests": [
+      "Maintaining her weapons"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
-      "cai": null,
+      "cai": {
+        "chapter": "Prologue: Descent Chapter 2",
+        "support": null,
+        "renown": null,
+        "other": "Joins Automatically"
+      },
       "dietrich": null,
       "theodora": null,
       "leda": null
@@ -309,18 +387,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["TBD"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["TBD"],
-          "white_magic": ["Physic"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Physic"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["TBD"],
-          "white_magic": ["Restore"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Restore"
+          ]
         }
       ],
       "combat_arts": [
@@ -389,7 +479,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/troy_624013.html"
+    "raw_source": "raw_extracts/characters/troy_624013.html",
+    "base_stats": {
+      "movement": 4,
+      "hp": 52,
+      "str": 31,
+      "mag": 32,
+      "spd": 33,
+      "dex": 28,
+      "def": 23,
+      "res": 28,
+      "lck": 24,
+      "cha": 21
+    }
   },
   {
     "id": "620167",
@@ -397,15 +499,24 @@
     "slug": "cai",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620167",
     "faction": "Ribeira Winds",
-    "crest_bloodmark": ["Diadem of Duality", "Diadem of the Apostle"],
+    "crest_bloodmark": [
+      "Diadem of Duality",
+      "Diadem of the Apostle"
+    ],
     "voice_actors": {
       "en": "Zeno Robinson",
-      "jp": "山下大輝"
+      "jp": "\u5c71\u4e0b\u5927\u8f1d"
     },
     "birthday": null,
-    "likes": ["Physical training", "catching animals"],
+    "likes": [
+      "Physical training",
+      "catching animals"
+    ],
     "dislikes": [],
-    "interests": ["Fishing", "spear training"],
+    "interests": [
+      "Fishing",
+      "spear training"
+    ],
     "unique_exploration_talent": {
       "name": "Create a Field on a Tile to Farm Crops",
       "details": [
@@ -426,9 +537,24 @@
         "renown": null,
         "other": "Joins Automatically (Main Character)"
       },
-      "dietrich": null,
-      "leda": null,
-      "theodora": null
+      "dietrich": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
+      "theodora": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
+      "leda": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      }
     },
     "abilities_and_combat_arts": {
       "personal_ability": {
@@ -518,18 +644,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         }
       ],
       "combat_arts": [
@@ -688,7 +826,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/cai_620167.html"
+    "raw_source": "raw_extracts/characters/cai_620167.html",
+    "base_stats": {
+      "hp": 27,
+      "str": 10,
+      "mag": 7,
+      "spd": 8,
+      "dex": 8,
+      "def": 6,
+      "res": 5,
+      "lck": 6,
+      "cha": 5,
+      "movement": 4
+    }
   },
   {
     "id": "620168",
@@ -696,15 +846,24 @@
     "slug": "dietrich",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620168",
     "faction": "House Lamine",
-    "crest_bloodmark": ["Diadem of the Endless"],
+    "crest_bloodmark": [
+      "Diadem of the Endless"
+    ],
     "voice_actors": {
       "en": "Xander Mobus",
-      "jp": "日野聡"
+      "jp": "\u65e5\u91ce\u8061"
     },
     "birthday": "9/10",
-    "likes": ["Objects of beauty", "sweet things", "his little sister"],
+    "likes": [
+      "Objects of beauty",
+      "sweet things",
+      "his little sister"
+    ],
     "dislikes": [],
-    "interests": ["Fighting the strong", "meditating"],
+    "interests": [
+      "Fighting the strong",
+      "meditating"
+    ],
     "unique_exploration_talent": {
       "name": "Reveal Enemies With Answerer's Cry",
       "details": [
@@ -719,14 +878,29 @@
       ]
     },
     "recruitment": {
-      "cai": null,
-      "leda": null,
-      "theodora": null,
+      "cai": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
       "dietrich": {
         "chapter": "Part I Chapter 1",
         "support": null,
         "renown": null,
         "other": "Joins Automatically (Main Character)"
+      },
+      "theodora": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
+      "leda": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
       }
     },
     "abilities_and_combat_arts": {
@@ -821,8 +995,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -923,7 +1101,7 @@
           "crit": 0,
           "range": "2",
           "cost": 5,
-          "effect": "If foe's AS ≥ unit's AS +4, grants Hit +20 to unit. (Only usable by spears with Rng= 1-2.)"
+          "effect": "If foe's AS \u2265 unit's AS +4, grants Hit +20 to unit. (Only usable by spears with Rng= 1-2.)"
         },
         {
           "name": "Graceful Blow",
@@ -932,7 +1110,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex ÷ 2"
+          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex \u00f7 2"
         },
         {
           "name": "Hidden Birdbane",
@@ -999,7 +1177,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/dietrich_620168.html"
+    "raw_source": "raw_extracts/characters/dietrich_620168.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "620411",
@@ -1007,15 +1197,23 @@
     "slug": "theodora",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620411",
     "faction": "Megaira's Beacon",
-    "crest_bloodmark": ["Diadem of Duality"],
+    "crest_bloodmark": [
+      "Diadem of Duality"
+    ],
     "voice_actors": {
       "en": "Shara Kirby",
-      "jp": "高山みなみ"
+      "jp": "\u9ad8\u5c71\u307f\u306a\u307f"
     },
     "birthday": "2/12",
-    "likes": ["Fighting", "seeing the people of Saramis thrive"],
+    "likes": [
+      "Fighting",
+      "seeing the people of Saramis thrive"
+    ],
     "dislikes": [],
-    "interests": ["Hunting", "combat training"],
+    "interests": [
+      "Hunting",
+      "combat training"
+    ],
     "unique_exploration_talent": {
       "name": "Recruit Soldiers From Settlements",
       "details": [
@@ -1034,14 +1232,29 @@
       ]
     },
     "recruitment": {
-      "cai": null,
-      "dietrich": null,
-      "leda": null,
+      "cai": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
+      "dietrich": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
       "theodora": {
         "chapter": "Part I Chapter 1",
         "support": null,
         "renown": null,
         "other": "Joins Automatically (Main Character)"
+      },
+      "leda": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
       }
     },
     "abilities_and_combat_arts": {
@@ -1104,7 +1317,7 @@
         },
         {
           "name": "Heavy Break+",
-          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def ÷ 2."
+          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def \u00f7 2."
         },
         {
           "name": "Vanguard+",
@@ -1145,13 +1358,21 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         }
       ],
       "combat_arts": [
@@ -1193,7 +1414,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/theodora_620411.html"
+    "raw_source": "raw_extracts/characters/theodora_620411.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "620437",
@@ -1201,10 +1434,12 @@
     "slug": "leda",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/620437",
     "faction": "Rose Tempest",
-    "crest_bloodmark": ["Diadem of the Earth"],
+    "crest_bloodmark": [
+      "Diadem of the Earth"
+    ],
     "voice_actors": {
       "en": "Katiana Sarkissian",
-      "jp": "伊瀬茉莉也"
+      "jp": "\u4f0a\u702c\u8309\u8389\u4e5f"
     },
     "birthday": "4/3",
     "likes": [
@@ -1214,7 +1449,10 @@
       "applause"
     ],
     "dislikes": [],
-    "interests": ["Tuning her vihuela", "taking long horseback rides"],
+    "interests": [
+      "Tuning her vihuela",
+      "taking long horseback rides"
+    ],
     "unique_exploration_talent": {
       "name": "Perform in Taverns to Acquire Gold and Materials",
       "details": [
@@ -1229,9 +1467,24 @@
       ]
     },
     "recruitment": {
-      "cai": null,
-      "dietrich": null,
-      "theodora": null,
+      "cai": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
+      "dietrich": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
+      "theodora": {
+        "chapter": "Part 2 Chapter 1",
+        "support": null,
+        "renown": null,
+        "other": "Joins in Part 2 War Arc"
+      },
       "leda": {
         "chapter": "Part I Chapter 1",
         "support": null,
@@ -1346,8 +1599,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -1421,7 +1678,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Gale Blow",
@@ -1430,7 +1687,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
         },
         {
           "name": "Swap",
@@ -1443,7 +1700,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/leda_620437.html"
+    "raw_source": "raw_extracts/characters/leda_620437.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623941",
@@ -1454,7 +1723,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Madeleine Morris",
-      "jp": "河瀬茉希"
+      "jp": "\u6cb3\u702c\u8309\u5e0c"
     },
     "birthday": null,
     "likes": [
@@ -1464,7 +1733,10 @@
       "her grandfather"
     ],
     "dislikes": [],
-    "interests": ["Reading", "playing board games"],
+    "interests": [
+      "Reading",
+      "playing board games"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -1523,28 +1795,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Wind"],
-          "white_magic": ["Physic"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Physic"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Cutting Gale"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "Cutting Gale"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["Excalibur"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Excalibur"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -1712,7 +2004,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/tialla_623941.html"
+    "raw_source": "raw_extracts/characters/tialla_623941.html",
+    "base_stats": {
+      "hp": 24,
+      "str": 5,
+      "mag": 8,
+      "spd": 6,
+      "dex": 6,
+      "def": 4,
+      "res": 6,
+      "lck": 7,
+      "cha": 5,
+      "movement": 4
+    }
   },
   {
     "id": "624004",
@@ -1723,12 +2027,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Michael Johnston",
-      "jp": "山本和臣"
+      "jp": "\u5c71\u672c\u548c\u81e3"
     },
     "birthday": null,
-    "likes": ["His mother's home cooking", "ginji fruits"],
+    "likes": [
+      "His mother's home cooking",
+      "ginji fruits"
+    ],
     "dislikes": [],
-    "interests": ["Eating", "watching clouds"],
+    "interests": [
+      "Eating",
+      "watching clouds"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -1764,12 +2074,12 @@
       "level_up_abilities": [
         {
           "name": "Correct for Drift",
-          "effect": "If unit's hit percent is ≥ to 90%, grants Hit +10 during combat.",
+          "effect": "If unit's hit percent is \u2265 to 90%, grants Hit +10 during combat.",
           "level": 20
         },
         {
           "name": "Correct for Drift+",
-          "effect": "If unit's hit % ≥ 75%, grants Hit+20 during combat.",
+          "effect": "If unit's hit % \u2265 75%, grants Hit+20 during combat.",
           "level": 35
         }
       ],
@@ -1815,18 +2125,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Restore"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Restore"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Cutting Gale"],
-          "white_magic": ["Freeze"]
+          "black_magic": [
+            "Cutting Gale"
+          ],
+          "white_magic": [
+            "Freeze"
+          ]
         }
       ],
       "combat_arts": [
@@ -1963,7 +2285,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Dex ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Dex \u00f7 2."
         },
         {
           "name": "Sunder",
@@ -1994,7 +2316,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/peter_624004.html"
+    "raw_source": "raw_extracts/characters/peter_624004.html",
+    "base_stats": {
+      "hp": 25,
+      "str": 9,
+      "mag": 3,
+      "spd": 6,
+      "dex": 10,
+      "def": 5,
+      "res": 4,
+      "lck": 5,
+      "cha": 4,
+      "movement": 4
+    }
   },
   {
     "id": "624007",
@@ -2005,7 +2339,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Rachel Rial",
-      "jp": "稲垣好"
+      "jp": "\u7a32\u57a3\u597d"
     },
     "birthday": "4/28",
     "likes": [
@@ -2015,7 +2349,10 @@
       "love stories"
     ],
     "dislikes": [],
-    "interests": ["Saving money", "wandering around marketplaces"],
+    "interests": [
+      "Saving money",
+      "wandering around marketplaces"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -2078,28 +2415,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Wind"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["Emergis"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "Emergis"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["TBD"],
-          "white_magic": ["Ward"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Ward"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["TBD"],
-          "white_magic": ["Aura"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Aura"
+          ]
         }
       ],
       "combat_arts": [
@@ -2137,7 +2494,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Will make a follow-up regardless of AS during combat. Trigger % = Mag ÷ 2."
+          "effect": "Will make a follow-up regardless of AS during combat. Trigger % = Mag \u00f7 2."
         },
         {
           "name": "Curved Shot",
@@ -2204,7 +2561,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/ultand_624007.html"
+    "raw_source": "raw_extracts/characters/ultand_624007.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 11,
+      "spd": 7,
+      "dex": 7,
+      "def": 7,
+      "res": 7,
+      "lck": 10,
+      "cha": 11,
+      "movement": 4
+    }
   },
   {
     "id": "623964",
@@ -2215,7 +2584,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jimmie Yamaguchi",
-      "jp": "山口恵"
+      "jp": "\u5c71\u53e3\u6075"
     },
     "birthday": "7/30",
     "likes": [
@@ -2224,7 +2593,10 @@
       "dissecting beautiful things"
     ],
     "dislikes": [],
-    "interests": ["Drawing", "conversing with thoughtful people"],
+    "interests": [
+      "Drawing",
+      "conversing with thoughtful people"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": null,
@@ -2281,28 +2653,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Miasma Δ"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Miasma \u0394"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Mire B"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Mire B"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Death Γ"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Death \u0393"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Luna Λ"],
-          "white_magic": ["Ward"]
+          "black_magic": [
+            "Luna \u039b"
+          ],
+          "white_magic": [
+            "Ward"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["Dark Spikes T"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Dark Spikes T"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -2335,7 +2727,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/fabio_623964.html"
+    "raw_source": "raw_extracts/characters/fabio_623964.html",
+    "base_stats": {
+      "hp": 25,
+      "str": 6,
+      "mag": 10,
+      "dex": 6,
+      "spd": 7,
+      "lck": 6,
+      "def": 4,
+      "res": 8,
+      "cha": 5,
+      "movement": 4
+    }
   },
   {
     "id": "624005",
@@ -2343,10 +2747,12 @@
     "slug": "esmeralda",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624005",
     "faction": "House Lamine",
-    "crest_bloodmark": ["Diadem of Valor"],
+    "crest_bloodmark": [
+      "Diadem of Valor"
+    ],
     "voice_actors": {
       "en": "Kendell Byrd",
-      "jp": "菱川花菜"
+      "jp": "\u83f1\u5ddd\u82b1\u83dc"
     },
     "birthday": "6/19",
     "likes": [
@@ -2355,7 +2761,10 @@
       "maintaining fishing gear"
     ],
     "dislikes": [],
-    "interests": ["Fishing", "carving wooden dolls"],
+    "interests": [
+      "Fishing",
+      "carving wooden dolls"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -2435,7 +2844,7 @@
         },
         {
           "name": "Heavy Break",
-          "effect": "(Armored) Multiplies damage by 1.5 when attacking. Trigger % = Def÷2."
+          "effect": "(Armored) Multiplies damage by 1.5 when attacking. Trigger % = Def\u00f72."
         },
         {
           "name": "Build",
@@ -2454,18 +2863,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["TBD"],
-          "white_magic": ["Restore"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Restore"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["TBD"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         }
       ],
       "combat_arts": [
@@ -2588,7 +3009,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/esmeralda_624005.html"
+    "raw_source": "raw_extracts/characters/esmeralda_624005.html",
+    "base_stats": {
+      "hp": 28,
+      "str": 12,
+      "mag": 4,
+      "dex": 5,
+      "spd": 6,
+      "lck": 7,
+      "def": 7,
+      "res": 3,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624008",
@@ -2599,12 +3032,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Marie Westbrook",
-      "jp": "平田宏美"
+      "jp": "\u5e73\u7530\u5b8f\u7f8e"
     },
     "birthday": null,
-    "likes": ["Moving her body", "looking after others"],
+    "likes": [
+      "Moving her body",
+      "looking after others"
+    ],
     "dislikes": [],
-    "interests": ["Cooking", "baking", "brewing coffee"],
+    "interests": [
+      "Cooking",
+      "baking",
+      "brewing coffee"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -2707,8 +3147,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -2831,7 +3275,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/mikaela_624008.html"
+    "raw_source": "raw_extracts/characters/mikaela_624008.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623614",
@@ -2842,7 +3298,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Dave Fennoy",
-      "jp": "鶴岡聡"
+      "jp": "\u9db4\u5ca1\u8061"
     },
     "birthday": "4/8",
     "likes": [
@@ -2851,7 +3307,10 @@
       "learning about other countries"
     ],
     "dislikes": [],
-    "interests": ["Cooking", "reciting poetry"],
+    "interests": [
+      "Cooking",
+      "reciting poetry"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": null,
@@ -2907,28 +3366,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Torch"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Torch"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Cutting Gale"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Cutting Gale"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Ice Blade"],
-          "white_magic": ["Silence"]
+          "black_magic": [
+            "Ice Blade"
+          ],
+          "white_magic": [
+            "Silence"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["Sagittae"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Sagittae"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -2970,7 +3449,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/bonaventure_623614.html"
+    "raw_source": "raw_extracts/characters/bonaventure_623614.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 12,
+      "spd": 9,
+      "dex": 10,
+      "def": 7,
+      "res": 10,
+      "lck": 6,
+      "cha": 9,
+      "movement": 4
+    }
   },
   {
     "id": "623758",
@@ -2981,12 +3472,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Kamran Nikhad",
-      "jp": "利根健太"
+      "jp": "\u5229\u6839\u5065\u592a"
     },
     "birthday": "2/6",
-    "likes": ["Singing", "interacting with others"],
+    "likes": [
+      "Singing",
+      "interacting with others"
+    ],
     "dislikes": [],
-    "interests": ["Hunting", "solitary camping"],
+    "interests": [
+      "Hunting",
+      "solitary camping"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": null,
@@ -3050,8 +3547,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -3165,7 +3666,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/tobias_623758.html"
+    "raw_source": "raw_extracts/characters/tobias_623758.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624009",
@@ -3176,12 +3689,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Stephanie Wong",
-      "jp": "斉藤朱夏"
+      "jp": "\u6589\u85e4\u6731\u590f"
     },
     "birthday": "8/27",
-    "likes": ["Gold coins", "gemstones", "older men"],
+    "likes": [
+      "Gold coins",
+      "gemstones",
+      "older men"
+    ],
     "dislikes": [],
-    "interests": ["Being frugal", "hunting"],
+    "interests": [
+      "Being frugal",
+      "hunting"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -3244,8 +3764,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -3305,7 +3829,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/lilian_624009.html"
+    "raw_source": "raw_extracts/characters/lilian_624009.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624002",
@@ -3316,12 +3852,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Howard Wang",
-      "jp": "柳田淳一"
+      "jp": "\u67f3\u7530\u6df3\u4e00"
     },
     "birthday": "3/29",
-    "likes": ["Skygazing", "dining with women"],
+    "likes": [
+      "Skygazing",
+      "dining with women"
+    ],
     "dislikes": [],
-    "interests": ["Crafting throwing sticks", "going on long rides"],
+    "interests": [
+      "Crafting throwing sticks",
+      "going on long rides"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -3416,13 +3958,21 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -3496,7 +4046,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Str ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Str \u00f7 2."
         },
         {
           "name": "Flying Spear",
@@ -3527,7 +4077,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/lysander_624002.html"
+    "raw_source": "raw_extracts/characters/lysander_624002.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624003",
@@ -3538,12 +4100,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Chris Okawa",
-      "jp": "石井隆之"
+      "jp": "\u77f3\u4e95\u9686\u4e4b"
     },
     "birthday": "12/21",
-    "likes": ["Loyalty", "training", "dreaming about Leda's happiness"],
+    "likes": [
+      "Loyalty",
+      "training",
+      "dreaming about Leda's happiness"
+    ],
     "dislikes": [],
-    "interests": ["Cooking", "mentoring young people"],
+    "interests": [
+      "Cooking",
+      "mentoring young people"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": null,
@@ -3613,8 +4182,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -3710,7 +4283,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/buccar_624003.html"
+    "raw_source": "raw_extracts/characters/buccar_624003.html",
+    "base_stats": {
+      "hp": 29,
+      "str": 12,
+      "mag": 4,
+      "dex": 6,
+      "spd": 5,
+      "lck": 6,
+      "def": 8,
+      "res": 3,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624006",
@@ -3721,12 +4306,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Daman Mills",
-      "jp": "三浦勝之"
+      "jp": "\u4e09\u6d66\u52dd\u4e4b"
     },
     "birthday": "10/18",
-    "likes": ["The goddess Kalla", "all women", "reciting poetry"],
+    "likes": [
+      "The goddess Kalla",
+      "all women",
+      "reciting poetry"
+    ],
     "dislikes": [],
-    "interests": ["Reading", "drawing portraits"],
+    "interests": [
+      "Reading",
+      "drawing portraits"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -3793,28 +4385,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Cutting Gale"],
-          "white_magic": ["Restore"]
+          "black_magic": [
+            "Cutting Gale"
+          ],
+          "white_magic": [
+            "Restore"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Thoron"],
-          "white_magic": ["Fortify"]
+          "black_magic": [
+            "Thoron"
+          ],
+          "white_magic": [
+            "Fortify"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["TBD"],
-          "white_magic": ["Warp"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Warp"
+          ]
         }
       ],
       "combat_arts": [
@@ -3892,7 +4504,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/sirocco_624006.html"
+    "raw_source": "raw_extracts/characters/sirocco_624006.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 8,
+      "dex": 8,
+      "spd": 9,
+      "lck": 8,
+      "def": 6,
+      "res": 7,
+      "cha": 8,
+      "movement": 4
+    }
   },
   {
     "id": "624011",
@@ -3903,7 +4527,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Madeline Dorroh",
-      "jp": "巽悠衣子"
+      "jp": "\u5dfd\u60a0\u8863\u5b50"
     },
     "birthday": "4/11",
     "likes": [
@@ -3914,7 +4538,10 @@
       "attracting attention"
     ],
     "dislikes": [],
-    "interests": ["Caring for her instruments", "studying music and dance"],
+    "interests": [
+      "Caring for her instruments",
+      "studying music and dance"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -3989,28 +4616,49 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Heal", "Nosferatu"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Heal",
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Emergis"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Emergis"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Thoron"],
-          "white_magic": ["Physic"]
+          "black_magic": [
+            "Thoron"
+          ],
+          "white_magic": [
+            "Physic"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Ice Blade"],
-          "white_magic": ["Silence"]
+          "black_magic": [
+            "Ice Blade"
+          ],
+          "white_magic": [
+            "Silence"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["TBD"],
-          "white_magic": ["Berserk"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Berserk"
+          ]
         }
       ],
       "combat_arts": [
@@ -4052,7 +4700,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/olympia_624011.html"
+    "raw_source": "raw_extracts/characters/olympia_624011.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624010",
@@ -4063,7 +4723,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Asante Mango",
-      "jp": "山口茜"
+      "jp": "\u5c71\u53e3\u831c"
     },
     "birthday": "6/25",
     "likes": [
@@ -4073,7 +4733,10 @@
       "eating sweets"
     ],
     "dislikes": [],
-    "interests": ["Making medicinal elixirs", "exercise"],
+    "interests": [
+      "Making medicinal elixirs",
+      "exercise"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -4140,13 +4803,21 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["TBD"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         }
       ],
       "combat_arts": [
@@ -4265,11 +4936,23 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/mu_624010.html"
+    "raw_source": "raw_extracts/characters/mu_624010.html",
+    "base_stats": {
+      "hp": 23,
+      "str": 7,
+      "mag": 3,
+      "dex": 8,
+      "spd": 7,
+      "lck": 4,
+      "def": 5,
+      "res": 5,
+      "cha": 4,
+      "movement": 4
+    }
   },
   {
     "id": "624014",
@@ -4280,12 +4963,20 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "J. Michael Tatum",
-      "jp": "小柳良寛"
+      "jp": "\u5c0f\u67f3\u826f\u5bdb"
     },
     "birthday": null,
-    "likes": ["Tea from Sai", "Ferghanan horses", "dueling", "calligraphy"],
+    "likes": [
+      "Tea from Sai",
+      "Ferghanan horses",
+      "dueling",
+      "calligraphy"
+    ],
     "dislikes": [],
-    "interests": ["Brewing tea", "practicing martial arts"],
+    "interests": [
+      "Brewing tea",
+      "practicing martial arts"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": null,
@@ -4337,8 +5028,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -4371,7 +5066,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/gaitz_624014.html"
+    "raw_source": "raw_extracts/characters/gaitz_624014.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624018",
@@ -4382,12 +5089,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Alaina Wis",
-      "jp": "鷲見友美ジェナ"
+      "jp": "\u9df2\u898b\u53cb\u7f8e\u30b8\u30a7\u30ca"
     },
     "birthday": null,
-    "likes": ["Herself", "writing quickly", "searching for dramatic subjects"],
+    "likes": [
+      "Herself",
+      "writing quickly",
+      "searching for dramatic subjects"
+    ],
     "dislikes": [],
-    "interests": ["Studying people for research", "seeing how others act"],
+    "interests": [
+      "Studying people for research",
+      "seeing how others act"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -4418,7 +5132,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Stage Directions",
-        "effect": "Grants Ddg+10 to allies within 2 spaces during their combats. Trigger % = ally's Cha ÷ 2."
+        "effect": "Grants Ddg+10 to allies within 2 spaces during their combats. Trigger % = ally's Cha \u00f7 2."
       },
       "level_up_abilities": [
         {
@@ -4446,23 +5160,39 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Cutting Gale"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Cutting Gale"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Thoron"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Thoron"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -4531,7 +5261,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/dante_624018.html"
+    "raw_source": "raw_extracts/characters/dante_624018.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624015",
@@ -4539,15 +5281,25 @@
     "slug": "ursula",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624015",
     "faction": "Tale of the Moon",
-    "crest_bloodmark": ["Diadem of Fetters"],
+    "crest_bloodmark": [
+      "Diadem of Fetters"
+    ],
     "voice_actors": {
       "en": "Amelia Tyler",
-      "jp": "八巻アンナ"
+      "jp": "\u516b\u5dfb\u30a2\u30f3\u30ca"
     },
     "birthday": "4/5",
-    "likes": ["Poetry", "animals", "flowers in the shade", "counting money"],
+    "likes": [
+      "Poetry",
+      "animals",
+      "flowers in the shade",
+      "counting money"
+    ],
     "dislikes": [],
-    "interests": ["Reading", "drawing pictures"],
+    "interests": [
+      "Reading",
+      "drawing pictures"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -4578,12 +5330,12 @@
       "level_up_abilities": [
         {
           "name": "Seize the Chance",
-          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Lck ÷ 2.",
+          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Lck \u00f7 2.",
           "level": 20
         },
         {
           "name": "Seize the Chance+",
-          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Lck ÷ 2.",
+          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Lck \u00f7 2.",
           "level": 35
         }
       ],
@@ -4601,8 +5353,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -4644,7 +5400,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/ursula_624015.html"
+    "raw_source": "raw_extracts/characters/ursula_624015.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624019",
@@ -4655,12 +5423,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "David Cherry",
-      "jp": "小林親弘"
+      "jp": "\u5c0f\u6797\u89aa\u5f18"
     },
     "birthday": null,
-    "likes": ["Fighting to the death", "food from his hometown", "womanizing"],
+    "likes": [
+      "Fighting to the death",
+      "food from his hometown",
+      "womanizing"
+    ],
     "dislikes": [],
-    "interests": ["Carving wooden figures", "making preserves"],
+    "interests": [
+      "Carving wooden figures",
+      "making preserves"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -4691,7 +5466,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Close Call",
-        "effect": "If unit's HP ≥ 2 and damage would reduce it to 0, leaves unit with 1 HP. Trigger % = Lck."
+        "effect": "If unit's HP \u2265 2 and damage would reduce it to 0, leaves unit with 1 HP. Trigger % = Lck."
       },
       "level_up_abilities": [
         {
@@ -4723,8 +5498,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -4762,11 +5541,23 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/simon_624019.html"
+    "raw_source": "raw_extracts/characters/simon_624019.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624016",
@@ -4777,12 +5568,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Nazeeh Tarsha",
-      "jp": "高梨謙吾"
+      "jp": "\u9ad8\u68a8\u8b19\u543e"
     },
     "birthday": null,
-    "likes": ["Walking in the forest", "foraging medicinal herbs", "Orchel"],
+    "likes": [
+      "Walking in the forest",
+      "foraging medicinal herbs",
+      "Orchel"
+    ],
     "dislikes": [],
-    "interests": ["Playing the flute", "being devoted to Orchel"],
+    "interests": [
+      "Playing the flute",
+      "being devoted to Orchel"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -4841,7 +5639,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -4889,11 +5689,23 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/diego_624016.html"
+    "raw_source": "raw_extracts/characters/diego_624016.html",
+    "base_stats": {
+      "hp": 27,
+      "str": 11,
+      "mag": 5,
+      "spd": 10,
+      "dex": 12,
+      "def": 6,
+      "res": 4,
+      "lck": 8,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623990",
@@ -4901,10 +5713,12 @@
     "slug": "ninae",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623990",
     "faction": "Linaria Dewdrops",
-    "crest_bloodmark": ["Diadem of Reflection"],
+    "crest_bloodmark": [
+      "Diadem of Reflection"
+    ],
     "voice_actors": {
       "en": "Kayli Mills",
-      "jp": "篠原侑"
+      "jp": "\u7be0\u539f\u4f91"
     },
     "birthday": "10/21",
     "likes": [
@@ -4914,7 +5728,10 @@
       "skygazing"
     ],
     "dislikes": [],
-    "interests": ["Daydreaming", "training"],
+    "interests": [
+      "Daydreaming",
+      "training"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -4989,18 +5806,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["TBD"],
-          "white_magic": ["Physic"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Physic"
+          ]
         }
       ],
       "combat_arts": [
@@ -5096,7 +5925,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/ninae_623990.html"
+    "raw_source": "raw_extracts/characters/ninae_623990.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624017",
@@ -5107,12 +5948,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Courtney Lin",
-      "jp": "矢作紗友里"
+      "jp": "\u77e2\u4f5c\u7d17\u53cb\u91cc"
     },
     "birthday": null,
-    "likes": ["Delicious food", "drinks", "socializing"],
+    "likes": [
+      "Delicious food",
+      "drinks",
+      "socializing"
+    ],
     "dislikes": [],
-    "interests": ["Caring for Anatolia", "studying"],
+    "interests": [
+      "Caring for Anatolia",
+      "studying"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": null,
@@ -5157,18 +6005,31 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind", "Wandering Wall"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind",
+            "Wandering Wall"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["TBD"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         }
       ],
       "combat_arts": [
@@ -5192,7 +6053,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/sha_lan_624017.html"
+    "raw_source": "raw_extracts/characters/sha_lan_624017.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623977",
@@ -5203,12 +6076,20 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Paul Castro Jr.",
-      "jp": "葉山翔太"
+      "jp": "\u8449\u5c71\u7fd4\u592a"
     },
     "birthday": "7/7",
-    "likes": ["Physical activity", "justice", "fighting", "good food"],
+    "likes": [
+      "Physical activity",
+      "justice",
+      "fighting",
+      "good food"
+    ],
     "dislikes": [],
-    "interests": ["Combat training", "eating large amounts of food"],
+    "interests": [
+      "Combat training",
+      "eating large amounts of food"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -5275,8 +6156,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -5314,11 +6199,23 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/nezha_623977.html"
+    "raw_source": "raw_extracts/characters/nezha_623977.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623978",
@@ -5329,12 +6226,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Matthew David Rudd",
-      "jp": "金子隼人"
+      "jp": "\u91d1\u5b50\u96bc\u4eba"
     },
     "birthday": null,
-    "likes": ["Booze", "women", "interesting people", "young greenhorns"],
+    "likes": [
+      "Booze",
+      "women",
+      "interesting people",
+      "young greenhorns"
+    ],
     "dislikes": [],
-    "interests": ["Boasting"],
+    "interests": [
+      "Boasting"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -5413,8 +6317,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -5573,7 +6481,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/guzran_623978.html"
+    "raw_source": "raw_extracts/characters/guzran_623978.html",
+    "base_stats": {
+      "hp": 28,
+      "str": 12,
+      "mag": 4,
+      "spd": 11,
+      "dex": 8,
+      "def": 7,
+      "res": 3,
+      "lck": 10,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623980",
@@ -5584,12 +6504,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Clifford Chapin",
-      "jp": "小林秀行"
+      "jp": "\u5c0f\u6797\u79c0\u884c"
     },
     "birthday": null,
-    "likes": ["Chivalry", "self-discipline", "his beloved horse Rocinan"],
+    "likes": [
+      "Chivalry",
+      "self-discipline",
+      "his beloved horse Rocinan"
+    ],
     "dislikes": [],
-    "interests": ["Caring for his faithful steed", "being quiet"],
+    "interests": [
+      "Caring for his faithful steed",
+      "being quiet"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -5684,8 +6611,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -5745,7 +6676,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/io_623980.html"
+    "raw_source": "raw_extracts/characters/io_623980.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623981",
@@ -5756,12 +6699,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Brittany Lauda",
-      "jp": "飯田ヒカル"
+      "jp": "\u98ef\u7530\u30d2\u30ab\u30eb"
     },
     "birthday": null,
-    "likes": ["Sterling wares", "sterling people", "sterling meals"],
+    "likes": [
+      "Sterling wares",
+      "sterling people",
+      "sterling meals"
+    ],
     "dislikes": [],
-    "interests": ["Gathering information", "making a name for herself"],
+    "interests": [
+      "Gathering information",
+      "making a name for herself"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -5792,7 +6742,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Punishing Squall",
-        "effect": "If AS ≥ foe's AS+3, grants Hit+20 during combat."
+        "effect": "If AS \u2265 foe's AS+3, grants Hit+20 during combat."
       },
       "level_up_abilities": [
         {
@@ -5802,7 +6752,7 @@
         },
         {
           "name": "Wind My Friend+",
-          "effect": "If AS ≥ foe’s AS+5, grants Atk+3, and if AS ≥ foe’s AS+8, grants Avo+20 during combat.",
+          "effect": "If AS \u2265 foe\u2019s AS+5, grants Atk+3, and if AS \u2265 foe\u2019s AS+8, grants Avo+20 during combat.",
           "level": 35
         }
       ],
@@ -5852,8 +6802,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -5918,7 +6872,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "If foe's Hit ≤ 20, reduces foe's Hit to 0 during combat."
+          "effect": "If foe's Hit \u2264 20, reduces foe's Hit to 0 during combat."
         },
         {
           "name": "Crosswise Cut",
@@ -5949,7 +6903,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/catania_623981.html"
+    "raw_source": "raw_extracts/characters/catania_623981.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623979",
@@ -5960,12 +6926,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Anjali Kunapaneni",
-      "jp": "三浦冴子"
+      "jp": "\u4e09\u6d66\u51b4\u5b50"
     },
     "birthday": "6/4",
-    "likes": ["Honoring her duties", "caring for orniuses"],
+    "likes": [
+      "Honoring her duties",
+      "caring for orniuses"
+    ],
     "dislikes": [],
-    "interests": ["Improving her combat abilities", "reading"],
+    "interests": [
+      "Improving her combat abilities",
+      "reading"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -6044,8 +7016,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -6123,7 +7099,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/nydine_623979.html"
+    "raw_source": "raw_extracts/characters/nydine_623979.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623982",
@@ -6134,12 +7122,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Max Lindsey",
-      "jp": "近藤浩徳"
+      "jp": "\u8fd1\u85e4\u6d69\u5fb3"
     },
     "birthday": "2/17",
-    "likes": ["The Great August's tactics", "up-and-coming young people"],
+    "likes": [
+      "The Great August's tactics",
+      "up-and-coming young people"
+    ],
     "dislikes": [],
-    "interests": ["Lecturing young people", "reading"],
+    "interests": [
+      "Lecturing young people",
+      "reading"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -6202,7 +7196,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -6236,7 +7232,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/benditz_623982.html"
+    "raw_source": "raw_extracts/characters/benditz_623982.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623983",
@@ -6247,7 +7255,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Natalie Rose",
-      "jp": "芝崎典子"
+      "jp": "\u829d\u5d0e\u5178\u5b50"
     },
     "birthday": "6/27",
     "likes": [
@@ -6257,7 +7265,10 @@
       "talking about love"
     ],
     "dislikes": [],
-    "interests": ["Combat training", "caring for her beloved steed"],
+    "interests": [
+      "Combat training",
+      "caring for her beloved steed"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -6328,8 +7339,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -6421,7 +7436,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
         },
         {
           "name": "Lend Speed",
@@ -6434,7 +7449,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/alexandra_623983.html"
+    "raw_source": "raw_extracts/characters/alexandra_623983.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623985",
@@ -6445,19 +7472,27 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Brent Mukai",
-      "jp": "喜屋武和輝"
+      "jp": "\u559c\u5c4b\u6b66\u548c\u8f1d"
     },
     "birthday": "11/26",
-    "likes": ["Alcohol", "tales of old", "distant journeys", "saving the weak"],
+    "likes": [
+      "Alcohol",
+      "tales of old",
+      "distant journeys",
+      "saving the weak"
+    ],
     "dislikes": [],
-    "interests": ["Collecting liquors", "giving sermons"],
+    "interests": [
+      "Collecting liquors",
+      "giving sermons"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
         "chapter": "Part I Chapter 3",
         "support": 2,
         "renown": 3,
-        "other": "Answer Yang Jie’s 3 Questions Correctly."
+        "other": "Answer Yang Jie\u2019s 3 Questions Correctly."
       },
       "dietrich": {
         "chapter": "Part I Chapter 4",
@@ -6469,13 +7504,13 @@
         "chapter": "Part I Chapter 5",
         "support": 3,
         "renown": 9,
-        "other": "Answer Yang Jie’s 3 Questions Correctly."
+        "other": "Answer Yang Jie\u2019s 3 Questions Correctly."
       },
       "leda": {
         "chapter": "Part I Chapter 4",
         "support": 3,
         "renown": 8,
-        "other": "Answer Yang Jie’s 3 Questions Correctly."
+        "other": "Answer Yang Jie\u2019s 3 Questions Correctly."
       }
     },
     "abilities_and_combat_arts": {
@@ -6505,28 +7540,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Cutting Gale"],
-          "white_magic": ["Physic"]
+          "black_magic": [
+            "Cutting Gale"
+          ],
+          "white_magic": [
+            "Physic"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Thoron"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "Thoron"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["TBD"],
-          "white_magic": ["Aura"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Aura"
+          ]
         }
       ],
       "combat_arts": [
@@ -6622,7 +7677,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/yang_jie_623985.html"
+    "raw_source": "raw_extracts/characters/yang_jie_623985.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623984",
@@ -6633,12 +7700,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Cassie Ewulu",
-      "jp": "夏姫りんこ"
+      "jp": "\u590f\u59eb\u308a\u3093\u3053"
     },
     "birthday": "12/17",
-    "likes": ["The city and its people", "brawling"],
+    "likes": [
+      "The city and its people",
+      "brawling"
+    ],
     "dislikes": [],
-    "interests": ["Sightseeing in the city", "training"],
+    "interests": [
+      "Sightseeing in the city",
+      "training"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -6701,8 +7774,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -6776,7 +7853,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex ÷ 2"
+          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex \u00f7 2"
         },
         {
           "name": "Wrath Strike",
@@ -6798,7 +7875,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/noctula_623984.html"
+    "raw_source": "raw_extracts/characters/noctula_623984.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623986",
@@ -6809,7 +7898,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Frankie Kevich",
-      "jp": "清都ありさ"
+      "jp": "\u6e05\u90fd\u3042\u308a\u3055"
     },
     "birthday": "8/9",
     "likes": [
@@ -6817,7 +7906,10 @@
       "the moment when food is served (and soon vanishes)"
     ],
     "dislikes": [],
-    "interests": ["Proselytizing about Solel", "eating her fill"],
+    "interests": [
+      "Proselytizing about Solel",
+      "eating her fill"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -6872,28 +7964,48 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Nosferatu"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Nosferatu"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["Physic"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "Physic"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["TBD"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         },
         {
           "skill_level": "S",
-          "black_magic": ["TBD"],
-          "white_magic": ["Aura"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Aura"
+          ]
         }
       ],
       "combat_arts": [
@@ -6935,7 +8047,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/sofia_623986.html"
+    "raw_source": "raw_extracts/characters/sofia_623986.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624000",
@@ -6946,12 +8070,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Phil Sterman",
-      "jp": "井藤智哉"
+      "jp": "\u4e95\u85e4\u667a\u54c9"
     },
     "birthday": "8/30",
-    "likes": ["The spirits", "the sun", "his hometown"],
+    "likes": [
+      "The spirits",
+      "the sun",
+      "his hometown"
+    ],
     "dislikes": [],
-    "interests": ["Hunting", "people watching in the city"],
+    "interests": [
+      "Hunting",
+      "people watching in the city"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7001,8 +8132,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -7040,7 +8175,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Lend Dexterity",
@@ -7053,7 +8188,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/peppe_624000.html"
+    "raw_source": "raw_extracts/characters/peppe_624000.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623993",
@@ -7061,10 +8208,12 @@
     "slug": "seteth",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623993",
     "faction": "Linaria Dewdrops",
-    "crest_bloodmark": ["Diadem of Balance"],
+    "crest_bloodmark": [
+      "Diadem of Balance"
+    ],
     "voice_actors": {
       "en": "Mark Whitten",
-      "jp": "子安武人"
+      "jp": "\u5b50\u5b89\u6b66\u4eba"
     },
     "birthday": "12/27",
     "likes": [
@@ -7074,7 +8223,11 @@
       "hardworking people"
     ],
     "dislikes": [],
-    "interests": ["Writing fables", "preaching", "teaching"],
+    "interests": [
+      "Writing fables",
+      "preaching",
+      "teaching"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7136,8 +8289,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -7215,7 +8372,18 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/seteth_623993.html"
+    "raw_source": "raw_extracts/characters/seteth_623993.html",
+    "base_stats": {
+      "hp": 47,
+      "str": 24,
+      "mag": 15,
+      "dex": 19,
+      "spd": 16,
+      "def": 19,
+      "res": 8,
+      "cha": 20,
+      "movement": 4
+    }
   },
   {
     "id": "623996",
@@ -7226,12 +8394,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Amber Lee Connors",
-      "jp": "松田颯水"
+      "jp": "\u677e\u7530\u98af\u6c34"
     },
     "birthday": "8/23",
-    "likes": ["Reliable people", "sweets", "her friends"],
+    "likes": [
+      "Reliable people",
+      "sweets",
+      "her friends"
+    ],
     "dislikes": [],
-    "interests": ["Sword training", "fishing"],
+    "interests": [
+      "Sword training",
+      "fishing"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7262,7 +8437,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Steadfast",
-        "effect": "If unit's HP ≥ 50%, grants Avo+10 during combat."
+        "effect": "If unit's HP \u2265 50%, grants Avo+10 during combat."
       },
       "level_up_abilities": [
         {
@@ -7294,8 +8469,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -7351,7 +8530,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "If foe's Hit ≤ 20, reduces foe's Hit to 0 during combat."
+          "effect": "If foe's Hit \u2264 20, reduces foe's Hit to 0 during combat."
         },
         {
           "name": "Chop",
@@ -7378,7 +8557,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
         },
         {
           "name": "Shove",
@@ -7391,7 +8570,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/loretta_623996.html"
+    "raw_source": "raw_extracts/characters/loretta_623996.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623991",
@@ -7402,12 +8593,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Kieran Regan",
-      "jp": "永塚拓馬"
+      "jp": "\u6c38\u585a\u62d3\u99ac"
     },
     "birthday": null,
-    "likes": ["The White-Maned Demon", "seeing fear in his opponents' faces"],
+    "likes": [
+      "The White-Maned Demon",
+      "seeing fear in his opponents' faces"
+    ],
     "dislikes": [],
-    "interests": ["Slicing opponents into pieces", "terrifying audiences"],
+    "interests": [
+      "Slicing opponents into pieces",
+      "terrifying audiences"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7470,13 +8667,27 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
       "combat_arts": []
     },
-    "raw_source": "raw_extracts/characters/jester_623991.html"
+    "raw_source": "raw_extracts/characters/jester_623991.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623976",
@@ -7487,12 +8698,20 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Damon Alums",
-      "jp": "綿貫竜之介"
+      "jp": "\u7dbf\u8cab\u7adc\u4e4b\u4ecb"
     },
     "birthday": null,
-    "likes": ["Rampaging", "food", "animals", "smoking meat"],
+    "likes": [
+      "Rampaging",
+      "food",
+      "animals",
+      "smoking meat"
+    ],
     "dislikes": [],
-    "interests": ["Training", "competing as a gladiator"],
+    "interests": [
+      "Training",
+      "competing as a gladiator"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7542,8 +8761,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Blizzard"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Blizzard"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -7639,7 +8862,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/goliath_623976.html"
+    "raw_source": "raw_extracts/characters/goliath_623976.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623992",
@@ -7650,7 +8885,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Kana Shimanuki",
-      "jp": "橘杏咲"
+      "jp": "\u6a58\u674f\u54b2"
     },
     "birthday": "9/30",
     "likes": [
@@ -7659,7 +8894,10 @@
       "talking about love and romance"
     ],
     "dislikes": [],
-    "interests": ["Reading adventure stories", "going shopping"],
+    "interests": [
+      "Reading adventure stories",
+      "going shopping"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7722,8 +8960,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Wind"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Wind"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -7761,11 +9003,23 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/ludia_623992.html"
+    "raw_source": "raw_extracts/characters/ludia_623992.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623998",
@@ -7776,7 +9030,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Y. Chang",
-      "jp": "山口勝平"
+      "jp": "\u5c71\u53e3\u52dd\u5e73"
     },
     "birthday": "5/4",
     "likes": [
@@ -7786,7 +9040,10 @@
       "fighting"
     ],
     "dislikes": [],
-    "interests": ["Tinkering with machines", "watching out for the weak"],
+    "interests": [
+      "Tinkering with machines",
+      "watching out for the weak"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7822,27 +9079,31 @@
       "level_up_abilities": [
         {
           "name": "Full Strength",
-          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Str÷2.",
+          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Str\u00f72.",
           "level": 20
         },
         {
           "name": "Full Strength+",
-          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Str ÷ 2.",
+          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Str \u00f7 2.",
           "level": 35
         }
       ],
       "skill_level_abilities": [
         {
           "name": "Heavy Break+",
-          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def ÷ 2."
+          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def \u00f7 2."
         }
       ],
       "blaze_arts": [],
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -7920,7 +9181,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/dadao_623998.html"
+    "raw_source": "raw_extracts/characters/dadao_623998.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623995",
@@ -7928,15 +9201,25 @@
     "slug": "fianna",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/623995",
     "faction": "Tale of the Moon",
-    "crest_bloodmark": ["Diadem of Revival"],
+    "crest_bloodmark": [
+      "Diadem of Revival"
+    ],
     "voice_actors": {
       "en": "Nerida Bronwen",
-      "jp": "洲崎綾"
+      "jp": "\u6d32\u5d0e\u7dbe"
     },
     "birthday": null,
-    "likes": ["Books of poetry", "spicy foods", "coffee", "trustworthy people"],
+    "likes": [
+      "Books of poetry",
+      "spicy foods",
+      "coffee",
+      "trustworthy people"
+    ],
     "dislikes": [],
-    "interests": ["Praying", "going to the theater"],
+    "interests": [
+      "Praying",
+      "going to the theater"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -7999,18 +9282,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Seraphim"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Seraphim"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["TBD"],
-          "white_magic": ["Recover"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Recover"
+          ]
         }
       ],
       "combat_arts": [
@@ -8025,7 +9320,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/fianna_623995.html"
+    "raw_source": "raw_extracts/characters/fianna_623995.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623997",
@@ -8036,7 +9343,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Judy Alice Lee",
-      "jp": "佳原萌枝"
+      "jp": "\u4f73\u539f\u840c\u679d"
     },
     "birthday": "11/27",
     "likes": [
@@ -8045,7 +9352,10 @@
       "street performing. cheering crowds"
     ],
     "dislikes": [],
-    "interests": ["Practicing magic tricks", "housekeeping"],
+    "interests": [
+      "Practicing magic tricks",
+      "housekeeping"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -8116,8 +9426,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -8177,7 +9491,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/halvin_623997.html"
+    "raw_source": "raw_extracts/characters/halvin_623997.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623989",
@@ -8188,7 +9514,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jonathan Fernandez",
-      "jp": "峰晃弘"
+      "jp": "\u5cf0\u6643\u5f18"
     },
     "birthday": "3/11",
     "likes": [
@@ -8199,7 +9525,10 @@
       "drinking with friends"
     ],
     "dislikes": [],
-    "interests": ["Tormenting the weak", "pillaging"],
+    "interests": [
+      "Tormenting the weak",
+      "pillaging"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -8254,8 +9583,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         }
       ],
       "combat_arts": [
@@ -8311,7 +9644,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Song of Courage",
@@ -8324,7 +9657,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/zarcone_623989.html"
+    "raw_source": "raw_extracts/characters/zarcone_623989.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623988",
@@ -8335,12 +9680,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Aleks Le",
-      "jp": "小野寺悠貴"
+      "jp": "\u5c0f\u91ce\u5bfa\u60a0\u8cb4"
     },
     "birthday": null,
-    "likes": ["Booze", "women", "fighting", "being strong"],
+    "likes": [
+      "Booze",
+      "women",
+      "fighting",
+      "being strong"
+    ],
     "dislikes": [],
-    "interests": ["Fighting with annoying people"],
+    "interests": [
+      "Fighting with annoying people"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -8399,8 +9751,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["TBD"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -8478,7 +9834,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/majide_623988.html"
+    "raw_source": "raw_extracts/characters/majide_623988.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623994",
@@ -8489,12 +9857,20 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jalen Askins",
-      "jp": "藤堂駿介"
+      "jp": "\u85e4\u5802\u99ff\u4ecb"
     },
     "birthday": null,
-    "likes": ["Thievery", "the open sea", "ships", "obedient underlings"],
+    "likes": [
+      "Thievery",
+      "the open sea",
+      "ships",
+      "obedient underlings"
+    ],
     "dislikes": [],
-    "interests": ["Riding on ships", "pirating"],
+    "interests": [
+      "Riding on ships",
+      "pirating"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -8557,8 +9933,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Thunder"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -8600,7 +9980,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/kiroc_623994.html"
+    "raw_source": "raw_extracts/characters/kiroc_623994.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623999",
@@ -8611,7 +10003,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Heather Gonzales",
-      "jp": "大久保藍子"
+      "jp": "\u5927\u4e45\u4fdd\u85cd\u5b50"
     },
     "birthday": null,
     "likes": [
@@ -8620,7 +10012,10 @@
       "trying to get rich"
     ],
     "dislikes": [],
-    "interests": ["Counting money", "managing her mercenary group"],
+    "interests": [
+      "Counting money",
+      "managing her mercenary group"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -8687,7 +10082,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -8802,7 +10199,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/jasmine_623999.html"
+    "raw_source": "raw_extracts/characters/jasmine_623999.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623987",
@@ -8813,12 +10222,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "George Peter",
-      "jp": "秋葉佑"
+      "jp": "\u79cb\u8449\u4f51"
     },
     "birthday": "4/12",
-    "likes": ["Tradition", "honor", "great power"],
+    "likes": [
+      "Tradition",
+      "honor",
+      "great power"
+    ],
     "dislikes": [],
-    "interests": ["Conversing with forest spirits"],
+    "interests": [
+      "Conversing with forest spirits"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -8868,7 +10283,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -8943,7 +10360,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Destreza",
@@ -8952,7 +10369,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Flash Blow",
@@ -8961,7 +10378,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Dex ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Dex \u00f7 2."
         },
         {
           "name": "Poison Harvest",
@@ -8974,7 +10391,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/nuzzuo_623987.html"
+    "raw_source": "raw_extracts/characters/nuzzuo_623987.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624001",
@@ -8985,7 +10414,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Ashely Biski",
-      "jp": "三輪夏紀"
+      "jp": "\u4e09\u8f2a\u590f\u7d00"
     },
     "birthday": "5/5",
     "likes": [
@@ -8995,7 +10424,10 @@
       "bow maintenance"
     ],
     "dislikes": [],
-    "interests": ["Archery training", "being frugal"],
+    "interests": [
+      "Archery training",
+      "being frugal"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9054,8 +10486,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["TBD"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -9088,7 +10524,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/inyoni_624001.html"
+    "raw_source": "raw_extracts/characters/inyoni_624001.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624389",
@@ -9099,12 +10547,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Willow Engel",
-      "jp": "岩澤俊樹"
+      "jp": "\u5ca9\u6fa4\u4fca\u6a39"
     },
     "birthday": null,
-    "likes": ["The green armor he received from the king", "beautiful women"],
+    "likes": [
+      "The green armor he received from the king",
+      "beautiful women"
+    ],
     "dislikes": [],
-    "interests": ["Researching military strategies", "enjoying the arts"],
+    "interests": [
+      "Researching military strategies",
+      "enjoying the arts"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9156,7 +10610,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -9199,7 +10655,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/creek_624389.html"
+    "raw_source": "raw_extracts/characters/creek_624389.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624390",
@@ -9210,12 +10678,17 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Matt Silver",
-      "jp": "金子誠"
+      "jp": "\u91d1\u5b50\u8aa0"
     },
     "birthday": null,
-    "likes": ["The red armor he received from the king", "being loyal"],
+    "likes": [
+      "The red armor he received from the king",
+      "being loyal"
+    ],
     "dislikes": [],
-    "interests": ["All forms of battle training"],
+    "interests": [
+      "All forms of battle training"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9271,7 +10744,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -9287,7 +10762,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/nathan_624390.html"
+    "raw_source": "raw_extracts/characters/nathan_624390.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624391",
@@ -9295,15 +10782,26 @@
     "slug": "bertrand",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624391",
     "faction": "Bertrand's Army",
-    "crest_bloodmark": ["Diadem of Duality", "Diadem of the Victor"],
+    "crest_bloodmark": [
+      "Diadem of Duality",
+      "Diadem of the Victor"
+    ],
     "voice_actors": {
       "en": "Christian Young",
-      "jp": "安元洋貴"
+      "jp": "\u5b89\u5143\u6d0b\u8cb4"
     },
     "birthday": null,
-    "likes": ["Smithing", "salted meats", "garum", "well-crafted weapons"],
+    "likes": [
+      "Smithing",
+      "salted meats",
+      "garum",
+      "well-crafted weapons"
+    ],
     "dislikes": [],
-    "interests": ["Playing board games", "reading"],
+    "interests": [
+      "Playing board games",
+      "reading"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9390,7 +10888,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -9451,7 +10951,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/bertrand_624391.html"
+    "raw_source": "raw_extracts/characters/bertrand_624391.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624392",
@@ -9459,10 +10971,12 @@
     "slug": "talimun",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624392",
     "faction": "Tale of the Moon",
-    "crest_bloodmark": ["Diadem of Duality"],
+    "crest_bloodmark": [
+      "Diadem of Duality"
+    ],
     "voice_actors": {
       "en": "Mauricio Ortiz-Segura",
-      "jp": "三木眞一郎"
+      "jp": "\u4e09\u6728\u771e\u4e00\u90ce"
     },
     "birthday": null,
     "likes": [
@@ -9473,7 +10987,10 @@
       "following his heart"
     ],
     "dislikes": [],
-    "interests": ["Making money", "going on perilous adventures"],
+    "interests": [
+      "Making money",
+      "going on perilous adventures"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9564,18 +11081,30 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Thunder"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -9590,7 +11119,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/talimun_624392.html"
+    "raw_source": "raw_extracts/characters/talimun_624392.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "623966",
@@ -9601,12 +11142,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Dawn M. Bennet",
-      "jp": "小笠原亜里沙"
+      "jp": "\u5c0f\u7b20\u539f\u4e9c\u91cc\u6c99"
     },
     "birthday": null,
-    "likes": ["Hexagram divination", "round objects"],
+    "likes": [
+      "Hexagram divination",
+      "round objects"
+    ],
     "dislikes": [],
-    "interests": ["Focusing her mind", "martial-arts training"],
+    "interests": [
+      "Focusing her mind",
+      "martial-arts training"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9712,23 +11259,42 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire", "Glass Wheel"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire",
+            "Glass Wheel"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["Thunder", "Wandering Wall", "Earth's Jaws"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Thunder",
+            "Wandering Wall",
+            "Earth's Jaws"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["Bolganone"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Bolganone"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["Thoron"],
-          "white_magic": ["TBD"]
+          "black_magic": [
+            "Thoron"
+          ],
+          "white_magic": [
+            "TBD"
+          ]
         }
       ],
       "combat_arts": [
@@ -9752,7 +11318,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/anatolia_623966.html"
+    "raw_source": "raw_extracts/characters/anatolia_623966.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624393",
@@ -9760,10 +11338,13 @@
     "slug": "orchel",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624393",
     "faction": "Linaria Dewdrops",
-    "crest_bloodmark": ["Diadem of Duality", "Diadem of the Apostle"],
+    "crest_bloodmark": [
+      "Diadem of Duality",
+      "Diadem of the Apostle"
+    ],
     "voice_actors": {
       "en": "Erin Yvette",
-      "jp": "本渡楓"
+      "jp": "\u672c\u6e21\u6953"
     },
     "birthday": null,
     "likes": [
@@ -9774,7 +11355,10 @@
       "cooking"
     ],
     "dislikes": [],
-    "interests": ["Caring for plants", "reading"],
+    "interests": [
+      "Caring for plants",
+      "reading"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9865,23 +11449,41 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["Fire"],
-          "white_magic": ["Heal"]
+          "black_magic": [
+            "Fire"
+          ],
+          "white_magic": [
+            "Heal"
+          ]
         },
         {
           "skill_level": "C",
-          "black_magic": ["TBD"],
-          "white_magic": ["Physic", "Seraphim"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Physic",
+            "Seraphim"
+          ]
         },
         {
           "skill_level": "B",
-          "black_magic": ["TBD"],
-          "white_magic": ["Starlight", "Recover"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Starlight",
+            "Recover"
+          ]
         },
         {
           "skill_level": "A",
-          "black_magic": ["TBD"],
-          "white_magic": ["Aura"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Aura"
+          ]
         }
       ],
       "combat_arts": [
@@ -9905,7 +11507,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/orchel_624393.html"
+    "raw_source": "raw_extracts/characters/orchel_624393.html",
+    "base_stats": {
+      "hp": 23,
+      "str": 17,
+      "mag": 11,
+      "spd": 4,
+      "dex": 4,
+      "def": 14,
+      "res": 15,
+      "lck": 6,
+      "cha": 13,
+      "movement": 4
+    }
   },
   {
     "id": "624394",
@@ -9916,12 +11530,18 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Justice Washington",
-      "jp": "武田幸史"
+      "jp": "\u6b66\u7530\u5e78\u53f2"
     },
     "birthday": null,
-    "likes": ["Serving Aurora's temple", "patrolling"],
+    "likes": [
+      "Serving Aurora's temple",
+      "patrolling"
+    ],
     "dislikes": [],
-    "interests": ["Playing board games", "classroom study"],
+    "interests": [
+      "Playing board games",
+      "classroom study"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -9960,7 +11580,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -10026,7 +11648,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Str ÷ 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Str \u00f7 2."
         },
         {
           "name": "Lend Defense",
@@ -10039,7 +11661,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/centurio_624394.html"
+    "raw_source": "raw_extracts/characters/centurio_624394.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "624395",
@@ -10047,15 +11681,25 @@
     "slug": "aswan",
     "url": "https://game8.co/games/Fire-Emblem-Fortunes-Weave/archives/624395",
     "faction": "Neutral",
-    "crest_bloodmark": ["Diadem of the Earth"],
+    "crest_bloodmark": [
+      "Diadem of the Earth"
+    ],
     "voice_actors": {
       "en": "AmaLee",
-      "jp": "松村夏紀"
+      "jp": "\u677e\u6751\u590f\u7d00"
     },
     "birthday": null,
-    "likes": ["Dante's plays", "board games", "sewing", "beautiful landscapes"],
+    "likes": [
+      "Dante's plays",
+      "board games",
+      "sewing",
+      "beautiful landscapes"
+    ],
     "dislikes": [],
-    "interests": ["Classroom study", "archery training"],
+    "interests": [
+      "Classroom study",
+      "archery training"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -10094,7 +11738,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -10146,7 +11792,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/aswan_624395.html"
+    "raw_source": "raw_extracts/characters/aswan_624395.html",
+    "base_stats": {
+      "hp": 40,
+      "str": 21,
+      "mag": 11,
+      "dex": 29,
+      "spd": 23,
+      "lck": 20,
+      "def": 20,
+      "res": 13,
+      "cha": 8,
+      "movement": 4
+    }
   },
   {
     "id": "624396",
@@ -10157,12 +11815,19 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Carlette Odemwingie",
-      "jp": "石田嘉代"
+      "jp": "\u77f3\u7530\u5609\u4ee3"
     },
     "birthday": null,
-    "likes": ["Reading", "sewing", "training"],
+    "likes": [
+      "Reading",
+      "sewing",
+      "training"
+    ],
     "dislikes": [],
-    "interests": ["Python Technique fighting", "attending to Aswan"],
+    "interests": [
+      "Python Technique fighting",
+      "attending to Aswan"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -10198,7 +11863,9 @@
       "magic_spells": [
         {
           "skill_level": "We're currently gathering info for this character.",
-          "black_magic": ["We're currently gathering info for this character."],
+          "black_magic": [
+            "We're currently gathering info for this character."
+          ],
           "white_magic": []
         }
       ],
@@ -10268,7 +11935,19 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/tahonia_624396.html"
+    "raw_source": "raw_extracts/characters/tahonia_624396.html",
+    "base_stats": {
+      "hp": 26,
+      "str": 8,
+      "mag": 6,
+      "dex": 7,
+      "spd": 7,
+      "lck": 6,
+      "def": 6,
+      "res": 5,
+      "cha": 6,
+      "movement": 4
+    }
   },
   {
     "id": "625576",
@@ -10282,9 +11961,13 @@
       "jp": "TBD"
     },
     "birthday": null,
-    "likes": ["Info currently unavailable"],
+    "likes": [
+      "Info currently unavailable"
+    ],
     "dislikes": [],
-    "interests": ["Info currently unavailable"],
+    "interests": [
+      "Info currently unavailable"
+    ],
     "unique_exploration_talent": null,
     "recruitment": {
       "cai": {
@@ -10323,8 +12006,12 @@
       "magic_spells": [
         {
           "skill_level": "D",
-          "black_magic": ["TBD"],
-          "white_magic": ["Laia"]
+          "black_magic": [
+            "TBD"
+          ],
+          "white_magic": [
+            "Laia"
+          ]
         }
       ],
       "combat_arts": [
@@ -10348,6 +12035,18 @@
         }
       ]
     },
-    "raw_source": "raw_extracts/characters/klapka_625576.html"
+    "raw_source": "raw_extracts/characters/klapka_625576.html",
+    "base_stats": {
+      "movement": 5,
+      "hp": 60,
+      "str": 38,
+      "mag": 6,
+      "spd": 19,
+      "dex": 35,
+      "def": 50,
+      "res": 20,
+      "lck": 19,
+      "cha": 25
+    }
   }
 ]

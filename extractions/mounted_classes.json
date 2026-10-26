@@ -1,0 +1,142 @@
+[
+  {
+    "class_id": "ornius_rider",
+    "class_name": "Ornius Rider",
+    "tier": "Beginner",
+    "movement_type": "Cavalry",
+    "mount_type": "Ornius"
+  },
+  {
+    "class_id": "armored_ornius_rider",
+    "class_name": "Armored Ornius Rider",
+    "tier": "Specialty",
+    "movement_type": "Cavalry",
+    "mount_type": "Ornius"
+  },
+  {
+    "class_id": "light_cavalry",
+    "class_name": "Light Cavalry",
+    "tier": "Specialty",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "charioteer",
+    "class_name": "Charioteer",
+    "tier": "Specialty",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "wing_soldier",
+    "class_name": "Wing Soldier",
+    "tier": "Specialty",
+    "movement_type": "Flier",
+    "mount_type": "Pegasus"
+  },
+  {
+    "class_id": "bardinger",
+    "class_name": "Bardinger",
+    "tier": "Advanced",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "caladrius",
+    "class_name": "Caladrius",
+    "tier": "Advanced",
+    "movement_type": "Cavalry",
+    "mount_type": "Ornius"
+  },
+  {
+    "class_id": "cataphract",
+    "class_name": "Cataphract",
+    "tier": "Advanced",
+    "movement_type": "Cavalry, Heavy Armor",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "dragoon",
+    "class_name": "Dragoon",
+    "tier": "Advanced",
+    "movement_type": "Flier",
+    "mount_type": "Bau"
+  },
+  {
+    "class_id": "elephant_rider",
+    "class_name": "Elephant Rider",
+    "tier": "Advanced",
+    "movement_type": "Cavalry",
+    "mount_type": "Elephant"
+  },
+  {
+    "class_id": "forest_knight",
+    "class_name": "Forest Knight",
+    "tier": "Advanced",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "troubadour",
+    "class_name": "Troubadour",
+    "tier": "Advanced",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "bau_lord",
+    "class_name": "Bau Lord",
+    "tier": "Master",
+    "movement_type": "Flier",
+    "mount_type": "Bau"
+  },
+  {
+    "class_id": "bow_knight",
+    "class_name": "Bow Knight",
+    "tier": "Master",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "celestial_trooper",
+    "class_name": "Celestial Trooper",
+    "tier": "Master",
+    "movement_type": "Flier",
+    "mount_type": "Pegasus"
+  },
+  {
+    "class_id": "great_knight",
+    "class_name": "Great Knight",
+    "tier": "Master",
+    "movement_type": "Cavalry, Heavy Armor",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "high_savant",
+    "class_name": "High Savant",
+    "tier": "Master",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "orichaldia",
+    "class_name": "Orichaldia",
+    "tier": "Master",
+    "movement_type": "Cavalry",
+    "mount_type": "Ornius"
+  },
+  {
+    "class_id": "valkyrium",
+    "class_name": "Valkyrium",
+    "tier": "Master",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  },
+  {
+    "class_id": "the_cavalier",
+    "class_name": "The Cavalier",
+    "tier": "Divine",
+    "movement_type": "Cavalry",
+    "mount_type": "Horse"
+  }
+]

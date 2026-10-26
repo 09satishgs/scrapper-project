@@ -3,7 +3,9 @@
     "character_id": "623869",
     "name": "Eshmel",
     "overall_tier": "Lord Tier",
-    "strengths": [],
+    "strengths": [
+      "Good growths in Strength (45%), Dexterity (45%), and Speed (45%), which makes them a strong and accurate unit that doubles foes often."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -22,7 +24,11 @@
     "character_id": "624012",
     "name": "Hong Hua",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good growths in Magic (45%), Skill (45%), and Speed (45%), making her a strong and accurate magic unit that doubles often.",
+      "Can be easily trained as an Ovate due to her Black Magic proficiency.",
+      "Her Personal Ability increases her Hit when Magic is equipped."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -68,7 +74,11 @@
     "character_id": "624013",
     "name": "Troy",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Good growths in Strength (45%), Magic (45%), and Dexterity (50%), which allows her to become a versatile attacker.",
+      "Can be easily trained as a War Monk due to her Black Magic, White Magic, and Brawling proficiencies.",
+      "Can increase Hit when using Gauntlets thanks to her Personal Ability,"
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -112,7 +122,12 @@
     "character_id": "620167",
     "name": "Cai",
     "overall_tier": "Lord Tier",
-    "strengths": [],
+    "strengths": [
+      "Great growths in Strength (45%), Dexterity (45%), and Speed (45%), resulting in a good balance of firepower, accuracy, and follow-up attacks.",
+      "Profciencies in Mounts and Spears is great for Orichaldia and The Cavalier.",
+      "Personal skill Brio, grants Movement +1, which synergizes well with his proficiency in Mounts.",
+      "Can also be built with a focus on Mag with skills like Nosferatu, Thoron, and Bolganone"
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Ornius Rider",
@@ -201,7 +216,11 @@
     "character_id": "620168",
     "name": "Dietrich",
     "overall_tier": "Lord Tier",
-    "strengths": [],
+    "strengths": [
+      "Great growths in Speed (50%), Dexterity (60%), and Luck (50%) making him a reliable dodge tank with accurate attacks.",
+      "Easy to develop as a Shido due to his proficiencies in Swords and Infantry.",
+      "His Personal Ability, Murderous Intent, grants him +5 Crit when he attacks first."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Gladiator",
@@ -284,7 +303,11 @@
     "character_id": "620411",
     "name": "Theodora",
     "overall_tier": "Lord Tier",
-    "strengths": [],
+    "strengths": [
+      "Great growths in HP (70% and Defense (40%), making it easy for her to act as a tank in the front lines.",
+      "Easy to develop as a Bardinger due to her proficiencies in Spears and Authority.",
+      "Her Personal Ability, Royal Resolve, has a 30% chance of halving the damage that she takes."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Gladiator",
@@ -370,7 +393,11 @@
     "character_id": "620437",
     "name": "Leda",
     "overall_tier": "Lord Tier",
-    "strengths": [],
+    "strengths": [
+      "Great growth in Speed (65%), which makes it easy for her to avoid and double attack foes.",
+      "Can be easily trained as a Sniper due to her Bow proficiency.",
+      "Her personal skill can nullify counterattacks."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Hunter",
@@ -453,7 +480,12 @@
     "character_id": "623941",
     "name": "Tialla",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Great growths in Luck (50%), Charm (45%), and Magic (45%), making it easy to balance healing and support.",
+      "Learns Physic pretty early at at White Magic Rank C",
+      "Levelling Authority gives her Lend Strength, Defense, and Magic, which are great Rally skills that complement her Personal Skill.",
+      "Very much built towards the Bishop line, but since she's a starting character in Cai's Route, she can be a decent Troubadour down the line."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Diviner",
@@ -527,7 +559,11 @@
     "character_id": "624004",
     "name": "Peter",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Good Dexterity (60%) growths, making it easy to land accurate and critical attacks.",
+      "Easy to train as a Sniper due to his proficiencies in Bows and Infantry.",
+      "His personal skill gives him additional range when using Bow Combat Arts."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -548,7 +584,11 @@
     "character_id": "624007",
     "name": "Ultand",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Good growth rates in Magic (40%) and Resistance (45%) making it easy to increase healing amount.",
+      "Easy to train as a Bishop with white magic as the main focus, making use of her proficiency in spear fighting and white magic.",
+      "Personal ability Patch Up restores a small amount of HP to adjacent allies after combat."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -568,7 +608,11 @@
     "character_id": "623964",
     "name": "Fabio",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Magic growth (50%), making it easy to increase magic attacks.",
+      "Easy to train with Black Magic as the main focus, making use of his proficiency in Black Magic and Command.",
+      "Personal Ability Dark Calling reduces the evasion of adjacent enemies by 5."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Diviner",
@@ -663,7 +707,11 @@
     "character_id": "624005",
     "name": "Esmeralda",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Good HP (55%) and Defense (45%) growths, making it easy for her to act as a tank in the front lines.",
+      "She is easy to train as a Dreadnought due to her proficiencies in Spears, Axes, and Heavy Armor.",
+      "Her Personal Ability, Brawn, reduces the weight of her weapons and accessories."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -683,7 +731,11 @@
     "character_id": "624008",
     "name": "Mikaela",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high growths in Strength (45%), making it easy to increase the power of axe attacks.",
+      "Easy to develop as a Warrior with axe skills as the main focus, making use of her proficiency in axe, archery, and infantry.",
+      "Personal Ability Veteran's Mettle has a Hit rate of +10 when fighting adjacent enemies."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -703,7 +755,11 @@
     "character_id": "623614",
     "name": "Bonaventure",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Great growths in Magic (45%), Dexterity (50%), and Speed (40%), making him a precise and fast offensive magic user.",
+      "Easy to train as an Ovate due to his proficiency in Black Magic.",
+      "Can boost the Skill of adjacent allies with his Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -723,7 +779,11 @@
     "character_id": "623758",
     "name": "Tobias",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Geat growths in Strength (60%), making it easy to increase the power of a single hit.",
+      "Easy to train as a Warrior with focus on Axe, taking advantage of his proficiency in Axe and Riding.",
+      "Personal Ability Power Arts increases attack power to +3 when attacking with a combat art."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -743,7 +803,11 @@
     "character_id": "624009",
     "name": "Lilian",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has a high Dexterity Growth Rate (55%), making it easy for her to land accurate and critical attacks.",
+      "Easy to train as a Sniper due to her Bow and Infantry proficiencies.",
+      "Can increase her hit rate against enemies who cannot counterattack with her Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -763,7 +827,11 @@
     "character_id": "624002",
     "name": "Lysander",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "High Speed (50%) growth makes it easy to aim for follow-up attacks.",
+      "Easy to train with Bardinger as the main focus, making use of his proficiency in Spear, Axe, and Riding.",
+      "Personal Ability Racing Attack increases Avoid to +15 when going first in combat."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -783,7 +851,11 @@
     "character_id": "624003",
     "name": "Buccar",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "HP (50%) and Defense (45%) increase steadily, making it easy to withstand attacks on the front lines.",
+      "Easy to train with Spear or Axe as the main focus, making use of his proficiency while wearing heavy armor.",
+      "Personal Ability Guardian's Duty reduces damage taken by 90% when attacked."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -804,7 +876,11 @@
     "character_id": "624006",
     "name": "Sirocco",
     "overall_tier": "S Tier",
-    "strengths": [],
+    "strengths": [
+      "Magic Power (40%), Skill (50%), and Speed (45%) are well-balanced, making it easy to stabilize magic attacks.",
+      "Easy to train as a black magic specialist Ovate, making use of his proficiency in Swords, Black Magic, and White Magic.",
+      "Personal Ability Goddess's Favor recovers 5 HP after battle."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -824,7 +900,9 @@
     "character_id": "624011",
     "name": "Olympia",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has a high Magic Growth Rate (65%), making it easy to increase her magical firepower."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -845,7 +923,10 @@
     "character_id": "624010",
     "name": "Mu",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Gets boosted Growth Rates due to her Personal Ability, allowing her to have good Strength, Dexterity, Speed, HP, and Defense.",
+      "Easy to train as a Warrior due to her proficiencies in Brawling, Swords, and Axes."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -866,7 +947,11 @@
     "character_id": "624014",
     "name": "Gaitz",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "HP (50%) and Defense (45%) increase steadily, making it easy to withstand attacks on the front lines.",
+      "Easy to train with Spear or Axe as the main focus, taking advantage of his weapon skills and Riding.",
+      "Personal Ability Brave Assist increases the Defense of adjacent allies by +3."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -899,7 +984,11 @@
     "character_id": "624015",
     "name": "Ursula",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Luck (40%) and Charm (45%) are easy to increase, making her good as a support character.",
+      "Easy to train as a Sniper with Bow as the main skill, making use of her proficiency in Swords and Bows.",
+      "Personal Ability Management Skills grants the capability to use items from the Inventory on allies within 2 spaces, including herself."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -920,7 +1009,11 @@
     "character_id": "624019",
     "name": "Simon",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "High Strength (50%) makes it easy to increase the power of Axe attacks.",
+      "Easy to train as a Warrior with Axe as main, making use of his skills in Swords, Axes, and Infantry.",
+      "Personal Ability Close Call activates with a Luck % chance when his HP is greater than 2 and receives damage that would otherwise reduce his HP to 0, leaving him with 1 HP."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -940,7 +1033,11 @@
     "character_id": "624016",
     "name": "Diego",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Speed (45%), Dexterity (60%), and Luck (35%) growths, which makes him a good dodge tank that can land accurate hits.",
+      "Easy to train as a Shido due to his Sword proficiency.",
+      "Can prevent adjacent allies from being doubled with his Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -961,7 +1058,11 @@
     "character_id": "623990",
     "name": "Ninae",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has decent Magic (35%) and Resistance (45%) growths, which can make her an effective healer and magic tank.",
+      "Easy to train as a Bishop due to her proficiency in White Magic.",
+      "Her Personal Ability raises her Hit and Avoid when fighting a magic user."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -982,7 +1083,11 @@
     "character_id": "624017",
     "name": "Sha Lan",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "High growths of Magic (45%) and Resistance (45%) makes it easy to increase healing amount.",
+      "Easy to train as a Bishop with White Magic as the main focus, making use of his proficiency in Spear, White Magic, and Authority.",
+      "Personal Ability Cooler Heads grants the capability to use support magic after using Draw Back."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1002,7 +1107,11 @@
     "character_id": "623977",
     "name": "Nezha",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Speed (45%), Dexterity (50%), and Luck (30%) growths, making him an accurate attacker that can serve as a dodge tank.",
+      "Easy to train as a Shido due to his proficiencies in Swords and Infantry.",
+      "His Personal Ability can give him +3 Attack when moving first."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1023,7 +1132,11 @@
     "character_id": "623978",
     "name": "Guzran",
     "overall_tier": "S Tier",
-    "strengths": [],
+    "strengths": [
+      "High growths in Speed (50%), skill by 45, and luck by 45, making it easy to secure accuracy and evasion.",
+      "Easy to train as Shido with Swords as the main focus, making use of his skills in Sword, Brawling, and Infantry.",
+      "Personal Ability Hot-Headed increases one of the following either Hit rate, Avoid, or Critical Hit by 10 during combat."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1044,7 +1157,11 @@
     "character_id": "623980",
     "name": "Io",
     "overall_tier": "D Tier",
-    "strengths": [],
+    "strengths": [
+      "Has decent Speed (35%), Dexterity (45%), and Luck (35%) growths, making him an accurate and evasive unit.",
+      "Can easily be trained as a Bardinger due to his proficiency in Riding, Spears. and Axes.",
+      "His Personal Ability can increase his Defense and Dodge when attacking first."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1064,7 +1181,11 @@
     "character_id": "623981",
     "name": "Catania",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Speed (55%), Dexterity (50%), and Luck (40%) growths, making her an accurate and evasive unit.",
+      "Can easily be trained as a Shido due to her proficiency in Swords.",
+      "Can increase Hit when her Attack Speed is at least 3 points higher than her foe's with her Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1084,7 +1205,11 @@
     "character_id": "623979",
     "name": "Nydine",
     "overall_tier": "D Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Speed (45%), Strength (40%), and Dexterity (40%) growths, making her a good mounted physical attacker.",
+      "Proficient in Axe, Riding, and Flying, making it easy to promote her to Bardinger.",
+      "Personal Ability Barge Through allows her to move through enemy squares when mounted."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1104,7 +1229,11 @@
     "character_id": "623982",
     "name": "Benditz",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Dexterity (50%) growths, which makes it easy for him to have high-accuracy bow attacks.",
+      "Proficient in Bows and Riding, which makes it easy to promote from Charioteer to Forest Knight.",
+      "As a Charioteer, his personal ability, Wheeled Warrior, grants a +20 accuracy bonus."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1123,7 +1252,11 @@
     "character_id": "623983",
     "name": "Alexandra",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Speed (55%), Dexterity (45%), and Luck (50%) growths, allowing her to be a capable dodge tank that lands accurate attacks.",
+      "Can be easily trained as a Shido due to her proficiency in Swords.",
+      "Can increase her Hit and Dodge when she has adjacent allies with her Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1143,7 +1276,9 @@
     "character_id": "623985",
     "name": "Yang Jie",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Excels at White Magic and can be used as a healer."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Diviner",
@@ -1220,7 +1355,9 @@
     "character_id": "623984",
     "name": "Noctula",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Excels in Axes and Brawling, so it's easy to train her to be a Warrior."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Gladiator",
@@ -1295,7 +1432,11 @@
     "character_id": "623986",
     "name": "Sofia",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Magic (45%) and Resistance (40%) growths, allowing her to be a good healer that can tank magic attacks decently well.",
+      "Is easy to train as a Bishop due to her proficiency in White Magic.",
+      "Her Personal Ability increases the amount of HP she can heal for her allies."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Diviner",
@@ -1372,7 +1513,11 @@
     "character_id": "624000",
     "name": "Peppe",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Speed growths (60%), allowing him to double opponents often.",
+      "Can be easily trained as a Sniper due to his proficiencies in Bows and Infantry.",
+      "His Personal Ability can allow him to move first when attacked during Enemy Phase."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1392,7 +1537,11 @@
     "character_id": "623993",
     "name": "Seteth",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Speed (40%), Dexterity (45%), and Luck (30%), making him a speedy attacker that can often dodge attacks.",
+      "Can easily be trained as a Dragoon due to his proficiencies in Spears, Axes, and Authority.",
+      "With his Personal Ability, he can attack before the enemy that first engages with him during the Enemy Phase."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1412,7 +1561,11 @@
     "character_id": "623996",
     "name": "Loretta",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has decent Speed (55%), Dexterity (40%), and Luck (30%) growths, which can make her a good dodge tank that can land accurate attacks.",
+      "Easy to train as a Shido due to her proficiency in Swords.",
+      "Her Personal Ability increases her Dodge when she has more than half of her max HP."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1432,7 +1585,11 @@
     "character_id": "623991",
     "name": "Jester",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Has a high Speed growth (60%), allowing him to double opponents easily.",
+      "Can easily be trained as a Sniper due to his proficiency in Bows and Infantry.",
+      "Can increase Defense after using Swap thanks to his Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1453,7 +1610,11 @@
     "character_id": "623976",
     "name": "Goliath",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high HP (55%) and Defense (50%) growths, allowing him to tank hits easily.",
+      "Is easy to build as an Dreadnought due to his proficiency in Axes and Heavy Armor.",
+      "Has increased Build due to his Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1473,7 +1634,11 @@
     "character_id": "623992",
     "name": "Ludia",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Speed (55%), Dexterity (45%), and Luck (30%) growths, making her a speedy and accurate attacker that can dodge hits easily.",
+      "Can easily be trained as a Shido due to her proficiencies in Swords and Infantry.",
+      "Her Personal Skill allows her to get +3 Attack Speed when attacking first."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1493,7 +1658,11 @@
     "character_id": "623998",
     "name": "Dadao",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Has decend HP (50%) and Defense (45%) growths, allowing him to become an effective tank.",
+      "Easy to train him as a Dreadnought due to his proficiencies in Axes and Heavy Armor.",
+      "With his Personal Ability, he can increase his attack when neither him nor his foe can double."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1513,7 +1682,11 @@
     "character_id": "623995",
     "name": "Fianna",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good growths in Magic (55%) and Resistance (45%), which gives her great healing and magic tanking capabilities.",
+      "Easy to train as a Bishop due to her proficiencies in White Magic and Black Magic.",
+      "Her Personal Ability has the chance of not consuming any uses for her healing magic."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1533,7 +1706,11 @@
     "character_id": "623997",
     "name": "Halvin",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Speed (45%), Dexterity (60%), and Luck (40%) growths, making her a speedy and accurate attacker that can dodge many attacks.",
+      "Can easily be built as a Forest Knight due to her proficiencies in Bows and Riding.",
+      "With her Personal Ability, she can increase her Hit after every combat interaction, which lasts until the end of the map."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1553,7 +1730,11 @@
     "character_id": "623989",
     "name": "Zarcone",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Dexterity (60%), making it easier to hit with an Axe.",
+      "Has proficiency in Axes, which makes it easy to promote from Brigand to Warrior.",
+      "Can combine the Warrior's Axe Hit +5 ability with his personal skill, Hatchet Man, which provides Hit +10."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1573,7 +1754,9 @@
     "character_id": "623988",
     "name": "Majide",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Has a high Strength growth (50%) that can allow him to hit hard."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Gladiator",
@@ -1648,7 +1831,11 @@
     "character_id": "623994",
     "name": "Kiroc",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Strength (40%), Dexterity (50%), and Speed (55%), making him a speedy attacker that can often dodge attacks.",
+      "It is easy to train him as a Sniper due to his proficiency in Bows.",
+      "His Personal Ability increases his Attack and Hit against enemies with status conditions."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1668,7 +1855,9 @@
     "character_id": "623999",
     "name": "Jasmine",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Proficient in Spear, Axe, and Heavy Armor skills, which makes her easy to train for armored classes."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1688,7 +1877,11 @@
     "character_id": "623987",
     "name": "Nuzzuo",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good Strength (50%), Dexterity (45%), and Speed (55%) growths, which allows him to be a balanced offensive unit that can double and dodge easily.",
+      "Is easy to train as a Sniper due to his proficiency in Bows.",
+      "Can increase his attack when dealing Effective Damage with his Personal Ability."
+    ],
     "best_classes": {
       "beginner": {
         "class_name": "Hunter",
@@ -1774,7 +1967,10 @@
     "character_id": "624001",
     "name": "Inyoni",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Strength growths (50%) and a personal skill that increases her attack power with bows, which may allow her to hit harder.",
+      "Proficient in Bows, so she can easily train to be a Sniper."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1795,7 +1991,13 @@
     "character_id": "624389",
     "name": "Creek",
     "overall_tier": "A Tier",
-    "strengths": [],
+    "strengths": [
+      "Wants to be a dodge tank with growths in Spd (60%) Skl (50%), and Lck (30%).",
+      "Works best as an Orichaldia by utilizing his boons in Swords and Riding",
+      "Orichaldia has a growth bonus of +5 to Skl and +5 Lck.",
+      "Personal skill “Calm and Collected”",
+      "His Personal skill rewards a defensive playstyle since he wants to go second."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1814,7 +2016,12 @@
     "character_id": "624390",
     "name": "Nathan",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Decently balanced growths in HP(55%), Def (45%), and Res (15%).",
+      "It can easily progress to a Great Knight by utilizing its proficiency in Spears, Riding, and Heavy Armor.",
+      "Great Knights have growth bonuses of +20 HP, +20 Str, and +15 Def",
+      "His Personal skill rewards an aggressive playstyle since he wants to go first."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1832,7 +2039,10 @@
     "character_id": "624391",
     "name": "Bertrand",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Strength (55%), Dexterity (50%), and Speed (45%) growths, which allows him to be a strong and accurate unit that doubles frequently.",
+      "Easy to train as a Warrior due to his Axe and Brawling proficiencies."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1895,7 +2105,11 @@
     "character_id": "624392",
     "name": "Talimun",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has balanced Magic (45%), Dexterity (45%), and Speed (40%) growths, making him a good offensive magic user.",
+      "Easy to train as an Ovate due to his Black Magic proficiency.",
+      "His Personal Ability increases his Luck, making him less prone to Critical Hits."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1941,7 +2155,11 @@
     "character_id": "623966",
     "name": "Anatolia",
     "overall_tier": "A+ Tier",
-    "strengths": [],
+    "strengths": [
+      "Has high Magic (50%) growths, making her a good offense-oriented magic unit.",
+      "Can easily be trained as an Ovate due to her Black Magic proficiency.",
+      "Her Personal Ability raises her Dodge."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1960,7 +2178,10 @@
     "character_id": "624393",
     "name": "Orchel",
     "overall_tier": "S Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good HP (30%) and Defense (60%) growths, making her a solid tank.",
+      "Boosts her Defense with her Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -1977,7 +2198,11 @@
     "character_id": "624394",
     "name": "Centurio",
     "overall_tier": "B Tier",
-    "strengths": [],
+    "strengths": [
+      "Has good HP (45%) and Defense (50%) growths, which allows him to tank hits easily.",
+      "Can easily be trained as a Dreadnought due to his proficiencies in Spears, Axes, and Heavy Armor.",
+      "Can halve damage from the first attack taken in Enemy Phase with his Personal Ability."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -2020,7 +2245,11 @@
     "character_id": "624395",
     "name": "Aswan",
     "overall_tier": "C Tier",
-    "strengths": [],
+    "strengths": [
+      "Balanced growth ins Strength (35%), Skill (50%), and Speed (40%), can usuall make follow-ups.",
+      "Best reclassed into a Bow Adept by utilizing her proficiency in Bows and Infantry. Class gives +20 in Speed, +15 in Skill, and +5 in Strength.",
+      "Personal skill gives her Hit +20 when equipped with a bow."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -2038,7 +2267,11 @@
     "character_id": "624396",
     "name": "Tahonia",
     "overall_tier": "D Tier",
-    "strengths": [],
+    "strengths": [
+      "Amazing growths in Str (50%) and Skl (40%), offensive capabilities can be easily supplemented with personal skills and class bonuses.",
+      "Best used as a Battle Master by utilizing his proficiency in Gauntlets, the class gives him more bonuses to Str (+25) and Skl (+5).",
+      "Personal skillhas a 15% chance when using gauntlet Combat Arts. Allows for a follow-up attack regardless of attack speed."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
@@ -2055,7 +2288,11 @@
     "character_id": "625576",
     "name": "Klapka",
     "overall_tier": "D Tier",
-    "strengths": [],
+    "strengths": [
+      "With a decent Growth rate in Defense (50%) and Skill (45%), he can easily withstand physical attacks and counterattack.",
+      "His personal ability gives him up to +10 defense until the end of the map, making him tougher the more he fights.",
+      "He excels at lances and white magic."
+    ],
     "best_classes": {
       "beginner": null,
       "specialty": null,
