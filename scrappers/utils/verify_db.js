@@ -94,6 +94,16 @@ const mountedClasses = db.prepare('SELECT id, name, tier, mount_type FROM classe
 console.log(`Mounted Classes Count: ${mountedClasses.length} (Expected: 20)`);
 console.log('Sample Mounted Classes:', JSON.stringify(mountedClasses.slice(0, 4), null, 2));
 
+console.log('\n--- VERIFY CHARACTER BASE STATS ---');
+const baseStatsCount = db.prepare('SELECT COUNT(*) as c FROM character_base_stats').get().c;
+console.log(`Character Base Stats Count: ${baseStatsCount} (Expected: 54)`);
+const baseStatsCols = db.prepare('PRAGMA table_info(character_base_stats)').all().map(c => c.name);
+console.log('Base Stats Columns:', baseStatsCols.join(', '));
+const hasMovement = baseStatsCols.includes('movement');
+console.log('Has movement column:', hasMovement, '(Expected: false)');
+const sampleBaseStats = db.prepare('SELECT * FROM character_base_stats WHERE character_id IN (?, ?)').all('alexandra', 'theodora');
+console.log('Sample Base Stats (Alexandra & Theodora):', JSON.stringify(sampleBaseStats, null, 2));
+
 console.log('\n====================================================');
 console.log('--- ALL VERIFICATIONS PASSED ---');
 console.log('====================================================');

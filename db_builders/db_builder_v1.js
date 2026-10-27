@@ -208,6 +208,7 @@ export async function buildDatabase() {
   const mechanicsData = JSON.parse(fs.readFileSync('extractions/mechanics.json', 'utf-8'));
   const mountsData = JSON.parse(fs.readFileSync('extractions/mounts.json', 'utf-8'));
   const mountedClassesData = JSON.parse(fs.readFileSync('extractions/mounted_classes.json', 'utf-8'));
+  const characterBaseStatsData = JSON.parse(fs.readFileSync('extractions/character_base_stats.json', 'utf-8'));
 
   // Pre-build identifier maps
   const classMountTypeMap = new Map();
@@ -586,21 +587,20 @@ export async function buildDatabase() {
   // --------------------------------------------------------------------------
   // Table 8: character_base_stats
   // --------------------------------------------------------------------------
-  console.log(`[Populating] character_base_stats (${charactersData.length} records)...`);
-  for (const c of charactersData) {
-    const bs = c.base_stats || {};
+  console.log(`[Populating] character_base_stats (${characterBaseStatsData.length} records)...`);
+  for (const item of characterBaseStatsData) {
+    const bs = item.base_stats;
     runInsert('character_base_stats', {
-      character_id: c.slug,
-      hp: parseStat(bs.hp),
-      str: parseStat(bs.str),
-      mag: parseStat(bs.mag),
-      dex: parseStat(bs.dex),
-      spd: parseStat(bs.spd),
-      lck: parseStat(bs.lck),
-      def: parseStat(bs.def),
-      res: parseStat(bs.res),
-      cha: parseStat(bs.cha),
-      movement: parseStat(bs.movement || 4)
+      character_id: item.slug,
+      hp: bs.hp,
+      str: bs.str,
+      mag: bs.mag,
+      dex: bs.dex,
+      spd: bs.spd,
+      lck: bs.lck,
+      def: bs.def,
+      res: bs.res,
+      cha: bs.cha
     });
   }
 

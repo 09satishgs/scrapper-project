@@ -152,8 +152,7 @@ CREATE TABLE character_base_stats (
     lck INTEGER NOT NULL,
     def INTEGER NOT NULL,
     res INTEGER NOT NULL,
-    cha INTEGER NOT NULL,
-    movement INTEGER DEFAULT 4
+    cha INTEGER NOT NULL
 );
 
 -- ============================================================================

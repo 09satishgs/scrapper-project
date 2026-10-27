@@ -10,7 +10,7 @@
     ],
     "voice_actors": {
       "en": "Virginia Lee / Joshua Waters",
-      "jp": "\u677e\u5ca1\u798e\u4e1e\uff0f\u4e95\u4e0a\u9ebb\u91cc\u5948"
+      "jp": "松岡禎丞／井上麻里奈"
     },
     "birthday": null,
     "likes": [
@@ -180,7 +180,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex \u00f7 2"
+          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex ÷ 2"
         },
         {
           "name": "Wrath Strike",
@@ -198,23 +198,12 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Dex \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Dex ÷ 2."
         }
       ]
     },
     "raw_source": "raw_extracts/characters/eshmel_623869.html",
-    "base_stats": {
-      "movement": 4,
-      "hp": 50,
-      "str": 33,
-      "mag": 24,
-      "spd": 26,
-      "dex": 28,
-      "def": 23,
-      "res": 19,
-      "lck": 25,
-      "cha": 29
-    }
+    "base_stats": null
   },
   {
     "id": "624012",
@@ -225,7 +214,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jennifer Sun Bell",
-      "jp": "\u5927\u6d25\u611b\u7406"
+      "jp": "大津愛理"
     },
     "birthday": null,
     "likes": [
@@ -331,18 +320,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/hong_hua_624012.html",
-    "base_stats": {
-      "movement": 4,
-      "hp": 45,
-      "str": 15,
-      "mag": 34,
-      "spd": 26,
-      "dex": 30,
-      "def": 21,
-      "res": 30,
-      "lck": 18,
-      "cha": 23
-    }
+    "base_stats": null
   },
   {
     "id": "624013",
@@ -353,7 +331,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Monique Burias Shi",
-      "jp": "\u4ef2\u6751\u304b\u304a\u308a"
+      "jp": "仲村かおり"
     },
     "birthday": null,
     "likes": [
@@ -480,18 +458,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/troy_624013.html",
-    "base_stats": {
-      "movement": 4,
-      "hp": 52,
-      "str": 31,
-      "mag": 32,
-      "spd": 33,
-      "dex": 28,
-      "def": 23,
-      "res": 28,
-      "lck": 24,
-      "cha": 21
-    }
+    "base_stats": null
   },
   {
     "id": "620167",
@@ -505,7 +472,7 @@
     ],
     "voice_actors": {
       "en": "Zeno Robinson",
-      "jp": "\u5c71\u4e0b\u5927\u8f1d"
+      "jp": "山下大輝"
     },
     "birthday": null,
     "likes": [
@@ -831,13 +798,12 @@
       "hp": 27,
       "str": 10,
       "mag": 7,
-      "spd": 8,
       "dex": 8,
+      "spd": 8,
+      "lck": 6,
       "def": 6,
       "res": 5,
-      "lck": 6,
-      "cha": 5,
-      "movement": 4
+      "cha": 5
     }
   },
   {
@@ -851,7 +817,7 @@
     ],
     "voice_actors": {
       "en": "Xander Mobus",
-      "jp": "\u65e5\u91ce\u8061"
+      "jp": "日野聡"
     },
     "birthday": "9/10",
     "likes": [
@@ -1101,7 +1067,7 @@
           "crit": 0,
           "range": "2",
           "cost": 5,
-          "effect": "If foe's AS \u2265 unit's AS +4, grants Hit +20 to unit. (Only usable by spears with Rng= 1-2.)"
+          "effect": "If foe's AS ≥ unit's AS +4, grants Hit +20 to unit. (Only usable by spears with Rng= 1-2.)"
         },
         {
           "name": "Graceful Blow",
@@ -1110,7 +1076,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex \u00f7 2"
+          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex ÷ 2"
         },
         {
           "name": "Hidden Birdbane",
@@ -1179,16 +1145,15 @@
     },
     "raw_source": "raw_extracts/characters/dietrich_620168.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
+      "hp": 27,
+      "str": 11,
       "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "dex": 11,
+      "spd": 10,
+      "lck": 9,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 4,
+      "cha": 10
     }
   },
   {
@@ -1202,7 +1167,7 @@
     ],
     "voice_actors": {
       "en": "Shara Kirby",
-      "jp": "\u9ad8\u5c71\u307f\u306a\u307f"
+      "jp": "高山みなみ"
     },
     "birthday": "2/12",
     "likes": [
@@ -1317,7 +1282,7 @@
         },
         {
           "name": "Heavy Break+",
-          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def \u00f7 2."
+          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def ÷ 2."
         },
         {
           "name": "Vanguard+",
@@ -1416,16 +1381,15 @@
     },
     "raw_source": "raw_extracts/characters/theodora_620411.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
+      "hp": 30,
+      "str": 6,
       "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "dex": 6,
+      "spd": 6,
       "lck": 6,
-      "def": 6,
+      "def": 7,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 8
     }
   },
   {
@@ -1439,7 +1403,7 @@
     ],
     "voice_actors": {
       "en": "Katiana Sarkissian",
-      "jp": "\u4f0a\u702c\u8309\u8389\u4e5f"
+      "jp": "伊瀬茉莉也"
     },
     "birthday": "4/3",
     "likes": [
@@ -1678,7 +1642,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Gale Blow",
@@ -1687,7 +1651,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
         },
         {
           "name": "Swap",
@@ -1702,16 +1666,15 @@
     },
     "raw_source": "raw_extracts/characters/leda_620437.html",
     "base_stats": {
-      "hp": 26,
+      "hp": 25,
       "str": 8,
       "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "dex": 8,
+      "spd": 12,
+      "lck": 5,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 6,
+      "cha": 10
     }
   },
   {
@@ -1723,7 +1686,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Madeleine Morris",
-      "jp": "\u6cb3\u702c\u8309\u5e0c"
+      "jp": "河瀬茉希"
     },
     "birthday": null,
     "likes": [
@@ -2009,13 +1972,12 @@
       "hp": 24,
       "str": 5,
       "mag": 8,
-      "spd": 6,
       "dex": 6,
+      "spd": 6,
+      "lck": 7,
       "def": 4,
       "res": 6,
-      "lck": 7,
-      "cha": 5,
-      "movement": 4
+      "cha": 5
     }
   },
   {
@@ -2027,7 +1989,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Michael Johnston",
-      "jp": "\u5c71\u672c\u548c\u81e3"
+      "jp": "山本和臣"
     },
     "birthday": null,
     "likes": [
@@ -2074,12 +2036,12 @@
       "level_up_abilities": [
         {
           "name": "Correct for Drift",
-          "effect": "If unit's hit percent is \u2265 to 90%, grants Hit +10 during combat.",
+          "effect": "If unit's hit percent is ≥ to 90%, grants Hit +10 during combat.",
           "level": 20
         },
         {
           "name": "Correct for Drift+",
-          "effect": "If unit's hit % \u2265 75%, grants Hit+20 during combat.",
+          "effect": "If unit's hit % ≥ 75%, grants Hit+20 during combat.",
           "level": 35
         }
       ],
@@ -2285,7 +2247,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Dex \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Dex ÷ 2."
         },
         {
           "name": "Sunder",
@@ -2321,13 +2283,12 @@
       "hp": 25,
       "str": 9,
       "mag": 3,
-      "spd": 6,
       "dex": 10,
+      "spd": 6,
+      "lck": 5,
       "def": 5,
       "res": 4,
-      "lck": 5,
-      "cha": 4,
-      "movement": 4
+      "cha": 4
     }
   },
   {
@@ -2339,7 +2300,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Rachel Rial",
-      "jp": "\u7a32\u57a3\u597d"
+      "jp": "稲垣好"
     },
     "birthday": "4/28",
     "likes": [
@@ -2494,7 +2455,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Will make a follow-up regardless of AS during combat. Trigger % = Mag \u00f7 2."
+          "effect": "Will make a follow-up regardless of AS during combat. Trigger % = Mag ÷ 2."
         },
         {
           "name": "Curved Shot",
@@ -2563,16 +2524,15 @@
     },
     "raw_source": "raw_extracts/characters/ultand_624007.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 11,
-      "spd": 7,
-      "dex": 7,
-      "def": 7,
-      "res": 7,
-      "lck": 10,
-      "cha": 11,
-      "movement": 4
+      "hp": 24,
+      "str": 7,
+      "mag": 9,
+      "dex": 5,
+      "spd": 6,
+      "lck": 8,
+      "def": 6,
+      "res": 5,
+      "cha": 9
     }
   },
   {
@@ -2584,7 +2544,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jimmie Yamaguchi",
-      "jp": "\u5c71\u53e3\u6075"
+      "jp": "山口恵"
     },
     "birthday": "7/30",
     "likes": [
@@ -2654,7 +2614,7 @@
         {
           "skill_level": "D",
           "black_magic": [
-            "Miasma \u0394"
+            "Miasma Δ"
           ],
           "white_magic": [
             "Heal"
@@ -2672,7 +2632,7 @@
         {
           "skill_level": "B",
           "black_magic": [
-            "Death \u0393"
+            "Death Γ"
           ],
           "white_magic": [
             "Recover"
@@ -2681,7 +2641,7 @@
         {
           "skill_level": "A",
           "black_magic": [
-            "Luna \u039b"
+            "Luna Λ"
           ],
           "white_magic": [
             "Ward"
@@ -2737,8 +2697,7 @@
       "lck": 6,
       "def": 4,
       "res": 8,
-      "cha": 5,
-      "movement": 4
+      "cha": 5
     }
   },
   {
@@ -2752,7 +2711,7 @@
     ],
     "voice_actors": {
       "en": "Kendell Byrd",
-      "jp": "\u83f1\u5ddd\u82b1\u83dc"
+      "jp": "菱川花菜"
     },
     "birthday": "6/19",
     "likes": [
@@ -2844,7 +2803,7 @@
         },
         {
           "name": "Heavy Break",
-          "effect": "(Armored) Multiplies damage by 1.5 when attacking. Trigger % = Def\u00f72."
+          "effect": "(Armored) Multiplies damage by 1.5 when attacking. Trigger % = Def÷2."
         },
         {
           "name": "Build",
@@ -3019,8 +2978,7 @@
       "lck": 7,
       "def": 7,
       "res": 3,
-      "cha": 6,
-      "movement": 4
+      "cha": 6
     }
   },
   {
@@ -3032,7 +2990,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Marie Westbrook",
-      "jp": "\u5e73\u7530\u5b8f\u7f8e"
+      "jp": "平田宏美"
     },
     "birthday": null,
     "likes": [
@@ -3278,15 +3236,14 @@
     "raw_source": "raw_extracts/characters/mikaela_624008.html",
     "base_stats": {
       "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "str": 10,
+      "mag": 3,
       "dex": 7,
-      "spd": 7,
+      "spd": 6,
       "lck": 6,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 4,
+      "cha": 8
     }
   },
   {
@@ -3298,7 +3255,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Dave Fennoy",
-      "jp": "\u9db4\u5ca1\u8061"
+      "jp": "鶴岡聡"
     },
     "birthday": "4/8",
     "likes": [
@@ -3451,16 +3408,15 @@
     },
     "raw_source": "raw_extracts/characters/bonaventure_623614.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 12,
-      "spd": 9,
-      "dex": 10,
-      "def": 7,
-      "res": 10,
-      "lck": 6,
-      "cha": 9,
-      "movement": 4
+      "hp": 25,
+      "str": 7,
+      "mag": 10,
+      "dex": 8,
+      "spd": 7,
+      "lck": 5,
+      "def": 6,
+      "res": 8,
+      "cha": 7
     }
   },
   {
@@ -3472,7 +3428,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Kamran Nikhad",
-      "jp": "\u5229\u6839\u5065\u592a"
+      "jp": "利根健太"
     },
     "birthday": "2/6",
     "likes": [
@@ -3668,16 +3624,15 @@
     },
     "raw_source": "raw_extracts/characters/tobias_623758.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "hp": 28,
+      "str": 14,
+      "mag": 4,
+      "dex": 5,
+      "spd": 5,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 8,
+      "res": 3,
+      "cha": 5
     }
   },
   {
@@ -3689,7 +3644,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Stephanie Wong",
-      "jp": "\u6589\u85e4\u6731\u590f"
+      "jp": "斉藤朱夏"
     },
     "birthday": "8/27",
     "likes": [
@@ -3831,16 +3786,15 @@
     },
     "raw_source": "raw_extracts/characters/lilian_624009.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "hp": 24,
+      "str": 7,
+      "mag": 5,
+      "dex": 8,
+      "spd": 8,
+      "lck": 5,
+      "def": 5,
+      "res": 4,
+      "cha": 5
     }
   },
   {
@@ -3852,7 +3806,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Howard Wang",
-      "jp": "\u67f3\u7530\u6df3\u4e00"
+      "jp": "柳田淳一"
     },
     "birthday": "3/29",
     "likes": [
@@ -4046,7 +4000,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Str \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Str ÷ 2."
         },
         {
           "name": "Flying Spear",
@@ -4081,14 +4035,13 @@
     "base_stats": {
       "hp": 26,
       "str": 8,
-      "mag": 6,
+      "mag": 5,
       "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
+      "spd": 6,
+      "lck": 7,
+      "def": 7,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 6
     }
   },
   {
@@ -4100,7 +4053,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Chris Okawa",
-      "jp": "\u77f3\u4e95\u9686\u4e4b"
+      "jp": "石井隆之"
     },
     "birthday": "12/21",
     "likes": [
@@ -4293,8 +4246,7 @@
       "lck": 6,
       "def": 8,
       "res": 3,
-      "cha": 6,
-      "movement": 4
+      "cha": 6
     }
   },
   {
@@ -4306,7 +4258,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Daman Mills",
-      "jp": "\u4e09\u6d66\u52dd\u4e4b"
+      "jp": "三浦勝之"
     },
     "birthday": "10/18",
     "likes": [
@@ -4514,8 +4466,7 @@
       "lck": 8,
       "def": 6,
       "res": 7,
-      "cha": 8,
-      "movement": 4
+      "cha": 8
     }
   },
   {
@@ -4527,7 +4478,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Madeline Dorroh",
-      "jp": "\u5dfd\u60a0\u8863\u5b50"
+      "jp": "巽悠衣子"
     },
     "birthday": "4/11",
     "likes": [
@@ -4702,16 +4653,15 @@
     },
     "raw_source": "raw_extracts/characters/olympia_624011.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
+      "hp": 24,
+      "str": 5,
+      "mag": 11,
+      "dex": 6,
       "spd": 7,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 6,
+      "cha": 8
     }
   },
   {
@@ -4723,7 +4673,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Asante Mango",
-      "jp": "\u5c71\u53e3\u831c"
+      "jp": "山口茜"
     },
     "birthday": "6/25",
     "likes": [
@@ -4936,7 +4886,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
         }
       ]
     },
@@ -4950,8 +4900,7 @@
       "lck": 4,
       "def": 5,
       "res": 5,
-      "cha": 4,
-      "movement": 4
+      "cha": 4
     }
   },
   {
@@ -4963,7 +4912,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "J. Michael Tatum",
-      "jp": "\u5c0f\u67f3\u826f\u5bdb"
+      "jp": "小柳良寛"
     },
     "birthday": null,
     "likes": [
@@ -5068,16 +5017,15 @@
     },
     "raw_source": "raw_extracts/characters/gaitz_624014.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "hp": 27,
+      "str": 10,
+      "mag": 3,
       "dex": 7,
       "spd": 7,
-      "lck": 6,
+      "lck": 5,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 3,
+      "cha": 7
     }
   },
   {
@@ -5089,7 +5037,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Alaina Wis",
-      "jp": "\u9df2\u898b\u53cb\u7f8e\u30b8\u30a7\u30ca"
+      "jp": "鷲見友美ジェナ"
     },
     "birthday": null,
     "likes": [
@@ -5132,7 +5080,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Stage Directions",
-        "effect": "Grants Ddg+10 to allies within 2 spaces during their combats. Trigger % = ally's Cha \u00f7 2."
+        "effect": "Grants Ddg+10 to allies within 2 spaces during their combats. Trigger % = ally's Cha ÷ 2."
       },
       "level_up_abilities": [
         {
@@ -5263,16 +5211,15 @@
     },
     "raw_source": "raw_extracts/characters/dante_624018.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "hp": 25,
+      "str": 5,
+      "mag": 9,
+      "dex": 6,
+      "spd": 9,
+      "lck": 7,
+      "def": 5,
+      "res": 8,
+      "cha": 5
     }
   },
   {
@@ -5286,7 +5233,7 @@
     ],
     "voice_actors": {
       "en": "Amelia Tyler",
-      "jp": "\u516b\u5dfb\u30a2\u30f3\u30ca"
+      "jp": "八巻アンナ"
     },
     "birthday": "4/5",
     "likes": [
@@ -5330,12 +5277,12 @@
       "level_up_abilities": [
         {
           "name": "Seize the Chance",
-          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Lck \u00f7 2.",
+          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Lck ÷ 2.",
           "level": 20
         },
         {
           "name": "Seize the Chance+",
-          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Lck \u00f7 2.",
+          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Lck ÷ 2.",
           "level": 35
         }
       ],
@@ -5402,16 +5349,15 @@
     },
     "raw_source": "raw_extracts/characters/ursula_624015.html",
     "base_stats": {
-      "hp": 26,
+      "hp": 24,
       "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
+      "mag": 7,
+      "dex": 10,
+      "spd": 8,
+      "lck": 7,
+      "def": 5,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 8
     }
   },
   {
@@ -5423,7 +5369,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "David Cherry",
-      "jp": "\u5c0f\u6797\u89aa\u5f18"
+      "jp": "小林親弘"
     },
     "birthday": null,
     "likes": [
@@ -5466,7 +5412,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Close Call",
-        "effect": "If unit's HP \u2265 2 and damage would reduce it to 0, leaves unit with 1 HP. Trigger % = Lck."
+        "effect": "If unit's HP ≥ 2 and damage would reduce it to 0, leaves unit with 1 HP. Trigger % = Lck."
       },
       "level_up_abilities": [
         {
@@ -5541,22 +5487,21 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         }
       ]
     },
     "raw_source": "raw_extracts/characters/simon_624019.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "hp": 28,
+      "str": 11,
+      "mag": 4,
       "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "spd": 6,
+      "lck": 10,
+      "def": 7,
+      "res": 3,
+      "cha": 4
     }
   },
   {
@@ -5568,7 +5513,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Nazeeh Tarsha",
-      "jp": "\u9ad8\u68a8\u8b19\u543e"
+      "jp": "高梨謙吾"
     },
     "birthday": null,
     "likes": [
@@ -5689,22 +5634,21 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         }
       ]
     },
     "raw_source": "raw_extracts/characters/diego_624016.html",
     "base_stats": {
-      "hp": 27,
-      "str": 11,
-      "mag": 5,
-      "spd": 10,
-      "dex": 12,
-      "def": 6,
-      "res": 4,
-      "lck": 8,
-      "cha": 6,
-      "movement": 4
+      "hp": 25,
+      "str": 9,
+      "mag": 4,
+      "dex": 9,
+      "spd": 8,
+      "lck": 7,
+      "def": 5,
+      "res": 3,
+      "cha": 5
     }
   },
   {
@@ -5718,7 +5662,7 @@
     ],
     "voice_actors": {
       "en": "Kayli Mills",
-      "jp": "\u7be0\u539f\u4f91"
+      "jp": "篠原侑"
     },
     "birthday": "10/21",
     "likes": [
@@ -5927,16 +5871,15 @@
     },
     "raw_source": "raw_extracts/characters/ninae_623990.html",
     "base_stats": {
-      "hp": 26,
+      "hp": 28,
       "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "mag": 5,
+      "dex": 8,
+      "spd": 6,
+      "lck": 7,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 9,
+      "cha": 6
     }
   },
   {
@@ -5948,7 +5891,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Courtney Lin",
-      "jp": "\u77e2\u4f5c\u7d17\u53cb\u91cc"
+      "jp": "矢作紗友里"
     },
     "birthday": null,
     "likes": [
@@ -6055,16 +5998,15 @@
     },
     "raw_source": "raw_extracts/characters/sha_lan_624017.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "hp": 23,
+      "str": 6,
+      "mag": 9,
+      "dex": 6,
+      "spd": 5,
+      "lck": 8,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 8,
+      "cha": 7
     }
   },
   {
@@ -6076,7 +6018,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Paul Castro Jr.",
-      "jp": "\u8449\u5c71\u7fd4\u592a"
+      "jp": "葉山翔太"
     },
     "birthday": "7/7",
     "likes": [
@@ -6199,7 +6141,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
         }
       ]
     },
@@ -6207,14 +6149,13 @@
     "base_stats": {
       "hp": 26,
       "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
+      "mag": 5,
+      "dex": 6,
+      "spd": 12,
+      "lck": 7,
+      "def": 7,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 5
     }
   },
   {
@@ -6226,7 +6167,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Matthew David Rudd",
-      "jp": "\u91d1\u5b50\u96bc\u4eba"
+      "jp": "金子隼人"
     },
     "birthday": null,
     "likes": [
@@ -6483,16 +6424,15 @@
     },
     "raw_source": "raw_extracts/characters/guzran_623978.html",
     "base_stats": {
-      "hp": 28,
-      "str": 12,
+      "hp": 26,
+      "str": 11,
       "mag": 4,
-      "spd": 11,
-      "dex": 8,
-      "def": 7,
+      "dex": 7,
+      "spd": 9,
+      "lck": 9,
+      "def": 6,
       "res": 3,
-      "lck": 10,
-      "cha": 6,
-      "movement": 4
+      "cha": 6
     }
   },
   {
@@ -6504,7 +6444,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Clifford Chapin",
-      "jp": "\u5c0f\u6797\u79c0\u884c"
+      "jp": "小林秀行"
     },
     "birthday": null,
     "likes": [
@@ -6679,15 +6619,14 @@
     "raw_source": "raw_extracts/characters/io_623980.html",
     "base_stats": {
       "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "str": 10,
+      "mag": 7,
       "dex": 7,
-      "spd": 7,
+      "spd": 8,
       "lck": 6,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 6,
+      "cha": 8
     }
   },
   {
@@ -6699,7 +6638,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Brittany Lauda",
-      "jp": "\u98ef\u7530\u30d2\u30ab\u30eb"
+      "jp": "飯田ヒカル"
     },
     "birthday": null,
     "likes": [
@@ -6742,7 +6681,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Punishing Squall",
-        "effect": "If AS \u2265 foe's AS+3, grants Hit+20 during combat."
+        "effect": "If AS ≥ foe's AS+3, grants Hit+20 during combat."
       },
       "level_up_abilities": [
         {
@@ -6752,7 +6691,7 @@
         },
         {
           "name": "Wind My Friend+",
-          "effect": "If AS \u2265 foe\u2019s AS+5, grants Atk+3, and if AS \u2265 foe\u2019s AS+8, grants Avo+20 during combat.",
+          "effect": "If AS ≥ foe’s AS+5, grants Atk+3, and if AS ≥ foe’s AS+8, grants Avo+20 during combat.",
           "level": 35
         }
       ],
@@ -6872,7 +6811,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "If foe's Hit \u2264 20, reduces foe's Hit to 0 during combat."
+          "effect": "If foe's Hit ≤ 20, reduces foe's Hit to 0 during combat."
         },
         {
           "name": "Crosswise Cut",
@@ -6905,16 +6844,15 @@
     },
     "raw_source": "raw_extracts/characters/catania_623981.html",
     "base_stats": {
-      "hp": 26,
+      "hp": 25,
       "str": 8,
       "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "dex": 9,
+      "spd": 9,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 7,
+      "cha": 8
     }
   },
   {
@@ -6926,7 +6864,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Anjali Kunapaneni",
-      "jp": "\u4e09\u6d66\u51b4\u5b50"
+      "jp": "三浦冴子"
     },
     "birthday": "6/4",
     "likes": [
@@ -7103,14 +7041,13 @@
     "base_stats": {
       "hp": 26,
       "str": 8,
-      "mag": 6,
+      "mag": 7,
       "dex": 7,
-      "spd": 7,
+      "spd": 9,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 6,
+      "cha": 6
     }
   },
   {
@@ -7122,7 +7059,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Max Lindsey",
-      "jp": "\u8fd1\u85e4\u6d69\u5fb3"
+      "jp": "近藤浩徳"
     },
     "birthday": "2/17",
     "likes": [
@@ -7234,16 +7171,15 @@
     },
     "raw_source": "raw_extracts/characters/benditz_623982.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "hp": 27,
+      "str": 9,
+      "mag": 4,
+      "dex": 9,
+      "spd": 6,
       "lck": 6,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 4,
+      "cha": 4
     }
   },
   {
@@ -7255,7 +7191,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Natalie Rose",
-      "jp": "\u829d\u5d0e\u5178\u5b50"
+      "jp": "芝崎典子"
     },
     "birthday": "6/27",
     "likes": [
@@ -7436,7 +7372,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
         },
         {
           "name": "Lend Speed",
@@ -7451,16 +7387,15 @@
     },
     "raw_source": "raw_extracts/characters/alexandra_623983.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "hp": 23,
+      "str": 6,
+      "mag": 5,
       "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "spd": 10,
+      "lck": 9,
+      "def": 5,
+      "res": 6,
+      "cha": 11
     }
   },
   {
@@ -7472,7 +7407,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Brent Mukai",
-      "jp": "\u559c\u5c4b\u6b66\u548c\u8f1d"
+      "jp": "喜屋武和輝"
     },
     "birthday": "11/26",
     "likes": [
@@ -7492,7 +7427,7 @@
         "chapter": "Part I Chapter 3",
         "support": 2,
         "renown": 3,
-        "other": "Answer Yang Jie\u2019s 3 Questions Correctly."
+        "other": "Answer Yang Jie’s 3 Questions Correctly."
       },
       "dietrich": {
         "chapter": "Part I Chapter 4",
@@ -7504,13 +7439,13 @@
         "chapter": "Part I Chapter 5",
         "support": 3,
         "renown": 9,
-        "other": "Answer Yang Jie\u2019s 3 Questions Correctly."
+        "other": "Answer Yang Jie’s 3 Questions Correctly."
       },
       "leda": {
         "chapter": "Part I Chapter 4",
         "support": 3,
         "renown": 8,
-        "other": "Answer Yang Jie\u2019s 3 Questions Correctly."
+        "other": "Answer Yang Jie’s 3 Questions Correctly."
       }
     },
     "abilities_and_combat_arts": {
@@ -7679,16 +7614,15 @@
     },
     "raw_source": "raw_extracts/characters/yang_jie_623985.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "hp": 24,
+      "str": 6,
+      "mag": 10,
+      "dex": 6,
+      "spd": 5,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 7,
+      "cha": 5
     }
   },
   {
@@ -7700,7 +7634,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Cassie Ewulu",
-      "jp": "\u590f\u59eb\u308a\u3093\u3053"
+      "jp": "夏姫りんこ"
     },
     "birthday": "12/17",
     "likes": [
@@ -7853,7 +7787,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex \u00f7 2"
+          "effect": "Reduces weapon durability cost to 0 for the attack. Trigger % = Dex ÷ 2"
         },
         {
           "name": "Wrath Strike",
@@ -7877,16 +7811,15 @@
     },
     "raw_source": "raw_extracts/characters/noctula_623984.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "hp": 27,
+      "str": 9,
+      "mag": 3,
+      "dex": 6,
+      "spd": 8,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 7,
+      "res": 4,
+      "cha": 5
     }
   },
   {
@@ -7898,7 +7831,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Frankie Kevich",
-      "jp": "\u6e05\u90fd\u3042\u308a\u3055"
+      "jp": "清都ありさ"
     },
     "birthday": "8/9",
     "likes": [
@@ -8049,16 +7982,15 @@
     },
     "raw_source": "raw_extracts/characters/sofia_623986.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "hp": 23,
+      "str": 5,
+      "mag": 11,
+      "dex": 6,
+      "spd": 5,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 9,
+      "cha": 5
     }
   },
   {
@@ -8070,7 +8002,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Phil Sterman",
-      "jp": "\u4e95\u85e4\u667a\u54c9"
+      "jp": "井藤智哉"
     },
     "birthday": "8/30",
     "likes": [
@@ -8175,7 +8107,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Lend Dexterity",
@@ -8190,16 +8122,15 @@
     },
     "raw_source": "raw_extracts/characters/peppe_624000.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
+      "hp": 23,
+      "str": 6,
+      "mag": 5,
+      "dex": 8,
+      "spd": 10,
+      "lck": 7,
+      "def": 5,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 4
     }
   },
   {
@@ -8213,7 +8144,7 @@
     ],
     "voice_actors": {
       "en": "Mark Whitten",
-      "jp": "\u5b50\u5b89\u6b66\u4eba"
+      "jp": "子安武人"
     },
     "birthday": "12/27",
     "likes": [
@@ -8374,15 +8305,15 @@
     },
     "raw_source": "raw_extracts/characters/seteth_623993.html",
     "base_stats": {
-      "hp": 47,
-      "str": 24,
-      "mag": 15,
-      "dex": 19,
-      "spd": 16,
-      "def": 19,
-      "res": 8,
-      "cha": 20,
-      "movement": 4
+      "hp": 26,
+      "str": 10,
+      "mag": 7,
+      "dex": 7,
+      "spd": 8,
+      "lck": 6,
+      "def": 6,
+      "res": 6,
+      "cha": 8
     }
   },
   {
@@ -8394,7 +8325,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Amber Lee Connors",
-      "jp": "\u677e\u7530\u98af\u6c34"
+      "jp": "松田颯水"
     },
     "birthday": "8/23",
     "likes": [
@@ -8437,7 +8368,7 @@
     "abilities_and_combat_arts": {
       "personal_ability": {
         "name": "Steadfast",
-        "effect": "If unit's HP \u2265 50%, grants Avo+10 during combat."
+        "effect": "If unit's HP ≥ 50%, grants Avo+10 during combat."
       },
       "level_up_abilities": [
         {
@@ -8530,7 +8461,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "If foe's Hit \u2264 20, reduces foe's Hit to 0 during combat."
+          "effect": "If foe's Hit ≤ 20, reduces foe's Hit to 0 during combat."
         },
         {
           "name": "Chop",
@@ -8557,7 +8488,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
         },
         {
           "name": "Shove",
@@ -8572,16 +8503,15 @@
     },
     "raw_source": "raw_extracts/characters/loretta_623996.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
+      "hp": 23,
+      "str": 7,
       "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "dex": 6,
+      "spd": 9,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 4,
+      "cha": 4
     }
   },
   {
@@ -8593,7 +8523,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Kieran Regan",
-      "jp": "\u6c38\u585a\u62d3\u99ac"
+      "jp": "永塚拓馬"
     },
     "birthday": null,
     "likes": [
@@ -8677,16 +8607,15 @@
     },
     "raw_source": "raw_extracts/characters/jester_623991.html",
     "base_stats": {
-      "hp": 26,
+      "hp": 25,
       "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "mag": 5,
+      "dex": 9,
+      "spd": 10,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 4,
+      "res": 4,
+      "cha": 8
     }
   },
   {
@@ -8698,7 +8627,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Damon Alums",
-      "jp": "\u7dbf\u8cab\u7adc\u4e4b\u4ecb"
+      "jp": "綿貫竜之介"
     },
     "birthday": null,
     "likes": [
@@ -8864,16 +8793,15 @@
     },
     "raw_source": "raw_extracts/characters/goliath_623976.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "hp": 32,
+      "str": 14,
+      "mag": 2,
+      "dex": 4,
+      "spd": 5,
+      "lck": 5,
+      "def": 8,
+      "res": 2,
+      "cha": 4
     }
   },
   {
@@ -8885,7 +8813,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Kana Shimanuki",
-      "jp": "\u6a58\u674f\u54b2"
+      "jp": "橘杏咲"
     },
     "birthday": "9/30",
     "likes": [
@@ -9003,22 +8931,21 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Spd \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Spd ÷ 2."
         }
       ]
     },
     "raw_source": "raw_extracts/characters/ludia_623992.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "hp": 25,
+      "str": 7,
+      "mag": 4,
       "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "spd": 12,
+      "lck": 5,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 3,
+      "cha": 5
     }
   },
   {
@@ -9030,7 +8957,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Y. Chang",
-      "jp": "\u5c71\u53e3\u52dd\u5e73"
+      "jp": "山口勝平"
     },
     "birthday": "5/4",
     "likes": [
@@ -9079,19 +9006,19 @@
       "level_up_abilities": [
         {
           "name": "Full Strength",
-          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Str\u00f72.",
+          "effect": "Multiplies damage by 1.3 when attacking. Trigger % = Str÷2.",
           "level": 20
         },
         {
           "name": "Full Strength+",
-          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Str \u00f7 2.",
+          "effect": "Multiplies damage by 1.5 when attacking. Trigger % = Str ÷ 2.",
           "level": 35
         }
       ],
       "skill_level_abilities": [
         {
           "name": "Heavy Break+",
-          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def \u00f7 2."
+          "effect": "Multiplies damage by 2 when attacking. Trigger % = Def ÷ 2."
         }
       ],
       "blaze_arts": [],
@@ -9183,16 +9110,15 @@
     },
     "raw_source": "raw_extracts/characters/dadao_623998.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "hp": 28,
+      "str": 13,
+      "mag": 4,
+      "dex": 5,
+      "spd": 5,
+      "lck": 8,
+      "def": 9,
+      "res": 4,
+      "cha": 5
     }
   },
   {
@@ -9206,7 +9132,7 @@
     ],
     "voice_actors": {
       "en": "Nerida Bronwen",
-      "jp": "\u6d32\u5d0e\u7dbe"
+      "jp": "洲崎綾"
     },
     "birthday": null,
     "likes": [
@@ -9322,16 +9248,15 @@
     },
     "raw_source": "raw_extracts/characters/fianna_623995.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "hp": 22,
+      "str": 4,
+      "mag": 11,
+      "dex": 6,
+      "spd": 5,
+      "lck": 4,
+      "def": 4,
+      "res": 8,
+      "cha": 7
     }
   },
   {
@@ -9343,7 +9268,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Judy Alice Lee",
-      "jp": "\u4f73\u539f\u840c\u679d"
+      "jp": "佳原萌枝"
     },
     "birthday": "11/27",
     "likes": [
@@ -9493,16 +9418,15 @@
     },
     "raw_source": "raw_extracts/characters/halvin_623997.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
+      "hp": 24,
+      "str": 7,
+      "mag": 5,
+      "dex": 9,
+      "spd": 8,
+      "lck": 7,
+      "def": 5,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 6
     }
   },
   {
@@ -9514,7 +9438,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jonathan Fernandez",
-      "jp": "\u5cf0\u6643\u5f18"
+      "jp": "峰晃弘"
     },
     "birthday": "3/11",
     "likes": [
@@ -9644,7 +9568,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Song of Courage",
@@ -9660,15 +9584,14 @@
     "raw_source": "raw_extracts/characters/zarcone_623989.html",
     "base_stats": {
       "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "str": 7,
+      "mag": 3,
+      "dex": 10,
+      "spd": 8,
       "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "def": 5,
+      "res": 4,
+      "cha": 4
     }
   },
   {
@@ -9680,7 +9603,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Aleks Le",
-      "jp": "\u5c0f\u91ce\u5bfa\u60a0\u8cb4"
+      "jp": "小野寺悠貴"
     },
     "birthday": null,
     "likes": [
@@ -9836,16 +9759,15 @@
     },
     "raw_source": "raw_extracts/characters/majide_623988.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "hp": 30,
+      "str": 12,
+      "mag": 3,
+      "dex": 5,
+      "spd": 6,
+      "lck": 5,
+      "def": 7,
+      "res": 3,
+      "cha": 3
     }
   },
   {
@@ -9857,7 +9779,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Jalen Askins",
-      "jp": "\u85e4\u5802\u99ff\u4ecb"
+      "jp": "藤堂駿介"
     },
     "birthday": null,
     "likes": [
@@ -9984,14 +9906,13 @@
     "base_stats": {
       "hp": 26,
       "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "mag": 3,
+      "dex": 10,
+      "spd": 10,
+      "lck": 7,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 4,
+      "cha": 4
     }
   },
   {
@@ -10003,7 +9924,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Heather Gonzales",
-      "jp": "\u5927\u4e45\u4fdd\u85cd\u5b50"
+      "jp": "大久保藍子"
     },
     "birthday": null,
     "likes": [
@@ -10201,16 +10122,15 @@
     },
     "raw_source": "raw_extracts/characters/jasmine_623999.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
+      "hp": 28,
+      "str": 9,
+      "mag": 4,
       "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "spd": 5,
+      "lck": 7,
+      "def": 8,
+      "res": 3,
+      "cha": 7
     }
   },
   {
@@ -10222,7 +10142,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "George Peter",
-      "jp": "\u79cb\u8449\u4f51"
+      "jp": "秋葉佑"
     },
     "birthday": "4/12",
     "likes": [
@@ -10360,7 +10280,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Destreza",
@@ -10369,7 +10289,7 @@
           "crit": 0,
           "range": "1",
           "cost": 3,
-          "effect": "If foe's HP \u2264 50%, grants Atk +5. Crit +10 to unit."
+          "effect": "If foe's HP ≤ 50%, grants Atk +5. Crit +10 to unit."
         },
         {
           "name": "Flash Blow",
@@ -10378,7 +10298,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Dex \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Dex ÷ 2."
         },
         {
           "name": "Poison Harvest",
@@ -10394,15 +10314,14 @@
     "raw_source": "raw_extracts/characters/nuzzuo_623987.html",
     "base_stats": {
       "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "str": 9,
+      "mag": 3,
+      "dex": 8,
+      "spd": 10,
       "lck": 6,
       "def": 6,
       "res": 5,
-      "cha": 6,
-      "movement": 4
+      "cha": 5
     }
   },
   {
@@ -10414,7 +10333,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Ashely Biski",
-      "jp": "\u4e09\u8f2a\u590f\u7d00"
+      "jp": "三輪夏紀"
     },
     "birthday": "5/5",
     "likes": [
@@ -10527,15 +10446,14 @@
     "raw_source": "raw_extracts/characters/inyoni_624001.html",
     "base_stats": {
       "hp": 26,
-      "str": 8,
+      "str": 12,
       "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "dex": 5,
+      "spd": 6,
       "lck": 6,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 4,
+      "cha": 5
     }
   },
   {
@@ -10547,7 +10465,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Willow Engel",
-      "jp": "\u5ca9\u6fa4\u4fca\u6a39"
+      "jp": "岩澤俊樹"
     },
     "birthday": null,
     "likes": [
@@ -10656,18 +10574,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/creek_624389.html",
-    "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
-    }
+    "base_stats": null
   },
   {
     "id": "624390",
@@ -10678,7 +10585,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Matt Silver",
-      "jp": "\u91d1\u5b50\u8aa0"
+      "jp": "金子誠"
     },
     "birthday": null,
     "likes": [
@@ -10763,18 +10670,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/nathan_624390.html",
-    "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
-    }
+    "base_stats": null
   },
   {
     "id": "624391",
@@ -10788,7 +10684,7 @@
     ],
     "voice_actors": {
       "en": "Christian Young",
-      "jp": "\u5b89\u5143\u6d0b\u8cb4"
+      "jp": "安元洋貴"
     },
     "birthday": null,
     "likes": [
@@ -10953,16 +10849,15 @@
     },
     "raw_source": "raw_extracts/characters/bertrand_624391.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
+      "hp": 28,
+      "str": 11,
+      "mag": 4,
+      "dex": 10,
       "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "lck": 4,
+      "def": 7,
+      "res": 3,
+      "cha": 9
     }
   },
   {
@@ -10976,7 +10871,7 @@
     ],
     "voice_actors": {
       "en": "Mauricio Ortiz-Segura",
-      "jp": "\u4e09\u6728\u771e\u4e00\u90ce"
+      "jp": "三木眞一郎"
     },
     "birthday": null,
     "likes": [
@@ -11121,16 +11016,15 @@
     },
     "raw_source": "raw_extracts/characters/talimun_624392.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
+      "hp": 27,
+      "str": 9,
+      "mag": 11,
+      "dex": 8,
+      "spd": 9,
+      "lck": 12,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 7,
+      "cha": 9
     }
   },
   {
@@ -11142,7 +11036,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Dawn M. Bennet",
-      "jp": "\u5c0f\u7b20\u539f\u4e9c\u91cc\u6c99"
+      "jp": "小笠原亜里沙"
     },
     "birthday": null,
     "likes": [
@@ -11320,16 +11214,15 @@
     },
     "raw_source": "raw_extracts/characters/anatolia_623966.html",
     "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
+      "hp": 25,
+      "str": 6,
+      "mag": 11,
+      "dex": 8,
+      "spd": 10,
       "lck": 6,
       "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
+      "res": 6,
+      "cha": 8
     }
   },
   {
@@ -11344,7 +11237,7 @@
     ],
     "voice_actors": {
       "en": "Erin Yvette",
-      "jp": "\u672c\u6e21\u6953"
+      "jp": "本渡楓"
     },
     "birthday": null,
     "likes": [
@@ -11509,16 +11402,15 @@
     },
     "raw_source": "raw_extracts/characters/orchel_624393.html",
     "base_stats": {
-      "hp": 23,
-      "str": 17,
-      "mag": 11,
+      "hp": 22,
+      "str": 15,
+      "mag": 9,
+      "dex": 3,
       "spd": 4,
-      "dex": 4,
-      "def": 14,
-      "res": 15,
-      "lck": 6,
-      "cha": 13,
-      "movement": 4
+      "lck": 5,
+      "def": 12,
+      "res": 12,
+      "cha": 10
     }
   },
   {
@@ -11530,7 +11422,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Justice Washington",
-      "jp": "\u6b66\u7530\u5e78\u53f2"
+      "jp": "武田幸史"
     },
     "birthday": null,
     "likes": [
@@ -11648,7 +11540,7 @@
           "crit": 0,
           "range": "1",
           "cost": 5,
-          "effect": "Grants Atk+5 for the attack. Trigger % = Str \u00f7 2."
+          "effect": "Grants Atk+5 for the attack. Trigger % = Str ÷ 2."
         },
         {
           "name": "Lend Defense",
@@ -11662,18 +11554,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/centurio_624394.html",
-    "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
-    }
+    "base_stats": null
   },
   {
     "id": "624395",
@@ -11686,7 +11567,7 @@
     ],
     "voice_actors": {
       "en": "AmaLee",
-      "jp": "\u677e\u6751\u590f\u7d00"
+      "jp": "松村夏紀"
     },
     "birthday": null,
     "likes": [
@@ -11793,18 +11674,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/aswan_624395.html",
-    "base_stats": {
-      "hp": 40,
-      "str": 21,
-      "mag": 11,
-      "dex": 29,
-      "spd": 23,
-      "lck": 20,
-      "def": 20,
-      "res": 13,
-      "cha": 8,
-      "movement": 4
-    }
+    "base_stats": null
   },
   {
     "id": "624396",
@@ -11815,7 +11685,7 @@
     "crest_bloodmark": [],
     "voice_actors": {
       "en": "Carlette Odemwingie",
-      "jp": "\u77f3\u7530\u5609\u4ee3"
+      "jp": "石田嘉代"
     },
     "birthday": null,
     "likes": [
@@ -11936,18 +11806,7 @@
       ]
     },
     "raw_source": "raw_extracts/characters/tahonia_624396.html",
-    "base_stats": {
-      "hp": 26,
-      "str": 8,
-      "mag": 6,
-      "dex": 7,
-      "spd": 7,
-      "lck": 6,
-      "def": 6,
-      "res": 5,
-      "cha": 6,
-      "movement": 4
-    }
+    "base_stats": null
   },
   {
     "id": "625576",
@@ -12036,17 +11895,6 @@
       ]
     },
     "raw_source": "raw_extracts/characters/klapka_625576.html",
-    "base_stats": {
-      "movement": 5,
-      "hp": 60,
-      "str": 38,
-      "mag": 6,
-      "spd": 19,
-      "dex": 35,
-      "def": 50,
-      "res": 20,
-      "lck": 19,
-      "cha": 25
-    }
+    "base_stats": null
   }
 ]
