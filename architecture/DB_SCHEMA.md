@@ -425,6 +425,28 @@ CREATE TABLE mechanics_god_trials (
     recommended_strategy TEXT
 );
 
+-- 28. Character Autolevel Stat Progression
+CREATE TABLE characters_autolevels (
+    id VARCHAR(150) PRIMARY KEY,                        -- e.g., 'cai_cai_ch1_lv1_commoner_automatic'
+    character_id VARCHAR(50),                           -- Slugified character id (e.g., 'cai', 'fabio')
+    name VARCHAR(100) NOT NULL,
+    class_id VARCHAR(50),                               -- Slugified class id (e.g., 'diviner', 'commoner')
+    class VARCHAR(100) NOT NULL,
+    path VARCHAR(20) NOT NULL,                          -- e.g., 'Cai'
+    chapter INTEGER NOT NULL,                           -- 0 (Prologue), 1-12, 10 (Paralogue)
+    level INTEGER NOT NULL,
+    status VARCHAR(50) NOT NULL,                        -- 'Recruitable', 'Not Recruitable', 'Automatic', 'Guest', etc.
+    hp INTEGER NOT NULL,
+    str INTEGER NOT NULL,
+    mag INTEGER NOT NULL,
+    spd INTEGER NOT NULL,
+    dex INTEGER NOT NULL,
+    def INTEGER NOT NULL,
+    res INTEGER NOT NULL,
+    lck INTEGER NOT NULL,
+    cha INTEGER NOT NULL
+);
+
 -- ============================================================================
 -- 6. PERFORMANCE INDICES
 -- ============================================================================
@@ -443,6 +465,8 @@ CREATE INDEX idx_paralogues_char ON paralogues(character_associated);
 CREATE INDEX idx_supports_lookup ON character_supports(character_id, partner_character_id);
 CREATE INDEX idx_mounts_type ON mounts(type);
 CREATE INDEX idx_classes_mount_type ON classes(mount_type);
+CREATE INDEX idx_autolevels_char ON characters_autolevels(character_id, chapter);
+CREATE INDEX idx_autolevels_class ON characters_autolevels(class_id);
 ```
 
 ---

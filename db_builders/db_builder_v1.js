@@ -157,7 +157,7 @@ export async function buildDatabase() {
   // Execute DDL
   db.exec('PRAGMA foreign_keys = ON;');
   db.exec(ddlSql);
-  console.log('[Schema] Executed complete 27-table DDL schema successfully.');
+  console.log('[Schema] Executed complete 28-table DDL schema successfully.');
 
   // Accumulate SQL statements for dump.sql
   const sqlDumpStatements = [
@@ -209,6 +209,12 @@ export async function buildDatabase() {
   const mountsData = JSON.parse(fs.readFileSync('extractions/mounts.json', 'utf-8'));
   const mountedClassesData = JSON.parse(fs.readFileSync('extractions/mounted_classes.json', 'utf-8'));
   const characterBaseStatsData = JSON.parse(fs.readFileSync('extractions/character_base_stats.json', 'utf-8'));
+  const autolevelsPath = fs.existsSync('extractions/characters_autolevels.json')
+    ? 'extractions/characters_autolevels.json'
+    : 'extractions/character_autolevels.json';
+  const autolevelsData = fs.existsSync(autolevelsPath)
+    ? JSON.parse(fs.readFileSync(autolevelsPath, 'utf-8'))
+    : [];
 
   // Pre-build identifier maps
   const classMountTypeMap = new Map();
@@ -1029,6 +1035,37 @@ export async function buildDatabase() {
       divine_buffs: Array.isArray(tr.enemy_buffs) ? tr.enemy_buffs.join('; ') : (tr.divine_buffs || null),
       equipment_rewards: Array.isArray(tr.rewards) ? tr.rewards.join('; ') : (tr.equipment_rewards || null),
       recommended_strategy: tr.strategy || null
+    });
+  }
+
+  // --------------------------------------------------------------------------
+  // Table 28: characters_autolevels
+  // --------------------------------------------------------------------------
+  console.log(`[Populating] characters_autolevels (${autolevelsData.length} records)...`);
+  for (const al of autolevelsData) {
+    const charSlug = charNameToSlug.get(al.name.toLowerCase()) || slugify(al.name);
+    const classSlug = classNameToId.get(al.class.toLowerCase()) || slugify(al.class);
+    const rowId = slugify(`${al.name}_${al.path}_ch${al.chapter}_lv${al.level}_${al.class}_${al.status}`);
+
+    runInsert('characters_autolevels', {
+      id: rowId,
+      character_id: charSlug,
+      name: al.name,
+      class_id: classSlug,
+      class: al.class,
+      path: al.path || 'Cai',
+      chapter: al.chapter,
+      level: al.level,
+      status: al.status,
+      hp: al.hp,
+      str: al.str,
+      mag: al.mag,
+      spd: al.spd,
+      dex: al.dex,
+      def: al.def,
+      res: al.res,
+      lck: al.lck,
+      cha: al.cha
     });
   }
 

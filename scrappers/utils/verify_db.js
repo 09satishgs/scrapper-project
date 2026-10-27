@@ -7,7 +7,7 @@ console.log('--- SQLITE DATABASE VERIFICATION & AUDIT (v2) ---');
 console.log('====================================================');
 
 const tables = db.prepare("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name;").all();
-console.log(`Verified Tables Count: ${tables.length} (Expected: 27)\n`);
+console.log(`Verified Tables Count: ${tables.length} (Expected: 28)\n`);
 
 console.log('--- TABLE RECORD COUNTS ---');
 let totalRows = 0;
@@ -103,6 +103,14 @@ const hasMovement = baseStatsCols.includes('movement');
 console.log('Has movement column:', hasMovement, '(Expected: false)');
 const sampleBaseStats = db.prepare('SELECT * FROM character_base_stats WHERE character_id IN (?, ?)').all('alexandra', 'theodora');
 console.log('Sample Base Stats (Alexandra & Theodora):', JSON.stringify(sampleBaseStats, null, 2));
+
+console.log('\n--- VERIFY CHARACTERS AUTOLEVELS ---');
+const autolevelsCount = db.prepare('SELECT COUNT(*) as c FROM characters_autolevels').get().c;
+console.log(`Characters Autolevels Count: ${autolevelsCount} (Expected: 489)`);
+const fabioCh5 = db.prepare('SELECT name, class, chapter, level, hp, str, mag, spd, dex, def, res, lck, cha FROM characters_autolevels WHERE name = ? AND chapter = ?').get('Fabio', 5);
+console.log('Fabio Ch. 5 DB Record:', JSON.stringify(fabioCh5, null, 2));
+const sampleAutolevels = db.prepare('SELECT id, name, class, path, chapter, level, status, hp, str, mag FROM characters_autolevels LIMIT 3').all();
+console.log('Sample Autolevels Records:', JSON.stringify(sampleAutolevels, null, 2));
 
 console.log('\n====================================================');
 console.log('--- ALL VERIFICATIONS PASSED ---');
