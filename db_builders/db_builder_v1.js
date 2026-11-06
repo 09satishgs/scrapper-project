@@ -157,7 +157,7 @@ export async function buildDatabase() {
   // Execute DDL
   db.exec('PRAGMA foreign_keys = ON;');
   db.exec(ddlSql);
-  console.log('[Schema] Executed complete 28-table DDL schema successfully.');
+  console.log('[Schema] Executed complete 29-table DDL schema successfully.');
 
   // Accumulate SQL statements for dump.sql
   const sqlDumpStatements = [
@@ -214,6 +214,10 @@ export async function buildDatabase() {
     : 'extractions/character_autolevels.json';
   const autolevelsData = fs.existsSync(autolevelsPath)
     ? JSON.parse(fs.readFileSync(autolevelsPath, 'utf-8'))
+    : [];
+  const statWeightCombosPath = 'extractions/stat_weight_combinations.json';
+  const statWeightCombosData = fs.existsSync(statWeightCombosPath)
+    ? JSON.parse(fs.readFileSync(statWeightCombosPath, 'utf-8'))
     : [];
 
   // Pre-build identifier maps
@@ -1066,6 +1070,31 @@ export async function buildDatabase() {
       res: al.res,
       lck: al.lck,
       cha: al.cha
+    });
+  }
+
+  // --------------------------------------------------------------------------
+  // Table 29: stat_weight_combinations
+  // --------------------------------------------------------------------------
+  console.log(`[Populating] stat_weight_combinations (${statWeightCombosData.length} records)...`);
+  for (const sw of statWeightCombosData) {
+    const weights = sw.weights || {};
+    runInsert('stat_weight_combinations', {
+      id: sw.id,
+      tab_id: sw.tabId,
+      tab_label: sw.tabLabel,
+      name: sw.name,
+      formula_description: sw.formulaDescription,
+      weights: JSON.stringify(weights),
+      weight_hp: weights.hp || 0,
+      weight_str: weights.str || 0,
+      weight_mag: weights.mag || 0,
+      weight_spd: weights.spd || 0,
+      weight_dex: weights.dex || 0,
+      weight_def: weights.def || 0,
+      weight_res: weights.res || 0,
+      weight_lck: weights.lck || 0,
+      weight_cha: weights.cha || 0
     });
   }
 

@@ -7,7 +7,7 @@ console.log('--- SQLITE DATABASE VERIFICATION & AUDIT (v2) ---');
 console.log('====================================================');
 
 const tables = db.prepare("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name;").all();
-console.log(`Verified Tables Count: ${tables.length} (Expected: 28)\n`);
+console.log(`Verified Tables Count: ${tables.length} (Expected: 29)\n`);
 
 console.log('--- TABLE RECORD COUNTS ---');
 let totalRows = 0;
@@ -111,6 +111,12 @@ const fabioCh5 = db.prepare('SELECT name, class, chapter, level, hp, str, mag, s
 console.log('Fabio Ch. 5 DB Record:', JSON.stringify(fabioCh5, null, 2));
 const sampleAutolevels = db.prepare('SELECT id, name, class, path, chapter, level, status, hp, str, mag FROM characters_autolevels LIMIT 3').all();
 console.log('Sample Autolevels Records:', JSON.stringify(sampleAutolevels, null, 2));
+
+console.log('\n--- VERIFY STAT WEIGHT COMBINATIONS ---');
+const statWeightsCount = db.prepare('SELECT COUNT(*) as c FROM stat_weight_combinations').get().c;
+console.log(`Stat Weight Combinations Count: ${statWeightsCount} (Expected: 32)`);
+const sampleStatWeight = db.prepare('SELECT * FROM stat_weight_combinations WHERE id = ?').get('phy_accurate');
+console.log('Sample Stat Weight Record (phy_accurate):', JSON.stringify(sampleStatWeight, null, 2));
 
 console.log('\n====================================================');
 console.log('--- ALL VERIFICATIONS PASSED ---');

@@ -447,6 +447,25 @@ CREATE TABLE characters_autolevels (
     cha INTEGER NOT NULL
 );
 
+-- 29. Stat Weight Combinations
+CREATE TABLE stat_weight_combinations (
+    id VARCHAR(100) PRIMARY KEY,                        -- e.g., 'phy_accurate', 'mag_pure_nuke'
+    tab_id VARCHAR(50) NOT NULL,                        -- e.g., 'phy_attackers', 'mag_attackers'
+    tab_label VARCHAR(100) NOT NULL,                    -- e.g., 'Phy Attackers', 'Mag Attackers'
+    name VARCHAR(100) NOT NULL,                         -- e.g., 'Accurate Attacker'
+    formula_description TEXT NOT NULL,                  -- Description of build & weighting
+    weights TEXT NOT NULL,                              -- JSON object of stat weights (e.g., '{"str":0.6,"dex":0.4}')
+    weight_hp REAL DEFAULT 0,
+    weight_str REAL DEFAULT 0,
+    weight_mag REAL DEFAULT 0,
+    weight_spd REAL DEFAULT 0,
+    weight_dex REAL DEFAULT 0,
+    weight_def REAL DEFAULT 0,
+    weight_res REAL DEFAULT 0,
+    weight_lck REAL DEFAULT 0,
+    weight_cha REAL DEFAULT 0
+);
+
 -- ============================================================================
 -- 6. PERFORMANCE INDICES
 -- ============================================================================
@@ -467,6 +486,7 @@ CREATE INDEX idx_mounts_type ON mounts(type);
 CREATE INDEX idx_classes_mount_type ON classes(mount_type);
 CREATE INDEX idx_autolevels_char ON characters_autolevels(character_id, chapter);
 CREATE INDEX idx_autolevels_class ON characters_autolevels(class_id);
+CREATE INDEX idx_stat_weights_tab ON stat_weight_combinations(tab_id);
 ```
 
 ---

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "phy_accurate",
+    "tabId": "phy_attackers",
+    "tabLabel": "Phy Attackers",
+    "name": "Accurate Attacker",
+    "formulaDescription": "High Strength with reliable Dexterity",
+    "weights": { "str": 0.6, "dex": 0.4 }
+  },
+  {
+    "id": "phy_double",
+    "tabId": "phy_attackers",
+    "tabLabel": "Phy Attackers",
+    "name": "Double Attacker",
+    "formulaDescription": "High Strength and top Speed to double foes",
+    "weights": { "str": 0.55, "spd": 0.45 }
+  },
+  {
+    "id": "phy_acc_double",
+    "tabId": "phy_attackers",
+    "tabLabel": "Phy Attackers",
+    "name": "Accurate Double Attacker",
+    "formulaDescription": "Complete physical package: Str, Spd, and Dex",
+    "weights": { "str": 0.45, "spd": 0.35, "dex": 0.2 }
+  },
+  {
+    "id": "phy_critical",
+    "tabId": "phy_attackers",
+    "tabLabel": "Phy Attackers",
+    "name": "Critical Attacker",
+    "formulaDescription": "Str with high Dex and Luck for maximum crit rate",
+    "weights": { "str": 0.45, "dex": 0.35, "lck": 0.2 }
+  },
+  {
+    "id": "phy_heavy_hitter",
+    "tabId": "phy_attackers",
+    "tabLabel": "Phy Attackers",
+    "name": "Pure Heavy Hitter",
+    "formulaDescription": "Raw unstoppable physical power with HP bulk",
+    "weights": { "str": 0.7, "hp": 0.3 }
+  },
+  {
+    "id": "phy_bruiser",
+    "tabId": "phy_attackers",
+    "tabLabel": "Phy Attackers",
+    "name": "Frontline Bruiser",
+    "formulaDescription": "Physical punch backed by durability",
+    "weights": { "str": 0.5, "def": 0.3, "hp": 0.2 }
+  },
+  {
+    "id": "mag_pure_nuke",
+    "tabId": "mag_attackers",
+    "tabLabel": "Mag Attackers",
+    "name": "Pure Nuke",
+    "formulaDescription": "Highest magical firepower and spell damage",
+    "weights": { "mag": 0.7, "hp": 0.3 }
+  },
+  {
+    "id": "mag_accurate",
+    "tabId": "mag_attackers",
+    "tabLabel": "Mag Attackers",
+    "name": "Accurate Mage",
+    "formulaDescription": "Reliable spell accuracy against high-avoid foes",
+    "weights": { "mag": 0.6, "dex": 0.4 }
+  },
+  {
+    "id": "mag_double",
+    "tabId": "mag_attackers",
+    "tabLabel": "Mag Attackers",
+    "name": "Swift Double Mage",
+    "formulaDescription": "High Speed to double enemies with heavy spells",
+    "weights": { "mag": 0.55, "spd": 0.45 }
+  },
+  {
+    "id": "mag_acc_double",
+    "tabId": "mag_attackers",
+    "tabLabel": "Mag Attackers",
+    "name": "Accurate Double Mage",
+    "formulaDescription": "Premier magical carry: Mag, Spd, and Dex",
+    "weights": { "mag": 0.45, "spd": 0.35, "dex": 0.2 }
+  },
+  {
+    "id": "mag_critical",
+    "tabId": "mag_attackers",
+    "tabLabel": "Mag Attackers",
+    "name": "Critical Mage",
+    "formulaDescription": "Lethal magical burst through Dex and Luck",
+    "weights": { "mag": 0.45, "dex": 0.35, "lck": 0.2 }
+  },
+  {
+    "id": "mag_bulky",
+    "tabId": "mag_attackers",
+    "tabLabel": "Mag Attackers",
+    "name": "Bulky Mage / Mystic Tank",
+    "formulaDescription": "Endures counterattacks and magic trades",
+    "weights": { "mag": 0.5, "res": 0.25, "hp": 0.25 }
+  },
+  {
+    "id": "hyb_balanced",
+    "tabId": "hybrid_attackers",
+    "tabLabel": "Hybrid Attackers",
+    "name": "Balanced Mixed Attacker",
+    "formulaDescription": "Equal physical and magical growth (Levin/Bolt weapons)",
+    "weights": { "str": 0.5, "mag": 0.5 }
+  },
+  {
+    "id": "hyb_phy_lean",
+    "tabId": "hybrid_attackers",
+    "tabLabel": "Hybrid Attackers",
+    "name": "Physical-Leaning Hybrid",
+    "formulaDescription": "Primarily physical striker with magic utility and Speed",
+    "weights": { "str": 0.45, "mag": 0.25, "spd": 0.3 }
+  },
+  {
+    "id": "hyb_mag_lean",
+    "tabId": "hybrid_attackers",
+    "tabLabel": "Hybrid Attackers",
+    "name": "Magical-Leaning Hybrid",
+    "formulaDescription": "Primarily spellcaster with Strength for heavy weapons",
+    "weights": { "mag": 0.45, "str": 0.25, "spd": 0.3 }
+  },
+  {
+    "id": "hyb_double",
+    "tabId": "hybrid_attackers",
+    "tabLabel": "Hybrid Attackers",
+    "name": "Hybrid Double Attacker",
+    "formulaDescription": "Speedy mixed threat able to double across physical & magical",
+    "weights": { "str": 0.35, "mag": 0.35, "spd": 0.2, "dex": 0.1 }
+  },
+  {
+    "id": "hyb_crit_spellblade",
+    "tabId": "hybrid_attackers",
+    "tabLabel": "Hybrid Attackers",
+    "name": "Spellblade Crit Hybrid",
+    "formulaDescription": "High crit chance across both damage types",
+    "weights": { "str": 0.35, "mag": 0.35, "dex": 0.2, "lck": 0.1 }
+  },
+  {
+    "id": "def_pure_fortress",
+    "tabId": "def_tanks",
+    "tabLabel": "Def Tanks",
+    "name": "Pure Fortress",
+    "formulaDescription": "Impenetrable physical wall (Def + HP)",
+    "weights": { "def": 0.6, "hp": 0.4 }
+  },
+  {
+    "id": "def_retaliation",
+    "tabId": "def_tanks",
+    "tabLabel": "Def Tanks",
+    "name": "Retaliation Bruiser Tank",
+    "formulaDescription": "Sponge damage and counter-attack with heavy physical force",
+    "weights": { "def": 0.45, "hp": 0.3, "str": 0.25 }
+  },
+  {
+    "id": "def_anti_double",
+    "tabId": "def_tanks",
+    "tabLabel": "Def Tanks",
+    "name": "Anti-Double Sentinel",
+    "formulaDescription": "Armored defender with enough Speed to prevent double hits",
+    "weights": { "def": 0.5, "hp": 0.25, "spd": 0.25 }
+  },
+  {
+    "id": "def_fortified_mixed",
+    "tabId": "def_tanks",
+    "tabLabel": "Def Tanks",
+    "name": "Mixed Aegis Tank",
+    "formulaDescription": "Physical focus with secondary resistance against mages",
+    "weights": { "def": 0.45, "res": 0.3, "hp": 0.25 }
+  },
+  {
+    "id": "def_crit_immune",
+    "tabId": "def_tanks",
+    "tabLabel": "Def Tanks",
+    "name": "Crit-Safe Anchor",
+    "formulaDescription": "Protects against unlucky enemy critical strikes via Luck",
+    "weights": { "def": 0.5, "hp": 0.3, "lck": 0.2 }
+  },
+  {
+    "id": "res_pure_sponge",
+    "tabId": "res_tanks",
+    "tabLabel": "Res Tanks",
+    "name": "Pure Magic Sponge",
+    "formulaDescription": "Maximum magical resistance and health pool",
+    "weights": { "res": 0.6, "hp": 0.4 }
+  },
+  {
+    "id": "res_mage_hunter",
+    "tabId": "res_tanks",
+    "tabLabel": "Res Tanks",
+    "name": "Mage Hunter / Pegasus Striker",
+    "formulaDescription": "High Res flanker that hunts down spellcasters",
+    "weights": { "res": 0.4, "str": 0.35, "spd": 0.25 }
+  },
+  {
+    "id": "res_mystic_inquisitor",
+    "tabId": "res_tanks",
+    "tabLabel": "Res Tanks",
+    "name": "Mystic Inquisitor",
+    "formulaDescription": "Resilient mage-duel specialist (Res + Mag + HP)",
+    "weights": { "res": 0.45, "mag": 0.3, "hp": 0.25 }
+  },
+  {
+    "id": "res_swift_warden",
+    "tabId": "res_tanks",
+    "tabLabel": "Res Tanks",
+    "name": "Swift Anti-Mage Dodger",
+    "formulaDescription": "Dodges and dampens magic attacks",
+    "weights": { "res": 0.45, "spd": 0.35, "lck": 0.2 }
+  },
+  {
+    "id": "res_warding_anchor",
+    "tabId": "res_tanks",
+    "tabLabel": "Res Tanks",
+    "name": "Warding Anchor",
+    "formulaDescription": "Resistant baseline with physical defense backup",
+    "weights": { "res": 0.5, "hp": 0.3, "def": 0.2 }
+  },
+  {
+    "id": "avoid_pure_dodge",
+    "tabId": "stealths_avoid",
+    "tabLabel": "Stealths (Avoid units)",
+    "name": "Pure Dodge Tank",
+    "formulaDescription": "Maximum evasion: Spd (avoid) + Luck (avoid/crit-avoid)",
+    "weights": { "spd": 0.65, "lck": 0.35 }
+  },
+  {
+    "id": "avoid_lethal_assassin",
+    "tabId": "stealths_avoid",
+    "tabLabel": "Stealths (Avoid units)",
+    "name": "Lethal Evasive Assassin",
+    "formulaDescription": "High dodge, lethal precision, and critical threat",
+    "weights": { "spd": 0.5, "dex": 0.3, "lck": 0.2 }
+  },
+  {
+    "id": "avoid_counter_phy",
+    "tabId": "stealths_avoid",
+    "tabLabel": "Stealths (Avoid units)",
+    "name": "Counter-Striker Dodger",
+    "formulaDescription": "Dodges attacks and retaliates with strong physical strikes",
+    "weights": { "spd": 0.45, "str": 0.35, "lck": 0.2 }
+  },
+  {
+    "id": "avoid_counter_mag",
+    "tabId": "stealths_avoid",
+    "tabLabel": "Stealths (Avoid units)",
+    "name": "Elusive Magic Duelist",
+    "formulaDescription": "Dancer / trickster archetype: high dodge with magic punch",
+    "weights": { "spd": 0.45, "mag": 0.35, "lck": 0.2 }
+  },
+  {
+    "id": "avoid_nimble_survivor",
+    "tabId": "stealths_avoid",
+    "tabLabel": "Stealths (Avoid units)",
+    "name": "Nimble Survivor",
+    "formulaDescription": "Dodge focus with defensive insurance in case of RNG hits",
+    "weights": { "spd": 0.45, "lck": 0.25, "hp": 0.15, "def": 0.15 }
+  }
+]
