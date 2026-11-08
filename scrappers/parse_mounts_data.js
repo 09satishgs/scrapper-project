@@ -1,218 +1,18 @@
 import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import * as XLSXModule from 'xlsx';
 
-const rawMountsData = [
-  {
-    mount: 'Wild Ornius',
-    family: 'Ornius',
-    added_hp: '', added_str: '', added_mag: '', added_dex: '3', added_spd: '2', added_lck: '', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '', growth_dex: '0.15', growth_spd: '0.1', growth_lck: '', growth_def: '', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2",
-      "Paired Stealth\nBond 3: Favourable terrain: Avoid +10\nBond 5: Favourable terrain: Avoid +10, Shield +3"
-    ],
-    obtain: 'Elissa Pass; Sparrow’s Thoroughfare; Mount Ouranos; Faro Forest',
-    notes: null
-  },
-  {
-    mount: 'White Ornius',
-    family: 'Ornius',
-    added_hp: 'Unknown', added_str: 'Unknown', added_mag: 'Unknown', added_dex: 'Unknown', added_spd: 'Unknown', added_lck: 'Unknown', added_def: 'Unknown', added_res: 'Unknown', added_bld: 'Unknown',
-    growth_hp: '', growth_str: '', growth_mag: '', growth_dex: '0.05', growth_spd: '0.05', growth_lck: '', growth_def: '', growth_res: '0.15', growth_bld: '',
-    abilities: [
-      "Paired Purify\nBond 3: Player-phase start: 50% poison removal\nBond 5: Player-phase start: remove poison"
-    ],
-    obtain: 'Faro Forest (rare)',
-    notes: 'Growths supplied by the player report; the compiled guide leaves them undocumented.'
-  },
-  {
-    mount: 'Meganius',
-    family: 'Ornius',
-    added_hp: '', added_str: '1', added_mag: '', added_dex: '1', added_spd: '', added_lck: '', added_def: '3', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '0.05', growth_mag: '', growth_dex: '0.05', growth_spd: '', growth_lck: '', growth_def: '0.15', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2",
-      "Paired Bulk\nBond 3: Build +2\nBond 5: Build +4"
-    ],
-    obtain: 'Sparrow’s Thoroughfare; Mount Ouranos; Axion Gorge',
-    notes: null
-  },
-  {
-    mount: 'Red Meganius',
-    family: 'Ornius',
-    added_hp: '', added_str: '3', added_mag: '', added_dex: '1', added_spd: '', added_lck: '', added_def: '1', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '0.15', growth_mag: '', growth_dex: '0.05', growth_spd: '', growth_lck: '', growth_def: '0.05', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2",
-      "Paired Protection\nBond 3: Receive 70% of critical-hit damage\nBond 5: Receive 50% of critical-hit damage"
-    ],
-    obtain: 'Axion Gorge (rare)',
-    notes: null
-  },
-  {
-    mount: 'Magonius',
-    family: 'Ornius',
-    added_hp: '', added_str: '', added_mag: '3', added_dex: '2', added_spd: '', added_lck: '', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '0.15', growth_dex: '0.1', growth_spd: '', growth_lck: '', growth_def: '', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2",
-      "Paired Magic-Focus\nBond 3: Unknown\nBond 5: Unknown"
-    ],
-    obtain: 'Headsman’s Rock',
-    notes: null
-  },
-  {
-    mount: 'Black Magonius',
-    family: 'Ornius',
-    added_hp: '', added_str: '', added_mag: '2', added_dex: '1', added_spd: '2', added_lck: '', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '0.1', growth_dex: '0.05', growth_spd: '0.1', growth_lck: '', growth_def: '', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Magic-Sight\nBond 3: Magic equipped: Critical +5\nBond 5: Magic equipped: Critical +10",
-      "Canto\nBond 3: After combat: move 1 space\nBond 5: After combat: move 2 spaces"
-    ],
-    obtain: 'Headsman’s Rock (rare)',
-    notes: null
-  },
-  {
-    mount: 'Wild Horse',
-    family: 'Horse',
-    added_hp: '', added_str: '', added_mag: '', added_dex: '3', added_spd: '1', added_lck: '', added_def: '1', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '0.05', growth_mag: '', growth_dex: '', growth_spd: '0.05', growth_lck: '0.05', growth_def: '', growth_res: '0.05', growth_bld: '0.05',
-    abilities: [
-      "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2",
-      "Paired Alertness\nBond 3: Dodge +5\nBond 5: Dodge +10"
-    ],
-    obtain: 'Sunlit Pass; Oleance Plains; Daimos Plateau; Sunfall Path',
-    notes: null
-  },
-  {
-    mount: 'Monoceros',
-    family: 'Horse',
-    added_hp: '', added_str: '', added_mag: '', added_dex: '1', added_spd: '1', added_lck: '3', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '0.05', growth_mag: '', growth_dex: '', growth_spd: '0.05', growth_lck: '0.05', growth_def: '', growth_res: '', growth_bld: '0.1',
-    abilities: [
-      "Paired Healing\nBond 3: Post-combat healing; amount Unknown\nBond 5: Post-combat healing; amount Unknown",
-      "Paired Miracle\nBond 3: Luck +3\nBond 5: Luck +5"
-    ],
-    obtain: 'Oleance Plains (rare)',
-    notes: null
-  },
-  {
-    mount: 'Ferghanan Horse',
-    family: 'Horse',
-    added_hp: '', added_str: '2', added_mag: '', added_dex: '1', added_spd: '', added_lck: '', added_def: '2', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '0.05', growth_mag: '0.05', growth_dex: '', growth_spd: '0.05', growth_lck: '', growth_def: '', growth_res: '0.1', growth_bld: '',
-    abilities: [
-      "Paired Arts-Focus\nBond 3: Combat Art Hit +10\nBond 5: Combat Art Hit +15",
-      "Canto\nBond 3: After combat: move 1 space\nBond 5: After combat: move 2 spaces",
-      "Paired Fierce-Arts\nBond 3: Combat Art Attack +2\nBond 5: Combat Art Attack +4"
-    ],
-    obtain: 'Sunfall Path (rare)',
-    notes: null
-  },
-  {
-    mount: 'Rocinan',
-    family: 'Horse',
-    added_hp: '', added_str: '', added_mag: '', added_dex: '3', added_spd: '1', added_lck: '', added_def: '2', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '0.05', growth_mag: '', growth_dex: '', growth_spd: '0.05', growth_lck: '0.05', growth_def: '', growth_res: '0.1', growth_bld: '0.05',
-    abilities: [
-      "Paired Run\nBond 3: Movement +1\nBond 5: Movement +2"
-    ],
-    obtain: 'Io’s unique mount; acquisition requirements Unknown',
-    notes: 'Unique · six reported reward points'
-  },
-  {
-    mount: 'Wild Pegasus',
-    family: 'Pegasus',
-    added_hp: 'Unknown', added_str: 'Unknown', added_mag: 'Unknown', added_dex: 'Unknown', added_spd: 'Unknown', added_lck: 'Unknown', added_def: 'Unknown', added_res: 'Unknown', added_bld: 'Unknown',
-    growth_hp: 'Unknown', growth_str: 'Unknown', growth_mag: 'Unknown', growth_dex: 'Unknown', growth_spd: 'Unknown', growth_lck: 'Unknown', growth_def: 'Unknown', growth_res: 'Unknown', growth_bld: 'Unknown',
-    abilities: [
-      "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2",
-      "Paired Mage-Kill\nBond 3: Against a magic user: Attack +3\nBond 5: Against a magic user: Attack +5"
-    ],
-    obtain: 'Valley of Black Wings; Raptor’s Throat; Pegasi’s Peak',
-    notes: null
-  },
-  {
-    mount: 'Falicorn',
-    family: 'Pegasus',
-    added_hp: '', added_str: '1', added_mag: '', added_dex: '1', added_spd: '3', added_lck: '', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '0.05', growth_dex: '', growth_spd: '0.05', growth_lck: '0.15', growth_def: '', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2",
-      "Paired Tempest\nBond 3: Against bows: Avoid +10\nBond 5: Against bows: Avoid +15",
-      "Canto\nBond 3: After combat: move 1 space\nBond 5: After combat: move 2 spaces"
-    ],
-    obtain: 'Raptor’s Throat; Pegasi’s Peak (rare)',
-    notes: 'Discrepancy: another report adds Build +1; not included in the totals above.'
-  },
-  {
-    mount: 'Dark Pegasus',
-    family: 'Pegasus',
-    added_hp: '', added_str: '', added_mag: '3', added_dex: '', added_spd: '2', added_lck: '', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '', growth_dex: '0.15', growth_spd: '', growth_lck: '0.1', growth_def: '', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2",
-      "Paired Magic Speed\nBond 3: Magic-based activation chance: Avoid +10\nBond 5: Magic-based activation chance: Avoid +20"
-    ],
-    obtain: 'Valley of Black Wings (rare)',
-    notes: null
-  },
-  {
-    mount: 'Bucephalus',
-    family: 'Pegasus',
-    added_hp: '', added_str: '1', added_mag: '', added_dex: '', added_spd: '3', added_lck: '', added_def: '', added_res: '2', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '0.05', growth_dex: '', growth_spd: '', growth_lck: '0.15', growth_def: '', growth_res: '', growth_bld: '0.1',
-    abilities: [
-      "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2"
-    ],
-    obtain: 'Alexandra’s unique mount; acquisition requirements Unknown',
-    notes: 'Unique · six reported reward points'
-  },
-  {
-    mount: 'Wild Bau',
-    family: 'Bau',
-    added_hp: '', added_str: '2', added_mag: '', added_dex: '2', added_spd: '1', added_lck: '', added_def: '', added_res: '', added_bld: '',
-    growth_hp: '', growth_str: '', growth_mag: '0.1', growth_dex: '', growth_spd: '0.1', growth_lck: '0.05', growth_def: '', growth_res: '', growth_bld: '',
-    abilities: [
-      "Paired Streak\nBond 3: Flying movement +1\nBond 5: Flying movement +2",
-      "Paired Fierce-Arts\nBond 3: Combat Art Attack +2\nBond 5: Combat Art Attack +4"
-    ],
-    obtain: 'Bau-Caller’s Cape; Warrior’s Road; Valley of Sedden; Velatori Valley; Yashiro Fort',
-    notes: 'Growth bonuses · Estimated'
-  },
-  {
-    mount: 'Elephant',
-    family: 'Elephant',
-    added_hp: 'Unknown', added_str: 'Unknown', added_mag: 'Unknown', added_dex: 'Unknown', added_spd: 'Unknown', added_lck: 'Unknown', added_def: 'Unknown', added_res: 'Unknown', added_bld: 'Unknown',
-    growth_hp: 'Unknown', growth_str: 'Unknown', growth_mag: 'Unknown', growth_dex: 'Unknown', growth_spd: 'Unknown', growth_lck: 'Unknown', growth_def: 'Unknown', growth_res: 'Unknown', growth_bld: 'Unknown',
-    abilities: [],
-    obtain: 'Unknown',
-    notes: 'Coverage is incomplete, especially Elephant.'
-  }
-];
+const XLSX = XLSXModule.default || XLSXModule;
 
-const rawMountedClasses = [
-  { class_name: 'Ornius Rider', tier: 'Beginner', movement: 4, movement_type: 'Cavalry', mount_type: 'Ornius' },
-  { class_name: 'Armored Ornius Rider', tier: 'Specialty', movement: 4, movement_type: 'Cavalry', mount_type: 'Ornius' },
-  { class_name: 'Light Cavalry', tier: 'Specialty', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Charioteer', tier: 'Specialty', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Wing Soldier', tier: 'Specialty', movement: 4, movement_type: 'Flier', mount_type: 'Pegasus', alternate_names: ['Winged Soldier'] },
-  { class_name: 'Bardinger', tier: 'Advanced', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Caladrius', tier: 'Advanced', movement: 4, movement_type: 'Cavalry', mount_type: 'Ornius' },
-  { class_name: 'Cataphract', tier: 'Advanced', movement: 4, movement_type: 'Cavalry, Heavy Armor', mount_type: 'Horse' },
-  { class_name: 'Dragoon', tier: 'Advanced', movement: 4, movement_type: 'Flier', mount_type: 'Bau' },
-  { class_name: 'Elephant Rider', tier: 'Advanced', movement: 4, movement_type: 'Cavalry', mount_type: 'Elephant' },
-  { class_name: 'Forest Knight', tier: 'Advanced', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Troubadour', tier: 'Advanced', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Bau Lord', tier: 'Master', movement: 4, movement_type: 'Flier', mount_type: 'Bau' },
-  { class_name: 'Bow Knight', tier: 'Master', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Celestial Trooper', tier: 'Master', movement: 4, movement_type: 'Flier', mount_type: 'Pegasus' },
-  { class_name: 'Great Knight', tier: 'Master', movement: 4, movement_type: 'Cavalry, Heavy Armor', mount_type: 'Horse' },
-  { class_name: 'High Savant', tier: 'Master', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'Orichaldia', tier: 'Master', movement: 4, movement_type: 'Cavalry', mount_type: 'Ornius' },
-  { class_name: 'Valkyrium', tier: 'Master', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' },
-  { class_name: 'The Cavalier', tier: 'Divine', movement: 4, movement_type: 'Cavalry', mount_type: 'Horse' }
-];
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const rootDir = path.resolve(__dirname, '..');
+
+const defaultSourceXlsx = path.resolve(rootDir, 'raw_extracts/mounts_source.xlsx');
+const fallbackSourceXlsx = 'C:/Users/satis/.gemini/antigravity/brain/247590de-f9d9-4c9e-9014-d05720560c10/.user_uploaded/media_1793035215845_525c4e88.xlsx';
+const mountsJsonPath = path.resolve(rootDir, 'extractions/mounts.json');
+const mountedClassesJsonPath = path.resolve(rootDir, 'extractions/mounted_classes.json');
 
 function slugify(str) {
   if (!str) return '';
@@ -227,7 +27,7 @@ function parseStat(val) {
   const s = String(val).trim();
   if (s === '' || s.toLowerCase() === 'unknown' || s === '-' || s === '--') return null;
   const num = parseInt(s, 10);
-  return isNaN(num) ? null : num;
+  return Number.isNaN(num) ? null : num;
 }
 
 function parseGrowth(val) {
@@ -235,7 +35,7 @@ function parseGrowth(val) {
   const s = String(val).trim();
   if (s === '' || s.toLowerCase() === 'unknown' || s === '-' || s === '--') return null;
   const num = parseFloat(s);
-  if (isNaN(num)) return null;
+  if (Number.isNaN(num)) return null;
   // If decimal between 0 and 1, convert to percentage integer (e.g. 0.15 -> 15)
   if (num > 0 && num <= 1) {
     return Math.round(num * 100);
@@ -266,49 +66,130 @@ function parseAbilityBlock(rawStr) {
   };
 }
 
-const normalizedMounts = rawMountsData.map(m => {
-  const parsedAbilities = m.abilities
-    .map(parseAbilityBlock)
-    .filter(Boolean);
+export function parseMountsData() {
+  const sourcePath = fs.existsSync(defaultSourceXlsx) ? defaultSourceXlsx : fallbackSourceXlsx;
+  console.log(`[Mounts Parser] Reading Excel workbook from ${sourcePath}...`);
+  if (!fs.existsSync(sourcePath)) {
+    throw new Error(`Mounts Excel workbook not found at ${sourcePath}`);
+  }
 
-  return {
-    id: slugify(m.mount),
-    name: m.mount,
-    type: m.family,
-    stat_hp: parseStat(m.added_hp),
-    stat_str: parseStat(m.added_str),
-    stat_def: parseStat(m.added_def),
-    stat_mag: parseStat(m.added_mag),
-    stat_res: parseStat(m.added_res),
-    stat_dex: parseStat(m.added_dex),
-    stat_spd: parseStat(m.added_spd),
-    stat_lck: parseStat(m.added_lck),
-    stat_bld: parseStat(m.added_bld),
-    growth_hp: parseGrowth(m.growth_hp),
-    growth_str: parseGrowth(m.growth_str),
-    growth_def: parseGrowth(m.growth_def),
-    growth_mag: parseGrowth(m.growth_mag),
-    growth_res: parseGrowth(m.growth_res),
-    growth_dex: parseGrowth(m.growth_dex),
-    growth_spd: parseGrowth(m.growth_spd),
-    growth_lck: parseGrowth(m.growth_lck),
-    growth_bld: parseGrowth(m.growth_bld),
-    abilities: parsedAbilities,
-    obtain: m.obtain === 'Unknown' ? null : (m.obtain || null),
-    notes: m.notes || null
-  };
-});
+  const wb = XLSX.readFile(sourcePath);
+  const mountsSheet = wb.Sheets['Mounts'];
+  if (!mountsSheet) {
+    throw new Error('Could not find "Mounts" sheet in workbook');
+  }
 
-const normalizedMountedClasses = rawMountedClasses.map(mc => ({
-  class_id: slugify(mc.class_name),
-  class_name: mc.class_name,
-  tier: mc.tier,
-  movement_type: mc.movement_type,
-  mount_type: mc.mount_type
-}));
+  // Parse Mounts
+  const mounts = [];
+  // Row 5 is header, rows 6 to 21 are mount data
+  for (let R = 6; R <= 21; ++R) {
+    const row = [];
+    for (let C = 0; C <= 24; ++C) {
+      const cell = mountsSheet[XLSX.utils.encode_cell({ r: R, c: C })];
+      row.push(cell ? cell.v : null);
+    }
 
-fs.writeFileSync('extractions/mounts.json', JSON.stringify(normalizedMounts, null, 2), 'utf-8');
-console.log(`Generated extractions/mounts.json (${normalizedMounts.length} records)`);
+    const mountName = row[0];
+    const family = row[1];
+    if (!mountName) continue;
 
-fs.writeFileSync('extractions/mounted_classes.json', JSON.stringify(normalizedMountedClasses, null, 2), 'utf-8');
-console.log(`Generated extractions/mounted_classes.json (${normalizedMountedClasses.length} records)`);
+    const abilities = [row[20], row[21], row[22]]
+      .map(parseAbilityBlock)
+      .filter(Boolean);
+
+    let obtain = row[23];
+    if (obtain === 'Unknown') {
+      obtain = null;
+    } else if (obtain) {
+      obtain = String(obtain).trim();
+    }
+
+    let notes = row[24];
+    if (notes) {
+      notes = String(notes).trim();
+    }
+
+    // Exact Excel Header column mapping:
+    // C0: Mount, C1: Family
+    // C2: Added HP, C3: Added Str, C4: Added Mag, C5: Added Dex, C6: Added Spd, C7: Added Lck, C8: Added Def, C9: Added Res, C10: Added Bld
+    // C11: HP growth, C12: Str growth, C13: Mag growth, C14: Dex growth, C15: Spd growth, C16: Lck growth, C17: Def growth, C18: Res growth, C19: Bld growth
+    // C20: Ability 1, C21: Ability 2, C22: Ability 3, C23: Obtain, C24: Notes
+    mounts.push({
+      id: slugify(mountName),
+      name: String(mountName).trim(),
+      type: String(family).trim(),
+      stat_hp: parseStat(row[2]),
+      stat_str: parseStat(row[3]),
+      stat_def: parseStat(row[8]),
+      stat_mag: parseStat(row[4]),
+      stat_res: parseStat(row[9]),
+      stat_dex: parseStat(row[5]),
+      stat_spd: parseStat(row[6]),
+      stat_lck: parseStat(row[7]),
+      stat_bld: parseStat(row[10]),
+      growth_hp: parseGrowth(row[11]),
+      growth_str: parseGrowth(row[12]),
+      growth_def: parseGrowth(row[17]),
+      growth_mag: parseGrowth(row[13]),
+      growth_res: parseGrowth(row[18]),
+      growth_dex: parseGrowth(row[14]),
+      growth_spd: parseGrowth(row[15]),
+      growth_lck: parseGrowth(row[16]),
+      growth_bld: parseGrowth(row[19]),
+      abilities,
+      obtain: obtain || null,
+      notes: notes || null
+    });
+  }
+
+  // Parse Mounted Classes
+  const mountedClassesSheet = wb.Sheets['Mounted Classes'];
+  const mountedClasses = [];
+  if (mountedClassesSheet) {
+    // Header at row 3: ['Class sprite / icon', 'Class', 'Tier', 'Movement', 'Mount type(s)']
+    // Data rows 4 to 23
+    for (let R = 4; R <= 23; ++R) {
+      const classNameCell = mountedClassesSheet[XLSX.utils.encode_cell({ r: R, c: 1 })];
+      const tierCell = mountedClassesSheet[XLSX.utils.encode_cell({ r: R, c: 2 })];
+      const movementCell = mountedClassesSheet[XLSX.utils.encode_cell({ r: R, c: 3 })];
+      const mountTypeCell = mountedClassesSheet[XLSX.utils.encode_cell({ r: R, c: 4 })];
+
+      if (!classNameCell || !classNameCell.v) continue;
+      const className = String(classNameCell.v).trim();
+      const classSlug = slugify(className);
+
+      mountedClasses.push({
+        class_id: classSlug,
+        class_name: className,
+        tier: tierCell ? String(tierCell.v).trim() : null,
+        movement_type: movementCell ? String(movementCell.v).trim() : null,
+        mount_type: mountTypeCell ? String(mountTypeCell.v).trim() : null
+      });
+
+      // Special alias mapping: Winged Soldier <-> Wing Soldier
+      if (classSlug === 'winged_soldier') {
+        mountedClasses.push({
+          class_id: 'wing_soldier',
+          class_name: 'Wing Soldier',
+          tier: tierCell ? String(tierCell.v).trim() : null,
+          movement_type: movementCell ? String(movementCell.v).trim() : null,
+          mount_type: mountTypeCell ? String(mountTypeCell.v).trim() : null
+        });
+      }
+    }
+  }
+
+  // Write extractions
+  fs.writeFileSync(mountsJsonPath, JSON.stringify(mounts, null, 2), 'utf-8');
+  console.log(`[Mounts Parser] Generated ${mountsJsonPath} (${mounts.length} records)`);
+
+  fs.writeFileSync(mountedClassesJsonPath, JSON.stringify(mountedClasses, null, 2), 'utf-8');
+  console.log(`[Mounts Parser] Generated ${mountedClassesJsonPath} (${mountedClasses.length} records)`);
+
+  return { mounts, mountedClasses };
+}
+
+// Auto-run if invoked directly
+if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1])) {
+  parseMountsData();
+}

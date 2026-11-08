@@ -28,6 +28,13 @@
     "mount_type": "Horse"
   },
   {
+    "class_id": "winged_soldier",
+    "class_name": "Winged Soldier",
+    "tier": "Specialty",
+    "movement_type": "Flier",
+    "mount_type": "Pegasus"
+  },
+  {
     "class_id": "wing_soldier",
     "class_name": "Wing Soldier",
     "tier": "Specialty",
