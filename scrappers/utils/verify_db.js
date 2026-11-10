@@ -7,7 +7,7 @@ console.log('--- SQLITE DATABASE VERIFICATION & AUDIT (v2) ---');
 console.log('====================================================');
 
 const tables = db.prepare("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name;").all();
-console.log(`Verified Tables Count: ${tables.length} (Expected: 29)\n`);
+console.log(`Verified Tables Count: ${tables.length} (Expected: 30)\n`);
 
 console.log('--- TABLE RECORD COUNTS ---');
 let totalRows = 0;
@@ -117,6 +117,12 @@ const statWeightsCount = db.prepare('SELECT COUNT(*) as c FROM stat_weight_combi
 console.log(`Stat Weight Combinations Count: ${statWeightsCount} (Expected: 32)`);
 const sampleStatWeight = db.prepare('SELECT * FROM stat_weight_combinations WHERE id = ?').get('phy_accurate');
 console.log('Sample Stat Weight Record (phy_accurate):', JSON.stringify(sampleStatWeight, null, 2));
+
+console.log('\n--- VERIFY PATH EARLY RECRUITS ---');
+const pathEarlyRecruitsCount = db.prepare('SELECT COUNT(*) as c FROM path_early_recruits').get().c;
+console.log(`Path Early Recruits Count: ${pathEarlyRecruitsCount} (Expected: 4)`);
+const allPathEarlyRecruits = db.prepare('SELECT * FROM path_early_recruits').all();
+console.log('All Path Early Recruits:', JSON.stringify(allPathEarlyRecruits, null, 2));
 
 console.log('\n====================================================');
 console.log('--- ALL VERIFICATIONS PASSED ---');

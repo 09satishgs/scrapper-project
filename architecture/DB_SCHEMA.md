@@ -466,6 +466,14 @@ CREATE TABLE stat_weight_combinations (
     weight_cha REAL DEFAULT 0
 );
 
+-- 30. Path Early Recruits
+CREATE TABLE path_early_recruits (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    path TEXT NOT NULL,                                 -- 'Cai', 'Dietrich', 'Theodora', or 'Leda'
+    character_id TEXT NOT NULL,                         -- e.g. 'tialla', 'bonaventure', 'esmeralda', 'buccar'
+    character_name TEXT                                 -- e.g. 'Tialla', 'Bonaventure', etc.
+);
+
 -- ============================================================================
 -- 6. PERFORMANCE INDICES
 -- ============================================================================
@@ -487,6 +495,7 @@ CREATE INDEX idx_classes_mount_type ON classes(mount_type);
 CREATE INDEX idx_autolevels_char ON characters_autolevels(character_id, chapter);
 CREATE INDEX idx_autolevels_class ON characters_autolevels(class_id);
 CREATE INDEX idx_stat_weights_tab ON stat_weight_combinations(tab_id);
+CREATE INDEX idx_path_early_recruits_path ON path_early_recruits(path);
 ```
 
 ---

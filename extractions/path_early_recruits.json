@@ -1,0 +1,22 @@
+[
+  {
+    "path": "Cai",
+    "character_id": "tialla",
+    "character_name": "Tialla"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "bonaventure",
+    "character_name": "Bonaventure"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "esmeralda",
+    "character_name": "Esmeralda"
+  },
+  {
+    "path": "Leda",
+    "character_id": "buccar",
+    "character_name": "Buccar"
+  }
+]

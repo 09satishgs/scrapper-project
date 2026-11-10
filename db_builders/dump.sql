@@ -420,6 +420,14 @@ CREATE TABLE stat_weight_combinations (
     weight_cha REAL DEFAULT 0
 );
 
+-- 30. Path Early Recruits
+CREATE TABLE path_early_recruits (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    path TEXT NOT NULL,                                 -- 'Cai', 'Dietrich', 'Theodora', or 'Leda'
+    character_id TEXT NOT NULL,                         -- e.g. 'tialla', 'bonaventure', 'esmeralda', 'buccar'
+    character_name TEXT                                 -- e.g. 'Tialla', 'Bonaventure', etc.
+);
+
 -- ============================================================================
 -- 6. PERFORMANCE INDICES
 -- ============================================================================
@@ -441,6 +449,7 @@ CREATE INDEX idx_classes_mount_type ON classes(mount_type);
 CREATE INDEX idx_autolevels_char ON characters_autolevels(character_id, chapter);
 CREATE INDEX idx_autolevels_class ON characters_autolevels(class_id);
 CREATE INDEX idx_stat_weights_tab ON stat_weight_combinations(tab_id);
+CREATE INDEX idx_path_early_recruits_path ON path_early_recruits(path);
 
 
 INSERT INTO classes (id, name, tier, type, mount_type, movement, usable_weapons, license_required, ideal_level, renown_level, primary_skills, secondary_skills, unlock_condition, hp_bonus, str_bonus, mag_bonus, spd_bonus, dex_bonus, def_bonus, res_bonus, lck_bonus, cha_bonus, hp_growth, str_growth, mag_growth, spd_growth, dex_growth, def_growth, res_growth, lck_growth, cha_growth) VALUES ('gladiator', 'Gladiator', 'Beginner', 'Infantry', NULL, 4, '["Sword","Axe","Gauntlet"]', 'Beginner', 5, 1, NULL, NULL, NULL, 1, 1, 0, 0, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 0, 0, 0, 0);
@@ -5475,6 +5484,10 @@ INSERT INTO stat_weight_combinations (id, tab_id, tab_label, name, formula_descr
 INSERT INTO stat_weight_combinations (id, tab_id, tab_label, name, formula_description, weights, weight_hp, weight_str, weight_mag, weight_spd, weight_dex, weight_def, weight_res, weight_lck, weight_cha) VALUES ('avoid_counter_phy', 'stealths_avoid', 'Stealths (Avoid units)', 'Counter-Striker Dodger', 'Dodges attacks and retaliates with strong physical strikes', '{"spd":0.45,"str":0.35,"lck":0.2}', 0, 0.35, 0, 0.45, 0, 0, 0, 0.2, 0);
 INSERT INTO stat_weight_combinations (id, tab_id, tab_label, name, formula_description, weights, weight_hp, weight_str, weight_mag, weight_spd, weight_dex, weight_def, weight_res, weight_lck, weight_cha) VALUES ('avoid_counter_mag', 'stealths_avoid', 'Stealths (Avoid units)', 'Elusive Magic Duelist', 'Dancer / trickster archetype: high dodge with magic punch', '{"spd":0.45,"mag":0.35,"lck":0.2}', 0, 0, 0.35, 0.45, 0, 0, 0, 0.2, 0);
 INSERT INTO stat_weight_combinations (id, tab_id, tab_label, name, formula_description, weights, weight_hp, weight_str, weight_mag, weight_spd, weight_dex, weight_def, weight_res, weight_lck, weight_cha) VALUES ('avoid_nimble_survivor', 'stealths_avoid', 'Stealths (Avoid units)', 'Nimble Survivor', 'Dodge focus with defensive insurance in case of RNG hits', '{"spd":0.45,"lck":0.25,"hp":0.15,"def":0.15}', 0.15, 0, 0, 0.45, 0, 0.15, 0, 0.25, 0);
+INSERT INTO path_early_recruits (path, character_id, character_name) VALUES ('Cai', 'tialla', 'Tialla');
+INSERT INTO path_early_recruits (path, character_id, character_name) VALUES ('Theodora', 'bonaventure', 'Bonaventure');
+INSERT INTO path_early_recruits (path, character_id, character_name) VALUES ('Dietrich', 'esmeralda', 'Esmeralda');
+INSERT INTO path_early_recruits (path, character_id, character_name) VALUES ('Leda', 'buccar', 'Buccar');
 
 COMMIT;
 PRAGMA foreign_keys = ON;

@@ -157,7 +157,7 @@ export async function buildDatabase() {
   // Execute DDL
   db.exec('PRAGMA foreign_keys = ON;');
   db.exec(ddlSql);
-  console.log('[Schema] Executed complete 29-table DDL schema successfully.');
+  console.log('[Schema] Executed complete 30-table DDL schema successfully.');
 
   // Accumulate SQL statements for dump.sql
   const sqlDumpStatements = [
@@ -218,6 +218,10 @@ export async function buildDatabase() {
   const statWeightCombosPath = 'extractions/stat_weight_combinations.json';
   const statWeightCombosData = fs.existsSync(statWeightCombosPath)
     ? JSON.parse(fs.readFileSync(statWeightCombosPath, 'utf-8'))
+    : [];
+  const pathEarlyRecruitsPath = 'extractions/path_early_recruits.json';
+  const pathEarlyRecruitsData = fs.existsSync(pathEarlyRecruitsPath)
+    ? JSON.parse(fs.readFileSync(pathEarlyRecruitsPath, 'utf-8'))
     : [];
 
   // Pre-build identifier maps
@@ -1095,6 +1099,18 @@ export async function buildDatabase() {
       weight_res: weights.res || 0,
       weight_lck: weights.lck || 0,
       weight_cha: weights.cha || 0
+    });
+  }
+
+  // --------------------------------------------------------------------------
+  // Table 30: path_early_recruits
+  // --------------------------------------------------------------------------
+  console.log(`[Populating] path_early_recruits (${pathEarlyRecruitsData.length} records)...`);
+  for (const per of pathEarlyRecruitsData) {
+    runInsert('path_early_recruits', {
+      path: per.path,
+      character_id: per.character_id,
+      character_name: per.character_name || null
     });
   }
 
