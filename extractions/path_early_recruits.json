@@ -1,13 +1,113 @@
 [
   {
     "path": "Cai",
+    "character_id": "alexandra",
+    "character_name": "Alexandra"
+  },
+  {
+    "path": "Cai",
+    "character_id": "cai",
+    "character_name": "Cai"
+  },
+  {
+    "path": "Cai",
+    "character_id": "dadao",
+    "character_name": "Dadao"
+  },
+  {
+    "path": "Cai",
+    "character_id": "esmeralda",
+    "character_name": "Esmeralda"
+  },
+  {
+    "path": "Cai",
+    "character_id": "goliath",
+    "character_name": "Goliath"
+  },
+  {
+    "path": "Cai",
+    "character_id": "guzran",
+    "character_name": "Guzran"
+  },
+  {
+    "path": "Cai",
+    "character_id": "halvin",
+    "character_name": "Halvin"
+  },
+  {
+    "path": "Cai",
+    "character_id": "loretta",
+    "character_name": "Loretta"
+  },
+  {
+    "path": "Cai",
+    "character_id": "majide",
+    "character_name": "Majide"
+  },
+  {
+    "path": "Cai",
+    "character_id": "mikaela",
+    "character_name": "Mikaela"
+  },
+  {
+    "path": "Cai",
+    "character_id": "nezha",
+    "character_name": "Nezha"
+  },
+  {
+    "path": "Cai",
+    "character_id": "ninae",
+    "character_name": "Ninae"
+  },
+  {
+    "path": "Cai",
+    "character_id": "noctula",
+    "character_name": "Noctula"
+  },
+  {
+    "path": "Cai",
+    "character_id": "nuzzuo",
+    "character_name": "Nuzzuo"
+  },
+  {
+    "path": "Cai",
+    "character_id": "nydine",
+    "character_name": "Nydine"
+  },
+  {
+    "path": "Cai",
+    "character_id": "peter",
+    "character_name": "Peter"
+  },
+  {
+    "path": "Cai",
+    "character_id": "seteth",
+    "character_name": "Seteth"
+  },
+  {
+    "path": "Cai",
     "character_id": "tialla",
     "character_name": "Tialla"
   },
   {
-    "path": "Theodora",
-    "character_id": "bonaventure",
-    "character_name": "Bonaventure"
+    "path": "Cai",
+    "character_id": "ultand",
+    "character_name": "Ultand"
+  },
+  {
+    "path": "Cai",
+    "character_id": "yang_jie",
+    "character_name": "Yang Jie"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "benditz",
+    "character_name": "Benditz"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "dietrich",
+    "character_name": "Dietrich"
   },
   {
     "path": "Dietrich",
@@ -15,8 +115,318 @@
     "character_name": "Esmeralda"
   },
   {
+    "path": "Dietrich",
+    "character_id": "fabio",
+    "character_name": "Fabio"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "fianna",
+    "character_name": "Fianna"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "goliath",
+    "character_name": "Goliath"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "io",
+    "character_name": "Io"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "jester",
+    "character_name": "Jester"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "kiroc",
+    "character_name": "Kiroc"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "lysander",
+    "character_name": "Lysander"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "mikaela",
+    "character_name": "Mikaela"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "mu",
+    "character_name": "Mu"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "noctula",
+    "character_name": "Noctula"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "nydine",
+    "character_name": "Nydine"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "olympia",
+    "character_name": "Olympia"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "simon",
+    "character_name": "Simon"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "ultand",
+    "character_name": "Ultand"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "ursula",
+    "character_name": "Ursula"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "yang_jie",
+    "character_name": "Yang Jie"
+  },
+  {
+    "path": "Dietrich",
+    "character_id": "zarcone",
+    "character_name": "Zarcone"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "bonaventure",
+    "character_name": "Bonaventure"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "catania",
+    "character_name": "Catania"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "dadao",
+    "character_name": "Dadao"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "dante",
+    "character_name": "Dante"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "halvin",
+    "character_name": "Halvin"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "lilian",
+    "character_name": "Lilian"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "loretta",
+    "character_name": "Loretta"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "ludia",
+    "character_name": "Ludia"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "lysander",
+    "character_name": "Lysander"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "nezha",
+    "character_name": "Nezha"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "ninae",
+    "character_name": "Ninae"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "noctula",
+    "character_name": "Noctula"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "nydine",
+    "character_name": "Nydine"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "peppe",
+    "character_name": "Peppe"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "peter",
+    "character_name": "Peter"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "seteth",
+    "character_name": "Seteth"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "simon",
+    "character_name": "Simon"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "sirocco",
+    "character_name": "Sirocco"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "sofia",
+    "character_name": "Sofia"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "theodora",
+    "character_name": "Theodora"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "tobias",
+    "character_name": "Tobias"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "ultand",
+    "character_name": "Ultand"
+  },
+  {
+    "path": "Theodora",
+    "character_id": "zarcone",
+    "character_name": "Zarcone"
+  },
+  {
+    "path": "Leda",
+    "character_id": "benditz",
+    "character_name": "Benditz"
+  },
+  {
     "path": "Leda",
     "character_id": "buccar",
     "character_name": "Buccar"
+  },
+  {
+    "path": "Leda",
+    "character_id": "catania",
+    "character_name": "Catania"
+  },
+  {
+    "path": "Leda",
+    "character_id": "dadao",
+    "character_name": "Dadao"
+  },
+  {
+    "path": "Leda",
+    "character_id": "esmeralda",
+    "character_name": "Esmeralda"
+  },
+  {
+    "path": "Leda",
+    "character_id": "fianna",
+    "character_name": "Fianna"
+  },
+  {
+    "path": "Leda",
+    "character_id": "guzran",
+    "character_name": "Guzran"
+  },
+  {
+    "path": "Leda",
+    "character_id": "halvin",
+    "character_name": "Halvin"
+  },
+  {
+    "path": "Leda",
+    "character_id": "io",
+    "character_name": "Io"
+  },
+  {
+    "path": "Leda",
+    "character_id": "jasmine",
+    "character_name": "Jasmine"
+  },
+  {
+    "path": "Leda",
+    "character_id": "kiroc",
+    "character_name": "Kiroc"
+  },
+  {
+    "path": "Leda",
+    "character_id": "leda",
+    "character_name": "Leda"
+  },
+  {
+    "path": "Leda",
+    "character_id": "lilian",
+    "character_name": "Lilian"
+  },
+  {
+    "path": "Leda",
+    "character_id": "loretta",
+    "character_name": "Loretta"
+  },
+  {
+    "path": "Leda",
+    "character_id": "ludia",
+    "character_name": "Ludia"
+  },
+  {
+    "path": "Leda",
+    "character_id": "lysander",
+    "character_name": "Lysander"
+  },
+  {
+    "path": "Leda",
+    "character_id": "mikaela",
+    "character_name": "Mikaela"
+  },
+  {
+    "path": "Leda",
+    "character_id": "mu",
+    "character_name": "Mu"
+  },
+  {
+    "path": "Leda",
+    "character_id": "olympia",
+    "character_name": "Olympia"
+  },
+  {
+    "path": "Leda",
+    "character_id": "simon",
+    "character_name": "Simon"
+  },
+  {
+    "path": "Leda",
+    "character_id": "sirocco",
+    "character_name": "Sirocco"
+  },
+  {
+    "path": "Leda",
+    "character_id": "sofia",
+    "character_name": "Sofia"
+  },
+  {
+    "path": "Leda",
+    "character_id": "zarcone",
+    "character_name": "Zarcone"
   }
 ]
