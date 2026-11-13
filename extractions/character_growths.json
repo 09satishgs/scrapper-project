@@ -688,7 +688,7 @@
     "name": "Nezha",
     "growths": {
       "hp": 45,
-      "str": 55,
+      "str": 45,
       "mag": 25,
       "dex": 50,
       "spd": 45,
@@ -860,7 +860,7 @@
     "name": "Yang Jie",
     "growths": {
       "hp": 50,
-      "str": 35,
+      "str": 30,
       "mag": 40,
       "dex": 35,
       "spd": 35,
@@ -912,8 +912,8 @@
       "hp": 35,
       "str": 30,
       "mag": 45,
-      "dex": 30,
-      "spd": 40,
+      "dex": 40,
+      "spd": 30,
       "lck": 30,
       "def": 25,
       "res": 40,

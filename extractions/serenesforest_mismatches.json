@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-11-12T21:53:35.067Z",
+    "sources": {
+      "characterBaseStats": "https://serenesforest.net/fortunes-weave/characters/base-stats/",
+      "characterGrowthRates": "https://serenesforest.net/fortunes-weave/characters/growth-rates/",
+      "classModifiers": "https://serenesforest.net/fortunes-weave/classes/modifiers/",
+      "classGrowthRates": "https://serenesforest.net/fortunes-weave/classes/growth-rates/"
+    },
+    "summary": {
+      "character_base_stats": {
+        "total_local": 54,
+        "mismatches_count": 0
+      },
+      "character_growths": {
+        "total_local": 63,
+        "mismatches_count": 0
+      },
+      "class_base_stats_bonus": {
+        "total_local": 58,
+        "mismatches_count": 0
+      },
+      "class_stat_growths": {
+        "total_local": 58,
+        "mismatches_count": 0
+      }
+    }
+  },
+  "character_base_stats_mismatches": [],
+  "character_growth_mismatches": [],
+  "class_modifier_mismatches": [],
+  "class_growth_mismatches": []
+}

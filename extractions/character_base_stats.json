@@ -4,15 +4,15 @@
     "slug": "alexandra",
     "name": "Alexandra",
     "base_stats": {
-      "hp": 23,
-      "str": 6,
+      "hp": 24,
+      "str": 7,
       "mag": 5,
       "dex": 7,
-      "spd": 10,
+      "spd": 9,
       "lck": 9,
       "def": 5,
-      "res": 6,
-      "cha": 11
+      "res": 8,
+      "cha": 10
     }
   },
   {
@@ -72,7 +72,7 @@
       "str": 7,
       "mag": 10,
       "dex": 8,
-      "spd": 7,
+      "spd": 6,
       "lck": 5,
       "def": 6,
       "res": 8,
@@ -324,15 +324,15 @@
     "slug": "io",
     "name": "Io",
     "base_stats": {
-      "hp": 26,
-      "str": 10,
-      "mag": 7,
+      "hp": 27,
+      "str": 9,
+      "mag": 4,
       "dex": 7,
-      "spd": 8,
-      "lck": 6,
-      "def": 6,
-      "res": 6,
-      "cha": 8
+      "spd": 6,
+      "lck": 8,
+      "def": 7,
+      "res": 5,
+      "cha": 6
     }
   },
   {
